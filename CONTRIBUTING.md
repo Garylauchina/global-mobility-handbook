@@ -14,4 +14,11 @@
 
 ```bash
 node scripts/validate-repo.mjs
+node scripts/generate-site-config.mjs --check
+```
+
+如修改了类别目录或新增国家页面，请先运行 `node scripts/generate-site-config.mjs` 更新站点导航。需要本地预览时，安装 `requirements-docs.txt` 后运行：
+
+```bash
+node scripts/run-mkdocs.mjs serve
 ```

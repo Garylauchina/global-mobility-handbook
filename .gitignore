@@ -7,6 +7,8 @@
 *.pdf
 *.inspect.ndjson
 .env
+.venv/
+.site/
 node_modules/
 tmp/
 outputs/

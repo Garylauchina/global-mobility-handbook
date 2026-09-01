@@ -2,6 +2,8 @@
 
 A Chinese-language, source-first public handbook covering citizenship by investment, residence by investment, digital nomad and remote-work permits, and passive-income or retirement residence routes.
 
+[Read and search the published handbook](https://garylauchina.github.io/global-mobility-handbook/)
+
 **Research cut-off: 2026-09-02.** Programs are organized by route type first and country or territory second. The repository intentionally contains no global comparison table, ranking, success-rate claim, visa-free score, affiliate link, or personalized recommendation.
 
 Each country page records the current status, threshold, nature of funds or income, initial status and duration, residence or renewal requirement, local work rights, dependants, permanent-residence or citizenship path, tax caution, key limitations, evidence grade, source URL, and verification date.

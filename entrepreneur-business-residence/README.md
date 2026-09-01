@@ -8,7 +8,7 @@
 
 ## 国家与地区
 
-- [法国](./france/)
-- [斐济](./fiji/)
-- [日本](./japan/)
-- [新西兰](./new-zealand/)
+- [法国](./france/README.md)
+- [斐济](./fiji/README.md)
+- [日本](./japan/README.md)
+- [新西兰](./new-zealand/README.md)

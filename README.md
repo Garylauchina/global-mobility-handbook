@@ -1,21 +1,25 @@
-# Global Mobility Handbook · 全球身份与居留方案手册
+# 全球身份与居留方案手册
+
+Global Mobility Handbook
+
+**公开来源 · 独立维护 · 中文优先**
+
+[在线阅读与搜索](https://garylauchina.github.io/global-mobility-handbook/) · [English overview](./README.en.md)
 
 一个以公开来源为基础、面向普通读者的投资入籍、投资居留、数字游民和财务独立居留知识库。
 
 **核验基准日：2026-09-02。** 本仓库不提供跨国比较总表、排名、成功率、免签数量或个性化推荐；每个国家/地区独立成页，以便核查规则和后续维护。
 
-[English overview](./README.en.md)
-
 ## 按方案类型阅读
 
-- [投资入籍](./citizenship-by-investment/) — 通过法定投资、捐款或生产性项目申请公民身份或加速归化的方案。
-- [投资永居](./investment-permanent-residence/) — 以投资、资产或财富条件申请法律上的永久或长期永久型居留。
-- [投资居留](./investment-residence/) — 通过房产、基金、证券、存款或其他合资格资产取得可续居留。
-- [创业与经营居留](./entrepreneur-business-residence/) — 要求真实创办、购买或经营企业，并通常附带就业或经营绩效条件。
-- [数字游民与远程工作](./digital-nomad-remote-work/) — 面向境外雇主、境外客户或境外企业收入的专项签证或居留。
-- [访客或财力型远程工作](./visitor-financial-remote/) — 允许有限远程工作，但本质仍是访客或一般财力居留，而非专门数字游民项目。
-- [被动收入与退休居留](./passive-income-retirement/) — 以养老金、租金、股息、保证收入或资产自给能力取得居留。
-- [停办、暂停、被替代与待核项目](./closed-paused-unverified/) — 防止过时营销资料混入当前清单。
+- [投资入籍](./citizenship-by-investment/README.md) — 通过法定投资、捐款或生产性项目申请公民身份或加速归化的方案。
+- [投资永居](./investment-permanent-residence/README.md) — 以投资、资产或财富条件申请法律上的永久或长期永久型居留。
+- [投资居留](./investment-residence/README.md) — 通过房产、基金、证券、存款或其他合资格资产取得可续居留。
+- [创业与经营居留](./entrepreneur-business-residence/README.md) — 要求真实创办、购买或经营企业，并通常附带就业或经营绩效条件。
+- [数字游民与远程工作](./digital-nomad-remote-work/README.md) — 面向境外雇主、境外客户或境外企业收入的专项签证或居留。
+- [访客或财力型远程工作](./visitor-financial-remote/README.md) — 允许有限远程工作，但本质仍是访客或一般财力居留，而非专门数字游民项目。
+- [被动收入与退休居留](./passive-income-retirement/README.md) — 以养老金、租金、股息、保证收入或资产自给能力取得居留。
+- [停办、暂停、被替代与待核项目](./closed-paused-unverified/README.md) — 防止过时营销资料混入当前清单。
 
 ## 怎么使用
 

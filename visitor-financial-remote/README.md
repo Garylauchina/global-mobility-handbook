@@ -8,6 +8,6 @@
 
 ## 国家与地区
 
-- [加拿大](./canada/)
-- [墨西哥](./mexico/)
-- [新西兰](./new-zealand/)
+- [加拿大](./canada/README.md)
+- [墨西哥](./mexico/README.md)
+- [新西兰](./new-zealand/README.md)

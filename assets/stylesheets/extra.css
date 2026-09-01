@@ -1,0 +1,117 @@
+:root > * {
+  --md-primary-fg-color: #17324d;
+  --md-primary-fg-color--light: #294d6c;
+  --md-primary-fg-color--dark: #10263a;
+  --md-accent-fg-color: #0f6b6d;
+  --md-typeset-a-color: #0f6b6d;
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f7f7f2;
+  --md-default-fg-color: #24303a;
+  --md-code-bg-color: #eef2f2;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #10263a;
+  --md-accent-fg-color: #62c5c3;
+  --md-typeset-a-color: #71d0ce;
+}
+
+body,
+input {
+  font-family: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui,
+    sans-serif;
+}
+
+.md-header {
+  border-bottom: 1px solid color-mix(in srgb, currentColor 14%, transparent);
+  box-shadow: none;
+}
+
+.md-main__inner {
+  margin-top: 1.2rem;
+}
+
+.md-content__inner {
+  max-width: 50rem;
+}
+
+.md-typeset {
+  font-size: 0.82rem;
+  line-height: 1.75;
+}
+
+.md-typeset h1 {
+  color: var(--md-primary-fg-color);
+  font-weight: 720;
+  letter-spacing: -0.02em;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1 {
+  color: #e7f0f4;
+}
+
+.md-typeset h2 {
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding-bottom: 0.32rem;
+}
+
+.md-typeset a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.15em;
+}
+
+.md-typeset a:focus-visible,
+.md-header a:focus-visible,
+.md-search__input:focus-visible {
+  border-radius: 0.15rem;
+  outline: 3px solid #2f7fb3;
+  outline-offset: 2px;
+}
+
+.md-typeset blockquote {
+  background: color-mix(in srgb, var(--md-accent-fg-color) 8%, transparent);
+  border-left-color: var(--md-accent-fg-color);
+  border-radius: 0 0.25rem 0.25rem 0;
+  color: var(--md-default-fg-color);
+  padding: 0.75rem 1rem;
+}
+
+.md-typeset li,
+.md-typeset p,
+.md-typeset a {
+  overflow-wrap: anywhere;
+}
+
+.md-footer-meta {
+  background: #10263a;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .md-main__inner {
+    margin-top: 0.6rem;
+  }
+
+  .md-typeset {
+    font-size: 0.8rem;
+  }
+}
+
+@media print {
+  .md-header,
+  .md-sidebar,
+  .md-footer,
+  .md-content__button {
+    display: none !important;
+  }
+
+  .md-content {
+    margin: 0;
+  }
+
+  .md-typeset a::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+  }
+}
