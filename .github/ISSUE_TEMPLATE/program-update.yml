@@ -1,0 +1,39 @@
+name: Program update
+description: Report an official rule change, closure, reopening, or factual correction
+title: "[Update] "
+labels: ["program-update"]
+body:
+  - type: input
+    id: country
+    attributes:
+      label: Country or territory
+    validations:
+      required: true
+  - type: input
+    id: program
+    attributes:
+      label: Program name
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What changed?
+      description: State the old rule, new rule, and effective date.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Competent authority or legal source URL
+    validations:
+      required: true
+  - type: checkboxes
+    id: integrity
+    attributes:
+      label: Integrity check
+      options:
+        - label: This submission contains no affiliate, referral, or promotional link.
+          required: true
+        - label: I have not included personal application information.
+          required: true

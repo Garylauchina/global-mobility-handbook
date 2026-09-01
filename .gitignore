@@ -1,0 +1,14 @@
+.DS_Store
+~$*
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.pdf
+*.inspect.ndjson
+.env
+node_modules/
+tmp/
+outputs/
+previews/
+ocr/
