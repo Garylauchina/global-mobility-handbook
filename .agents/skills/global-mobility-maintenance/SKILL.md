@@ -1,6 +1,6 @@
 ---
 name: global-mobility-maintenance
-description: Maintain and audit the Global Mobility Handbook repository, including country-page refreshes, stale-page triage, official-source verification, status or evidence changes, new or retired programs, and MkDocs validation. Use for 项目复核、政策更新、来源失效、页面增删、分类迁移或维护发布；do not use for personalized immigration advice, cross-country rankings, or automatic legal conclusions.
+description: Maintain and audit the Global Mobility Handbook repository, including country or route page refreshes, student residence, stale-page triage, official-source verification, status or evidence changes, new or retired programs, and MkDocs validation. Use for 项目复核、政策更新、留学与学生居留、来源失效、页面增删、分类迁移或维护发布；do not use for personalized immigration advice, school rankings, cross-country rankings, or automatic legal conclusions.
 ---
 
 # Global Mobility Maintenance
@@ -16,6 +16,7 @@ Read [AGENTS.md](../../../AGENTS.md), [METHODOLOGY.md](../../../METHODOLOGY.md),
 - For any factual, source, status, threshold, eligibility, or evidence change, read [source-policy.md](references/source-policy.md).
 - For a periodic review, new page, program closure/reopening, category move, or batch refresh, also read [review-checklist.md](references/review-checklist.md).
 - For an AI benchmark, parallel batch review, or any material rule change that needs a policy timeline, also read [benchmark-and-timeline.md](references/benchmark-and-timeline.md).
+- For the study and student residence category, including a country index or education-level route page, also read [study-student-residence.md](references/study-student-residence.md).
 
 Before editing, run `node scripts/validate-repo.mjs`, `node scripts/audit-freshness.mjs --check-public-status`, and `node scripts/generate-site-config.mjs --check`. Record any pre-existing failure. Do not broaden the task to repair unrelated pages; compare baseline and final results and report an unrelated blocker explicitly.
 
@@ -42,7 +43,7 @@ For a benchmark, keep first-pass reviewers independent, then give every sampled 
 
 ## Make bounded changes
 
-Preserve the route-type-first, country-second structure and the existing country-page field order. Do not add a global comparison table, ranking, recommendation score, visa-free count, success-rate claim, affiliate link, or personalized recommendation.
+Preserve the route-type-first, country-second structure and the field order defined for each category. Use a third-level route leaf only when registered in `scripts/content-tree.mjs`; structural index pages do not carry policy metadata. Do not add a global comparison table, school ranking, recommendation score, visa-free count, success-rate claim, affiliate link, or personalized recommendation.
 
 - Update `last_verified` and the visible verification date only after reviewing the page's core claims on that date.
 - Keep `review_interval_days` explicit: use 30 for wage-indexed minimum-income or living-means tests, quotas, deadlines, real-estate qualifications, and rules explicitly undergoing rapid change; 90 for other current or stale pages; and 180 for candidate or warning-archive pages. Do not infer the interval from wording at runtime.
@@ -52,7 +53,7 @@ Preserve the route-type-first, country-second structure and the existing country
 - Explain old rule, new rule, effective date, authority, and uncertainty when a material rule changed.
 - Append material changes to the program page's policy timeline. Keep the current snapshot in the standard fields; never leave an obsolete rule there merely to preserve history, and never silently erase the former rule from an existing timeline.
 - Add material closures, reopenings, threshold changes, or category changes to `CHANGELOG.md`.
-- If a country page is added, removed, or moved, update the affected category index and regenerate navigation with `node scripts/generate-site-config.mjs`.
+- If a policy content page is added, removed, or moved, update every affected category or country index and regenerate navigation with `node scripts/generate-site-config.mjs`.
 
 Do not edit generated `mkdocs.yml` by hand.
 

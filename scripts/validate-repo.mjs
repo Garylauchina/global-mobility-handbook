@@ -1,17 +1,11 @@
 import fs from "node:fs/promises";
 import path from "node:path";
+import {
+  categoryDefinitions,
+  enumerateCategory,
+} from "./content-tree.mjs";
 
 const root = process.cwd();
-const categories = [
-  ["citizenship-by-investment", "投资入籍"],
-  ["investment-permanent-residence", "投资永居"],
-  ["investment-residence", "投资居留"],
-  ["entrepreneur-business-residence", "创业与经营居留"],
-  ["digital-nomad-remote-work", "数字游民与远程工作"],
-  ["visitor-financial-remote", "访客或财力型远程工作"],
-  ["passive-income-retirement", "被动收入与退休居留"],
-  ["closed-paused-unverified", "停办、暂停与待核"],
-];
 const allowedStatuses = new Set([
   "current",
   "stale",
@@ -41,9 +35,10 @@ const requiredGovernanceFiles = [
   ".agents/skills/global-mobility-maintenance/SKILL.md",
   ".agents/skills/global-mobility-maintenance/references/source-policy.md",
   ".agents/skills/global-mobility-maintenance/references/review-checklist.md",
+  ".agents/skills/global-mobility-maintenance/references/study-student-residence.md",
 ];
 const failures = [];
-let countryPages = 0;
+let programPages = 0;
 
 function parseFrontMatter(markdown, relativePath) {
   const match = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---/);
@@ -102,7 +97,13 @@ function bulletValues(markdown, label) {
   ].map((match) => match[1].trim());
 }
 
-function validateCountryPage(directory, expectedCategory, readme, markdown) {
+function validateCountryPage(
+  directory,
+  expectedCategory,
+  readme,
+  markdown,
+  expectedStudyRoute = null,
+) {
   const relativePath = path.relative(root, readme);
   const metadata = parseFrontMatter(markdown, relativePath);
   const isWarningPage = directory === "closed-paused-unverified";
@@ -116,6 +117,21 @@ function validateCountryPage(directory, expectedCategory, readme, markdown) {
     "review_interval_days",
   ]) {
     if (!metadata[key]) failures.push(`Missing ${key}: ${relativePath}`);
+  }
+  if (expectedStudyRoute) {
+    for (const key of ["country", "route"]) {
+      if (!metadata[key]) failures.push(`Missing ${key}: ${relativePath}`);
+    }
+    if (metadata.country !== expectedStudyRoute.country) {
+      failures.push(
+        `Country mismatch ${metadata.country ?? "missing"}; expected ${expectedStudyRoute.country}: ${relativePath}`,
+      );
+    }
+    if (metadata.route !== expectedStudyRoute.route) {
+      failures.push(
+        `Route mismatch ${metadata.route ?? "missing"}; expected ${expectedStudyRoute.route}: ${relativePath}`,
+      );
+    }
   }
   if (!allowedStatuses.has(metadata.status)) {
     failures.push(`Invalid status ${metadata.status ?? "missing"}: ${relativePath}`);
@@ -197,21 +213,39 @@ function validateCountryPage(directory, expectedCategory, readme, markdown) {
       failures.push(`Current page retains a 待复核 当前状态 value: ${relativePath}`);
     }
 
-    const activeFields = [
-      "当前状态",
-      "最低门槛或收入",
-      "资金或收入性质",
-      "首次身份与期限",
-      "居住与续签",
-      "当地工作",
-      "家属",
-      "永居或入籍路径",
-      "税务提示",
-      "关键限制与变化",
-      "证据等级",
-      "主要来源",
-      "本条核验日期",
-    ];
+    const activeFields = expectedStudyRoute
+      ? [
+          "当前状态",
+          "适用对象与核心资格",
+          "录取与院校要求",
+          "资金证明",
+          "首次许可与期限",
+          "续签与学籍变化",
+          "学习期间工作",
+          "家属",
+          "毕业后或升学路径",
+          "永居或入籍边界",
+          "税务提示",
+          "关键限制与变化",
+          "证据等级",
+          "主要来源",
+          "本条核验日期",
+        ]
+      : [
+          "当前状态",
+          "最低门槛或收入",
+          "资金或收入性质",
+          "首次身份与期限",
+          "居住与续签",
+          "当地工作",
+          "家属",
+          "永居或入籍路径",
+          "税务提示",
+          "关键限制与变化",
+          "证据等级",
+          "主要来源",
+          "本条核验日期",
+        ];
     const programCount = bulletValues(markdown, "当前状态").length;
     if (!programCount) failures.push(`Active page has no program block: ${relativePath}`);
     for (const field of activeFields) {
@@ -332,25 +366,52 @@ for (const relativePath of requiredGovernanceFiles) {
   }
 }
 
-for (const [directory, expectedCategory] of categories) {
-  const categoryPath = path.join(root, directory);
+for (const definition of categoryDefinitions) {
+  const { directory, category: expectedCategory, schema } = definition;
+  let tree;
   try {
-    const entries = await fs.readdir(categoryPath, { withFileTypes: true });
-    if (!entries.some((entry) => entry.isFile() && entry.name === "README.md")) {
-      failures.push(`Missing category README: ${directory}`);
-    }
-    for (const entry of entries.filter((item) => item.isDirectory())) {
-      const readme = path.join(categoryPath, entry.name, "README.md");
-      try {
-        const markdown = await fs.readFile(readme, "utf8");
-        countryPages += 1;
-        validateCountryPage(directory, expectedCategory, readme, markdown);
-      } catch {
-        failures.push(`Missing country README: ${path.relative(root, readme)}`);
+    tree = await enumerateCategory(root, definition);
+  } catch (error) {
+    failures.push(
+      `Invalid content tree for ${directory}: ${error instanceof Error ? error.message : String(error)}`,
+    );
+    continue;
+  }
+
+  if (schema === "study") {
+    for (const country of tree.countries) {
+      if (/^---\r?\n/.test(country.markdown)) {
+        failures.push(
+          `Study country index must not use program frontmatter: ${path.relative(root, country.indexPath)}`,
+        );
+      }
+      const countryHeading = country.markdown.match(/^#\s+(.+)$/m)?.[1]?.trim();
+      if (countryHeading !== country.label) {
+        failures.push(
+          `Study country index H1 ${countryHeading ?? "missing"} != ${country.label}: ${path.relative(root, country.indexPath)}`,
+        );
+      }
+      for (const route of country.routes) {
+        programPages += 1;
+        validateCountryPage(
+          directory,
+          expectedCategory,
+          route.readmePath,
+          route.markdown,
+          { country: country.label, route: route.slug },
+        );
       }
     }
-  } catch {
-    failures.push(`Missing category directory: ${directory}`);
+  } else {
+    for (const leaf of tree.leaves) {
+      programPages += 1;
+      validateCountryPage(
+        directory,
+        expectedCategory,
+        leaf.readmePath,
+        leaf.markdown,
+      );
+    }
   }
 }
 
@@ -360,5 +421,5 @@ if (failures.length) {
   process.exit(1);
 }
 console.log(
-  `Validation passed as of ${validationDate}: ${countryPages} country pages; metadata, links, governance files, and public-artifact rules are consistent.`,
+  `Validation passed as of ${validationDate}: ${programPages} program pages; metadata, links, governance files, and public-artifact rules are consistent.`,
 );
