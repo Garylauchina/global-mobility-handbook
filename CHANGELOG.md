@@ -14,4 +14,4 @@
 - Rebuilt incomplete core fields for Greece and South Korea, with narrower scope or lower evidence grades where official evidence remained conflicted or incomplete.
 - Added per-program policy timelines for material changes, future announcements, and repository corrections while preserving each page's current-rule snapshot.
 - Documented a portable benchmark and timeline workflow, including blind review, wall-clock versus aggregate reviewer timing, and URL-based evidence without mandatory official-page screenshots.
-- Opened the study and student residence category with independently reviewed route pages under Canada for university and primary/secondary education.
+- Opened the study and student residence category with independently reviewed university and primary/secondary route pages for Canada and the United States.

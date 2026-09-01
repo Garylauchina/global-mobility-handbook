@@ -145,6 +145,10 @@ nav:
               - "国家说明": study-student-residence/canada/README.md
               - "大学": study-student-residence/canada/university/README.md
               - "中小学": study-student-residence/canada/primary-secondary/README.md
+          - "美国":
+              - "国家说明": study-student-residence/united-states/README.md
+              - "大学": study-student-residence/united-states/university/README.md
+              - "中小学": study-student-residence/united-states/primary-secondary/README.md
       - "数字游民与远程工作":
           - "类别说明": digital-nomad-remote-work/README.md
           - "阿尔巴尼亚": digital-nomad-remote-work/albania/README.md
