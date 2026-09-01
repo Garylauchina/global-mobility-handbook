@@ -3,6 +3,7 @@ title: "中国香港"
 category: "投资居留"
 status: "current"
 last_verified: "2026-09-02"
+review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---

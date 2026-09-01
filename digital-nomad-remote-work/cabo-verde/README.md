@@ -3,6 +3,7 @@ title: "佛得角"
 category: "数字游民与远程工作"
 status: "current"
 last_verified: "2026-09-02"
+review_interval_days: 30
 evidence: "B"
 region: "非洲"
 ---

@@ -82,6 +82,7 @@ async function buildNavigation() {
   lines.push(`  - ${quote("研究与治理")}:`);
   lines.push(`      - ${quote("研究方法")}: METHODOLOGY.md`);
   lines.push(`      - ${quote("更新政策")}: UPDATE_POLICY.md`);
+  lines.push(`      - ${quote("维护手册")}: MAINTENANCE.md`);
   lines.push(`      - ${quote("免责声明")}: DISCLAIMER.md`);
   lines.push(`      - ${quote("独立性声明")}: INDEPENDENCE.md`);
   lines.push(`      - ${quote("贡献指南")}: CONTRIBUTING.md`);
@@ -161,7 +162,9 @@ extra_css:
 exclude_docs: |
   .git/
   .github/
+  .agents/
   .site/
+  AGENTS.md
   site-overrides/
   scripts/
   mkdocs.yml

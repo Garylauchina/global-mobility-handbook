@@ -31,6 +31,11 @@ jobs:
           cache: pip
           cache-dependency-path: requirements-docs.txt
 
+      - name: Set up Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 22
+
       - name: Configure Pages
         uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d # v6.0.0
 
@@ -40,6 +45,7 @@ jobs:
       - name: Validate source and navigation
         run: |
           node scripts/validate-repo.mjs
+          node scripts/audit-freshness.mjs --check-public-status
           node scripts/generate-site-config.mjs --check
 
       - name: Build site

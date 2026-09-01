@@ -3,6 +3,7 @@ title: "塞浦路斯"
 category: "投资永居"
 status: "current"
 last_verified: "2026-09-02"
+review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---

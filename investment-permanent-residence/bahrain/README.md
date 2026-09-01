@@ -3,6 +3,7 @@ title: "巴林"
 category: "投资永居"
 status: "current"
 last_verified: "2026-09-02"
+review_interval_days: 30
 evidence: "B"
 region: "中东"
 ---

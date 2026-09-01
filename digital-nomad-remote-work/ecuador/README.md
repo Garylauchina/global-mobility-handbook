@@ -3,6 +3,7 @@ title: "厄瓜多尔"
 category: "数字游民与远程工作"
 status: "candidate-unverified"
 last_verified: "2026-09-02"
+review_interval_days: 180
 evidence: "C"
 region: "南美"
 ---

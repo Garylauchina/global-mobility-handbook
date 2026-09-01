@@ -3,6 +3,7 @@ title: "墨西哥"
 category: "访客或财力型远程工作"
 status: "current"
 last_verified: "2026-09-02"
+review_interval_days: 30
 evidence: "B"
 region: "北美"
 ---

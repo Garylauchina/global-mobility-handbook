@@ -3,6 +3,7 @@ title: "法国"
 category: "被动收入与退休居留"
 status: "current"
 last_verified: "2026-09-02"
+review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---

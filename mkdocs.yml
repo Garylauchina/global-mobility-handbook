@@ -66,7 +66,9 @@ extra_css:
 exclude_docs: |
   .git/
   .github/
+  .agents/
   .site/
+  AGENTS.md
   site-overrides/
   scripts/
   mkdocs.yml
@@ -250,6 +252,7 @@ nav:
   - "研究与治理":
       - "研究方法": METHODOLOGY.md
       - "更新政策": UPDATE_POLICY.md
+      - "维护手册": MAINTENANCE.md
       - "免责声明": DISCLAIMER.md
       - "独立性声明": INDEPENDENCE.md
       - "贡献指南": CONTRIBUTING.md

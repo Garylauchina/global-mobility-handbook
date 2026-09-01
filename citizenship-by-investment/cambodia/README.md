@@ -3,6 +3,7 @@ title: "柬埔寨"
 category: "投资入籍"
 status: "current"
 last_verified: "2026-09-02"
+review_interval_days: 90
 evidence: "B"
 region: "亚洲"
 ---

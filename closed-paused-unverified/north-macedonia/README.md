@@ -3,6 +3,7 @@ title: "北马其顿"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
 last_verified: "2026-09-02"
+review_interval_days: 180
 ---
 
 # 北马其顿

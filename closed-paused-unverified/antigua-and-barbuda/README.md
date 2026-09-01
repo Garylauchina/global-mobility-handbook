@@ -3,6 +3,7 @@ title: "安提瓜和巴布达"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
 last_verified: "2026-09-02"
+review_interval_days: 180
 ---
 
 # 安提瓜和巴布达
