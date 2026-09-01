@@ -15,6 +15,7 @@ Read [AGENTS.md](../../../AGENTS.md), [METHODOLOGY.md](../../../METHODOLOGY.md),
 
 - For any factual, source, status, threshold, eligibility, or evidence change, read [source-policy.md](references/source-policy.md).
 - For a periodic review, new page, program closure/reopening, category move, or batch refresh, also read [review-checklist.md](references/review-checklist.md).
+- For an AI benchmark, parallel batch review, or any material rule change that needs a policy timeline, also read [benchmark-and-timeline.md](references/benchmark-and-timeline.md).
 
 Before editing, run `node scripts/validate-repo.mjs`, `node scripts/audit-freshness.mjs --check-public-status`, and `node scripts/generate-site-config.mjs --check`. Record any pre-existing failure. Do not broaden the task to repair unrelated pages; compare baseline and final results and report an unrelated blocker explicitly.
 
@@ -37,6 +38,8 @@ For each reviewed claim:
 
 If current authoritative verification is unavailable, do not refresh the date. Report the page as pending and preserve the uncertainty.
 
+For a benchmark, keep first-pass reviewers independent, then give every sampled page to a different blind reviewer. Reconcile disagreements claim by claim before editing. A fast AI search is not a reason to lower the evidence standard or treat a failed search as proof that nothing changed.
+
 ## Make bounded changes
 
 Preserve the route-type-first, country-second structure and the existing country-page field order. Do not add a global comparison table, ranking, recommendation score, visa-free count, success-rate claim, affiliate link, or personalized recommendation.
@@ -47,6 +50,7 @@ Preserve the route-type-first, country-second structure and the existing country
 - Keep `status`, `evidence`, category placement, warning text, and visible facts consistent. When a due `current` page cannot be reverified, use `status: "stale"`, retain its old date and evidence grade, insert the standard “复核警示” from the checklist, and change every program block's current-status value to the standard “待复核” form. On a stale page, A/B describes evidence as of `last_verified`, not current confirmation.
 - Preserve original currencies and statutory formulas. Do not invent a converted lowest price.
 - Explain old rule, new rule, effective date, authority, and uncertainty when a material rule changed.
+- Append material changes to the program page's policy timeline. Keep the current snapshot in the standard fields; never leave an obsolete rule there merely to preserve history, and never silently erase the former rule from an existing timeline.
 - Add material closures, reopenings, threshold changes, or category changes to `CHANGELOG.md`.
 - If a country page is added, removed, or moved, update the affected category index and regenerate navigation with `node scripts/generate-site-config.mjs`.
 
