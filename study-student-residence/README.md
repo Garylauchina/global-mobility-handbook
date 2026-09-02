@@ -9,9 +9,12 @@
 ## 国家与地区
 
 - [澳大利亚](./australia/README.md)
+- [德国](./germany/README.md)
+- [法国](./france/README.md)
 - [加拿大](./canada/README.md)
 - [美国](./united-states/README.md)
 - [日本](./japan/README.md)
+- [瑞士](./switzerland/README.md)
 - [新加坡](./singapore/README.md)
 - [新西兰](./new-zealand/README.md)
 - [英国](./united-kingdom/README.md)

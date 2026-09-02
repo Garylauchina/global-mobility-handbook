@@ -17,3 +17,4 @@
 - Opened the study and student residence category with independently reviewed university and primary/secondary route pages for Canada and the United States.
 - Expanded the study and student residence category with independently reviewed university and primary/secondary route pages for Australia, New Zealand, and the United Kingdom.
 - Expanded the study and student residence category with independently reviewed university and primary/secondary route pages for Japan and Singapore.
+- Expanded the study and student residence category with independently reviewed university and primary/secondary route pages for Germany, France, and Switzerland.
