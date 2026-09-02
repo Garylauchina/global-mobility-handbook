@@ -51,6 +51,9 @@ jobs:
       - name: Build site
         run: node scripts/run-mkdocs.mjs build --strict --site-dir "$RUNNER_TEMP/site"
 
+      - name: Validate built search
+        run: node scripts/validate-search.mjs "$RUNNER_TEMP/site"
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:

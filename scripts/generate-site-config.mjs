@@ -87,6 +87,9 @@ docs_dir: "."
 use_directory_urls: true
 strict: true
 
+hooks:
+  - "scripts/mkdocs_search_aliases.py"
+
 theme:
   name: material
   language: zh
@@ -126,6 +129,7 @@ plugins:
       lang:
         - zh
         - en
+      pipeline: []
       jieba_dict_user: "assets/search/jieba-user.txt"
 
 markdown_extensions:

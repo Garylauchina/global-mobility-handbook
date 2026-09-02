@@ -28,3 +28,4 @@ jobs:
       - run: node scripts/audit-freshness.mjs --check-public-status
       - run: node scripts/generate-site-config.mjs --check
       - run: node scripts/run-mkdocs.mjs build --strict --site-dir "$RUNNER_TEMP/site"
+      - run: node scripts/validate-search.mjs "$RUNNER_TEMP/site"

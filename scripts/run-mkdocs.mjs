@@ -34,14 +34,23 @@ try {
       `custom_dir: ${JSON.stringify(path.join(repositoryRoot, "site-overrides"))}`,
     )
     .replace(
+      '  - "scripts/mkdocs_search_aliases.py"',
+      `  - ${JSON.stringify(
+        path.join(repositoryRoot, "scripts/mkdocs_search_aliases.py"),
+      )}`,
+    )
+    .replace(
       'jieba_dict_user: "assets/search/jieba-user.txt"',
       `jieba_dict_user: ${JSON.stringify(
         path.join(repositoryRoot, "assets/search/jieba-user.txt"),
       )}`,
     );
 
-  if (preparedConfig === sourceConfig) {
-    throw new Error('mkdocs.yml 中缺少预期的 docs_dir: "."。');
+  if (
+    preparedConfig === sourceConfig ||
+    preparedConfig.includes('  - "scripts/mkdocs_search_aliases.py"')
+  ) {
+    throw new Error("mkdocs.yml 中缺少预期的可移植路径配置。");
   }
 
   await writeFile(temporaryConfig, preparedConfig, "utf8");
