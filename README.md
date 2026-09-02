@@ -6,9 +6,9 @@ Global Mobility Handbook
 
 [在线阅读与搜索](https://garylauchina.github.io/global-mobility-handbook/) · [English overview](./README.en.md)
 
-一个以公开来源为基础、面向普通读者的投资入籍、投资居留、数字游民和财务独立居留知识库。
+一个以公开来源为基础、面向普通读者的投资入籍、投资居留、留学与学生居留、数字游民和财务独立居留知识库。
 
-**初始全库核验基准日：2026-09-02；当前有效性以各页 `last_verified` 和状态为准。** 本仓库不提供跨国比较总表、排名、成功率、免签数量或个性化推荐；每个国家/地区独立成页，以便核查规则和后续维护。
+**初始全库核验基准日：2026-09-02；当前有效性以各政策内容页的 `last_verified` 和状态为准。** 本仓库不提供跨国比较总表、排名、成功率、免签数量或个性化推荐；政策通常按国家/地区独立成页，需要独立核验的子路线使用更深一层叶页。
 
 ## 按方案类型阅读
 
@@ -16,6 +16,7 @@ Global Mobility Handbook
 - [投资永居](./investment-permanent-residence/README.md) — 以投资、资产或财富条件申请法律上的永久或长期永久型居留。
 - [投资居留](./investment-residence/README.md) — 通过房产、基金、证券、存款或其他合资格资产取得可续居留。
 - [创业与经营居留](./entrepreneur-business-residence/README.md) — 要求真实创办、购买或经营企业，并通常附带就业或经营绩效条件。
+- [留学与学生居留](./study-student-residence/README.md) — 核实正式学习许可、资金要求、学习期间工作、家属和升学或毕业后身份衔接；不做学校排名或录取建议。
 - [数字游民与远程工作](./digital-nomad-remote-work/README.md) — 面向境外雇主、境外客户或境外企业收入的专项签证或居留。
 - [访客或财力型远程工作](./visitor-financial-remote/README.md) — 允许有限远程工作，但本质仍是访客或一般财力居留，而非专门数字游民项目。
 - [被动收入与退休居留](./passive-income-retirement/README.md) — 以养老金、租金、股息、保证收入或资产自给能力取得居留。
@@ -40,7 +41,7 @@ Global Mobility Handbook
 
 - 公民身份、居留身份、工作权、税务居民、旅行待遇和银行KYC是不同问题。
 - 最低门槛不等于全家总成本，通常不含政府费、尽调、代理、公证、税费、交易费和保险。
-- 本仓库不是全球所有普通工作、自雇、学生或家庭团聚签证的穷尽清单。
+- 本仓库不是全球所有普通工作、自雇、学生或家庭团聚签证的穷尽清单；留学分类也不是学校、课程、招生或奖学金数据库。
 - 不接受中介推广、返佣、开户链接、保证获批或保证回购内容。
 
 详情见 [免责声明](./DISCLAIMER.md)、[独立性声明](./INDEPENDENCE.md)、[研究方法](./METHODOLOGY.md)、[更新政策](./UPDATE_POLICY.md)、[维护手册](./MAINTENANCE.md)和[贡献指南](./CONTRIBUTING.md)。

@@ -1,24 +1,17 @@
 #!/usr/bin/env node
 
-import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
 import { fileURLToPath } from "node:url";
+import {
+  categoryDefinitions,
+  enumerateCategory,
+} from "./content-tree.mjs";
 
 const repositoryRoot = path.resolve(
   path.dirname(fileURLToPath(import.meta.url)),
   "..",
 );
-const categoryDirectories = [
-  "citizenship-by-investment",
-  "investment-permanent-residence",
-  "investment-residence",
-  "entrepreneur-business-residence",
-  "digital-nomad-remote-work",
-  "visitor-financial-remote",
-  "passive-income-retirement",
-  "closed-paused-unverified",
-];
 const millisecondsPerDay = 86_400_000;
 const allowedStatuses = new Set([
   "current",
@@ -133,13 +126,10 @@ const asOfValue = options.asOf ?? today;
 const asOf = parseIsoDate(asOfValue, "--as-of");
 const rows = [];
 
-for (const category of categoryDirectories) {
-  const categoryPath = path.join(repositoryRoot, category);
-  const entries = await readdir(categoryPath, { withFileTypes: true });
-  for (const entry of entries.filter((item) => item.isDirectory())) {
-    const filePath = path.join(categoryPath, entry.name, "README.md");
-    const relativePath = path.relative(repositoryRoot, filePath);
-    const markdown = await readFile(filePath, "utf8");
+for (const definition of categoryDefinitions) {
+  const tree = await enumerateCategory(repositoryRoot, definition);
+  for (const { readmePath, markdown } of tree.leaves) {
+    const relativePath = path.relative(repositoryRoot, readmePath);
     const metadata = frontMatter(markdown, relativePath);
     const verified = parseIsoDate(metadata.last_verified, `${relativePath} last_verified`);
     if (verified.valueOf() > asOf.valueOf()) {

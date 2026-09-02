@@ -16,21 +16,21 @@ Use the sections relevant to the requested maintenance mode. Do not expand a sin
 
 ## New country or program page
 
-- Confirm that the route fits [the repository scope](../../../../METHODOLOGY.md) and is not an ordinary work, student, family, or generic visitor route.
+- Confirm that the route fits [the repository scope](../../../../METHODOLOGY.md) and is not an ordinary work, family, or generic visitor route. Student routes belong only in the dedicated study and student residence category and follow [study-student-residence.md](study-student-residence.md).
 - Search the warning archive before adding a duplicate or rebranded program.
-- Use the established frontmatter keys and page field order from a nearby page in the same category.
+- Use the established frontmatter keys and page field order from a nearby page in the same category. A registered third-level route leaf may add the structural `country` and `route` keys required by its category.
 - Assign `current` only with A- or B-grade evidence. Use `candidate-unverified` plus evidence C when official detail is insufficient.
-- Add the page to exactly one primary category index. If a country has distinct routes in several categories, keep separate pages rather than a cross-country total table.
-- Regenerate `mkdocs.yml` after the category index changes.
+- Add the page to the one direct parent index required by its registered hierarchy, and update any affected ancestor index. If a country has distinct routes in several categories, keep separate pages rather than a cross-country total table.
+- Regenerate `mkdocs.yml` after an index changes.
 
-Current, stale, and candidate pages keep these frontmatter keys: `title`, `category`, `status`, `last_verified`, `review_interval_days`, `evidence`, and `region`. Use 30 for wage-indexed minimum-income or living-means tests, quotas, deadlines, real-estate qualifications, and rules explicitly undergoing rapid change; 90 for other current or stale pages; and 180 for candidates. Each program block keeps the established fields from “当前状态” through “本条核验日期”, and the page ends with “纠错与更新”. A country page may contain several distinct programs in the same category; use the shortest applicable interval and review every block before advancing the shared page date or evidence grade.
+Current, stale, and candidate pages keep these frontmatter keys: `title`, `category`, `status`, `last_verified`, `review_interval_days`, `evidence`, and `region`. Use 30 for wage-indexed minimum-income or living-means tests, study-permit financial thresholds, quotas, deadlines, real-estate qualifications, and rules explicitly undergoing rapid change; 90 for other current or stale pages; and 180 for candidates. Each program block keeps the field set established for its category and the page ends with “纠错与更新”. A content page may contain several distinct programs only when they share a page-level review date and grade; use the shortest applicable interval and review every block before advancing shared metadata.
 
 ## Closure, pause, replacement, or reopening
 
 - Require positive evidence of the transition; an inaccessible page alone is insufficient.
 - Record the announcement or legal date separately from the effective date.
 - Preserve transitional rights for existing applicants when officially documented.
-- Move a non-current page into `closed-paused-unverified/`, update both affected category indexes, and regenerate navigation.
+- Move a non-current country page into `closed-paused-unverified/`, update both affected category indexes, and regenerate navigation. For a third-level route leaf, follow its category reference and never overwrite an existing warning-archive country page.
 - Reopening requires a current application route and sufficient official support; historical eligibility alone is insufficient.
 - Record the transition in `CHANGELOG.md`.
 

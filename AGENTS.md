@@ -6,9 +6,9 @@ These instructions apply to the entire repository. This is a public, Chinese-fir
 
 Read `METHODOLOGY.md`, `UPDATE_POLICY.md`, `INDEPENDENCE.md`, and `DISCLAIMER.md` before changing program facts. For maintenance work, use the repository skill at `.agents/skills/global-mobility-maintenance/SKILL.md`.
 
-- Preserve the route-type-first, country-or-territory-second directory structure.
+- Preserve the route-type-first, country-or-territory-second directory structure. A category may define a third-level route leaf when materially different subroutes need independent evidence and review dates; structural index pages do not carry policy metadata.
 - The same country may have distinct pages in several route categories, and a historical route may coexist with a current route. Do not deduplicate by country name.
-- Keep each country/category record on its own page; distinct programs in the same country and category may use separate blocks on that page. Do not add a global comparison table, ranking, score, visa-free count, success rate, or personalized recommendation.
+- Keep each policy record on its category/country content page or on a category-defined route leaf; distinct programs sharing one review date may use separate blocks on that page. Do not add a global comparison table, ranking, score, visa-free count, success rate, or personalized recommendation.
 - Do not add affiliate, referral, sales, promotional, guarantee, or paid-placement content.
 - Keep citizenship, residence, work rights, tax residence, travel treatment, and banking compliance distinct.
 - Preserve original currencies and statutory formulas; do not manufacture a converted “lowest price.”
@@ -19,7 +19,7 @@ Prefer legislation, gazettes, competent authorities, immigration departments, mi
 
 Allowed frontmatter statuses are `current`, `stale`, `candidate-unverified`, and `archived-or-unverified`.
 
-Every country page also has explicit `review_interval_days`: 30 for wage-indexed minimum-income or living-means tests, quotas, deadlines, real-estate qualifications, and rules explicitly undergoing rapid change; 90 for other current or stale pages; and 180 for candidate or warning-archive pages. For a page with several programs, use the shortest applicable interval. Do not infer this value from prose at runtime.
+Every policy content page also has explicit `review_interval_days`: 30 for wage-indexed minimum-income or living-means tests, study-permit financial thresholds, quotas, deadlines, real-estate qualifications, and rules explicitly undergoing rapid change; 90 for other current or stale pages; and 180 for candidate or warning-archive pages. For a page with several programs, use the shortest applicable interval. Do not infer this value from prose at runtime.
 
 - `current` requires evidence A or B.
 - `stale` means a formerly current page exceeded its review interval. Keep its last evidence grade and `last_verified`, add the standard “复核警示”, and change every program block to “待复核（最后核验：YYYY-MM-DD；原记录：开放）”. The retained A/B grade describes evidence as of `last_verified`, not current confirmation.
@@ -34,8 +34,8 @@ Change `last_verified` and the visible verification date only after reviewing th
 
 - Run `node scripts/audit-freshness.mjs` to build a review queue; its output is not proof of a policy change.
 - Before editing, run the structure and navigation checks and record pre-existing failures. Do not repair unrelated failures without scope or misreport them as caused by the current change.
-- Update the affected category `README.md` when adding, removing, or moving a country page.
-- When adding a new top-level category, update the root index and category lists in both `scripts/generate-site-config.mjs` and `scripts/validate-repo.mjs`.
+- Update every affected category or country index when adding, removing, or moving a policy content page.
+- When adding a new top-level category, update the root index and the shared registry in `scripts/content-tree.mjs`; validation, freshness auditing, and navigation generation must consume its exact leaf enumeration and reject unregistered depth below a leaf.
 - Regenerate navigation with `node scripts/generate-site-config.mjs`; do not edit generated `mkdocs.yml` by hand.
 - Keep GitHub Actions permissions minimal, pin third-party actions to full commit SHAs, and retain `persist-credentials: false`.
 - Before handoff, run `node scripts/validate-repo.mjs`, `node scripts/audit-freshness.mjs --check-public-status`, `node scripts/generate-site-config.mjs --check`, and `node scripts/run-mkdocs.mjs build --strict --site-dir .site`.
