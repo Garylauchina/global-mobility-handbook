@@ -153,6 +153,14 @@ nav:
               - "国家说明": study-student-residence/united-states/README.md
               - "大学": study-student-residence/united-states/university/README.md
               - "中小学": study-student-residence/united-states/primary-secondary/README.md
+          - "日本":
+              - "国家说明": study-student-residence/japan/README.md
+              - "大学": study-student-residence/japan/university/README.md
+              - "中小学": study-student-residence/japan/primary-secondary/README.md
+          - "新加坡":
+              - "国家说明": study-student-residence/singapore/README.md
+              - "大学": study-student-residence/singapore/university/README.md
+              - "中小学": study-student-residence/singapore/primary-secondary/README.md
           - "新西兰":
               - "国家说明": study-student-residence/new-zealand/README.md
               - "大学": study-student-residence/new-zealand/university/README.md
