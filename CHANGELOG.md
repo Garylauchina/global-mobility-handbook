@@ -16,3 +16,4 @@
 - Documented a portable benchmark and timeline workflow, including blind review, wall-clock versus aggregate reviewer timing, and URL-based evidence without mandatory official-page screenshots.
 - Opened the study and student residence category with independently reviewed university and primary/secondary route pages for Canada and the United States.
 - Expanded the study and student residence category with independently reviewed university and primary/secondary route pages for Australia, New Zealand, and the United Kingdom.
+- Expanded the study and student residence category with independently reviewed university and primary/secondary route pages for Japan and Singapore.
