@@ -18,3 +18,4 @@
 - Expanded the study and student residence category with independently reviewed university and primary/secondary route pages for Australia, New Zealand, and the United Kingdom.
 - Expanded the study and student residence category with independently reviewed university and primary/secondary route pages for Japan and Singapore.
 - Expanded the study and student residence category with independently reviewed university and primary/secondary route pages for Germany, France, and Switzerland.
+- Corrected Chinese full-term and natural English site search, added route and country aliases at build time, and introduced regression coverage for both languages.

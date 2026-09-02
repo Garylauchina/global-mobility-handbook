@@ -24,3 +24,19 @@
     <meta name="twitter:card" content="summary">
   {% endif %}
 {% endblock %}
+
+{% block scripts %}
+  <script>
+    (() => {
+      const element = document.getElementById("__config")
+      const config = JSON.parse(element.textContent)
+      const originalSearch = new URL(config.search, document.baseURI)
+      const wrapper = new URL("search-query-fix.js", originalSearch)
+
+      wrapper.searchParams.set("upstream", originalSearch.href)
+      config.search = wrapper.href
+      element.textContent = JSON.stringify(config)
+    })()
+  </script>
+  {{ super() }}
+{% endblock %}
