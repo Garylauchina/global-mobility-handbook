@@ -4,7 +4,7 @@ These instructions apply to the entire repository. This is a public, Chinese-fir
 
 ## Canonical boundaries
 
-Read `METHODOLOGY.md`, `UPDATE_POLICY.md`, `INDEPENDENCE.md`, and `DISCLAIMER.md` before changing program facts. For maintenance work, use the repository skill at `.agents/skills/global-mobility-maintenance/SKILL.md`.
+Use `METHODOLOGY.md` for evidence/schema questions, `UPDATE_POLICY.md` for review/status transitions, and `INDEPENDENCE.md` or `DISCLAIMER.md` when those boundaries are in scope. For policy maintenance, use `.agents/skills/global-mobility-maintenance/SKILL.md`; load only relevant references.
 
 - Preserve the route-type-first, country-or-territory-second directory structure. A category may define a third-level route leaf when materially different subroutes need independent evidence and review dates; structural index pages do not carry policy metadata.
 - The same country may have distinct pages in several route categories, and a historical route may coexist with a current route. Do not deduplicate by country name.
@@ -32,17 +32,18 @@ Change `last_verified` and the visible verification date only after reviewing th
 
 ## Repository operations
 
-- Run `node scripts/audit-freshness.mjs` to build a review queue; its output is not proof of a policy change.
-- Before editing, run the structure and navigation checks and record pre-existing failures. Do not repair unrelated failures without scope or misreport them as caused by the current change.
+- Define the requested output and relevant acceptance checks at task start. Inspect affected files; baseline tests are useful when needed to distinguish existing failures, not mandatory before each edit.
+- For a periodic review, run `node scripts/audit-freshness.mjs` to build the queue; it is not evidence of a policy change.
 - Update every affected category or country index when adding, removing, or moving a policy content page.
 - When adding a new top-level category, update the root index and the shared registry in `scripts/content-tree.mjs`; validation, freshness auditing, and navigation generation must consume its exact leaf enumeration and reject unregistered depth below a leaf.
 - Regenerate navigation with `node scripts/generate-site-config.mjs`; do not edit generated `mkdocs.yml` by hand.
 - Keep GitHub Actions permissions minimal, pin third-party actions to full commit SHAs, and retain `persist-credentials: false`.
-- Before handoff, run `node scripts/validate-repo.mjs`, `node scripts/audit-freshness.mjs --check-public-status`, `node scripts/generate-site-config.mjs --check`, and `node scripts/run-mkdocs.mjs build --strict --site-dir .site`.
+- Select checks by impact: `node scripts/validate-repo.mjs` for content/schema; `node scripts/audit-freshness.mjs --check-public-status` for status/date changes; `node scripts/generate-site-config.mjs --check` for navigation; `node scripts/run-mkdocs.mjs build --strict --site-dir .site` for rendering, shared site changes, or publication. For instruction-only edits, validate changed Skills and links. Run the full set for a release or cross-cutting change, once after the final edits.
 - Preserve unrelated user changes and never commit private application records, credentials, tokens, machine-specific paths, or unpublished source files.
 - Do not commit spreadsheets, CSV/TSV files, downloaded PDFs, or other source artifacts. Link official source documents externally; do not relicense copied source text as repository content.
 - Do not change `LICENSE` or `LICENSE-CODE` unless the user explicitly requests a licensing change.
-- Do not push, publish, merge, release, or mutate GitHub issues unless the user gives current explicit authorization.
+- Proceed directly with scoped local edits, builds, tests, and repairs. Fix in-scope failures and rerun affected checks until passed; report unrelated failures or external blockers precisely.
+- For push, publication, merge, release, or GitHub issue changes, use existing authorization for the same action and target. If absent, prepare the validated result and ask once.
 
 A push to `main` triggers the Pages deployment workflow and is therefore a public publication action, not merely remote backup.
 

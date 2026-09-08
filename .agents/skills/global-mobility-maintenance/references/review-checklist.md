@@ -57,8 +57,6 @@ Warning-archive pages use `title`, `category`, `status: "archived-or-unverified"
 - No global comparison table, ranking, success rate, recommendation, affiliate content, or personal application data was added.
 - Changed claims have claim-matched sources and explicit uncertainty where needed.
 - Category indexes and generated navigation agree.
-- `node scripts/validate-repo.mjs` passes.
-- `node scripts/audit-freshness.mjs --check-public-status` passes; no overdue page is still presented as `current`.
-- `node scripts/generate-site-config.mjs --check` passes.
-- `node scripts/run-mkdocs.mjs build --strict --site-dir .site` passes.
-- External publication waits for explicit authorization.
+- Select validation by the affected behavior using [maintenance checks](maintenance.md#validate-and-hand-off). Fix in-scope failures and rerun affected checks until passed.
+- For a full periodic review or release, run the complete set once after final edits, including freshness/public-status checks; report any unresolved overdue pages.
+- For external publication, reuse authorization for the same action and target; ask only when it is missing.
