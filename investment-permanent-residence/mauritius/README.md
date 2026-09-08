@@ -2,8 +2,6 @@
 title: "毛里求斯"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "A"
 region: "非洲"
 ---
@@ -28,7 +26,6 @@ region: "非洲"
 - **关键限制与变化：** 须核验合资格活动、资金来源和持续经营
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://passport.govmu.org/passport/?page_id=626)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

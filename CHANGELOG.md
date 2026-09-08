@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-09
+
+- Centralized the public content-review statement on the project homepage and removed repeated review dates from policy pages and timeline entries; official publication and effective dates remain in place.
+- Replaced the 30/90/180-day review tiers with one monthly review cycle for every route category, including candidate and archived programs.
+- Moved existing per-page review dates into a central maintenance record and simplified the maintenance instructions and repository Skill. This editorial and workflow update does not advance the full-content review baseline or certify new policy facts.
+
 ## 2026-09-02
 
 - Initial public release.

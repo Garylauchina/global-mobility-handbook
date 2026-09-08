@@ -2,8 +2,6 @@
 title: "菲律宾"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 年龄、养老金和家属组合影响存款金额
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.pra.gov.ph/srrvisa)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -2,8 +2,6 @@
 title: "纳米比亚"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "非洲"
 ---
@@ -28,7 +26,6 @@ region: "非洲"
 - **关键限制与变化：** 无专项免税承诺
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.nipdb.com/digital-nomad-visa)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

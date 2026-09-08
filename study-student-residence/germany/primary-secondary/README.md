@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "德国"
 route: "primary-secondary"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -32,7 +30,6 @@ region: "欧洲"
 - **关键限制与变化：** “原则上从九年级起”不是一律年满某岁即可，也不是一律禁止低年级；低年级属于需要特别理由的裁量例外。符合 § 16f 的公立学校须具有国际定位并满足混合国籍班级条件，普通义务教育公校不能仅因愿意录取国际生就替代移民审查。州与外国公共机关之间经州最高居留主管机关同意的双边或多边学校协议另有 § 16f(4) 边界。父母不得先以孩子入学为由推导自己的居留，再用父母身份反向证明孩子可入学。
 - **证据等级：** B
 - **主要来源：** [《居留法》§ 16f：语言课程与学校就读](https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html)；[《居留法》§ 2(3)：生活保障公式](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html)；[外交部签证手册“Schüler”章节](https://www.auswaertiges-amt.de/resource/blob/207816/941d6b6ea53760b532a8fbedf3564bc0/visumhandbuch-data.pdf)；[外交部 § 16f 学校/交换签证材料示例](https://jakarta.diplo.de/id-de/service/visa-und-einreise/2685866-2685866)；[外交部长期学习、学校与语言课程签证](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/nationale-visa/visa-schule-studium-sprachkurs)；[外交部签证与费用](https://www.auswaertiges-amt.de/en/visa-service/215870-215870)；[父母及其他家属团聚 § 36](https://www.gesetze-im-internet.de/aufenthg_2004/__36.html)；[青少年劳动保护法 § 2：年龄](https://www.gesetze-im-internet.de/jarbschg/__2.html)；[青少年劳动保护法 § 5：儿童就业限制](https://www.gesetze-im-internet.de/jarbschg/__5.html)；[《国籍法》§ 10](https://www.gesetze-im-internet.de/stag/__10.html)；[所得税法 § 1](https://www.gesetze-im-internet.de/estg/__1.html)；[税收通则 § 8：住所](https://www.gesetze-im-internet.de/ao_1977/__8.html)；[税收通则 § 9：通常居所](https://www.gesetze-im-internet.de/ao_1977/__9.html)
-- **本条核验日期：** 2026-09-02
 
 ## 随父母合法居留儿童的州义务教育
 
@@ -50,7 +47,6 @@ region: "欧洲"
 - **关键限制与变化：** 州教育法决定义务教育年龄、学校结构、分配、转学、语言支持和费用细节；全国概括只能作为边界提示。KMK 的州学校法索引截至 2026-08 展示了各州不同法律和更新日期，本页因此保留 B 级。公校义务教育可因合法居住而适用，但不能用入学通知替代家庭签证/居留，也不能用孩子的家庭居留替代父母自己的合法身份。
 - **证据等级：** B
 - **主要来源：** [未成年子女团聚 § 32](https://www.gesetze-im-internet.de/aufenthg_2004/__32.html)；[法定 C1 定义 § 2(12)](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html)；[家庭团聚原则 § 27](https://www.gesetze-im-internet.de/aufenthg_2004/__27.html)；[家庭团聚一般条件 § 29](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)；[儿童居留独立化 § 34](https://www.gesetze-im-internet.de/aufenthg_2004/__34.html)；[儿童定居许可 § 35](https://www.gesetze-im-internet.de/aufenthg_2004/__35.html)；[德国政府儿童家庭团聚说明](https://www.make-it-in-germany.com/en/visa-residence/family-reunification/children-join)；[德国政府学校制度与义务教育](https://www.make-it-in-germany.com/en/living-in-germany/family-life/school-system)；[KMK 教育阶段与义务教育](https://www.kmk.org/bildungsministerkonferenz/bildungsthemen/bildungswege-und-abschluesse.html)；[KMK 各州学校法索引](https://www.kmk.org/downloads-dokumente/rechtsvorschriften-/-lehrplaene/uebersicht-schulgesetze.html)；[青少年劳动保护法 § 2：年龄](https://www.gesetze-im-internet.de/jarbschg/__2.html)；[青少年劳动保护法 § 5：儿童就业限制](https://www.gesetze-im-internet.de/jarbschg/__5.html)；[《国籍法》§ 10](https://www.gesetze-im-internet.de/stag/__10.html)；[所得税法 § 1](https://www.gesetze-im-internet.de/estg/__1.html)；[税收通则 § 8：住所](https://www.gesetze-im-internet.de/ao_1977/__8.html)；[税收通则 § 9：通常居所](https://www.gesetze-im-internet.de/ao_1977/__9.html)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -62,8 +58,7 @@ region: "欧洲"
 - **变化摘要：** 常规学校就读不再仅限例外个案，§ 16f(2) 改为在原则上的九年级起、混合国籍班级和法定学校类型条件均满足时“原则上应予”许可；低于九年级仍须特别理由和个案裁量。
 - **过渡安排：** 州间双边或多边学校协议继续适用 § 16f(4)；新表述没有把所有公立或私立中小学变成合资格国际学生学校。
 - **官方依据：** [联邦政府关于 2020-03-01 生效的说明](https://www.bundesregierung.de/breg-de/aktuelles/mehr-fachkraefte-fuer-deutschland-1563122.pdf)；[外交部签证手册“Schüler”章节](https://www.auswaertiges-amt.de/resource/blob/207816/941d6b6ea53760b532a8fbedf3564bc0/visumhandbuch-data.pdf)；[现行《居留法》§ 16f](https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

@@ -2,8 +2,6 @@
 title: "葡萄牙"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 葡萄牙
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 只能使用现行基金、科研、文化、公司/就业等路线
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a)
-- **核验日期：** 2026-09-02

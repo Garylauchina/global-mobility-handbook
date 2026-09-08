@@ -2,8 +2,6 @@
 title: "菲律宾"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 必须为合资格经济活动；投资价值和持续性受审查
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://boi.gov.ph/resources/faqs/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

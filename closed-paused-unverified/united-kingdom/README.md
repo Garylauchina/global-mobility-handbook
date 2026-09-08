@@ -2,8 +2,6 @@
 title: "英国"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 英国
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 只有符合过渡条件的旧案可能继续至最迟2028永居节点
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.gov.uk/tier-1-investor)
-- **核验日期：** 2026-09-02

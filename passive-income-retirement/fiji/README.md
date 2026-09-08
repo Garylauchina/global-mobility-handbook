@@ -2,8 +2,6 @@
 title: "斐济"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "大洋洲"
 ---
@@ -28,7 +26,6 @@ region: "大洋洲"
 - **关键限制与变化：** 裁量较大；先取得书面财力要求
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.immigration.gov.fj/residence-on-assured-income-permit-application/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -4,6 +4,12 @@ import {
   categoryDefinitions,
   enumerateCategory,
 } from "./content-tree.mjs";
+import {
+  dateInTimeZone,
+  hasPageReviewDeclaration,
+  loadReviewState,
+  reviewStatePath,
+} from "./review-state.mjs";
 
 const root = process.cwd();
 const allowedStatuses = new Set([
@@ -36,9 +42,12 @@ const requiredGovernanceFiles = [
   ".agents/skills/global-mobility-maintenance/references/source-policy.md",
   ".agents/skills/global-mobility-maintenance/references/review-checklist.md",
   ".agents/skills/global-mobility-maintenance/references/study-student-residence.md",
+  reviewStatePath,
+  "scripts/review-state.mjs",
 ];
 const failures = [];
 let programPages = 0;
+const policyLeafPaths = [];
 
 function parseFrontMatter(markdown, relativePath) {
   const match = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---/);
@@ -66,27 +75,7 @@ function parseFrontMatter(markdown, relativePath) {
   return metadata;
 }
 
-function validIsoDate(value) {
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(value ?? "")) return false;
-  const parsed = new Date(`${value}T00:00:00Z`);
-  return (
-    !Number.isNaN(parsed.valueOf()) &&
-    parsed.toISOString().slice(0, 10) === value
-  );
-}
-
-function dateInTimeZone(date, timeZone) {
-  const parts = new Intl.DateTimeFormat("en-US", {
-    timeZone,
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  }).formatToParts(date);
-  const values = Object.fromEntries(parts.map((part) => [part.type, part.value]));
-  return `${values.year}-${values.month}-${values.day}`;
-}
-
-const validationDate = dateInTimeZone(new Date(), "Asia/Shanghai");
+const validationDate = dateInTimeZone();
 
 function bulletValues(markdown, label) {
   const escapedLabel = label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -104,19 +93,23 @@ function validateCountryPage(
   markdown,
   expectedStudyRoute = null,
 ) {
-  const relativePath = path.relative(root, readme);
+  const relativePath = path.relative(root, readme).split(path.sep).join("/");
+  policyLeafPaths.push(relativePath);
   const metadata = parseFrontMatter(markdown, relativePath);
   const isWarningPage = directory === "closed-paused-unverified";
   const activeStatuses = new Set(["current", "stale", "candidate-unverified"]);
 
-  for (const key of [
-    "title",
-    "category",
-    "status",
-    "last_verified",
-    "review_interval_days",
-  ]) {
+  for (const key of ["title", "category", "status"]) {
     if (!metadata[key]) failures.push(`Missing ${key}: ${relativePath}`);
+  }
+  for (const key of ["last_verified", "review_interval_days"]) {
+    if (Object.hasOwn(metadata, key)) {
+      failures.push(`Retired frontmatter field ${key}; use ${reviewStatePath}: ${relativePath}`);
+    }
+  }
+  const body = markdown.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/, "");
+  if (hasPageReviewDeclaration(body)) {
+    failures.push(`Policy page declares a review date; keep verification dates on the homepage: ${relativePath}`);
   }
   if (expectedStudyRoute) {
     for (const key of ["country", "route"]) {
@@ -141,20 +134,6 @@ function validateCountryPage(
       `Category mismatch ${metadata.category ?? "missing"}; expected ${expectedCategory}: ${relativePath}`,
     );
   }
-  if (!validIsoDate(metadata.last_verified)) {
-    failures.push(`Invalid last_verified ${metadata.last_verified ?? "missing"}: ${relativePath}`);
-  } else if (metadata.last_verified > validationDate) {
-    failures.push(
-      `Future last_verified ${metadata.last_verified} after ${validationDate}: ${relativePath}`,
-    );
-  }
-  const reviewInterval = Number(metadata.review_interval_days);
-  if (![30, 90, 180].includes(reviewInterval)) {
-    failures.push(
-      `Invalid review_interval_days ${metadata.review_interval_days ?? "missing"}: ${relativePath}`,
-    );
-  }
-
   const heading = markdown.match(/^#\s+(.+)$/m)?.[1]?.trim();
   if (heading !== metadata.title) {
     failures.push(
@@ -166,18 +145,9 @@ function validateCountryPage(
     if (metadata.status !== "archived-or-unverified") {
       failures.push(`Warning page must use archived-or-unverified: ${relativePath}`);
     }
-    if (reviewInterval !== 180) {
-      failures.push(`Warning page must use review_interval_days 180: ${relativePath}`);
-    }
   } else {
     if (!activeStatuses.has(metadata.status)) {
       failures.push(`Active category has non-active status ${metadata.status}: ${relativePath}`);
-    }
-    if (metadata.status === "candidate-unverified" && reviewInterval !== 180) {
-      failures.push(`Candidate page must use review_interval_days 180: ${relativePath}`);
-    }
-    if (["current", "stale"].includes(metadata.status) && ![30, 90].includes(reviewInterval)) {
-      failures.push(`${metadata.status} page must use review_interval_days 30 or 90: ${relativePath}`);
     }
     if (!metadata.region) failures.push(`Missing region: ${relativePath}`);
     if (!metadata.evidence) failures.push(`Missing evidence: ${relativePath}`);
@@ -194,12 +164,12 @@ function validateCountryPage(
       failures.push(`Candidate page is missing evidence warning: ${relativePath}`);
     }
     if (metadata.status === "stale") {
-      const expectedWarning = `> **复核警示：** 本页已超过复核周期。以下内容最后核验于 ${metadata.last_verified}；在完成主管机关复核前，不应视为当前开放规则。`;
+      const expectedWarning = "> **复核警示：** 本页尚未完成本轮月度复核；在完成主管机关复核前，不应视为当前开放规则。";
       if (!markdown.includes(expectedWarning)) {
         failures.push(`Stale page has a missing or non-standard 复核警示: ${relativePath}`);
       }
       const staleStatuses = bulletValues(markdown, "当前状态");
-      const expectedStatus = `待复核（最后核验：${metadata.last_verified}；原记录：开放）`;
+      const expectedStatus = "待复核（原记录：开放）";
       if (staleStatuses.some((value) => value !== expectedStatus)) {
         failures.push(`Stale page has a non-standard 当前状态 value: ${relativePath}`);
       }
@@ -229,7 +199,6 @@ function validateCountryPage(
           "关键限制与变化",
           "证据等级",
           "主要来源",
-          "本条核验日期",
         ]
       : [
           "当前状态",
@@ -244,7 +213,6 @@ function validateCountryPage(
           "关键限制与变化",
           "证据等级",
           "主要来源",
-          "本条核验日期",
         ];
     const programCount = bulletValues(markdown, "当前状态").length;
     if (!programCount) failures.push(`Active page has no program block: ${relativePath}`);
@@ -257,21 +225,6 @@ function validateCountryPage(
     }
     if (!/^## 纠错与更新$/m.test(markdown)) {
       failures.push(`Active page is missing 纠错与更新 section: ${relativePath}`);
-    }
-  }
-
-  const visibleDates = [
-    ...bulletValues(markdown, "本条核验日期"),
-    ...bulletValues(markdown, "核验日期"),
-  ];
-  if (!visibleDates.length) {
-    failures.push(`Missing visible verification date: ${relativePath}`);
-  }
-  for (const visibleDate of visibleDates) {
-    if (visibleDate !== metadata.last_verified) {
-      failures.push(
-        `Verification date mismatch ${visibleDate} != ${metadata.last_verified}: ${relativePath}`,
-      );
     }
   }
 
@@ -299,7 +252,6 @@ function validateCountryPage(
       "为什么不能按有效项目处理",
       "证据等级",
       "主要来源",
-      "核验日期",
     ];
     const programCount = bulletValues(markdown, "当前状态").length;
     if (!programCount) failures.push(`Warning page has no program block: ${relativePath}`);
@@ -415,11 +367,17 @@ for (const definition of categoryDefinitions) {
   }
 }
 
+try {
+  await loadReviewState(root, { leafPaths: policyLeafPaths, asOf: validationDate });
+} catch (error) {
+  failures.push(`Invalid monthly review state: ${error.message}`);
+}
+
 await walk(root);
 if (failures.length) {
   console.error(failures.join("\n"));
   process.exit(1);
 }
 console.log(
-  `Validation passed as of ${validationDate}: ${programPages} program pages; metadata, links, governance files, and public-artifact rules are consistent.`,
+  `Validation passed as of ${validationDate}: ${programPages} program pages; metadata, central monthly review state, homepage baseline, links, governance files, and public-artifact rules are consistent. No policy facts were reverified by this check.`,
 );

@@ -2,8 +2,6 @@
 title: "圣基茨和尼维斯"
 category: "投资入籍"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "加勒比"
 ---
@@ -28,7 +26,6 @@ region: "加勒比"
 - **关键限制与变化：** 强制面试；官方对推广、折扣和资金来源合规要求严格
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://ciu.gov.kn/cbi-options/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

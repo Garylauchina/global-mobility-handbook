@@ -2,8 +2,6 @@
 title: "冰岛"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 冰岛
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 不要继续引用旧ISK1m/月、90–180日方案
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://island.is/en/short-term-residence-permit)
-- **核验日期：** 2026-09-02

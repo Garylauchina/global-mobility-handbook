@@ -2,8 +2,6 @@
 title: "卢旺达"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "非洲"
 ---
@@ -28,7 +26,6 @@ region: "非洲"
 - **关键限制与变化：** 公开透明度较低；先取得移民机关书面材料清单
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.migration.gov.rw/index.php?L=2&id=66)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

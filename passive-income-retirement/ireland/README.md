@@ -2,8 +2,6 @@
 title: "爱尔兰"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 不得依赖公共福利/公立医院；不是永居路径
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.irishimmigration.ie/coming-to-live-in-ireland/i-want-to-retire-to-ireland/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

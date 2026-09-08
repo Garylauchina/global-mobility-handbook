@@ -2,8 +2,6 @@
 title: "加拿大"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 加拿大
@@ -19,7 +17,6 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 当前不存在联邦被动投资换PR
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.canada.ca/en/news/archive/2014/06/termination-federal-immigrant-investor-entrepreneur-programs.html)
-- **核验日期：** 2026-09-02
 
 ## Start-up Visa
 
@@ -28,4 +25,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 新的高影响创业试点尚未开放
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/about.html)
-- **核验日期：** 2026-09-02

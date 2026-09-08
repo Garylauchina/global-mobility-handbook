@@ -2,8 +2,6 @@
 title: "柬埔寨"
 category: "投资入籍"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "B"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 现行核心依据为2018年《国籍法》和第225号实施次法令；公开材料以高棉文扫描件为主，申请条件和审批具有裁量性，因此维持B级
 - **证据等级：** B
 - **主要来源：** [内政部2018年《国籍法》](https://web-storage.interior.gov.kh/storage/doc/1597337540.pdf)；[内政部第225号次法令](https://web-storage.interior.gov.kh/document/moi-20260122041042uumTBuZBOOfq.pdf)；[内政部法规目录](https://interior.gov.kh/law_and_regulation/8ROVZv2jy23R)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -40,8 +37,7 @@ region: "亚洲"
 - **变化摘要：** 本站原页引用1996年旧法及KHR1.25bn/KHR1bn数字；现按2018年《国籍法》第21—22条及第225号次法令，改为投资至少KHR4bn、合法居住至少12个月，或捐款至少KHR12bn、合法居住至少6个月
 - **过渡安排：** 这是本站资料更正，不把旧页数字的替换日期推定为柬埔寨政策生效日；存量个案须向主管机关核实
 - **官方依据：** [2018年《国籍法》](https://web-storage.interior.gov.kh/storage/doc/1597337540.pdf)；[第225号次法令](https://web-storage.interior.gov.kh/document/moi-20260122041042uumTBuZBOOfq.pdf)
-- **本站核验：** 2026-09-02（证据B）
-
+- **事件证据：** B
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

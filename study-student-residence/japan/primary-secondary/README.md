@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "日本"
 route: "primary-secondary"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "亚洲"
 ---
@@ -36,7 +34,6 @@ region: "亚洲"
 
   降级原因：在留资格、年龄、照护和材料有全国官方依据；但中小学录取、学费、语言支持和未成年照护执行由地方、学校和个案决定，官方也未公布全国统一的资金数字或父母陪读身份。
 - **主要来源：** [出入国在留管理厅“留学”在留资格](https://www.moj.go.jp/isa/applications/status/student.html)；[e-Gov 留学上陆许可基准省令](https://laws.e-gov.go.jp/law/402M50000010016)；[高中、初中和小学当前 COE 材料清单](https://www.moj.go.jp/isa/content/001463593.pdf)；[K–12 当前在留期间更新材料清单](https://www.moj.go.jp/isa/content/001463625.pdf)；[外务省留学签证与 COE](https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html)；[在留期间更新](https://www.moj.go.jp/isa/applications/procedures/16-3.html)；[转学申报问答](https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html)；[留学资格的资格外活动许可](https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html)；[“家族滞在”在留资格](https://www.moj.go.jp/isa/applications/status/dependent.html)；[高中毕业的家族滞在者就业处理](https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00122)；[厚生劳动省儿童最低就业年龄](https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_7.html)；[厚生劳动省《劳动基准法》](https://www.mhlw.go.jp/web/t_doc?dataId=73022000)；[在留许可费用改革](https://www.moj.go.jp/isa/01_00644.html)；[线上费用与支付方式](https://www.moj.go.jp/isa/11_00107.html)；[永住许可指南](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html)；[永住最长期间变化公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)；[法务省国籍问答](https://www.moj.go.jp/MINJI/minji78)；[国税厅居民与非居民区分](https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm)
-- **本条核验日期：** 2026-09-02
 
 ## 已在日外国儿童公立义务教育入学（非签证路线）
 
@@ -56,7 +53,6 @@ region: "亚洲"
 
   降级原因：文部科学省直接证明全国入学原则和免费边界；但学校指定、年级、语言支持、资助、高中选拔及没有住民票时的居住核验由地方执行，不能从中央原则推出一套全国统一手续。
 - **主要来源：** [文部科学省外国儿童就学手续原则](https://www.mext.go.jp/a_menu/shotou/shugaku/detail/1422256.htm)；[文部科学省外国儿童公立学校入学问答](https://www.mext.go.jp/a_menu/shotou/clarinet/004/005.htm)；[文部科学省 2026 外国儿童就学指针](https://www.mext.go.jp/a_menu/shotou/clarinet/004/1415154_00018.html)；[外国儿童日本学校就学指南](https://www.mext.go.jp/content/20220506-mxt_kouhou02-000022321_1.pdf)；[e-Gov《学校教育法》](https://laws.e-gov.go.jp/law/322AC0000000026)；[文部科学省高中入学资格](https://www.mext.go.jp/a_menu/shotou/kaikaku/sikaku/1311004.htm)；[“家族滞在”在留资格](https://www.moj.go.jp/isa/applications/status/dependent.html)；[高中毕业的家族滞在者就业处理](https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00122)；[资格外活动许可](https://www.moj.go.jp/isa/applications/guide/nyuukokukanri07_00045)；[监理措置与个别工作许可](https://www.moj.go.jp/isa/08_00045.html)；[仮放免制度](https://www.moj.go.jp/isa/08_00050.html)；[厚生劳动省儿童最低就业年龄](https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_7.html)；[厚生劳动省《劳动基准法》](https://www.mhlw.go.jp/web/t_doc?dataId=73022000)；[在留许可费用改革](https://www.moj.go.jp/isa/01_00644.html)；[线上费用与支付方式](https://www.moj.go.jp/isa/11_00107.html)；[永住许可指南](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html)；[永住最长期间变化公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)；[法务省国籍问答](https://www.moj.go.jp/MINJI/minji78)；[国税厅居民与非居民区分](https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -68,16 +64,14 @@ region: "亚洲"
 - **变化摘要：** 在留资格变更、在留期间更新和永住许可费用调整；变更与更新改为按实际获准的在留期间分档，线上申请还须支付指定结算手续费并改用官方列明的支付方式。该变化不是公立学校入学费，也不改变教育准入。
 - **过渡安排：** 2026-09-30 或之前受理的申请，即使在 2026-10-01 后获批，仍适用改定前费用；具体金额须按届时获准期间、窗口或线上方式以及是否符合减免条件核对官方表。
 - **官方依据：** [入管厅费用改革公告](https://www.moj.go.jp/isa/01_00644.html)；[线上费用与支付方式](https://www.moj.go.jp/isa/11_00107.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2027-04-01 — 永住申请最长在留期间规则将调整
 
 - **公布与生效：** 2026-02-24 公布，2027-04-01 生效。
 - **变化摘要：** 永住申请原则上须实际持有相应身份的最长在留期间，3 年期间不再普遍视同“最长期间”。该变化不使中小学或公立学校经历本身成为永住资格。
 - **过渡安排：** 2027-03-31 当日已持 3 年期间者，如在该期间内获处理，其首次申请仍可按满足“最长期间”处理。
 - **官方依据：** [入管厅永住许可程序公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

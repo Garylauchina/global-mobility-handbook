@@ -2,8 +2,6 @@
 title: "巴拿马"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "中美洲"
 ---
@@ -28,7 +26,6 @@ region: "中美洲"
 - **关键限制与变化：** 并非所有房地产/证券都合格；须经获准银行/券商和资金来源审查
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.migracion.gob.pa/wp-content/uploads/DECRETO_EJECUTIVO_722.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

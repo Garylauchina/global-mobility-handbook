@@ -2,8 +2,6 @@
 title: "日本"
 category: "创业与经营居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -30,7 +28,6 @@ region: "亚洲"
 - **关键限制与变化：** 合资格全职员工范围有限，普通工作签证外国员工不当然计入；未满足2025新标准者原则上不能转相应高度专业职或获批永住，真实经营和合规比单纯注资更关键
 - **证据等级：** A
 - **主要来源：** [入管厅2025改革说明](https://www.moj.go.jp/isa/applications/resources/10_00237.html)；[经营・管理当前申请页](https://www.moj.go.jp/isa/applications/status/businessmanager.html)；[永住许可指南](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -42,16 +39,14 @@ region: "亚洲"
 - **变化摘要：** 新增或提高¥30m经营资产、至少1名合资格全职员工、学历/经验、日语B2及商业计划专业确认等标准
 - **过渡安排：** 改革前既有或已申请者设约3年续签过渡；2028-10-16后的个案仍按官方所列经营、纳税和预期达标情况综合审查
 - **官方依据：** [入管厅改革概要](https://www.moj.go.jp/isa/content/001448070.pdf)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ### 2027-04-01 — 永住申请最长在留期间规则将调整
 
 - **公布与生效：** 2026-02-24公布，2027-04-01生效
 - **变化摘要：** 永住申请原则上须实际持有相应身份的最长在留期间，3年期限不再普遍视同“最长期间”
 - **过渡安排：** 2027-03-31已持3年期限者适用官方公告的一次性过渡处理
 - **官方依据：** [入管厅永住许可程序公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

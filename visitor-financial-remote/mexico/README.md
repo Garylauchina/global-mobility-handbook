@@ -2,8 +2,6 @@
 title: "墨西哥"
 category: "访客或财力型远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "北美"
 ---
@@ -28,7 +26,6 @@ region: "北美"
 - **关键限制与变化：** 各领馆金额和计算期不同，必须按递交领馆确认
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.miconsulado.sre.gob.mx/visasmexicanas/visa/visa-de-residencia-temporal/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

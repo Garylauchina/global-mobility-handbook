@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "新西兰"
 route: "primary-secondary"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "大洋洲"
 ---
@@ -29,10 +27,9 @@ region: "大洋洲"
 - **毕业后或升学路径：** 小学、初中或高中学籍及毕业证书不产生 Post Study Work Visa 资格或普通工作身份。升入大学须另获批准高等教育机构录取，并在开课前取得覆盖新机构、课程及资金条件的学生签证。日后是否获得 PSWV 只按新西兰完成的合资格高等教育资格、层级、境内学习时间和当时规则另行判断。
 - **永居或入籍边界：** Fee Paying Student Visa、Guardian Visitor Visa、新西兰中小学学籍和毕业证书都不直接产生居民签证、父母居留身份或入籍资格。日后必须依自身的工作、家庭或其他独立居民类别申请。普通入籍到场要求通常是申请前 5 年持允许无限期居留的身份，每个 12 个月至少在境 240 天、五年合计至少 1,350 天；仅持学生或监护人访客签证的日数不是“允许无限期居留”日数。
 - **税务提示：** 孩子的学生签证和家长的 Guardian Visitor Visa 不会直接决定任何一方的税务居民身份。IRD 一般按每个人的到场日数和 permanent place of abode 分别判断；在任一 12 个月内超过 183 天可能自该段第一个到场日起成为新西兰税务居民，但须同时核对 2026 年起的 non-resident visitor 特例和税收协定。成为税务居民后通常须申报全球收入；陪读家长的境外远程工作、工资和家庭境外收入应独立获取税务意见。
-- **关键限制与变化：** 未满 10 岁学生的同住父母或 legal guardian 要求、17 岁或以下学生的 Code 住宿确认、学校的安全照护义务和个人签证条件须同时满足；新西兰不存在可用任意亲属替代 legal guardian 的统一“陪读人”答案。学校是 Code 签署机构不代表必然录取、也不代表学费、住宿、保险和年级安排全国统一。工作权只适用于年满 16 岁的 12–13 年级等狭窄情形，不能把 25 小时上限写成所有中小学生的普遍权利。资金标准、工作时数和签证条件属动态规则，须按 30 天周期复核。
+- **关键限制与变化：** 未满 10 岁学生的同住父母或 legal guardian 要求、17 岁或以下学生的 Code 住宿确认、学校的安全照护义务和个人签证条件须同时满足；新西兰不存在可用任意亲属替代 legal guardian 的统一“陪读人”答案。学校是 Code 签署机构不代表必然录取、也不代表学费、住宿、保险和年级安排全国统一。工作权只适用于年满 16 岁的 12–13 年级等狭窄情形，不能把 25 小时上限写成所有中小学生的普遍权利。资金标准、工作时数和签证条件属动态规则，纳入每月内容复核。
 - **证据等级：** A
 - **主要来源：** [INZ Fee Paying Student Visa](https://www.immigration.govt.nz/visas/fee-paying-student-visa/)；[INZ 录取信与批准机构](https://www.immigration.govt.nz/study/for-education-providers/offering-a-place-to-a-student/)；[新西兰教育部海外学生入学规则](https://www.education.govt.nz/education-professionals/schools-year-0-13/enrolment/enrolling-students-overseas)；[NZQA 学生照护守则](https://www2.nzqa.govt.nz/tertiary/the-code/)；[NZQA 学校签署机构与未满 10 岁规则](https://www2.nzqa.govt.nz/tertiary/the-code/the-code-for-education-providers/code-resources-for-school-signatories/)；[INZ 学生签证工作权](https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/)；[INZ 查看或变更学生签证条件](https://www.immigration.govt.nz/study/once-you-have-a-student-visa/check-or-change-your-student-visa-conditions/)；[INZ Guardian Visitor Visa](https://www.immigration.govt.nz/visas/guardian-visitor-visa/)；[INZ Dependent Child Student Visa](https://www.immigration.govt.nz/visas/dependent-child-student-visa/)；[IRD 个人税务居民](https://www.ird.govt.nz/topics/tax-residency/tax-residency-status)；[IRD 新西兰税务居民](https://www.ird.govt.nz/international/individuals/tax-for-new-zealand-tax-residents)；[新西兰政府入籍到场要求](https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -44,8 +41,7 @@ region: "大洋洲"
 - **变化摘要：** 符合年龄、年级、学校及父母或法律监护人书面同意要求的 12–13 年级学生，学期工作上限由每周 20 小时提高为 25 小时；该变化没有为小学生或普通 1–11 年级学生新设工作权。
 - **过渡安排：** 2025-11-03 或之后批准的合资格新学生签证按新上限签发；现有签证如仍写 20 小时，须申请 variation of conditions 或新学生签证，不自动改为 25 小时。
 - **官方依据：** [INZ 学生签证工作权变更公告](https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-student-visa-work-rights/)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

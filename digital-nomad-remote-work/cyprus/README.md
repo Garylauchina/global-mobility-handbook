@@ -2,8 +2,6 @@
 title: "塞浦路斯"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 签证不等于免税；60/183日等税籍另判
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.moi.gov.cy/dmmip/md.nsf/All/AAEAEA2695E7E270C2258921002C2FB4/%24file/Accompanying%20Documents_VIS%20Digital%20Nomad_19032025.pdf?OpenElement=)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

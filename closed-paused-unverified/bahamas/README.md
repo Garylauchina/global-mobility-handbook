@@ -2,8 +2,6 @@
 title: "巴哈马"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 巴哈马
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 不要按旧1年远程工作项目继续推广
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.immigration.gov.bs/wp-content/uploads/2023/09/Annual-Report-2022.pdf)
-- **核验日期：** 2026-09-02

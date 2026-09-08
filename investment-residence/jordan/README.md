@@ -2,8 +2,6 @@
 title: "约旦"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "中东"
 ---
@@ -28,7 +26,6 @@ region: "中东"
 - **关键限制与变化：** 2026新规刚调整，房产区域与来源须确认
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://petra.gov.jo/candid/htdocs/index.php/en/news/government-revamps-investor-citizenship-rules-to-funnel-capital-into-provinces)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

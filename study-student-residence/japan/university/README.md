@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "日本"
 route: "university"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -34,7 +32,6 @@ region: "亚洲"
 - **关键限制与变化：** COE 是日本入管机关对拟从事活动及上陆条件的预审证明，不是签证或入境保证。院校是否属入管厅的适正校类别会影响申请文件，但不是院校排名或学位就业保证。资金、院校名单、语言与入学条件、签证领区文件、在留期间和资格外活动都须在申请时根据个人情况刷新；本页所列 JASSO 生活费是调查平均值，不能被写成签证“最低存款”。2026-10-01 费用改革和 2027-04-01 永住最长期间变化均为已确定的未来规则，不应提前写成当前门槛，也不应忽略其申请受理日与过渡安排。
 - **证据等级：** A
 - **主要来源：** [出入国在留管理厅“留学”在留资格](https://www.moj.go.jp/isa/applications/status/student.html)；[外务省留学签证与 COE](https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html)；[大学留学 COE 当前材料示例](https://www.moj.go.jp/isa/content/001463586.pdf)；[文部科学省大学入学资格](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/1373912.html)；[JASSO 官方本科与短大学信息](https://www.studyinjapan.go.jp/en/planning/learn-about-schools/universities/)；[JASSO 学费规划](https://www.studyinjapan.go.jp/en/planning/academic-fees/)；[JASSO 生活费调查](https://www.studyinjapan.go.jp/en/life/cost-of-living/)；[在留期间更新](https://www.moj.go.jp/isa/applications/procedures/16-3.html)；[转学与毕业后身份问答](https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html)；[留学资格的资格外活动许可](https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html)；[“家族滞在”在留资格](https://www.moj.go.jp/isa/applications/status/dependent.html)；[毕业后继续求职“特定活动”](https://www.moj.go.jp/isa/applications/status/designatedactivities14.html)；[留学生就业手续](https://www.moj.go.jp/isa/publications/materials/10_00015.html)；[在留许可费用改革](https://www.moj.go.jp/isa/01_00644.html)；[线上费用与支付方式](https://www.moj.go.jp/isa/11_00107.html)；[永住许可指南](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html)；[永住最长期间变化公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)；[法务省国籍问答](https://www.moj.go.jp/MINJI/minji78)；[国税厅居民与非居民区分](https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -46,16 +43,14 @@ region: "亚洲"
 - **变化摘要：** 在留资格变更、在留期间更新和永住许可费用调整；变更与更新改为按实际获准的在留期间分档，线上申请还须支付指定结算手续费并改用官方列明的支付方式。
 - **过渡安排：** 2026-09-30 或之前受理的申请，即使在 2026-10-01 后获批，仍适用改定前费用；具体金额须按届时获准期间、窗口或线上方式以及是否符合减免条件核对官方表。
 - **官方依据：** [入管厅费用改革公告](https://www.moj.go.jp/isa/01_00644.html)；[线上费用与支付方式](https://www.moj.go.jp/isa/11_00107.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2027-04-01 — 永住申请最长在留期间规则将调整
 
 - **公布与生效：** 2026-02-24 公布，2027-04-01 生效。
 - **变化摘要：** 永住申请原则上须实际持有相应身份的最长在留期间，3 年期间不再普遍视同“最长期间”。
 - **过渡安排：** 2027-03-31 当日已持 3 年期间者，如在该期间内获处理，其首次申请仍可按满足“最长期间”处理。
 - **官方依据：** [入管厅永住许可程序公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

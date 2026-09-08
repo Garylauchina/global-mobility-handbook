@@ -2,8 +2,6 @@
 title: "荷兰"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 荷兰
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 仅处理合格存量续签
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://ind.nl/en/documents/06-2024/business-newsletter-21-may-2024.pdf)
-- **核验日期：** 2026-09-02

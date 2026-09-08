@@ -2,8 +2,6 @@
 title: "马耳他"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 授权远程收入可能适用10%专项规则并有首12月条件性豁免
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://nomad.residencymalta.gov.mt/wp-content/uploads/2024/04/Nomad-FAQs-v.12.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

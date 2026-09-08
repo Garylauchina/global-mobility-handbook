@@ -2,8 +2,6 @@
 title: "希腊"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 商改住须在2024-04-05后且递件前完成用途变更；受保护建筑和新法物业另有修复、短租/转租及用途限制。本文只覆盖第100条B.5房地产路线，不代表希腊全部投资居留类别
 - **证据等级：** A
 - **主要来源：** [国家行政程序登记：商改住](https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance)；[移民部第9号通知](https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf)；[AADE税务居民规则](https://www.aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

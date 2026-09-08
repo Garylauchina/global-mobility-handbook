@@ -2,8 +2,6 @@
 title: "新西兰"
 category: "访客或财力型远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "大洋洲"
 ---
@@ -28,7 +26,6 @@ region: "大洋洲"
 - **关键限制与变化：** 自2025-01-27后适用；访问仍须是主要目的
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.immigration.govt.nz/visit/checking-or-changing-the-conditions-of-your-visitor-visa-or-nzeta/working-remotely-in-new-zealand-on-a-visitor-visa/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

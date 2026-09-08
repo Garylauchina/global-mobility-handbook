@@ -2,8 +2,6 @@
 title: "巴林"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "中东"
 ---
@@ -28,7 +26,6 @@ region: "中东"
 - **关键限制与变化：** 政府页面存在门槛冲突；递件前必须向NPRA书面确认
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://goldenresidency.gov.bh/eligibility-criteria/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

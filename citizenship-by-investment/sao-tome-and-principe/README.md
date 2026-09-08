@@ -2,8 +2,6 @@
 title: "圣多美和普林西比"
 category: "投资入籍"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "非洲"
 ---
@@ -28,7 +26,6 @@ region: "非洲"
 - **关键限制与变化：** 2025年生效，执行历史短；处理能力、依亲护照和多国籍限制仍在演变，须核验授权代理和最新规则
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://cip.gov.st/about-the-program)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

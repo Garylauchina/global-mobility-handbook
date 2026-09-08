@@ -2,8 +2,6 @@
 title: "塞浦路斯"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 塞浦路斯
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 现行€300k项目只是投资永居，不是护照
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://cipregistry.mof.gov.cy/en/)
-- **核验日期：** 2026-09-02

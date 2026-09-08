@@ -2,8 +2,6 @@
 title: "加拿大"
 category: "访客或财力型远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "北美"
 ---
@@ -28,7 +26,6 @@ region: "北美"
 - **关键限制与变化：** 不是独立数字游民签证；访问目的仍须真实
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/tech-talent.html)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

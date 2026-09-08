@@ -2,8 +2,6 @@
 title: "南非"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "非洲"
 ---
@@ -28,7 +26,6 @@ region: "非洲"
 - **关键限制与变化：** 官方金额冲突，递件地必须书面确认
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.gov.za/documents/notices/immigration-act-minimum-amounts-payment-month-pension-or-irrevocable-annuity-or)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

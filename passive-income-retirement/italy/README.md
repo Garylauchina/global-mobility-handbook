@@ -2,8 +2,6 @@
 title: "意大利"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 领馆金额不是全国统一单一数字；递件地口径优先
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://ambtashkent.esteri.it/wp-content/uploads/2026/03/Residenza-elettiva_IT.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -2,8 +2,6 @@
 title: "塞舌尔"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 塞舌尔
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 主表标为需书面确认，不能自行补第三方数字
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://seychelles.govtas.com/en/workcation)
-- **核验日期：** 2026-09-02

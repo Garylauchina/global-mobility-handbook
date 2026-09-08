@@ -6,7 +6,7 @@ Read this reference before creating or reviewing a study-category index or polic
 
 - Record immigration status tied to formal education: admission-linked permission, financial proof, validity and renewal, study conditions, work rights, dependants, guardianship, progression or post-study status, and long-term-status boundaries.
 - Do not add school rankings or directories, admissions odds, application essays, course reviews, scholarship recommendations, education-agent services, or a cross-country comparison table.
-- Use the registered hierarchy `study-student-residence/<country>/<route>/README.md`. The category and country `README.md` files are structural indexes without policy frontmatter or verification dates. Every route leaf has independent metadata and enters the freshness queue separately.
+- Use the registered hierarchy `study-student-residence/<country>/<route>/README.md`. The category and country `README.md` files are structural indexes without policy frontmatter. Each route leaf has independent metadata and a central review record; follow the repository [update policy](../../../../UPDATE_POLICY.md).
 - Keep the category index, country index, actual directories, and generated navigation synchronized through `scripts/content-tree.mjs` and `scripts/generate-site-config.mjs`.
 
 ## Evidence boundaries
@@ -19,7 +19,7 @@ Read this reference before creating or reviewing a study-category index or polic
 
 ## Leaf metadata and fields
 
-In addition to the standard active-page frontmatter, require `country` and a stable directory-matched `route` slug. Dynamic financial thresholds, caps, or rapidly changing work/post-study rules normally require `review_interval_days: 30`.
+In addition to the standard active-page frontmatter, require `country` and a stable directory-matched `route` slug. Use the same central monthly review cadence as every other category.
 
 Each program block uses this order:
 
@@ -37,15 +37,14 @@ Each program block uses this order:
 12. `关键限制与变化`
 13. `证据等级`
 14. `主要来源`
-15. `本条核验日期`
 
 Use “不适用” or a precise negative boundary when a field does not confer a benefit; never leave it blank. Keep material changes in the route page's policy timeline under the repository timeline rules.
 
 ## Closure and reopening
 
 - Do not move a closed third-level route leaf directly to `closed-paused-unverified/<country>/README.md`; that path may already contain other historical programs.
-- After positive official evidence of closure, pause, or replacement, convert the route into a distinct program block on the existing warning-archive country page, or create that country page if absent. Never overwrite an existing block. Review every block on the warning page before advancing its shared page-level date.
-- In the same change, remove the active route leaf from its country index, update all affected indexes and generated navigation, and record the transition in `CHANGELOG.md`. Preserve the former route name, old and new status, announcement and effective dates, transition treatment, sources, evidence grade, and verification date in the warning block.
+- After positive official evidence of closure, pause, or replacement, convert the route into a distinct program block on the existing warning-archive country page, or create that country page if absent. Never overwrite an existing block. Review every block on the warning page before advancing its shared central review record.
+- In the same change, remove the active route leaf from its country index, update central review paths, all affected indexes and generated navigation, and record the transition in `CHANGELOG.md`. Preserve the former route name, old and new status, announcement and effective dates, transition treatment, sources and evidence grade in the warning block; retain site review history in central records and Git.
 - A later reopening creates or restores a current route leaf only with a current application path and sufficient official evidence. Keep the historical warning block as history unless a separately justified correction is appended.
 
 ## Review focus by education level

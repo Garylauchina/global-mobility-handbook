@@ -2,8 +2,6 @@
 title: "多米尼克"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "加勒比"
 ---
@@ -28,7 +26,6 @@ region: "加勒比"
 - **关键限制与变化：** 与多米尼克投资入籍为完全不同产品
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://windominica.gov.dm/component/content/category/8-program-details)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

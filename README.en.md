@@ -4,9 +4,16 @@ A Chinese-language, source-first public handbook covering citizenship by investm
 
 [Read and search the published handbook](https://garylauchina.github.io/global-mobility-handbook/)
 
-**Initial full-handbook research cut-off: 2026-09-02. Current validity is determined page by page from `last_verified` and status.** Programs are organized by route type first and country or territory second; a registered third-level route leaf is used when subroutes need independent evidence and review dates. The repository intentionally contains no global comparison table, ranking, success-rate claim, visa-free score, affiliate link, or personalized recommendation.
+Programs are organized by route type first and country or territory second; a registered third-level route leaf is used when subroutes need independent evidence. The repository intentionally contains no global comparison table, ranking, success-rate claim, visa-free score, affiliate link, or personalized recommendation.
 
-Each policy page records route-appropriate eligibility, status and duration, renewal rules, work rights, dependants, long-term path, tax caution, key limitations, evidence grade, source URLs, and verification date. Study pages cover immigration status rather than school rankings, admissions strategy, scholarships, or education-agent services.
+## Content review and updates
+
+- **Update frequency:** Once a month, covering all route categories.
+- **Last full content review baseline:** 2026-09-02
+
+Review dates are stated on the project homepage. Individual pages retain program status, evidence grades, and official sources. The baseline advances only after a full review of core policy claims against official sources. Formatting, maintenance-rule changes, and site deployment do not count as a content review. Partial updates appear in the [changelog](./CHANGELOG.md) without changing the full-review baseline.
+
+Each policy page records route-appropriate eligibility, status and duration, renewal rules, work rights, dependants, long-term path, tax caution, key limitations, evidence grade, and source URLs. Study pages cover immigration status rather than school rankings, admissions strategy, scholarships, or education-agent services.
 
 This repository is educational only. It is not legal, tax, investment, real-estate, nationality, or financial advice. Always refresh the competent authority's rules before applying or paying.
 

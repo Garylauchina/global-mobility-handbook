@@ -2,8 +2,6 @@
 title: "印度尼西亚"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 印度尼西亚
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 不要引用市场常见US$60k等未被官网确认数字
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G)
-- **核验日期：** 2026-09-02

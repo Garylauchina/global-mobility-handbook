@@ -2,8 +2,6 @@
 title: "格林纳达"
 category: "投资入籍"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "加勒比"
 ---
@@ -28,7 +26,6 @@ region: "加勒比"
 - **关键限制与变化：** 不得折扣；须核验获批项目、面试和资金来源
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://imagrenada.gd/citizenship-by-investment/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -2,8 +2,6 @@
 title: "纳米比亚"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 纳米比亚
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 私人地产营销不等于全国正式移民计划
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.nipdb.com/_files/ugd/77942a_58003f78a3204033bc0385a8cd4b97f4.pdf)
-- **核验日期：** 2026-09-02

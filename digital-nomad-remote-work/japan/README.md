@@ -2,8 +2,6 @@
 title: "日本"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 仅适用于合资格免签/税收协定国籍
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

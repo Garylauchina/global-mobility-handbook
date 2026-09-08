@@ -2,8 +2,6 @@
 title: "泰国"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 保险、存款替代和投资类型须按BOI规则
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://ltr.boi.go.th/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

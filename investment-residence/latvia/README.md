@@ -2,8 +2,6 @@
 title: "拉脱维亚"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 俄/白俄国民及关联资金受更强限制；各路线附加政府款
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.pmlp.gov.lv/en/how-long-may-residence-permit-be-issued-0)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

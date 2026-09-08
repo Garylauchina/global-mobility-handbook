@@ -2,8 +2,6 @@
 title: "哥斯达黎加"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "中美洲"
 ---
@@ -28,7 +26,6 @@ region: "中美洲"
 - **关键限制与变化：** 家属收入门槛存在官方页面差异；须书面确认
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.visitcostarica.com/digital-nomads)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

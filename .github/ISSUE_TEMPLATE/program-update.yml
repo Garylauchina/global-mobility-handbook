@@ -19,7 +19,7 @@ body:
     id: change
     attributes:
       label: What changed?
-      description: State the old rule, new rule, and effective date.
+      description: State the old rule, new rule, official publication and effective dates, and any transitional arrangements. Distinguish a factual correction from a policy change.
     validations:
       required: true
   - type: input
@@ -28,6 +28,11 @@ body:
       label: Competent authority or legal source URL
     validations:
       required: true
+  - type: textarea
+    id: review_scope
+    attributes:
+      label: Sources checked and review scope
+      description: Record actual source access dates and which facts you checked here. Maintainers advance central review records only after full-page review; policy pages do not display site verification dates.
   - type: checkboxes
     id: integrity
     attributes:

@@ -7,6 +7,13 @@ import {
   categoryDefinitions,
   enumerateCategory,
 } from "./content-tree.mjs";
+import {
+  addCalendarMonth,
+  dateInTimeZone,
+  loadReviewState,
+  monthlyReviewIsDue,
+  parseIsoDate,
+} from "./review-state.mjs";
 
 const repositoryRoot = path.resolve(
   path.dirname(fileURLToPath(import.meta.url)),
@@ -36,6 +43,9 @@ function parseArguments(argv) {
     }
     else if (argument === "--as-of") {
       options.asOf = argv[index + 1];
+      if (!options.asOf || options.asOf.startsWith("--")) {
+        throw new Error("--as-of requires a YYYY-MM-DD value");
+      }
       index += 1;
     } else if (argument === "--help") {
       console.log(
@@ -50,17 +60,6 @@ function parseArguments(argv) {
     throw new Error("Use either --strict or --check-public-status, not both.");
   }
   return options;
-}
-
-function parseIsoDate(value, label) {
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(value ?? "")) {
-    throw new Error(`${label} must use YYYY-MM-DD: ${value ?? "missing"}`);
-  }
-  const parsed = new Date(`${value}T00:00:00Z`);
-  if (Number.isNaN(parsed.valueOf()) || parsed.toISOString().slice(0, 10) !== value) {
-    throw new Error(`${label} is not a valid date: ${value}`);
-  }
-  return parsed;
 }
 
 function frontMatter(markdown, relativePath) {
@@ -83,72 +82,36 @@ function frontMatter(markdown, relativePath) {
   return metadata;
 }
 
-function reviewRule(metadata, relativePath) {
-  if (!allowedStatuses.has(metadata.status)) {
-    throw new Error(`${relativePath} has invalid status ${metadata.status ?? "missing"}`);
-  }
-  const interval = Number(metadata.review_interval_days);
-  if (![30, 90, 180].includes(interval)) {
-    throw new Error(
-      `${relativePath} has invalid review_interval_days ${metadata.review_interval_days ?? "missing"}`,
-    );
-  }
-  if (
-    ["candidate-unverified", "archived-or-unverified"].includes(metadata.status) &&
-    interval !== 180
-  ) {
-    throw new Error(`${relativePath} ${metadata.status} must use a 180-day interval`);
-  }
-  if (["current", "stale"].includes(metadata.status) && ![30, 90].includes(interval)) {
-    throw new Error(`${relativePath} ${metadata.status} must use a 30- or 90-day interval`);
-  }
-  return { interval, reason: "frontmatter" };
-}
-
-function formatDate(date) {
-  return date.toISOString().slice(0, 10);
-}
-
-function dateInTimeZone(date, timeZone) {
-  const parts = new Intl.DateTimeFormat("en-US", {
-    timeZone,
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  }).formatToParts(date);
-  const values = Object.fromEntries(parts.map((part) => [part.type, part.value]));
-  return `${values.year}-${values.month}-${values.day}`;
-}
-
 const options = parseArguments(process.argv.slice(2));
-const today = dateInTimeZone(new Date(), "Asia/Shanghai");
+const today = dateInTimeZone();
 const asOfValue = options.asOf ?? today;
 const asOf = parseIsoDate(asOfValue, "--as-of");
 const rows = [];
+const trees = await Promise.all(categoryDefinitions.map((definition) =>
+  enumerateCategory(repositoryRoot, definition)));
+const reviewState = await loadReviewState(repositoryRoot, {
+  asOf: asOfValue,
+  leafPaths: trees.flatMap((tree) => tree.leaves.map((leaf) =>
+    path.relative(repositoryRoot, leaf.readmePath).split(path.sep).join("/"))),
+});
 
-for (const definition of categoryDefinitions) {
-  const tree = await enumerateCategory(repositoryRoot, definition);
+for (const tree of trees) {
   for (const { readmePath, markdown } of tree.leaves) {
-    const relativePath = path.relative(repositoryRoot, readmePath);
+    const relativePath = path.relative(repositoryRoot, readmePath).split(path.sep).join("/");
     const metadata = frontMatter(markdown, relativePath);
-    const verified = parseIsoDate(metadata.last_verified, `${relativePath} last_verified`);
-    if (verified.valueOf() > asOf.valueOf()) {
-      throw new Error(
-        `${relativePath} last_verified ${metadata.last_verified} is later than audit date ${asOfValue}`,
-      );
+    if (!allowedStatuses.has(metadata.status)) {
+      throw new Error(`${relativePath} has invalid status ${metadata.status ?? "missing"}`);
     }
-    const { interval, reason } = reviewRule(metadata, relativePath);
-    const due = new Date(verified.valueOf() + interval * millisecondsPerDay);
+    const reviewed = reviewState.page_reviews[relativePath];
+    const verified = parseIsoDate(reviewed);
     const ageDays = Math.floor((asOf.valueOf() - verified.valueOf()) / millisecondsPerDay);
     rows.push({
       path: relativePath,
       status: metadata.status,
-      interval,
-      reason,
-      verified: metadata.last_verified,
-      due: formatDate(due),
+      reviewed,
+      due: addCalendarMonth(reviewed),
       ageDays,
-      isDue: metadata.status === "stale" || asOf.valueOf() >= due.valueOf(),
+      isDue: monthlyReviewIsDue(reviewed, asOfValue, metadata.status),
     });
   }
 }
@@ -159,26 +122,20 @@ rows.sort((left, right) =>
 const dueRows = rows.filter((row) => row.isDue);
 const overdueCurrentRows = dueRows.filter((row) => row.status === "current");
 const visibleRows = options.all ? rows : dueRows;
-const intervalCounts = new Map(
-  [30, 90, 180].map((interval) => [
-    interval,
-    rows.filter((row) => row.interval === interval).length,
-  ]),
-);
-
 console.log(
-  `Freshness audit as of ${asOfValue}: ${dueRows.length} due of ${rows.length} pages, ${overdueCurrentRows.length} overdue pages still marked current; intervals 30d=${intervalCounts.get(30)}, 90d=${intervalCounts.get(90)}, 180d=${intervalCounts.get(180)}.`,
+  `Monthly review queue as of ${asOfValue}: ${dueRows.length} due of ${rows.length} pages, ${overdueCurrentRows.length} overdue pages still marked current; cadence=monthly; last full review baseline=${reviewState.last_full_review}.`,
 );
+console.log("This queue checks review dates and status only; it does not verify policy facts or official sources.");
 for (const row of visibleRows) {
   const state = row.isDue ? "DUE" : "OK";
   console.log(
     [
       state,
       row.due,
-      `${row.interval}d`,
+      "monthly",
       `${row.ageDays}d-old`,
       row.status,
-      row.reason,
+      row.reviewed,
       row.path,
     ].join("\t"),
   );

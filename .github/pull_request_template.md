@@ -2,15 +2,17 @@
 
 ## Competent authority or legal source
 
-## Effective date and verification date
+## Official publication/effective dates and transitional rules
+
+## Review scope and central records
+
+List pages fully reviewed, partial corrections, source access dates and unresolved evidence. Describe central record changes; advance the homepage baseline only after a complete full-library review.
 
 ## Integrity checklist
 
 - [ ] No affiliate, referral, sales, or promotional links
 - [ ] No personal application information
 - [ ] Old and new rules are clearly distinguished
-- [ ] Verification dates changed only for pages fully reviewed against current sources
-- [ ] `node scripts/validate-repo.mjs` passes
-- [ ] `node scripts/audit-freshness.mjs --check-public-status` passes
-- [ ] `node scripts/generate-site-config.mjs --check` passes
-- [ ] `node scripts/run-mkdocs.mjs build --strict --site-dir .site` passes when site content or configuration changed
+- [ ] Central review records changed only for completed substantive reviews; policy pages contain no site verification dates
+- [ ] Applicable tests and checks in [MAINTENANCE.md](../MAINTENANCE.md) passed; any skipped checks or unresolved review gaps are stated
+- [ ] Publication or shared site changes passed the full checks, strict build in an external absolute temporary directory, and Chinese/English search validation

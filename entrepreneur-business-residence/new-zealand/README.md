@@ -2,8 +2,6 @@
 title: "新西兰"
 category: "创业与经营居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "大洋洲"
 ---
@@ -28,7 +26,6 @@ region: "大洋洲"
 - **关键限制与变化：** 不是被动投资；企业质量、就业和居住均为硬条件
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.immigration.govt.nz/visas/business-investor-work-visa/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

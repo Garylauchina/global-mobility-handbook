@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "法国"
 route: "university"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -29,12 +27,11 @@ region: "欧洲"
 - **毕业后或升学路径：** 持学生或学生流动居留并在法国近 12 个月取得 licence professionnelle、获认可的 Mastère Spécialisé、CGE 标注的 Master of Science，或至少相当于硕士的法国文凭者，可在学生身份到期前申请 1 年“求职或创业”（recherche d'emploi ou création d'entreprise，RECE）居留；离法后通常可在取得文凭 4 年内申请相应 VLS-TS。该许可不可续签，但可在有效期内寻找与所学相关、税前月薪目前高于 €2,800.53 的受雇工作，且不受 964 小时上限、雇主无需另办工作许可，或创建与学习或研究相关且可持续的企业；期满前须符合并申请相应职业居留。协定国 APS 和阿尔及利亚公民规则另行判断，普通本科或高中毕业不能直接套用本路线。
 - **永居或入籍边界：** 学生 VLS-TS、学生卡和法国文凭都不直接产生长期居民或国籍。CESEDA 当前明确把“étudiant”和“étudiant-programme de mobilité”排除在长期居民—欧盟卡的一般五年适用身份之外，官方合资格清单也不含学生卡；毕业后须先转入合资格居留，并按届时合资格规则累计和满足连续居留、资源、医疗保险、语言及公民考试等条件，不得把学生年限写成“半计”或“学生满 5 年即可申请”。普通归化通常要求申请前在法习惯居住 5 年；在法国成功完成至少 2 年、以取得法国大学或高等教育机构文凭为目的的高等教育者，可能适用 2 年最低居住期，但仍是酌情程序，不保证获批，并须满足有效身份、融入、品行、稳定充分收入、法语 B2 和自 2026 年起的公民考试等当期要求。
 - **税务提示：** 学生签证不决定税务居民身份。法国按家庭生活中心（foyer）或主要居所、主要职业活动、经济利益中心等事实判断，并由适用税收协定解决双重居民冲突；183 天只是判断主要居所时常见的事实指标，不是唯一规则。法国税务居民原则上申报法国及境外收入并按协定处理抵免或豁免，非居民也可能须就法国来源工资、房租或其他收入申报纳税。
-- **关键限制与变化：** 2026-08-01 起，学生资金门槛由长期未更新的 €615 改为申请日 SMIC 税前月额的 47%；Service-Public 在 2026-08-01 核验版显示当前 €877.50，且同时适用于首年和续签。资金金额、RECE 薪资阈值、税费、EEF 国家或地区清单及具体递件渠道均属于动态规则，应按 30 天周期刷新。EEF、Parcoursup 和院校录取只是不同阶段的程序；任何一项完成都不应写成签证或居留保证。
+- **关键限制与变化：** 2026-08-01 起，学生资金门槛由长期未更新的 €615 改为申请日 SMIC 税前月额的 47%；Service-Public 在 2026-08-01 核验版显示当前 €877.50，且同时适用于首年和续签。资金金额、RECE 薪资阈值、税费、EEF 国家或地区清单及具体递件渠道均属于动态规则，纳入每月内容复核。EEF、Parcoursup 和院校录取只是不同阶段的程序；任何一项完成都不应写成签证或居留保证。
 - **证据等级：** B
 
   降级原因：VLS-TS、资金、工作、续签、家庭团聚和 RECE 有全国官方依据；但录取、学费、EEF 或 Parcoursup 适用、材料清单及部分省政府执行会随国籍、学历层次、院校、领区和个案变化。
 - **主要来源：** [Service-Public 外国学生签证与居留](https://www.service-public.gouv.fr/particuliers/vosdroits/F2231?lang=fr)；[France-Visas 学生路线](https://www.france-visas.gouv.fr/etudiant)；[2026-526 号学生资金法令](https://www.legifrance.gouv.fr/eli/decret/2026/6/22/INTV2605727D/jo/texte)；[Service-Public 外国学生工作规则](https://www.service-public.gouv.fr/particuliers/vosdroits/F2713)；[Service-Public 家庭团聚](https://www.service-public.gouv.fr/particuliers/vosdroits/F11166)；[Service-Public 求职或创业居留](https://www.service-public.gouv.fr/particuliers/vosdroits/F17319)；[CESEDA 学生毕业后延长居留](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771678/)；[CESEDA 长期居民—欧盟卡排除条款](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049052504)；[Service-Public 长期居民—欧盟卡](https://www.service-public.gouv.fr/particuliers/vosdroits/F17359)；[《民法典》入籍居住期及两年高教例外](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136075/)；[内政部 2026 入籍要求](https://www.immigration.interieur.gouv.fr/devenir-francais/procedures-dacces-a-nationalite-francaise)；[《税法典》第 4 B 条](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006302201)；[法国税务机关境外收入说明](https://www.impots.gouv.fr/international-particulier/imposition-des-revenus-de-source-etrangere)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -46,8 +43,7 @@ region: "欧洲"
 - **变化摘要：** 第三国学生首次入境及续签的最低月度资金从旧的 €615 基准改为递件日全职月度税前 SMIC 的 47%；Service-Public 在核验日显示为 €877.50。
 - **过渡安排：** 法令规定自生效日起适用于按 CESEDA L.422-1、L.422-4、L.422-5 和 L.422-6 申请入境居留者；金额会随 SMIC 和官方更新变化，不能永久固定为 €877.50。
 - **官方依据：** [2026-526 号法令](https://www.legifrance.gouv.fr/eli/decret/2026/6/22/INTV2605727D/jo/texte)；[Service-Public 当前学生页](https://www.service-public.gouv.fr/particuliers/vosdroits/F2231?lang=fr)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

@@ -2,8 +2,6 @@
 title: "西班牙"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 须有相关学历、职业教育或至少3年专业经验；社保必须落实，受雇者仅在适用协定并取得原属国明确覆盖证明时才可能保留原体系，普通旅行险不足
 - **证据等级：** A
 - **主要来源：** [BOE《创业者及国际化支持法》](https://boe.es/buscar/act.php?id=BOE-A-2013-10074)；[UGE官方FAQ](https://www.inclusion.gob.es/documents/d/unidadgrandesempresas/digital-nomad-faqs-english)；[BOE 2026年SMI](https://boe.es/buscar/act.php?id=BOE-A-2026-3815)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

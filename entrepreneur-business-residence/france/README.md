@@ -2,8 +2,6 @@
 title: "法国"
 category: "创业与经营居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 不是零居住黄金签证；续签和长期身份均取决于项目落地、就业证明、实际居住和整体合规，不保证因投入€300k自动续签或归化
 - **证据等级：** A
 - **主要来源：** [Service-Public项目页](https://www.service-public.gouv.fr/particuliers/vosdroits/F16922)；[CESEDA L421-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049052499/)；[CESEDA R421-35至R421-36](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801016/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

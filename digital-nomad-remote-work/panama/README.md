@@ -2,8 +2,6 @@
 title: "巴拿马"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "中美洲"
 ---
@@ -28,7 +26,6 @@ region: "中美洲"
 - **关键限制与变化：** 短停留专项签证；家庭需单独核验
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

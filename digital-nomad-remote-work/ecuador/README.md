@@ -2,8 +2,6 @@
 title: "厄瓜多尔"
 category: "数字游民与远程工作"
 status: "candidate-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 evidence: "C"
 region: "南美"
 ---
@@ -30,7 +28,6 @@ region: "南美"
 - **关键限制与变化：** SBU每年更新；官方细节递件前复核
 - **证据等级：** C
 - **主要来源：** [官方或主要依据](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-03-2026.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

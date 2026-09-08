@@ -2,8 +2,6 @@
 title: "瑙鲁"
 category: "投资入籍"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "大洋洲"
 ---
@@ -28,7 +26,6 @@ region: "大洋洲"
 - **关键限制与变化：** 优惠有明确截止日；递件前须再次确认官方费表与代理资格
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.ecrcp.gov.nr/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

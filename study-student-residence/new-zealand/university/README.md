@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "新西兰"
 route: "university"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "大洋洲"
 ---
@@ -34,7 +32,6 @@ region: "大洋洲"
 - **关键限制与变化：** 必须按个人签证条件在指定教育机构和课程学习；“最长 4 年”不是每位学生的固定签期，“最多 25 小时”也不会覆盖 eVisa 上更严或旧的工作条件。资金额、工作时数、家属合资格清单和毕业后签证均属动态规则。INZ 已明示 2026-11-16 新的 Short-term Graduate Work Visa 还将有更多细则接近开放时发布；在那之前不应把公告当成已可申请通道。
 - **证据等级：** A
 - **主要来源：** [INZ Fee Paying Student Visa](https://www.immigration.govt.nz/visas/fee-paying-student-visa/)；[INZ 真实学习意图](https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/genuine-intentions-to-study-in-new-zealand/)；[INZ 录取信与批准机构](https://www.immigration.govt.nz/study/for-education-providers/offering-a-place-to-a-student/)；[NZQA 学生照护守则](https://www2.nzqa.govt.nz/tertiary/the-code/)；[INZ 学生签证工作权](https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/)；[INZ 查看或变更学生签证条件](https://www.immigration.govt.nz/study/once-you-have-a-student-visa/check-or-change-your-student-visa-conditions/)；[INZ 学生家属](https://www.immigration.govt.nz/process-to-apply/once-you-have-a-visa/bringing-family-to-new-zealand/bringing-family-on-a-student-visa/)；[INZ 学生伴侣工签](https://www.immigration.govt.nz/visas/partner-of-a-student-work-visa/)；[INZ Post Study Work Visa](https://www.immigration.govt.nz/visas/post-study-work-visa/)；[INZ PSWV 期限](https://www.immigration.govt.nz/work/requirements-for-work-visas/how-long-you-can-work-on-work-visas/how-long-you-can-stay-on-a-post-study-work-visa/)；[INZ 2026 毕业后工签变更公告](https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/)；[IRD 个人税务居民](https://www.ird.govt.nz/topics/tax-residency/tax-residency-status)；[IRD 新西兰税务居民](https://www.ird.govt.nz/international/individuals/tax-for-new-zealand-tax-residents)；[新西兰政府入籍到场要求](https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -46,16 +43,14 @@ region: "大洋洲"
 - **变化摘要：** 合资格高等教育及中学学生的学期工作上限由每周 20 小时提高为 25 小时，并扩展到所有获批的单学期 exchange 或 Study Abroad 课程。
 - **过渡安排：** 2025-11-03 或之后批准的新学生签证按新上限签发；现有签证如仍写 20 小时，须申请 variation of conditions 或新学生签证，不自动改为 25 小时。
 - **官方依据：** [INZ 学生签证工作权变更公告](https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-student-visa-work-rights/)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2026-11-16（预定）— 毕业后工签扩围与新短期签证
 
 - **公布与生效：** INZ 于 2026-05-29 公布，预定自 2026-11-16 开放申请；截至本站核验日尚未生效。
 - **变化摘要：** 新增 6 个月 Short-term Graduate Work Visa，面向在新西兰全日制至少 24 周完成部分 NZQCF 5–7 级且不合资格现行 PSWV 的毕业生；同时把在新西兰全日制完成 7 级 Graduate Diploma 且已持有境内外学士学位者纳入 PSWV，该类 PSWV 最长一年。
 - **过渡安排：** 已持有 PSWV 者不得再获 PSWV 或新短期签证；新短期签证持有人不得支持伴侣工签或子女 Dependent Child Student Visa。INZ 说明更多执行细节将在开放前发布，因此开放时必须重新核对。
 - **官方依据：** [INZ 新增与更新毕业后工签公告](https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/)
-- **本站核验：** 2026-09-02（证据 B；未来执行细则待复核）
-
+- **事件证据：** B（未来执行细则待复核）
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

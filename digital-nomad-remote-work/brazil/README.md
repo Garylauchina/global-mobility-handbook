@@ -2,8 +2,6 @@
 title: "巴西"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "南美"
 ---
@@ -28,7 +26,6 @@ region: "南美"
 - **关键限制与变化：** 须维持境外收入和保险
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://portaldeimigracao.mj.gov.br/pt/midia-e-atualidades/1700-sem-categoria/noticias-obmigra/401615-oficina-36e45)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

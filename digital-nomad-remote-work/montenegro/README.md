@@ -2,8 +2,6 @@
 title: "黑山"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 收入门槛与税收豁免条件不可混为一谈
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://digitalnomads.gov.me/article/legal-status-for-nomads)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -2,8 +2,6 @@
 title: "泰国"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 还须保险或合资格存款；资格为多重条件，不是单一US$500k
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://ltr.boi.go.th/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

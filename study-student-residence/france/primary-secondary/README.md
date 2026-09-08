@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "法国"
 route: "primary-secondary"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -34,7 +32,6 @@ region: "欧洲"
 
   降级原因：签证对象、11 个月期限、核心文件和职业班级排除有全国官方依据；但学校录取、收费、法语水平、资金、住宿、接待责任、续办和领区材料均高度个案化，中央页面没有统一金额或完整续办清单。
 - **主要来源：** [France-Visas 未成年在校生](https://www.france-visas.gouv.fr/web/france-visas/mineur-scolarise)；[France-Visas 长期签证及 11 个月期限](https://www.france-visas.gouv.fr/web/france-visas/visa-de-long-sejour)；[Service-Public 未成年外国人居留卡边界](https://www.service-public.gouv.fr/particuliers/vosdroits/F2687)；[Service-Public 外国未成年人工作](https://www.service-public.gouv.fr/particuliers/vosdroits/F2736)；[Service-Public 未满 18 岁工作时间](https://www.service-public.gouv.fr/particuliers/vosdroits/F2216)；[France-Visas 私人或旅游停留无工作权](https://france-visas.gouv.fr/web/france-visas/tourisme-et-sejour-prive)；[《税法典》第 4 B 条](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006302201)
-- **本条核验日期：** 2026-09-02
 
 ## 已随父母在法国居住的儿童入学（非签证路线）
 
@@ -54,7 +51,6 @@ region: "欧洲"
 
   降级原因：教育义务、国籍平等、公共教育免费及首次入学框架有全国官方依据；但学校分配、年级、UPE2A、名额、地方材料、餐食、寄宿、交通、私校费用和 16 至 18 岁实际安排由地方及学校执行。
 - **主要来源：** [Service-Public 3 至 18 岁教育与培训义务](https://www.service-public.gouv.fr/particuliers/vosdroits/F1898)；[教育部外国学生入学平等原则](https://www.education.gouv.fr/botexte/bo020328/MENE0200681C.htm)；[Service-Public 境外迁入儿童小学入学](https://www.service-public.gouv.fr/particuliers/vosdroits/F1866)；[Service-Public 境外迁入青少年初高中入学](https://www.service-public.gouv.fr/particuliers/vosdroits/F21304)；[法国教育部公共教育免费原则](https://www.education.gouv.fr/les-grands-principes-du-systeme-educatif-9842)；[《教育法典》公立幼儿园与小学免费](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038901897)；[Service-Public 外国未成年人居留卡](https://www.service-public.gouv.fr/particuliers/vosdroits/F2687)；[Service-Public DCEM](https://www.service-public.gouv.fr/particuliers/vosdroits/F2718)；[Service-Public 外国未成年人工作](https://www.service-public.gouv.fr/particuliers/vosdroits/F2736)；[《税法典》第 4 B 条](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006302201)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -2,8 +2,6 @@
 title: "奥地利"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 奥地利
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 无官方价目、时限或保证；营销固定金额不可信
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.ris.bka.gv.at/eli/bgbl/1985/311/P10/NOR12066929)
-- **核验日期：** 2026-09-02

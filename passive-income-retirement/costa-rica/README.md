@@ -2,8 +2,6 @@
 title: "哥斯达黎加"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "中美洲"
 ---
@@ -28,7 +26,6 @@ region: "中美洲"
 - **关键限制与变化：** Rentista资金结构和家属覆盖需按DGME最新清单
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.visitcostarica.com/retirement)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

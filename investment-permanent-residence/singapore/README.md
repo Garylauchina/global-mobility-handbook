@@ -2,8 +2,6 @@
 title: "新加坡"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 申请人须符合成熟企业主、下一代企业主、高增长企业创始人或家办负责人等背景及营收/估值条件；不是只凭资金即可申请
 - **证据等级：** A
 - **主要来源：** [EDB项目入口](https://www.edb.gov.sg/en/how-we-help/global-investor-programme)；[EDB GIP Factsheet](https://www.edb.gov.sg/content/dam/edb-en/how-we-help/global-investor-programme/GIP%20Factsheet.pdf)；[ICA公民申请资格](https://www.ica.gov.sg/reside/citizenship)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

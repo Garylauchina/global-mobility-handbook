@@ -2,8 +2,6 @@
 title: "澳大利亚"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 澳大利亚
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 已有188持有人仍可按条件转888；NIV不是固定投资额替代品
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://immi.homeaffairs.gov.au/visas/getting-a-visa/biip-closure-and-refunds)
-- **核验日期：** 2026-09-02

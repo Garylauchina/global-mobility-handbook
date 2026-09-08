@@ -2,8 +2,6 @@
 title: "爱沙尼亚"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 停留≥183日可能成为税务居民
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

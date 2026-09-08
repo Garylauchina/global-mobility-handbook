@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "澳大利亚"
 route: "primary-secondary"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "大洋洲"
 ---
@@ -32,7 +30,6 @@ region: "大洋洲"
 - **关键限制与变化：** School sector 并非全国统一“学区”入口；公私学校资格、学费、住宿和福利必须回到州/领地主管机关及 CRICOS 提供者核对。未满 18 岁学生不得在 CAAW 或其他获批福利安排开始前入境，也不得未经批准变更或形成福利空档。MD115 的 Priority 1 只影响处理次序。2026 年 school-to-tertiary NPL 豁免只覆盖列明的澳大利亚 SSCE 主申请学生及直接衔接条件，不覆盖随父母签证就读的 secondary applicant。
 - **证据等级：** B
 - **主要来源：** [内政部 Student visa（subclass 500）](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500)；[未满 18 岁福利与 custody 安排](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18)；[学生签证期限](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay)；[学生签证处理优先级](https://immi.homeaffairs.gov.au/visa-subsite/pages/processing-times/student-visa-processing-priorities.aspx)；[CRICOS 官方查询](https://cricos.education.gov.au/)；[CRICOS 注册规则](https://www.education.gov.au/esos-framework/registration-cricos)；[ESOS 主管机关分工](https://www.education.gov.au/esos-framework/esos-agencies)；[澳大利亚学校制度](https://www.studyaustralia.gov.au/en/plan-your-studies/schools.html)；[National Code 转校规则](https://www.education.gov.au/download/11459/standard-7-overseas-student-transfers/30165/document/pdf)；[2026 起中学升高教/VET 的 NPL 豁免](https://www.education.gov.au/download/19803/factsheet-transitioning-school-students-exempted-national-planning-level/42852/document/pdf)；[2026 学生签证费用修订说明](https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html)；[ATO 海外学生税务说明](https://www.ato.gov.au/api/public/content/0-e74c5f17-c293-45b0-b033-f5d5a3aee760)；[入籍居住要求](https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident)
-- **本条核验日期：** 2026-09-02
 
 ## 学生监护人路线（Student Guardian visa subclass 590）
 
@@ -50,7 +47,6 @@ region: "大洋洲"
 - **关键限制与变化：** Guardian 不是 Student visa 的 secondary applicant，也没有工作权；家长以 visitor 身份短期探访也不能替代长期获批福利安排。未经批准单独离澳、改变 guardian 或使 CAAW/福利安排中断，可能影响本人和学生签证。2026-07-01 的 AUD 2,500 是通常基础申请费，优惠、附加申请人费用和健康检查等另计，递件时须刷新估算器。
 - **证据等级：** B
 - **主要来源：** [内政部 Student Guardian visa（subclass 590）](https://immi.homeaffairs.gov.au/visa-subsite/pages/student/590-student-guardian.aspx)；[LIN 19/198 资金能力法规](https://www.legislation.gov.au/F2019L01366/latest/text)；[未满 18 岁福利与 custody 安排](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18)；[Form 157N Student guardianship arrangements](https://immi.homeaffairs.gov.au/form-listing/forms/157n.pdf)；[Student visa（subclass 500）](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500)；[2026 学生签证费用修订说明](https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html)；[签证条件清单](https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/conditions-list)；[ATO 海外学生与 temporary resident 税务说明](https://www.ato.gov.au/api/public/content/0-e74c5f17-c293-45b0-b033-f5d5a3aee760)；[入籍居住要求](https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -62,24 +58,21 @@ region: "大洋洲"
 - **变化摘要：** School sector 在当前三档处理框架中列为 Priority 1；subsequent entrant 申请如包括未成年人也列为 Priority 1。
 - **过渡安排：** 2025-11-14 前申请继续按 MD111；优先级不改变实体资格或获批标准。
 - **官方依据：** [内政部 Student visa 处理优先级](https://immi.homeaffairs.gov.au/visa-subsite/pages/processing-times/student-visa-processing-priorities.aspx)；[MD115](https://immi.homeaffairs.gov.au/support-subsite/files/ministerial-direction-115.pdf)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2026-01-01 — 符合条件的澳大利亚中学毕业生升学不计入 NPL
 
 - **公布与生效：** 2025 年公布；适用于 2026-01-01 或之后开始的后续高等教育或 VET 课程。
 - **变化摘要：** 在澳大利亚以主申请 Student visa 完成 SSCE，并在同年或次年直接衔接高教或 VET 的符合条件学生，不计为提供者的 New Overseas Student Commencement。
 - **过渡安排：** Secondary applicant、其他签证持有人、在两阶段之间插入其他 CRICOS 课程或未在规定年份衔接者不适用；该安排不改变签证批准标准。
 - **官方依据：** [教育部 transitioning school students 豁免说明](https://www.education.gov.au/download/19803/factsheet-transitioning-school-students-exempted-national-planning-level/42852/document/pdf)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2026-07-01 — Student 与 Student Guardian visa 基础申请费上调
 
 - **公布与生效：** 法规于 2026-07-01 生效。
 - **变化摘要：** 两类签证的通常主申请基础申请费由 AUD 2,000 增至 AUD 2,500；附加申请人金额同步调整。
 - **过渡安排：** 太平洋岛国和东帝汶保留优惠；Student visa 另有部分东盟、ELICOS 和 Non-Award 优惠，school sector 申请不得自动套用其他课程类别优惠。
 - **官方依据：** [2026–27 Visa Application Charge 修订说明](https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

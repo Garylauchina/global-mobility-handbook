@@ -2,8 +2,6 @@
 title: "印度尼西亚"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 签证子类别和合资格资产须在移民目录逐项确认
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.imigrasi.go.id/wna/daftar-visa-indonesia)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -2,8 +2,6 @@
 title: "塞舌尔"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "非洲"
 ---
@@ -28,7 +26,6 @@ region: "非洲"
 - **关键限制与变化：** 官方入口仍在线但静态细节不足；申请前书面确认期限和续签
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://seychelles.govtas.com/en/workcation)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

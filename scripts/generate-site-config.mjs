@@ -148,6 +148,7 @@ exclude_docs: |
   .git/
   .github/
   .agents/
+  .maintenance/
   .site/
   AGENTS.md
   site-overrides/

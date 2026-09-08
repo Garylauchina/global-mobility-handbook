@@ -2,8 +2,6 @@
 title: "安道尔"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 年度配额和资质认定；90日不等于税籍安全
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

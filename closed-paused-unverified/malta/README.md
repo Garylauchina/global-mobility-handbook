@@ -2,8 +2,6 @@
 title: "马耳他"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 马耳他
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** Citizenship by Merit是个案特殊贡献制度，不是定价CBI替代品
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf)
-- **核验日期：** 2026-09-02

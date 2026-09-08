@@ -2,8 +2,6 @@
 title: "伯利兹"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "加勒比"
 ---
@@ -28,7 +26,6 @@ region: "加勒比"
 - **关键限制与变化：** 须持续满足收入和年度居住
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.belizetourismboard.org/programs-events/retirement-program/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

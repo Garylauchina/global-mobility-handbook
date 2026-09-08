@@ -2,8 +2,6 @@
 title: "斯洛文尼亚"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 动态薪资公式须递件前更新
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

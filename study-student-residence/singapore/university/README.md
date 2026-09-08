@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "新加坡"
 route: "university"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -32,7 +30,6 @@ region: "亚洲"
 - **关键限制与变化：** ICA 的 IHL 清单、MOM 可免工作准证院校清单和 ICA 毕业生求职 LTVP 院校清单用途不同，更新节奏也可能不同；出现在其中一张清单不代表自动出现在另两张。Student’s Pass 是学习居留许可，不等于入境保证、工作准证、医疗保障、家属身份或毕业后留新保证。费用、院校分类、工作豁免清单和毕业后入口均可能调整，应在申请、实习和毕业三个时点分别刷新。
 - **证据等级：** A
 - **主要来源：** [ICA Student’s Pass 总则](https://www.ica.gov.sg/reside/STP/apply?pageid=325&secid=182)；[ICA Institutes of Higher Learning](https://www.ica.gov.sg/reside/STP/apply/ihl)；[Student’s Pass 签发与费用](https://www.ica.gov.sg/reside/STP/collect)；[Student’s Pass 条款](https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf)；[取消 Student’s Pass](https://www.ica.gov.sg/reside/STP/cancel)；[ICA 毕业后停留问答](https://ask.gov.sg/ica/questions/clos83fvp01ht5k0w2hqby2ji)；[MOM 外国学生工作豁免](https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students)；[ICA IHL 毕业生求职 LTVP](https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore)；[求职 LTVP 适用院校清单](https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore/list_ihl)；[MOM Dependant’s Pass 资格](https://www.mom.gov.sg/passes-and-permits/dependants-pass/eligibility)；[ICA 永久居民资格](https://www.ica.gov.sg/reside/PR/)；[ICA 公民资格](https://www.ica.gov.sg/reside/citizenship)；[IRAS 个人税务居民判断](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

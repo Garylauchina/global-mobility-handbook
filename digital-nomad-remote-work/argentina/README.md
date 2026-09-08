@@ -2,8 +2,6 @@
 title: "阿根廷"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "南美"
 ---
@@ -28,7 +26,6 @@ region: "南美"
 - **关键限制与变化：** 短期身份；不得与待细则的投资入籍混淆
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

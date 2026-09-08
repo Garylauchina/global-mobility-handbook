@@ -2,8 +2,6 @@
 title: "哥伦比亚"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "南美"
 ---
@@ -28,7 +26,6 @@ region: "南美"
 - **关键限制与变化：** SMLMV每年变化；健康保险和工作关系须持续
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.cancilleria.gov.co/sites/default/files/FOTOS2020/5477%20del%2022%20de%20julio%20de%202022.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

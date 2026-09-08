@@ -2,8 +2,6 @@
 title: "塞舌尔"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "A"
 region: "非洲"
 ---
@@ -28,7 +26,6 @@ region: "非洲"
 - **关键限制与变化：** 成功费和审查严格；不适合追求零居住身份者
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://investinseychelles.com/investors-guide/investor-resources/residency-by-investment/permanent-residence-permit)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

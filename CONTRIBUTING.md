@@ -2,26 +2,19 @@
 
 欢迎提交纠错和政策更新。为了避免知识库变成营销目录，请遵守以下规则：
 
-维护者还应遵循[维护手册](./MAINTENANCE.md)；日期到期本身不是规则变化的证据。
+维护流程与发布检查见[维护手册](./MAINTENANCE.md)，全库月度复核及中央日期记录遵循[更新政策](./UPDATE_POLICY.md)。
 
 1. 每项事实变化必须附主管机关、法律文本、政府公报或领馆操作页。
 2. 中介、开发商、基金销售页或新闻转载不能作为唯一证据。
-3. 写明旧规则、新规则、变化生效日和你的核验日期。
+3. 写明旧规则、新规则、官方公布及生效日；将实际复核范围和访问日期写入提交或 PR 说明，不在政策页新增本站核验时间。
 4. 不提交个人申请材料、护照、账户、住址、联系方式、付款信息或其他个人信息。
 5. 不提交推广、返佣、开户链接、优惠码、保证获批、保证回购或签证/免签排名。
 6. 保留原币和法定公式；不要用未经说明的汇率换算制造“最低价”。
 7. 区分公民身份、居留、工作权、税务居民、旅行待遇和银行KYC。
 
-提交前请运行：
+提交前按[维护手册的检查与发布流程](./MAINTENANCE.md)运行受影响检查；发布须包含严格构建及中英文搜索验证。仅已完成整页内容复核才更新中央记录，局部修正不能推进首页全库基准。
 
-```bash
-node scripts/audit-freshness.mjs
-node scripts/validate-repo.mjs
-node scripts/audit-freshness.mjs --check-public-status
-node scripts/generate-site-config.mjs --check
-```
-
-如修改了类别目录，或新增国家页、国家索引或路线页，请先运行 `node scripts/generate-site-config.mjs` 更新站点导航。需要本地预览时，安装 `requirements-docs.txt` 后运行：
+如增删或移动政策页，同步中央记录和类别/国家索引，再运行 `node scripts/generate-site-config.mjs` 更新导航。需要本地预览时，安装 `requirements-docs.txt` 后运行：
 
 ```bash
 node scripts/run-mkdocs.mjs serve

@@ -2,8 +2,6 @@
 title: "希腊"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 不能与无居住投资者卡混淆
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://migration.gov.gr/en/adeia-diamonis-gia-oikonomika-anexartita-atoma/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -2,8 +2,6 @@
 title: "意大利"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 俄罗斯、白俄罗斯公民及持相关护照的部分非EU双重国籍者申请暂停；项目配额外，但投资损失、资金来源和持续持有风险由申请人承担
 - **证据等级：** A
 - **主要来源：** [官方项目入口](https://investorvisa.mise.gov.it/index.php/en/)；[D.Lgs. 286/1998第26-bis条](https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A1998-07-25%3B286~art26bis-com1-letb=)；[Law 193/2024官方公报](https://www.gazzettaufficiale.it/eli/id/2024/12/17/24G00215/SG)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -40,16 +37,14 @@ region: "欧洲"
 - **变化摘要：** €500k档从意大利公司资本扩展至在意大利设立并运营的venture-capital fund资本工具；普通共同基金不当然符合
 - **过渡安排：** 主管机关英文门户部分页面尚未同步完整法定文本，递件以现行第26-bis条和主管机关书面确认为准
 - **官方依据：** [Law 193/2024](https://www.gazzettaufficiale.it/eli/id/2024/12/17/24G00215/SG)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ### 2026-09-02 — 资料更正：投资者许可前5年有连续停留豁免
 
 - **公布与生效：** 不适用；这是本站按现行法完成的资料更正
 - **变化摘要：** 原页写“无专属低停留捷径”；现更正为投资者许可自首次签发起合计前5年豁免连续停留义务，但长期居民和入籍的实际居住要求不受该豁免替代
 - **过渡安排：** 不推定为意大利政策在本站更正日发生变化；既有个案按签发条件和现行法判断
 - **官方依据：** [D.Lgs. 286/1998第26-bis条](https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A1998-07-25%3B286~art26bis-com1-letb=)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

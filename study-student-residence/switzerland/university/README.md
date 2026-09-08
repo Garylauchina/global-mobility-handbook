@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "瑞士"
 route: "university"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -32,7 +30,6 @@ region: "欧洲"
 - **关键限制与变化：** 联邦规则给出资格框架，26 个州负责大量执行细节；某州公开的 CHF 资金数额、银行形式、续签材料或转专业做法不能当作全国规则。SEM 入境问答中“持有效学生许可者 CHF 30/日”是边境核查时的入境资金参考，不是长期学生居留的统一年度门槛。EU/EFTA 学生开始兼职后的通知方式和居留依据可能因工作期限与州流程而变化；第三国学生的 6 个月等待期和每周 15 小时上限也必须以州批准为前提。截至 2026-09-02，本页未纳入任何尚无已公布生效文本的未来改革。
 - **证据等级：** B
 - **主要来源：** [SEM：《外国人与融合法》执行指令](https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf)；[SEM：就业规则执行指令第 4 章](https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aig-kap4.pdf.download.pdf/weisungen-aig-kap4-d.pdf)；[SEM：EU/EFTA 人员自由流动问答](https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz/faq.html)；[SEM：EU/EFTA 非就业居留说明](https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf)；[SEM：EU/EFTA 家庭团聚说明](https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-familiennachzug-e.pdf.download.pdf/fs-familiennachzug-e.pdf)；[FDFA：C 类与 D 类签证边界](https://www.eda.admin.ch/en/visa-requirements-for-entry-into-switzerland)；[《外国人与融合法》AIG/FNIA](https://www.fedlex.admin.ch/eli/cc/2007/758/de)；[《入境、居留与就业条例》VZAE/ASEO](https://www.fedlex.admin.ch/eli/cc/2007/759/de)；[SEM：第三国学生兼职与毕业求职](https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.0006.html)；[ch.ch：居留许可与续签](https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/)；[ch.ch：家庭团聚](https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/)；[联邦公共卫生局：外国学生医保](https://www.bag.admin.ch/en/health-insurance-foreign-students-in-switzerland)；[SERI：外国学历的入学决定](https://www.sbfi.admin.ch/en/faq-recognition-procedure-for-professional-qualifications)；[SERI：瑞士高等院校制度](https://www.sbfi.admin.ch/en/the-institutes-of-higher-education)；[伯尔尼州：第三国学习入境材料](https://www.migration.sid.be.ch/de/start/einreise/buerger-drittstaaten.html)；[苏黎世州：第三国教育居留与毕业求职](https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html)；[苏黎世州：C 许可与学习年限边界](https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html)；[SEM：普通入籍](https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html)；[联邦税务局：瑞士税制](https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf)；[联邦税务局：源泉税](https://www.estv.admin.ch/de/quellensteuer)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

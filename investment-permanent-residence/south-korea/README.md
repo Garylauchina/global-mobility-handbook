@@ -2,8 +2,6 @@
 title: "韩国"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "B"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 无息基金存在显著机会成本，风险项目可能亏损；法务部英文项目页仍显示2023年前旧门槛和已废止退休路线，本页以现行韩文主管页及告示为准，并因此保留B级冲突提示
 - **证据等级：** B
 - **主要来源：** [法务部现行韩文项目页](https://www.moj.go.kr/moj/189/subview.do)；[法务部制度说明](https://www.moj.go.kr/immigration/1515/subview.do)；[韩国税务机关2026年居民判定解释](https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000021872)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

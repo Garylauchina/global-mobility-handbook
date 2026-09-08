@@ -2,8 +2,6 @@
 title: "吉尔吉斯斯坦"
 category: "数字游民与远程工作"
 status: "candidate-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 evidence: "C"
 region: "中亚"
 ---
@@ -30,7 +28,6 @@ region: "中亚"
 - **关键限制与变化：** 国籍和职业清单会调整，递件前确认
 - **证据等级：** C
 - **主要来源：** [官方或主要依据](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-03-2026.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

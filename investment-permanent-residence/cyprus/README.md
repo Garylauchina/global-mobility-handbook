@@ -2,8 +2,6 @@
 title: "塞浦路斯"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 须维持投资、保险并周期更新无犯罪记录；不是国籍项目
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

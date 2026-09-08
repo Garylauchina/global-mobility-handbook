@@ -2,8 +2,6 @@
 title: "巴西"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "南美"
 ---
@@ -28,7 +26,6 @@ region: "南美"
 - **关键限制与变化：** 汇款和养老金认证是核心
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.gov.br/mre/pt-br/embaixada-camberra/English/consular-section/visas/long-term-visas-for-stays-longer-than-90-days/vitem-xiv-immigration-policy)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

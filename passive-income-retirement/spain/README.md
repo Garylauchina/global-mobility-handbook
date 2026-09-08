@@ -2,8 +2,6 @@
 title: "西班牙"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 住满183日通常全球所得纳税；远程工作者不应误用此签
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.exteriores.gob.es/Embajadas/nuevadelhi/en/ServiciosConsulares/Paginas/Consular/Visado-de-residencia-no-lucrativa.aspx)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

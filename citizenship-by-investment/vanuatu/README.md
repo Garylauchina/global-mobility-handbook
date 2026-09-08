@@ -2,8 +2,6 @@
 title: "瓦努阿图"
 category: "投资入籍"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "大洋洲"
 ---
@@ -28,7 +26,6 @@ region: "大洋洲"
 - **关键限制与变化：** 欧盟和英国免签待遇已受重大限制；不得把历史免签宣传当成现状；不接受加密货币直接付款
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

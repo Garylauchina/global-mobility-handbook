@@ -2,8 +2,6 @@
 title: "佛得角"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "非洲"
 ---
@@ -28,7 +26,6 @@ region: "非洲"
 - **关键限制与变化：** 不要混用2020旧6+6个月及€1,500/€2,700存款口径
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://boe.incv.cv/Bulletins/View/85465)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

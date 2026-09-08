@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "瑞士"
 route: "primary-secondary"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -32,7 +30,6 @@ region: "欧洲"
 - **关键限制与变化：** “所有在地儿童可免费接受公立义务教育”只回答教育准入，不回答儿童能否入境、留下或让父母陪同。州决定学龄、安置、教学语言、转学和非义务教育费用，市镇或学校负责大量操作；本页不能把苏黎世或其他一州流程泛化为全国标准。截至 2026-09-02，未发现可把公校录取单独转换为儿童或父母学习居留的联邦规则，也未纳入尚无已公布生效文本的未来改革。
 - **证据等级：** B
 - **主要来源：** [EDK：瑞士义务教育](https://edk.ch/en/education-system-ch/compulsory?set_language=en)；[苏黎世州：新到儿童入学](https://www.zh.ch/de/bildung/informationen-fuer-schulen/informationen-volksschule/schulinfo-schule-migration/schulinfo-einschulung-neuzugezogene.html)；[ch.ch：家庭团聚与子女义务教育](https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/)；[ch.ch：居留许可](https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/)；[联邦公共卫生局：居民医保义务](https://www.bag.admin.ch/en/health-insurance-requirement-to-obtain-insurance-for-persons-resident-in-switzerland)；[SECO：青年劳动保护](https://www.seco.admin.ch/de/jugendarbeitsschutz)；[SECO：青年劳动保护问答](https://www.seco.admin.ch/de/faq-jugendarbeitsschutz)；[《外国人与融合法》AIG/FNIA](https://www.fedlex.admin.ch/eli/cc/2007/758/de)；[苏黎世州：C 许可与临时学习年限](https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html)；[SEM：普通入籍](https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html)；[联邦税务局：瑞士税制](https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 以私立或寄宿学校为主的独立学生居留路线
 
@@ -50,7 +47,6 @@ region: "欧洲"
 - **关键限制与变化：** 未成年人照护并无一张全国统一文件清单。以沃州官方清单为例，非寄宿未成年学生须提供法定代表人签署的照护人文件，而寄宿生由寄宿安排覆盖该项；这只能说明州级材料差异，不能泛化为全国统一“监护人签证”。私校受州教育监管不等于其可为第三国学生担保居留，EDK 的公校免费规则也不等于独立国际学生可凭公校入境。截至 2026-09-02，本页未发现已公布、可统一改变上述联邦边界的未来生效规则。
 - **证据等级：** B
 - **主要来源：** [SEM：《外国人与融合法》执行指令](https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf)；[SEM：EU/EFTA 非就业学生与学童居留](https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf)；[FDFA：C 类与 D 类签证边界](https://www.eda.admin.ch/en/visa-requirements-for-entry-into-switzerland)；[《外国人与融合法》AIG/FNIA](https://www.fedlex.admin.ch/eli/cc/2007/758/de)；[《入境、居留与就业条例》VZAE/ASEO](https://www.fedlex.admin.ch/eli/cc/2007/759/de)；[伯尔尼州：第三国学习入境材料](https://www.migration.sid.be.ch/de/start/einreise/buerger-drittstaaten.html)；[苏黎世州：第三国教育居留](https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html)；[沃州：第三国学生居留与未成年人照护](https://www.vd.ch/population/population-etrangere/entree-et-sejour/etats-tiers/sejour-pour-etudes)；[苏黎世州：私立学校监管](https://www.zh.ch/de/bildung/schulen/spezielle-schulen.html)；[ch.ch：家庭团聚](https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/)；[联邦公共卫生局：外国学生医保](https://www.bag.admin.ch/en/health-insurance-foreign-students-in-switzerland)；[SECO：青年劳动保护](https://www.seco.admin.ch/de/jugendarbeitsschutz)；[SEM：大学生兼职与高等院校毕业求职边界](https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.0006.html)；[苏黎世州：C 许可与临时学习年限](https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html)；[SEM：普通入籍](https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html)；[联邦税务局：瑞士税制](https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

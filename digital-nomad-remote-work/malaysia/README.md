@@ -2,8 +2,6 @@
 title: "马来西亚"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 科技与非科技门槛不同；须使用MDEC最新FAQ
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

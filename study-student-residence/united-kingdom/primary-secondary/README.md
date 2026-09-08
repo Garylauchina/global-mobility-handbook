@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "英国"
 route: "primary-secondary"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -34,7 +32,6 @@ region: "欧洲"
 - **关键限制与变化：** 居住安排必须属于 Appendix Child Student 列明类型：学校寄宿、与合资格 close relative／private foster carer 居住、与持 Parent of a Child Student permission 的父母居住，或 16／17 岁独立居住；nominated guardian、照护人和同住成年人还受身份、承诺函及犯罪记录要求约束，未满 16 岁且构成 private fostering 时须完成地方机关通知和许可。官方文本有两项须保守处理的冲突：CS 15.1 与 CS 16.1 对刚满 16 岁的工作起点表述不一致；当前 Appendix HTML 在“与父母同住”资金行出现“course fees and boarding fees”，而 HC 1333 已生效文本和 GOV.UK 申请指引写的是尚欠课程费。资金与工作均应按申请日刷新并以个案清单或 UKVI 确认为准。2026 visa brake 只在当前规则和专页中列为境外 Student 主申请限制，未列 Child Student；但 16／17 岁如选择 Student 而非 Child Student，仍须检查该限制。
 - **证据等级：** B
 - **主要来源：** [Appendix Child Student](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student)；[Child Student 概览](https://www.gov.uk/child-study-visa/overview)；[Child Student 资金](https://www.gov.uk/child-study-visa/money)；[Child Student 延期](https://www.gov.uk/child-study-visa/extend-your-visa)；[Appendix Children 父母同意](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-children)；[Parent of a Child Student](https://www.gov.uk/parent-of-a-child-at-school-visa)；[Appendix Finance](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-finance)；[Student 与 Child Student 审理指引](https://www.gov.uk/government/publications/student-route-caseworker-guidance/student-and-child-student-accessible)；[持牌 Student sponsors 名册](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students)；[Visa brake](https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system)；[IHS 金额](https://www.gov.uk/healthcare-immigration-application/how-much-pay)；[四地教育制度方法说明](https://explore-education-statistics.service.gov.uk/methodology/education-and-training-statistics-for-the-uk)；[英格兰课程](https://www.gov.uk/national-curriculum/overview)；[威尔士课程](https://www.gov.wales/curriculum-wales-statutory-guidance)；[苏格兰课程层级](https://education.gov.scot/parentzone/curriculum-in-scotland/curriculum-levels/)；[北爱尔兰学校申请](https://www.nidirect.gov.uk/articles/applying-school-place)；[Long Residence](https://www.gov.uk/long-residence/eligibility)；[英国入籍](https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain)；[HMRC 英国税务居民](https://www.gov.uk/tax-foreign-income/residence)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -46,16 +43,14 @@ region: "欧洲"
 - **变化摘要：** 规则明确 guardianship organisation、nominated guardian 的承诺函和同住成年人的信息要求，整合 full、weekly 与 flexi boarding，并把不同照护方式及相应资金公式集中列明；部分旧有操作性安排由此正式写入规则。
 - **过渡安排：** 2025-11-11 前递交的相关申请按 2025-11-10 的规则审理；生效后须按当前 care、living arrangement、承诺函和资金条款准备。
 - **官方依据：** [HC 1333 规则变更](https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025)；[HC 1333 解释备忘录](https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025/explanatory-memorandum-to-the-statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025-accessible)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2026-03-26 — 16／17 岁选择 Student 路线时适用四国 visa brake
 
 - **公布与生效：** 2026-03-05 的 HC 1691 公布规则；2026-03-26 00:01 GMT 生效。
 - **变化摘要：** 阿富汗、喀麦隆、缅甸和苏丹国民作为主申请人在境外提交 Student entry clearance 申请会被拒。当前 Appendix Child Student 和 UKVI visa brake 专页未把 Child Student 列为受限路线，因此该变化直接影响的是 16／17 岁选择 Student 而非 Child Student 的申请。
 - **过渡安排：** 生效前递交的 Student 申请按此前规则处理；既有有效 permission 不自动取消，合资格境内申请不在该境外限制内。Child Student 申请仍须按其自身全部规则审查，不能把“未列 visa brake”理解为保证获批。
 - **官方依据：** [UKVI visa brake 指引](https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system)；[Appendix Student](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)；[Appendix Child Student](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

@@ -2,8 +2,6 @@
 title: "爱尔兰"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 爱尔兰
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 存量案继续处理不代表可新办
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/press-releases/minister-harris-announces-closure-of-the-immigrant-investor-programme/)
-- **核验日期：** 2026-09-02

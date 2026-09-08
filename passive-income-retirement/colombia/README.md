@@ -2,8 +2,6 @@
 title: "哥伦比亚"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "南美"
 ---
@@ -28,7 +26,6 @@ region: "南美"
 - **关键限制与变化：** SMLMV每年更新；养老金证明须认证
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.cancilleria.gov.co/node/26976)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -2,8 +2,6 @@
 title: "土耳其"
 category: "投资入籍"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "中东"
 ---
@@ -28,7 +26,6 @@ region: "中东"
 - **关键限制与变化：** 须核验独立估值、产权、汇款闭环、制裁和资金来源；回购/融资承诺不是政府担保
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

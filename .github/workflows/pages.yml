@@ -44,6 +44,7 @@ jobs:
 
       - name: Validate source and navigation
         run: |
+          node --test scripts/*.test.mjs
           node scripts/validate-repo.mjs
           node scripts/audit-freshness.mjs --check-public-status
           node scripts/generate-site-config.mjs --check

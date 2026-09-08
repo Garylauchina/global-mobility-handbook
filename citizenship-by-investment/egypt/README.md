@@ -2,8 +2,6 @@
 title: "埃及"
 category: "投资入籍"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "非洲"
 ---
@@ -28,7 +26,6 @@ region: "非洲"
 - **关键限制与变化：** 申请费US$10,000；存款按到期官方汇率以埃镑返还，汇率风险显著
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://egyptcitizenship.gov.eg/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

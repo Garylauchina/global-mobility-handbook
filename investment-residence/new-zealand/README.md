@@ -2,8 +2,6 @@
 title: "新西兰"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "大洋洲"
 ---
@@ -30,7 +28,6 @@ region: "大洋洲"
 - **关键限制与变化：** 原则批准后通常有6个月转资，可在合理情况下再延6个月；2026-08-12起已细化赠与、借款、基金协议、银行路径和后出生/新增子女规则
 - **证据等级：** A
 - **主要来源：** [INZ签证页](https://www.immigration.govt.nz/visas/active-investor-plus-visa/)；[操作手册BN7.1](https://www.immigration.govt.nz/opsmanual/78345.htm)；[2026-08改革公告](https://www.immigration.govt.nz/about-us/news-centre/active-investor-plus-improvements-provide-greater-certainty-for-investors/)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -42,24 +39,21 @@ region: "大洋洲"
 - **变化摘要：** Growth类别可把慈善投资计入合资格投资，但上限为总额20%
 - **过渡安排：** 慈善部分不能用于Balanced最低居住日数的追加Growth投资减免
 - **官方依据：** [新西兰政府公告](https://www.beehive.govt.nz/release/aip-visa-growth-category-expands-philanthropy)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ### 2026-08-12 — 资金来源、基金协议与新增子女规则更新
 
 - **公布与生效：** 操作手册新版本于2026-08-12生效，INZ于2026-08-13发布说明
 - **变化摘要：** 细化合法来源、同司法辖区担保借款、无条件赠与、管理基金协议、可追踪转资及获批后受养子女的处理
 - **过渡安排：** 新增子女仍须满足相应Dependent Child Resident Visa、入境和后续申请条件；不是自动获得身份
 - **官方依据：** [INZ改革说明](https://www.immigration.govt.nz/about-us/news-centre/active-investor-plus-improvements-provide-greater-certainty-for-investors/)；[BN6.5](https://www.immigration.govt.nz/opsmanual/90550.htm)；[BN8.10](https://www.immigration.govt.nz/opsmanual/90553.htm)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ### 2026-09-01 — 税务永久住所解释开始征求意见
 
 - **公布与生效：** 征求意见稿于2026-09-01发布，意见期至2026-10-13；尚未生效
 - **变化摘要：** 税务局征询AIP持有人购置并居住新西兰住宅时是否形成permanent place of abode的解释意见
 - **过渡安排：** 咨询稿不是现行确定结论，当前税籍仍按现行183天和永久住所事实测试判断
 - **官方依据：** [IRD咨询PUB00548](https://www.taxtechnical.ird.govt.nz/consultations/2026/pub00548)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

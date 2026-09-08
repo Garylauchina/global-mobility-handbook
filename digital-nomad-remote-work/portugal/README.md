@@ -2,8 +2,6 @@
 title: "葡萄牙"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 最低工资每年变化；不要沿用旧金额
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

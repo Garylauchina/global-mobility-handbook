@@ -2,8 +2,6 @@
 title: "加拿大（魁北克）"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "A"
 region: "北美"
 ---
@@ -28,7 +26,6 @@ region: "北美"
 - **关键限制与变化：** 法语、管理经验、魁北克居住及联邦可入境性均为硬门槛
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.quebec.ca/immigration/permanente/immigrer-affaires/investisseurs/conditions)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

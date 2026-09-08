@@ -2,8 +2,6 @@
 title: "安提瓜和巴布达"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 安提瓜和巴布达
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 旧网页仍可能被搜索到；当前远程人士可考虑普通签证但非NDR
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://ab.gov.ag/pdf/Discontinuation_of_the_NDR_prg.pdf)
-- **核验日期：** 2026-09-02

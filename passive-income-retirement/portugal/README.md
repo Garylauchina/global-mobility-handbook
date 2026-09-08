@@ -2,8 +2,6 @@
 title: "葡萄牙"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 最低工资金额每年联动；2025年家庭团聚等待期和2026年国籍法均已生效，必须把入境签证、居留卡、永居和入籍四个阶段分开计算
 - **证据等级：** A
 - **主要来源：** [gov.pt官方服务页](https://www.gov.pt/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios)；[AIMA临时居留](https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1)；[AIMA永久居留](https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -40,24 +37,21 @@ region: "欧洲"
 - **变化摘要：** 一般等待期改为持有效居留许可2年；符合先前18个月共同生活条件的配偶/伴侣可降为15个月，若干未成年、无行为能力受养人和特定身份获豁免
 - **过渡安排：** 新规则只适用于生效后启动的行政或司法程序；特殊个案可按法律申请豁免或缩短
 - **官方依据：** [葡萄牙第61/2025号法律](https://diariodarepublica.pt/dr/detalhe/lei/61-2025-941547426)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ### 2026-01-01 — 最低工资联动基准升至€920
 
 - **公布与生效：** 第139/2025号法令于2025-12-29公布，2026-01-01生效
 - **变化摘要：** 葡萄牙大陆RMMG升至€920，D7资源基准按100%/50%/30%公式联动为€920/€460/€276每月
 - **过渡安排：** 具体领馆仍会审查收入稳定性、可支配性和至少12个月覆盖，不把公式折算值理解为保证获批线
 - **官方依据：** [第139/2025号法令](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2025-992879809)；[Portaria 1563/2007](https://dre.pt/application/conteudo/628798)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ### 2026-05-19 — 普通归化年限改为7年或10年
 
 - **公布与生效：** 第1/2026号组织法于2026-05-18公布，2026-05-19生效
 - **变化摘要：** EU/CPLP国民一般为7年合法居留，其他国民一般为10年，并增加语言、文化、守法、安全和生活保障等审查
 - **过渡安排：** 生效日仍在途的行政申请继续适用旧法；新申请适用新规则
 - **官方依据：** [第1/2026号组织法](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2026-1123539996)；[司法部生效说明](https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

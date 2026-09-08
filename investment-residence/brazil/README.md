@@ -2,8 +2,6 @@
 title: "巴西"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "南美"
 ---
@@ -28,7 +26,6 @@ region: "南美"
 - **关键限制与变化：** 须核验区域、独立估值、产权及资金入境登记
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/portal-de-imigracao-laboral/navegacao-guiada-1/possui-autorizacao-de-residencia/o-que-deseja/qual-a-finalidade-desejada-1/investidor-pessoa-fisica/rn-36-2018)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

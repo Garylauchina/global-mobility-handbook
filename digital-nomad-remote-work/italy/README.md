@@ -2,8 +2,6 @@
 title: "意大利"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 领馆金额和文件口径有差异，必须按递交地确认
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://ambwashingtondc.esteri.it/wp-content/uploads/2026/02/Digital-nomad-Remote-Worker-Visa-2026.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

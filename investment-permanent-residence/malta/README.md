@@ -2,8 +2,6 @@
 title: "马耳他"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 持续尽调和资产审查；申根仍受90/180规则
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://residencymalta.gov.mt/legal-framework-mprp-2/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

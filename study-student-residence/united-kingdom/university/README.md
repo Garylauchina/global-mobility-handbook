@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "英国"
 route: "university"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -36,7 +34,6 @@ region: "欧洲"
 - **关键限制与变化：** Student permission 不得领取 public funds；Student route 也不得用于英格兰、威尔士或苏格兰的 state school 或 academy，北爱尔兰只有规则列明的寄宿 voluntary grammar school 例外。2026 visa brake 以主申请人国籍和境外 Student 申请为准，不因居住国或已有 CAS 改变，且会定期复核。生活费、签证费、IHS、工作时数、dependant 和 Graduate 规则均属高频变动项。四个构成国的学位框架、课程监管和教育收费不能互相套用；CAS 和 sponsor licence 也不能替代具体学位认可、专业注册或移民批准。
 - **证据等级：** A
 - **主要来源：** [Appendix Student](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student)；[Student visa 概览](https://www.gov.uk/student-visa)；[Student 资金要求](https://www.gov.uk/student-visa/money)；[Student 家属](https://www.gov.uk/student-visa/family-members)；[Student 延期](https://www.gov.uk/student-visa/extend-your-visa)；[Appendix Finance](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-finance)；[持牌 Student sponsors 名册](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students)；[Student 与 Child Student 审理指引](https://www.gov.uk/government/publications/student-route-caseworker-guidance/student-and-child-student-accessible)；[Visa brake](https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system)；[Appendix Graduate](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-graduate)；[Graduate visa](https://www.gov.uk/graduate-visa)；[IHS 金额](https://www.gov.uk/healthcare-immigration-application/how-much-pay)；[Long Residence](https://www.gov.uk/long-residence/eligibility)；[英国入籍](https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain)；[HMRC 英国税务居民](https://www.gov.uk/tax-foreign-income/residence)；[英国四地教育制度方法说明](https://explore-education-statistics.service.gov.uk/methodology/education-and-training-statistics-for-the-uk)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -48,24 +45,21 @@ region: "欧洲"
 - **变化摘要：** 伦敦月生活费由 GBP 1,483 上调至 1,529，伦敦以外由 GBP 1,136 上调至 1,171；最多仍按 9 个月计算，sponsor 安排住宿的可抵扣上限同步由 GBP 1,483 调至 1,529。
 - **过渡安排：** 2025-11-11 前已经递交的申请继续按此前标准审理；CAS 课程费和其他资金规则仍须分别满足。
 - **官方依据：** [HC 1333 规则变更](https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025)；[解释备忘录](https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025/explanatory-memorandum-to-the-statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025-accessible)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2026-03-26 — 四国国民境外 Student 申请启用 visa brake
 
 - **公布与生效：** 2026-03-05 的 HC 1691 公布规则；2026-03-26 00:01 GMT 生效。
 - **变化摘要：** 阿富汗、喀麦隆、缅甸和苏丹国民作为主申请人在境外提交 Student entry clearance 申请会被拒；限制按主国籍判断，不因申请地或已有 CAS 改变。
 - **过渡安排：** 生效时点前递交的申请按此前规则处理；已经签发的有效许可不因 visa brake 自动取消，合资格境内延期或转换不在该境外限制内。该措施不是永久规则，但取消时间未定，主管机关将定期复核。
 - **官方依据：** [UKVI visa brake 指引](https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system)；[HC 1691 解释备忘录](https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-1619-5-march-2026/explanatory-memorandum-to-the-statement-of-changes-in-the-immigration-rules-hc-1691-5-march-2026-accessible)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2027-01-01 — 非博士 Graduate permission 缩短为 18 个月
 
 - **公布与生效：** Home Office 于 2025-10-14 公布 HC 1333；新期限适用于 2027-01-01 或之后提交的 Graduate 申请。
 - **变化摘要：** 合资格学士、硕士及其他非博士毕业生的 Graduate permission 由 2 年缩短为 18 个月；PhD 或其他博士学位保持 3 年。
 - **过渡安排：** 在 2026-12-31 或之前递交的合资格非博士 Graduate 申请仍按 2 年；按申请日而不是毕业日或 Student permission 签发日判断。
 - **官方依据：** [Appendix Graduate](https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-graduate)；[HC 1333 解释备忘录](https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025/explanatory-memorandum-to-the-statement-of-changes-to-the-immigration-rules-hc-1333-14-october-2025-accessible)
-- **本站核验：** 2026-09-02（证据 A；未来生效待复核）
-
+- **事件证据：** A（未来生效待复核）
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

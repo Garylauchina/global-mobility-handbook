@@ -2,8 +2,6 @@
 title: "安提瓜和巴布达"
 category: "投资入籍"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "加勒比"
 ---
@@ -28,7 +26,6 @@ region: "加勒比"
 - **关键限制与变化：** 须通过获批代理；严格资金/财富来源尽调、面试及受限国籍审查；另有政府、尽调和护照费
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://cip.gov.ag/citizenship/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

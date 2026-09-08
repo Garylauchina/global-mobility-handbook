@@ -2,8 +2,6 @@
 title: "多米尼克"
 category: "投资入籍"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "加勒比"
 ---
@@ -28,7 +26,6 @@ region: "加勒比"
 - **关键限制与变化：** 16岁以上通常需面试；房产、代理及资金来源必须核验
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

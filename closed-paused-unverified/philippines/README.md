@@ -2,8 +2,6 @@
 title: "菲律宾"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 菲律宾
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 不宜当作已可递交；当前可核验的是SRRV/SIRV
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://pco.gov.ph/news_releases/pbbm-allows-issuance-of-dnvs-to-non-immigrant-aliens/)
-- **核验日期：** 2026-09-02

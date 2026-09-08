@@ -2,8 +2,6 @@
 title: "斯里兰卡"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 投资行业受外资禁止、比例上限或特别审批规则约束；旧Golden Paradise页面仍在线但不能替代当前Investor Visa Category指南，工作权和受养人定义仍有公开信息缺口
 - **证据等级：** B
 - **主要来源：** [移民局项目页](https://www.immigration.gov.lk/pages_t.php?id=67)；[官方Investor Visa指南](https://www.immigration.gov.lk/content/files/visa/Guideline%20Investor%20Visa%20Category%20doc%202.pdf)；[2026年第11号所得税修正法](https://www.ird.gov.lk/en/publications/Acts_Income%20Tax_2017/IR_Act_No_11-2026_E.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -40,16 +37,14 @@ region: "亚洲"
 - **变化摘要：** Investor Category Residence Visa持有人在相应课税年度不按通常规则视为斯里兰卡税务居民；非居民仍须就斯里兰卡来源所得承担相应义务
 - **过渡安排：** 法律采用追溯适用日，个案申报、已纳税款和交易结构须向税务机关或专业人士核实
 - **官方依据：** [修正法](https://www.ird.gov.lk/en/publications/Acts_Income%20Tax_2017/IR_Act_No_11-2026_E.pdf)；[税务机关通知SEC/PN/IT/2026/02](https://www.ird.gov.lk/en/Lists/Latest%20News%20%20Notices/Attachments/793/SEC_PN_IT_2026-02_E.pdf)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ### 2026-09-02 — 资料更正：10年档改为5+5
 
 - **公布与生效：** 不适用；这是本站按当前官方指南完成的资料更正
 - **变化摘要：** 原页将US$200,000档写成首次10年；现更正为初次签注5年，并由移民局函件支持额外延长5年
 - **过渡安排：** 不推定为斯里兰卡政策变更；既有个案以签发文件为准
 - **官方依据：** [官方Investor Visa指南](https://www.immigration.gov.lk/content/files/visa/Guideline%20Investor%20Visa%20Category%20doc%202.pdf)
-- **本站核验：** 2026-09-02（证据B）
-
+- **事件证据：** B
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

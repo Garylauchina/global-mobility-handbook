@@ -2,8 +2,6 @@
 title: "黑山"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 黑山
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 旧项目地产名录不得用于招揽新申请
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.gov.me/en/article/195254--development-programme-for-acquisition-of-montenegrin-citizenship-by-admission-for-investment-purposes-launched)
-- **核验日期：** 2026-09-02

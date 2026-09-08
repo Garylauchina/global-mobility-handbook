@@ -2,8 +2,6 @@
 title: "格鲁吉亚"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲/西亚"
 ---
@@ -28,7 +26,6 @@ region: "欧洲/西亚"
 - **关键限制与变化：** 须独立估值和产权核验；短期房产居留不是永居
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://sda.gov.ge/en/products/migration-residence-permits/)
-- **本条核验日期：** 2026-09-02
 
 ## Investment Residence Permit
 
@@ -44,7 +41,6 @@ region: "欧洲/西亚"
 - **关键限制与变化：** 企业路线有逐年营业额要求；非低成本被动入籍
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://sda.gov.ge/en/products/migration-residence-permits/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

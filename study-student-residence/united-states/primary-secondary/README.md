@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "美国"
 route: "primary-secondary"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "北美"
 ---
@@ -34,7 +32,6 @@ region: "北美"
 - **关键限制与变化：** 公立 K–8 禁令、公立高中累计 12 个月和全额无补贴成本是联邦 F-1 限制，不能由亲属居住、房产税、学校豁免或监护安排绕过。F/M/J 签证申请人目前接受 online presence review，并被国务院指示把社交媒体资料设为 public 或 open。自 2026-07-15 起，非移民签证原则上应在国籍国或居住国预约。Presidential Proclamation 10998 自 2026-01-01 起对部分国籍和特定旅行证件实施全部或部分签证签发及入境暂停，适用范围和例外须查当前清单。当前 D/S、60 天离境期和 DSO 主导的延期/转校规则均可能在 2026-09-15 预定终规生效后改变。
 - **证据等级：** B
 - **主要来源：** [8 USC §1184(m) 公立学校限制](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1184)；[美国国务院公立学校 F-1 说明](https://travel.state.gov/content/travel/en/us-visas/study/student-visa/foreign-students-in-public-schools.html)；[美国国务院学生签证](https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html)；[SEVP K–12 公私校规则图](https://studyinthestates.dhs.gov/assets/sevp_publicprivatek12student_infographic_v4.pdf)；[SEVP 学校查询](https://studyinthestates.dhs.gov/school-search)；[当前 8 CFR §214.2](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2)；[I-901 SEVIS 费](https://www.ice.gov/doclib/sevis/pdf/i901.pdf)；[ICE 学生就业](https://www.ice.gov/sevis/employment)；[美国劳工部未成年人就业限制](https://www.dol.gov/agencies/whd/fact-sheets/43-child-labor-non-agriculture)；[ICE F-2 就学矩阵](https://www.ice.gov/doclib/sevis/pdf/Nonimmigrant%20Class%20Who%20Can%20Study.pdf)；[IRS 国际学生税务](https://www.irs.gov/individuals/international-taxpayers/foreign-students-scholars-teachers-researchers-and-exchange-visitors)；[IRS 学生免计天数](https://www.irs.gov/individuals/international-taxpayers/exempt-individual-who-is-a-student)；[USCIS 归化资格](https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization)；[国务院签证与入境限制](https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html)；[国务院 online presence review](https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html)；[非移民签证申请地点](https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-niv-applicants-in-their-country-of-residence.html)；[固定停留期限最终规则](https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant)；[GovInfo 正式 PDF](https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14439.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -46,16 +43,14 @@ region: "北美"
 - **变化摘要：** 对部分国家国民及巴勒斯坦权力机构签发或背书旅行证件持有人实施全部或部分签证签发和入境暂停；部分暂停明确覆盖 F、M、J。
 - **过渡安排：** PP 10998 仅适用于生效时在美国境外且当时没有有效签证者；国务院明确，生效前签发的有效签证不会因 PP 10998 本身被撤销。双重国籍、LPR、国家利益等例外以国务院当前说明为准，其他独立的撤销或不可入境事由另行判断。
 - **官方依据：** [美国国务院限制说明](https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2026-09-15 — F-1 固定停留期限规则预定生效
 
 - **公布与生效：** DHS 于 2026-07-17 公布最终规则，预定 2026-09-15 生效；文件说明国会审查结束后如改期或终止，DHS 将另行公告。截至本站核验日尚未生效。
 - **变化摘要：** 若按期生效，新入境或再入境 F-1 通常改为按 I-20 项目期确定、最长 4 年的固定期限，项目完成后的通常离境准备期由 60 天改为 30 天；公立高中仍累计最多 12 个月且终规明确包括假期。新规还通常要求在最初 I-20 学校完成首个学年后才转校或改变教育目标，SEVP 可对完成中小学等特殊情况批准例外；对生效日后完成的 F-1 项目，后续通常只能升至更高教育层级。
 - **过渡安排：** 生效日仍合法维持 D/S 且在美的 F-1，通常先取当日有效 EAD 到期日与 I-20 项目结束日的较晚者，但最迟不超过 2030-09-15，之后另保留原 60 天离境期；及时提交的 I-765 另有细则。过渡期离境后再次入境通常转入固定期限。DHS 可在 2028-09-14 前按终规机制暂缓或恢复特定转校规则，须查后续 Federal Register、USCIS、SEVP 和 CBP 指引。
 - **官方依据：** [91 FR 44976 展示版](https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant)；[GovInfo 正式 PDF](https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14439.pdf)
-- **本站核验：** 2026-09-02（证据 A；未来生效待复核）
-
+- **事件证据：** A（未来生效待复核）
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

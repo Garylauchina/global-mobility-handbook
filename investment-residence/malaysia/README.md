@@ -2,8 +2,6 @@
 title: "马来西亚"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 不同等级、特别经济区规则及取款条件复杂；必须用官方最新清单
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.mm2h.gov.my/category/overview)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

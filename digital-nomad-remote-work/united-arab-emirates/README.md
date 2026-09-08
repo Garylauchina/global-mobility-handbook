@@ -2,8 +2,6 @@
 title: "阿联酋"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "中东"
 ---
@@ -28,7 +26,6 @@ region: "中东"
 - **关键限制与变化：** UAE无个人所得税，但企业税、常设机构和原税籍仍需评估
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/residence-visa-for-working-outside-the-uae)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

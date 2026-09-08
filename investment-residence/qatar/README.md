@@ -2,8 +2,6 @@
 title: "卡塔尔"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "中东"
 ---
@@ -28,7 +26,6 @@ region: "中东"
 - **关键限制与变化：** 指定区域、估值、审批和高档资格须核验
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.moj.gov.qa/en/departments/non-qatari-ownership-and-use-real-estate)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

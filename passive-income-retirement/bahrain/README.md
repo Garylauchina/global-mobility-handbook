@@ -2,8 +2,6 @@
 title: "巴林"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "中东"
 ---
@@ -28,7 +26,6 @@ region: "中东"
 - **关键限制与变化：** 须有巴林医保和银行流水
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/rps/self-sponsorship-residence-permit-and-return-visa-foreign-investor-0/)
-- **本条核验日期：** 2026-09-02
 
 ## Golden Residency — Retired Non-Resident
 
@@ -44,7 +41,6 @@ region: "中东"
 - **关键限制与变化：** 与BHD500自担保退休居留为不同产品
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "新加坡"
 route: "primary-secondary"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -32,7 +30,6 @@ region: "亚洲"
 - **关键限制与变化：** 2026 年 AEIS 申请截至核验日已经关闭，考试安排为 2026-09-01 至 2026-09-03；这是年度招生窗口，不代表路线关闭，下一轮须等待 MOE 更新。MOE 学额分配、ICA Student’s Pass 和陪读 LTVP 是三项独立决定。政府学校 local sponsor、FSS 的 EduTrust 条件、两张 MOM 工作院校清单、年度 AEIS／S-AEIS 年级与期限均会变化；学校接收、担任 local sponsor 或提供住宿也不等同法定监护、工作授权、长期居留或获批保证。
 - **证据等级：** A
 - **主要来源：** [ICA Student’s Pass 总则](https://www.ica.gov.sg/reside/STP/apply?pageid=325&secid=182)；[政府／政府资助／独立学校 Student’s Pass](https://www.ica.gov.sg/reside/STP/apply/gov)；[Foreign System／Privately-Funded Schools Student’s Pass](https://www.ica.gov.sg/reside/STP/apply/fss)；[ICA local sponsor 边界](https://www.ica.gov.sg/reside/STP/sponsor)；[Student’s Pass 签发与费用](https://www.ica.gov.sg/reside/STP/collect)；[Student’s Pass 条款](https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf)；[取消 Student’s Pass](https://www.ica.gov.sg/reside/STP/cancel)；[MOE AEIS](https://www.moe.gov.sg/international-students/aeis)；[AEIS 资格与 CEQ](https://www.moe.gov.sg/international-students/aeis/eligibility-criteria)；[AEIS 申请与费用](https://www.moe.gov.sg/international-students/aeis/apply)；[MOE S-AEIS](https://www.moe.gov.sg/international-students/s-aeis)；[MOE 国际学生小一注册](https://www.moe.gov.sg/primary/p1-registration/international-students)；[MOE 学校费用](https://www.moe.gov.sg/financial-matters/fees)；[MOM 外国学生工作豁免](https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students)；[ICA 陪读父母或祖父母 LTVP](https://www.ica.gov.sg/reside/LTVP/apply/parent-or-grandparent-of-a-child-or-grandchild-studying-in-singapore-on-a-students-pass)；[MOM 陪读父母工作规则](https://www.mom.gov.sg/passes-and-permits/work-passes-for-holders-of-long-term-visit-passes-issued-by-ica)；[MOM ICA-LTVP Letter of Consent 资格](https://www.mom.gov.sg/passes-and-permits/loc-for-ica-issued-ltvp-holders/eligibility)；[ICA 永久居民资格](https://www.ica.gov.sg/reside/PR/)；[ICA 公民资格](https://www.ica.gov.sg/reside/citizenship)；[IRAS 个人税务居民判断](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

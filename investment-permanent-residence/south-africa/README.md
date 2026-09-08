@@ -2,8 +2,6 @@
 title: "南非"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "非洲"
 ---
@@ -30,7 +28,6 @@ region: "非洲"
 - **关键限制与变化：** 2026-07-08起未来及待审签证/PR申请免交medical report；2026-08-17起PR政府申请费为ZAR1,520，VFS服务费另计。改革落地前不得把现行ZAR12m财富证明误写成已要求在南非投资
 - **证据等级：** B
 - **主要来源：** [南非政府PR服务页](https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit)；[门槛公告Notice 454](https://www.gov.za/sites/default/files/gcis_document/201409/37716gon454.pdf)；[VFS/DHA受理页](https://visa.vfsglobal.com/one-pager/dha/southafrica/english/index.html)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -42,24 +39,21 @@ region: "非洲"
 - **变化摘要：** 政策拟以investment-based financially independent residence visa替代现行财务独立PR，并要求将规定比例的净资产投资于南非并维持规定期限
 - **过渡安排：** 截至2026-09-02尚无落实法案、确切金额、生效日或存量申请安排；现行路径继续受理
 - **官方依据：** [南非内阁声明](https://www.gov.za/news/cabinet-statements/statement-cabinet-meeting-25-march-2026-and-special-cabinet-meeting-1-april)
-- **本站核验：** 2026-09-02（证据B）
-
+- **事件证据：** B
 ### 2026-07-08 — Medical report要求豁免
 
 - **公布与生效：** Directive 10 of 2026于2026-07-08签署并生效，2026-07-17刊登公报
 - **变化摘要：** 所有未来及待审签证和永久居留申请免交medical report；不据此外推其他健康文件要求
 - **过渡安排：** 明确覆盖待审申请
 - **官方依据：** [Directive 10 of 2026](https://www.gov.za/sites/default/files/gcis_document/202607/55016gon7714.pdf)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ### 2026-08-17 — PR政府申请费调整
 
 - **公布与生效：** 费用规章于2026-08-17公布并当日生效
 - **变化摘要：** 永久居留政府申请费调整为ZAR1,520；VFS服务费及受理地费用另计
 - **过渡安排：** 以实际递件地和付款时的官方清单为准
 - **官方依据：** [费用修正规章](https://www.gov.za/sites/default/files/gcis_document/202608/55209rg12036gon7834.pdf)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

@@ -2,8 +2,6 @@
 title: "巴拿马"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "中美洲"
 ---
@@ -28,7 +26,6 @@ region: "中美洲"
 - **关键限制与变化：** 必须是真实终身养老金，不是一般投资收益
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.migracion.gob.pa/wp-content/uploads/02-JUBILADO-PENSIONADO-1.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

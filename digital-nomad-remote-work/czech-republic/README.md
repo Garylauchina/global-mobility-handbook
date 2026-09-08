@@ -2,8 +2,6 @@
 title: "捷克"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 不是面向所有国籍和职业的通用DNV
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://ipc.gov.cz/en/for-employers/programmes-approved-by-the-government-with-the-view-of-economic-benefit-of-the-czech-republic/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

@@ -2,8 +2,6 @@
 title: "克罗地亚"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 申请人须为非EU/EEA/瑞士第三国国民，并提交保险、资金、无犯罪和住址材料；当前金额按上一年度平均净薪公式动态调整
 - **证据等级：** A
 - **主要来源：** [内政部数字游民临时居留](https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1)；[《外国人法》2025年修正](https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_40_545.html)；[政府税改说明](https://investcroatia.gov.hr/en/5th-round-of-tax-reform-enters-into-force-on-1-january-2021/)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -40,8 +37,7 @@ region: "欧洲"
 - **变化摘要：** 数字游民临时居留最长为18个月；首次少于18个月者可在到期前申请一次最长6个月的延长
 - **过渡安排：** 新的数字游民申请仍须在此前数字游民、其他目的或相关家庭居留到期满6个月后提出；延长只适用于首次批准少于18个月的情形
 - **官方依据：** [克罗地亚官方公报NN 40/2025](https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_40_545.html)
-- **本站核验：** 2026-09-02（证据A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

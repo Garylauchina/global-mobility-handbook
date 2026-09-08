@@ -2,8 +2,6 @@
 title: "沙特阿拉伯"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "中东"
 ---
@@ -28,7 +26,6 @@ region: "中东"
 - **关键限制与变化：** 出售或资格消失会影响身份；须核验估值和项目资格
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://pr.gov.sa/product-details-real-estate-residency)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

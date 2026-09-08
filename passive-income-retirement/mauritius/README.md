@@ -2,8 +2,6 @@
 title: "毛里求斯"
 category: "被动收入与退休居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "非洲"
 ---
@@ -28,7 +26,6 @@ region: "非洲"
 - **关键限制与变化：** 采用2025 Finance Act新标准，不用旧US$1,500门槛
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://president.govmu.org/president/wp-content/uploads/2025/08/18_The-Finance-Act-2025.pdf)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

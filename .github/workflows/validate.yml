@@ -24,6 +24,7 @@ jobs:
           cache: pip
           cache-dependency-path: requirements-docs.txt
       - run: python -m pip install --disable-pip-version-check -r requirements-docs.txt
+      - run: node --test scripts/*.test.mjs
       - run: node scripts/validate-repo.mjs
       - run: node scripts/audit-freshness.mjs --check-public-status
       - run: node scripts/generate-site-config.mjs --check

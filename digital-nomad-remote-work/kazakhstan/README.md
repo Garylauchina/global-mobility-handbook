@@ -2,8 +2,6 @@
 title: "哈萨克斯坦"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "中亚"
 ---
@@ -28,7 +26,6 @@ region: "中亚"
 - **关键限制与变化：** 不要与2026 ICT人才Digital Nomad Residency试点混淆
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

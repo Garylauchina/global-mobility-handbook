@@ -2,8 +2,6 @@
 title: "葡萄牙"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 房地产和资本转移旧路线已取消；基金须非房地产并满足期限/配置；国籍规则刚变
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

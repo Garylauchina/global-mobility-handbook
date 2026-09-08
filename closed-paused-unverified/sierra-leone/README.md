@@ -2,8 +2,6 @@
 title: "塞拉利昂"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 塞拉利昂
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 英国2026清单将其列为投资公民项目，但公开执行证据不足；付款前须取得政府直接确认
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://citizenshiprightsafrica.org/wp-content/uploads/Sierra-Leone-Immigration-Department-Press-Release-January-2-2025.pdf)
-- **核验日期：** 2026-09-02

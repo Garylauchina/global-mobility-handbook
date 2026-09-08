@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "德国"
 route: "university"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -32,7 +30,6 @@ region: "欧洲"
 - **关键限制与变化：** § 17(2) 的寻找大学学习位置路线与 § 16b 不同：2026 年生活费基准为每月 EUR 1,091，最长 9 个月，同一目的不得延长；期间可每周工作最多 20 小时并进行累计最多 2 周的试工，取得大学或预科接收后仍须向外国人管理局申请转换。自 2024-03-01 起，§ 16b 普通受雇额度由每年 120 个整日/240 个半日扩大为 140 个整日/280 个半日，并引入 20 小时周算法；页面不得继续沿用旧额度。签证拒绝后的外交部自愿 remonstration 程序已自 2025-07-01 全球取消，但重新申请和司法救济并未因此取消。
 - **证据等级：** A
 - **主要来源：** [《居留法》§ 16b：学习](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html)；[《居留法》§ 17：寻找培训或学习位置](https://www.gesetze-im-internet.de/aufenthg_2004/__17.html)；[《居留法》§ 20：境内完成学业后的求职](https://www.gesetze-im-internet.de/aufenthg_2004/__20.html)；[《居留法》§ 4a：居留与工作权限](https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html)；[德国政府学习签证说明](https://www.make-it-in-germany.com/en/visa-residence/types/studying)；[德国政府学习期间工作说明](https://www.make-it-in-germany.com/en/study-vocational-training/studies-in-germany/work)；[外交部长期学习、学校与语言课程签证](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/nationale-visa/visa-schule-studium-sprachkurs)；[外交部学生资金证明](https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/08-finanzierung/606696)；[外交部签证与费用](https://www.auswaertiges-amt.de/en/visa-service/215870-215870)；[家庭团聚总则 § 29](https://www.gesetze-im-internet.de/aufenthg_2004/__29.html)；[配偶团聚 § 30](https://www.gesetze-im-internet.de/aufenthg_2004/__30.html)；[未成年子女团聚 § 32](https://www.gesetze-im-internet.de/aufenthg_2004/__32.html)；[毕业生定居 § 18c](https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html)；[Daueraufenthalt–EU § 9a](https://www.gesetze-im-internet.de/aufenthg_2004/__9a.html)；[学习时间折算 § 9b](https://www.gesetze-im-internet.de/aufenthg_2004/__9b.html)；[《国籍法》§ 10](https://www.gesetze-im-internet.de/stag/__10.html)；[所得税法 § 1](https://www.gesetze-im-internet.de/estg/__1.html)；[税收通则 § 8：住所](https://www.gesetze-im-internet.de/ao_1977/__8.html)；[税收通则 § 9：通常居所](https://www.gesetze-im-internet.de/ao_1977/__9.html)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -44,8 +41,7 @@ region: "欧洲"
 - **变化摘要：** § 16b 普通受雇年度账户由 120 个整日或 240 个半日提高至 140 个整日或 280 个半日，并加入每周 20 小时的法定计算方式；学习准备阶段也纳入相应工作权限。
 - **过渡安排：** 旧的 120/240 日口径不再用于当前申请与居留条件；具体工作仍须符合卡面、学习目的、劳动和社会保险规则。
 - **官方依据：** [联邦法律公报 2023 I Nr. 217](https://www.recht.bund.de/bgbl/1/2023/217/regelungstext.pdf?__blob=publicationFile&v=2)；[德国政府技术移民法实施说明](https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act)；[现行《居留法》§ 16b(3)](https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

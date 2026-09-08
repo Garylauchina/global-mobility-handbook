@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "澳大利亚"
 route: "university"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "大洋洲"
 ---
@@ -32,7 +30,6 @@ region: "大洋洲"
 - **关键限制与变化：** 2026 年 MD115 把高教与 VET 境外申请按主 CoE 提供者达到其年度 allocation 的 80% 和 115% 分为 Priority 1、2、3；它只影响处理顺序，不是批准或拒绝标准。政府已宣布 2027 年 NPL 继续维持 295,000；TAFE 学生自 2027 年起不计入 NPL，高教和 VET 提供者的 2027 indicative allocation 均已确定，高教 allocation 将由 Australian Tertiary Education Commission 监督，学生签证流量仍以 Ministerial Direction 管理。上述是系统规划和处理框架，不是个人配额，递件前仍须刷新当时方向。在澳大利亚境内持 Visitor 600、ETA 601、eVisitor 651、Temporary Graduate 485 等列明签证者通常不能境内递交 Student visa。Subclass 485 的年龄、期限和英语规则近年多次变化，不能仅凭招生材料或旧毕业规划判断。
 - **证据等级：** B
 - **主要来源：** [内政部 Student visa（subclass 500）](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500)；[学生签证期限](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay)；[Genuine Student 要求](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement)；[学生签证处理优先级](https://immi.homeaffairs.gov.au/visa-subsite/pages/processing-times/student-visa-processing-priorities.aspx)；[MD115 正式文本](https://immi.homeaffairs.gov.au/support-subsite/files/ministerial-direction-115.pdf)；[CRICOS 官方查询](https://cricos.education.gov.au/)；[CRICOS 注册规则](https://www.education.gov.au/esos-framework/registration-cricos)；[National Code 转校规则](https://www.education.gov.au/download/11459/standard-7-overseas-student-transfers/30165/document/pdf)；[学生签证条件](https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/conditions-list)；[关键技术签证筛查](https://www.homeaffairs.gov.au/nat-security/Pages/critical-technology.aspx)；[Temporary Graduate visa（subclass 485）](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485)；[Australian study requirement 法规](https://www.legislation.gov.au/F1996B03551/latest/text)；[Second Post-Higher Education Work stream](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/second-post-higher-education-work)；[2026 学生签证费用修订说明](https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html)；[2027 国际教育规划](https://www.education.gov.au/managed-system-international-education)；[永久居民说明](https://immi.homeaffairs.gov.au/visas/permanent-resident/overview)；[入籍居住要求](https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident)；[ATO 海外学生税务说明](https://www.ato.gov.au/api/public/content/0-e74c5f17-c293-45b0-b033-f5d5a3aee760)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -44,40 +41,35 @@ region: "大洋洲"
 - **变化摘要：** 评估重点改为是否真实以学习为主要赴澳原因，同时明确将来可能申请永久居留的意向本身不构成不利因素。
 - **过渡安排：** 以递交日期区分 GS 与旧 GTE 标准。
 - **官方依据：** [内政部 Genuine Student 要求](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2024-07-01 — Temporary Graduate visa 学位路线收紧
 
 - **公布与生效：** 主要调整于 2024-07-01 生效。
 - **变化摘要：** Post-Study Work stream 更名为 Post-Higher Education Work stream；一般年龄上限从未满 50 岁降为不超过 35 岁，并保留研究型硕士、博士及香港/BNO 护照的未满 50 岁例外。学士及授课型/extended 硕士通常为 2 年，研究型硕士和博士通常为 3 年；原指定学位额外 2 年延长结束。
 - **过渡安排：** 印度国民和香港/BNO 护照持有人的期限另有现行安排；应按申请时具体 stream 和护照规则核对。
 - **官方依据：** [485 年龄、stream 与期限改革法规说明](https://www.legislation.gov.au/F2024L00748/asmade/2024-06-25/es/original/epub/OEBPS/document_1/document_1.html)；[指定学位额外延长结束法规说明](https://www.legislation.gov.au/F2024L00829/asmade/2024-06-28/es/original/epub/OEBPS/document_1/document_1.html)；[教育部结束额外两年延长](https://www.education.gov.au/international-education/support-international-students/end-extended-poststudy-work-rights-international-graduates)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2025-11-14 — MD115 接替 MD111
 
 - **公布与生效：** MD115 于 2025-11-14 生效，适用于当日或之后递交的境外 Student visa 申请。
 - **变化摘要：** 高教与 VET 申请依主 CoE 提供者相对年度 indicative allocation 的进度分为三档处理优先级；Priority 3 对应达到 allocation 的 115%。
 - **过渡安排：** 2025-11-14 前申请继续按 MD111；优先级不改变签证批准标准。
 - **官方依据：** [内政部处理优先级](https://immi.homeaffairs.gov.au/visa-subsite/pages/processing-times/student-visa-processing-priorities.aspx)；[MD115](https://immi.homeaffairs.gov.au/support-subsite/files/ministerial-direction-115.pdf)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2026-07-01 — Student visa 基础申请费上调
 
 - **公布与生效：** 法规于 2026-07-01 生效。
 - **变化摘要：** Student visa 与 Student Guardian visa 通常主申请基础申请费由 AUD 2,000 上调至 AUD 2,500；成年附加申请人由 AUD 1,225 调至 1,530，未成年附加申请人由 AUD 400 调至 500。
 - **过渡安排：** 太平洋岛国与东帝汶继续适用优惠；Student visa 另增部分东盟、ELICOS 和 Non-Award 优惠分类，以递件时法定分类和估算器为准。
 - **官方依据：** [2026–27 Visa Application Charge 修订说明](https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2027-01-01 — 国际教育 NPL 将维持 295,000
 
 - **公布与生效：** 2026-07-03 公布；适用于 2027 年新海外学生开学规划。
 - **变化摘要：** 2027 NPL 不较 2026 增长，继续为 295,000；TAFE 学生自 2027 年起不计入 NPL，高教和 VET 提供者的 indicative allocation 均已确定，Australian Tertiary Education Commission 将监督高教 allocation，政府继续以 Ministerial Direction 管理 Student visa 流量。
 - **过渡安排：** 这是已公布但尚未进入 2027 年执行期的系统及院校规划和处理优先级框架，不是个人签证获批标准；最终申请仍须满足当时实体资格与证据要求。
 - **官方依据：** [教育部 2027 managed system](https://www.education.gov.au/managed-system-international-education)；[部长联合公告](https://ministers.education.gov.au/clare/managing-sustainable-international-education-sector-0)
-- **本站核验：** 2026-09-02（证据 A；未来年度安排待复核）
-
+- **事件证据：** A（未来年度安排待复核）
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

@@ -4,8 +4,6 @@ category: "留学与学生居留"
 country: "加拿大"
 route: "primary-secondary"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "北美"
 ---
@@ -32,7 +30,6 @@ region: "北美"
 - **关键限制与变化：** 2026 年全国规划预计签发 115,000 份 K–12 学习许可，包含新入境与延期或返加口径；这是全国目标，不是学校名额、法定上限或个人获批保证。监护口径存在官方文字不一致：未成年人专题页写“未满 17 岁”必须陪同或设 custodian，而 Guide 5269 一处写“17 岁及以下”，同一指南随后又把 17 岁至成年年龄列为官员酌情；本页采用更新更专门的未成年人专题页并保留官员裁量提示。公立教育是否免费、国际生学费、医保和接种要求均由所在地规则决定，不能全国概括。
 - **证据等级：** B
 - **主要来源：** [IRCC 未成年人在加拿大学习](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html)；[境外学签申请指南](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5269-applying-study-permit-outside-canada.html)；[PAL/TAL 规则与豁免](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html)；[资金证明](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html)；[转校与升学](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/change-schools.html)；[校外工作](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html)；[学生实习与中学 co-op](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html)；[2026 学签配额](https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html)；[2026–2028 移民水平计划](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels/supplementary-immigration-levels-2026-2028.html)；[入籍资格](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html)；[CRA 国际学生税务](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/international-students-studying-canada.html)；[魁北克学习费用](https://www.quebec.ca/en/education/study-quebec/required-conditions/costs-studies)；[魁北克 16 岁及以下学生文件](https://www.quebec.ca/en/education/study-quebec/documents/children)；[魁北克申请管理](https://www.quebec.ca/en/education/study-quebec/temporary-selection-studies)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -44,40 +41,35 @@ region: "北美"
 - **变化摘要：** 2027 年新入境国际学生名义目标由上一版计划的 305,900 修订为 150,000；2028 年也列 150,000，均不含延期和已在加拿大的学生，也没有给出 K–12 单独数字。
 - **过渡安排：** 新计划仍说明 2027 年和 2028 年数字会在前一年的 11 月 1 日前确认或调整；不能用总体 150,000 反推 K–12 配额。
 - **官方依据：** [2025–2027 计划（原目标）](https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/supplementary-immigration-levels-2025-2027.html)；[2026–2028 计划（修订目标）](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels/supplementary-immigration-levels-2026-2028.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2025-11-25 — 2026 年 K–12 全国目标公布
 
 - **公布与生效：** 2025-11-25 公布；目标适用于 2026 年度。
 - **变化摘要：** IRCC 预计 2026 年签发 115,000 份 K–12 学习许可，并维持该组 PAL/TAL 豁免；数字包含新入境与延期或返加口径。
 - **过渡安排：** 不适用；该数字是规划目标，不改变个人资格，也不是学校或学区招生名额。
 - **官方依据：** [IRCC 2026 省区分配与豁免公告](https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2026-01-01 — 魁北克基本需要金额更新
 
 - **公布与生效：** 官方页面未载明单独公布日；新金额自 2026-01-01 生效。
 - **变化摘要：** 魁北克 1 人年度基本需要金额调整为 CAD 24,617，并按同行人数设置阶梯；该金额包括日常生活及医疗和住院保险。
 - **过渡安排：** 学费和往返交通仍须另计；联邦魁北克以外资金表不替代本省金额。
 - **官方依据：** [魁北克学习费用](https://www.quebec.ca/en/education/study-quebec/required-conditions/costs-studies)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2026-04-01 — 中学 co-op 与高等教育新规则分开
 
 - **公布与生效：** 2026-04-09 公布；IRCC 表示新规则自 2026-04-01 起适用。
 - **变化摘要：** 合资格高等教育必修实习取消单独 co-op 工签；中学生仍须持单独 co-op 工签，且实习不得超过课程的 50%。
 - **过渡安排：** IRCC 表示会撤回仍在处理且符合新规则的高等教育 co-op 工签申请，并发送说明信；中学申请不适用该安排。
 - **官方依据：** [IRCC 简化高等教育 co-op 工签公告](https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/simplifying-co-op-work-permit-requirement-post-secondary-international-students.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ### 2026-09-01 — 联邦生活费标准上调
 
 - **公布与生效：** 官方资金页标注 2026-08-28 更新；新金额适用于在 2026-09-01 或之后提交的申请。
 - **变化摘要：** 魁北克以外 1 人年度生活费最低额由 CAD 22,895 上调至 23,448；金额仍不含学费和交通费。
 - **过渡安排：** 在 2025-01-01 至 2026-08-31（含）期间提交的申请适用旧表；魁北克申请继续适用本省金额和费用结构。
 - **官方依据：** [IRCC 资金证明标准](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html)
-- **本站核验：** 2026-09-02（证据 A）
-
+- **事件证据：** A
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

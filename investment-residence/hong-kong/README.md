@@ -2,8 +2,6 @@
 title: "中国香港"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 房地产有物业价值/计入上限；资产种类和托管规则严格
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.newcies.gov.hk/en/eligibility-criteria/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

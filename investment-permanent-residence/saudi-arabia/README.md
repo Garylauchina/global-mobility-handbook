@@ -2,8 +2,6 @@
 title: "沙特阿拉伯"
 category: "投资永居"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "A"
 region: "中东"
 ---
@@ -28,7 +26,6 @@ region: "中东"
 - **关键限制与变化：** 失去项目资格或违规可撤销；就业条件须逐年核验
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://pr.gov.sa/product-details-investor-residency)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

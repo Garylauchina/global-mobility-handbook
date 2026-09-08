@@ -2,8 +2,6 @@
 title: "泰国"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "亚洲"
 ---
@@ -28,7 +26,6 @@ region: "亚洲"
 - **关键限制与变化：** 需证明远程工作/自由职业或合格活动；存款不是投资居留
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://washingtondc.thaiembassy.org/en/page/page/dtv-visa)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

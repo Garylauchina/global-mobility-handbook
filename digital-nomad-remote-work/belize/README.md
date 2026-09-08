@@ -2,8 +2,6 @@
 title: "伯利兹"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "B"
 region: "加勒比"
 ---
@@ -28,7 +26,6 @@ region: "加勒比"
 - **关键限制与变化：** 移民局写US$500/成人、US$200/儿童，旅游局写BZD500/BZD200；按固定汇率折算，两者金额相差一倍，申请前须向移民局或实际申请门户书面确认，本站不自行选择较低金额
 - **证据等级：** B
 - **主要来源：** [伯利兹移民局Long Stay Permit](https://immigration.gov.bz/permits/long-stay-permit/)；[2021年移民法修正案](https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf)；[旅游局Work Where You Vacation](https://www.travelbelize.org/work-where-you-vacation/)
-- **本条核验日期：** 2026-09-02
 
 ## 政策时间线
 
@@ -40,8 +37,7 @@ region: "加勒比"
 - **变化摘要：** 原页只有二级全球索引并标C级候选；现已用主管机关页面和2021年法律重建资格、金额、期限、工作与家属条件，改为current/B
 - **过渡安排：** 费用币种仍有两个官方页面冲突，重新申请规则也未公开明确，因此不升为A级
 - **官方依据：** [移民局项目页](https://immigration.gov.bz/permits/long-stay-permit/)；[2021年移民法修正案](https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf)
-- **本站核验：** 2026-09-02（证据B）
-
+- **事件证据：** B
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

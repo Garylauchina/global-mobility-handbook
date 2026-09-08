@@ -2,8 +2,6 @@
 title: "斐济"
 category: "创业与经营居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 90
 evidence: "B"
 region: "大洋洲"
 ---
@@ -28,7 +26,6 @@ region: "大洋洲"
 - **关键限制与变化：** 透明度较低；必须在付款前取得投资审批和书面移民意见
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.immigration.gov.fj/investor-permit-application/)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

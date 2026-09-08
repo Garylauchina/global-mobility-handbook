@@ -2,8 +2,6 @@
 title: "安道尔"
 category: "投资居留"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "欧洲"
 ---
@@ -28,7 +26,6 @@ region: "欧洲"
 - **关键限制与变化：** 年度配额；房地产税及投资合格性持续变化
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.e-tramits.ad/tramits/ca/d1-residencia-sense-treball-autoritzacio-inicial/p/GV001309)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

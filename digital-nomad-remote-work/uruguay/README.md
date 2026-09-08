@@ -2,8 +2,6 @@
 title: "乌拉圭"
 category: "数字游民与远程工作"
 status: "current"
-last_verified: "2026-09-02"
-review_interval_days: 30
 evidence: "A"
 region: "南美"
 ---
@@ -28,7 +26,6 @@ region: "南美"
 - **关键限制与变化：** 宽松门槛不代表无需证明资金和保险
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal)
-- **本条核验日期：** 2026-09-02
 
 ## 纠错与更新
 

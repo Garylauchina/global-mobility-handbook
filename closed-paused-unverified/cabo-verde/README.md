@@ -2,8 +2,6 @@
 title: "佛得角"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 佛得角
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 主表采用新法；旧€1,500/€2,700存款不可混用
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.governo.cv/cabo-verde-lanca-programa-remote-working-e-nomadas-digitais-para-diversificar-e-desconcentrar-a-oferta-turistica/)
-- **核验日期：** 2026-09-02

@@ -2,8 +2,6 @@
 title: "巴林"
 category: "停办、暂停与待核"
 status: "archived-or-unverified"
-last_verified: "2026-09-02"
-review_interval_days: 180
 ---
 
 # 巴林
@@ -19,4 +17,3 @@ review_interval_days: 180
 - **为什么不能按有效项目处理：** 必须预审并书面确认；主表已保留冲突标记
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://goldenresidency.gov.bh/news/bahrain-lowers-minimum-real-estate-investment-for-golden-residency-to-usd-345000/)
-- **核验日期：** 2026-09-02
