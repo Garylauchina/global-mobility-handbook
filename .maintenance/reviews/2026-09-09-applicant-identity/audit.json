@@ -28,7 +28,7 @@
         {
           "program": "Citizenship by Investment Programme",
           "finding": "partial",
-          "identity_statement": "CIU FAQ所示2020年版本将阿富汗、伊朗、朝鲜、索马里、也门、苏丹列为受限国家，并列未成年前迁离、在非受限国家永久居留至少10年及无经济联系等例外条件。该旧版名单不能当作截至核查日的完整现行名单；俄罗斯／白俄罗斯等后续受理限制仍须补最新CIU书面依据，不能因旧FAQ未列就判断可办。",
+          "identity_statement": "【部分待核实】CIU FAQ所示2020年版本将阿富汗、伊朗、朝鲜、索马里、也门、苏丹列为受限国家，并列未成年前迁离、在非受限国家永久居留至少10年及无经济联系等例外条件。该旧版名单不能当作截至核查日的完整现行名单；俄罗斯／白俄罗斯等后续受理限制仍须补最新CIU书面依据，不能因旧FAQ未列就判断可办。",
           "references": [
             "https://cip.gov.ag/citizenship/"
           ],
@@ -42,7 +42,7 @@
         {
           "program": "Investment / donation naturalisation（2018 Nationality Law Arts. 21–22）",
           "finding": "gap",
-          "identity_statement": "待核实：所引2018国籍法扫描件尚不足以确认完整国籍、既有居留及投资／捐赠入籍的身份适用条件；不能把存在投资相关法条当作任何外国人均可办理的证明。",
+          "identity_statement": "【核心证据缺口】待核实：所引2018国籍法扫描件尚不足以确认完整国籍、既有居留及投资／捐赠入籍的身份适用条件；不能把存在投资相关法条当作任何外国人均可办理的证明。",
           "references": [
             "https://web-storage.interior.gov.kh/storage/doc/1597337540.pdf",
             "https://web-storage.interior.gov.kh/document/moi-20260122041042uumTBuZBOOfq.pdf",
@@ -73,7 +73,7 @@
         {
           "program": "Egyptian Citizenship by Investment",
           "finding": "gap",
-          "identity_statement": "待核实：当前官方入口与项目简介未提供足以确认完整国籍、出生地及既有身份排除范围的条款。境外汇款和投资合格不等于本人身份一定合格，递交前须补主管机关申请资格原文。",
+          "identity_statement": "【核心证据缺口】待核实：当前官方入口与项目简介未提供足以确认完整国籍、出生地及既有身份排除范围的条款。境外汇款和投资合格不等于本人身份一定合格，递交前须补主管机关申请资格原文。",
           "references": [
             "https://egyptcitizenship.gov.eg/"
           ],
@@ -103,7 +103,7 @@
         {
           "program": "Investor Citizenship（2026新规）",
           "finding": "partial",
-          "identity_statement": "政府及通讯社所引新规说明涉及外国投资者，但不足以确认完整受限国籍、现有居留或特殊身份规则。不能仅据2026投资金额公告判断所有外国人均可申请，须补主管机关完整操作资格。",
+          "identity_statement": "【部分待核实】政府及通讯社所引新规说明涉及外国投资者，但不足以确认完整受限国籍、现有居留或特殊身份规则。不能仅据2026投资金额公告判断所有外国人均可申请，须补主管机关完整操作资格。",
           "references": [
             "https://www.pm.gov.jo/AR/NewsDetails/am0847"
           ],
@@ -117,7 +117,7 @@
         {
           "program": "Economic and Climate Resilience Citizenship Program",
           "finding": "partial",
-          "identity_statement": "须满足项目年龄及尽调资格；官方申请说明排除涉及联合国安理会相关高风险／制裁范围、指定受制裁个人，以及与受制裁实体有关的持股或受益关系等情形。公开说明未给出可直接套用的完整国家清单，不能自行拼出国籍黑名单，也不能只查护照而不查关联。",
+          "identity_statement": "【部分待核实】须满足项目年龄及尽调资格；官方申请说明排除涉及联合国安理会相关高风险／制裁范围、指定受制裁个人，以及与受制裁实体有关的持股或受益关系等情形。公开说明未给出可直接套用的完整国家清单，不能自行拼出国籍黑名单，也不能只查护照而不查关联。",
           "references": [
             "https://www.ecrcp.gov.nr/"
           ],
@@ -148,7 +148,7 @@
         {
           "program": "Citizenship by Investment",
           "finding": "partial",
-          "identity_statement": "官方公告确认自2022-03-18起暂停俄罗斯及白俄罗斯申请且暂停继续有效；至少这两类不能按一般投资条件认定可新办。本次未确认完整的其他国籍、双重国籍及居住地例外清单，须另取得CIU现行依据。见[俄白申请公告](https://www.cipsaintlucia.com/news-blog/russianapplications)。",
+          "identity_statement": "【部分待核实】官方公告确认自2022-03-18起暂停俄罗斯及白俄罗斯申请且暂停继续有效；至少这两类不能按一般投资条件认定可新办。本次未确认完整的其他国籍、双重国籍及居住地例外清单，须另取得CIU现行依据。见[俄白申请公告](https://www.cipsaintlucia.com/news-blog/russianapplications)。",
           "references": [
             "https://www.cipsaintlucia.com/news-blog/russianapplications",
             "https://www.cipsaintlucia.com/citizenship-by-investment"
@@ -163,7 +163,7 @@
         {
           "program": "Citizenship by Investment Programme",
           "finding": "partial",
-          "identity_statement": "官方资格页要求主申请人至少18岁、无犯罪记录及通过身份和背景审查；同时提示可能有司法辖区、法律或政策限制，却未列完整受限国籍名单。因此不能认定“所有国籍均可”或自行写成“仅朝鲜不收”。见[官方资格页](https://cip.gov.st/eligibility-criteria)。",
+          "identity_statement": "【部分待核实】官方资格页要求主申请人至少18岁、无犯罪记录及通过身份和背景审查；同时提示可能有司法辖区、法律或政策限制，却未列完整受限国籍名单。因此不能认定“所有国籍均可”或自行写成“仅朝鲜不收”。见[官方资格页](https://cip.gov.st/eligibility-criteria)。",
           "references": [
             "https://cip.gov.st/eligibility-criteria",
             "https://cip.gov.st/about-the-program",
@@ -193,7 +193,7 @@
         {
           "program": "Development Support Programme / REO",
           "finding": "gap",
-          "identity_statement": "待核实：现有官方费表和项目入口不足以确认完整受限国籍、出生地、第三国永居例外及其适用年限；不能照搬中介常见名单或把DSP与REO的身份条件合并。",
+          "identity_statement": "【核心证据缺口】待核实：现有官方费表和项目入口不足以确认完整受限国籍、出生地、第三国永居例外及其适用年限；不能照搬中介常见名单或把DSP与REO的身份条件合并。",
           "references": [
             "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges"
           ],
@@ -648,7 +648,7 @@
         {
           "program": "Residence for digital nomad",
           "finding": "partial",
-          "identity_statement": "须获主管部门对数字游民活动的认可；普通境外远程雇佣关系不自动满足该认可。官方材料允许EU／EEA国民以有效身份证替代护照，并要求来源国、国籍国及居住国犯罪记录；这反映材料差异，不是完整国籍白名单。",
+          "identity_statement": "【部分待核实】须获主管部门对数字游民活动的认可；普通境外远程雇佣关系不自动满足该认可。官方材料允许EU／EEA国民以有效身份证替代护照，并要求来源国、国籍国及居住国犯罪记录；这反映材料差异，不是完整国籍白名单。",
           "references": [
             "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
           ],
@@ -677,7 +677,7 @@
         {
           "program": "Welcome Stamp",
           "finding": "partial",
-          "identity_statement": "须属于境外收入支持的远程工作者。申请表收集现有及曾有国籍、出生地等资料，但下拉选项不能作为所有国籍均合资格的证据；本次未从公开条款确认完整国籍或特殊身份排除范围。",
+          "identity_statement": "【部分待核实】须属于境外收入支持的远程工作者。申请表收集现有及曾有国籍、出生地等资料，但下拉选项不能作为所有国籍均合资格的证据；本次未从公开条款确认完整国籍或特殊身份排除范围。",
           "references": [
             "https://barbadoswelcomestamp.bb/applynow/",
             "https://www.visitbarbados.org/barbados-welcome-stamp"
@@ -692,7 +692,7 @@
         {
           "program": "Long Stay Visitor Permit（推广名：Work Where You Vacation）",
           "finding": "partial",
-          "identity_statement": "2021年修法第13A条及附表要求申请人为加拿大、美国、英国或欧盟成员国的公民或永久居民，并符合境外远程工作条件。因此中国籍申请人可能凭上述合资格永久居民身份满足这一项，仅有中国护照或临时签证不足。此为已核实的法条条件；当前收件及有无后续附表修订仍待主管机关确认。",
+          "identity_statement": "【部分待核实】2021年修法第13A条及附表要求申请人为加拿大、美国、英国或欧盟成员国的公民或永久居民，并符合境外远程工作条件。因此中国籍申请人可能凭上述合资格永久居民身份满足这一项，仅有中国护照或临时签证不足。此为已核实的法条条件；当前收件及有无后续附表修订仍待主管机关确认。",
           "references": [
             "https://immigration.gov.bz/permits/long-stay-permit/",
             "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf",
@@ -723,7 +723,7 @@
         {
           "program": "Digital Nomad residence permit",
           "finding": "partial",
-          "identity_statement": "须符合新增法条对境外受雇、经营或独立远程服务活动的具体定义；并非所有自称数字游民者均可申请。现有法条不足以确认完整特别国籍限制及当前身份转换细则，须由递交领馆和移民局补证。",
+          "identity_statement": "【部分待核实】须符合新增法条对境外受雇、经营或独立远程服务活动的具体定义；并非所有自称数字游民者均可申请。现有法条不足以确认完整特别国籍限制及当前身份转换细则，须由递交领馆和移民局补证。",
           "references": [
             "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
           ],
@@ -737,7 +737,7 @@
         {
           "program": "Remote professional activity residence",
           "finding": "partial",
-          "identity_statement": "2025实施条例第35条要求境外劳动合同或服务／经营关系，并提交税务居所证明；税务居所不等于国籍或永久居民身份。新法条不能沿用2020旅游推广项目的地域营销范围作为国籍白名单；完整特别国籍入境限制仍须另核。",
+          "identity_statement": "【部分待核实】2025实施条例第35条要求境外劳动合同或服务／经营关系，并提交税务居所证明；税务居所不等于国籍或永久居民身份。新法条不能沿用2020旅游推广项目的地域营销范围作为国籍白名单；完整特别国籍入境限制仍须另核。",
           "references": [
             "https://boe.incv.cv/Bulletins/View/85465",
             "https://boe.incv.cv/Bulletins/DownloadAct?id=85465"
@@ -752,7 +752,7 @@
         {
           "program": "Visitor Visa — Digital Nomad",
           "finding": "partial",
-          "identity_statement": "第5477/2022号决议第46条要求短期免签国家／地区签发的护照，并符合境外远程工作或数字创业条件。但所引用的第5488/2022号决议还包含中国等国的附条件免签，以及按特定第三国永久居留取得的短停免签；不能把所有情况压缩成单一国籍白名单。这些附条件情形是否满足第46条的数字游民护照要求，尚需主管机关确认，不作一律可办或不可办的结论。见[现行免签决议第3–5条](https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5488_2022.htm)。",
+          "identity_statement": "【部分待核实】第5477/2022号决议第46条要求短期免签国家／地区签发的护照，并符合境外远程工作或数字创业条件。但所引用的第5488/2022号决议还包含中国等国的附条件免签，以及按特定第三国永久居留取得的短停免签；不能把所有情况压缩成单一国籍白名单。这些附条件情形是否满足第46条的数字游民护照要求，尚需主管机关确认，不作一律可办或不可办的结论。见[现行免签决议第3–5条](https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5488_2022.htm)。",
           "references": [
             "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm",
             "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5488_2022.htm"
@@ -768,7 +768,7 @@
         {
           "program": "Digital Nomads",
           "finding": "partial",
-          "identity_statement": "面向向境外个人或法人提供远程服务并获境外报酬的外国人，不能用哥斯达黎加本地工作替代。所引官方项目页未列完整国籍排除清单；是否需先办入境签证仍须按护照对应规则核对。",
+          "identity_statement": "【部分待核实】面向向境外个人或法人提供远程服务并获境外报酬的外国人，不能用哥斯达黎加本地工作替代。所引官方项目页未列完整国籍排除清单；是否需先办入境签证仍须按护照对应规则核对。",
           "references": [
             "https://www.visitcostarica.com/digital-nomads",
             "https://www.visitcostarica.com/digital-nomads/requirements",
@@ -849,7 +849,7 @@
         {
           "program": "Work in Nature Visa",
           "finding": "partial",
-          "identity_statement": "主申请人须年满18岁并符合远程工作、收入与良好品格要求；WIN与投资入籍是不同项目，不能直接套用CBI的受限国籍名单。当前WIN公开来源未确认完整的特别国籍限制。",
+          "identity_statement": "【部分待核实】主申请人须年满18岁并符合远程工作、收入与良好品格要求；WIN与投资入籍是不同项目，不能直接套用CBI的受限国籍名单。当前WIN公开来源未确认完整的特别国籍限制。",
           "references": [
             "https://windominica.gov.dm/component/content/category/8-program-details"
           ],
@@ -863,7 +863,7 @@
         {
           "program": "Rentista for remote work",
           "finding": "partial",
-          "identity_statement": "2024官方办事说明将对象写为拟在厄瓜多尔远程工作的外国自然人，须拥有境外企业或为境外自然人／法人工作；不能把仅为法人工作的规则从其他国家移植过来。本次当前在线正文复取不完整，仍须核对有无后续特别国籍及现有身份限制。见[官方办事说明存档](https://www.gob.ec/sites/default/files/sign/procedure-14306-20240808131313-17407102-signed.pdf)。",
+          "identity_statement": "【部分待核实】2024官方办事说明将对象写为拟在厄瓜多尔远程工作的外国自然人，须拥有境外企业或为境外自然人／法人工作；不能把仅为法人工作的规则从其他国家移植过来。本次当前在线正文复取不完整，仍须核对有无后续特别国籍及现有身份限制。见[官方办事说明存档](https://www.gob.ec/sites/default/files/sign/procedure-14306-20240808131313-17407102-signed.pdf)。",
           "references": [
             "https://www.gob.ec/sites/default/files/sign/procedure-14306-20240808131313-17407102-signed.pdf",
             "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada",
@@ -879,7 +879,7 @@
         {
           "program": "Teleworking / Digital Nomad D visa",
           "finding": "partial",
-          "identity_statement": "须以外国公司雇员、外国公司经营者或主要向境外客户提供服务的自由职业者身份申请；e-Residency电子居民不是国籍、实体居留或签证。外交部D签页另设俄白申请限制入口，须按本人国籍和例外核对，不能把电子居民身份当作解除限制的依据。",
+          "identity_statement": "【部分待核实】须以外国公司雇员、外国公司经营者或主要向境外客户提供服务的自由职业者身份申请；e-Residency电子居民不是国籍、实体居留或签证。外交部D签页另设俄白申请限制入口，须按本人国籍和例外核对，不能把电子居民身份当作解除限制的依据。",
           "references": [
             "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa",
             "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/",
@@ -911,7 +911,7 @@
         {
           "program": "Digital Nomad residence",
           "finding": "gap",
-          "identity_statement": "待核实：目前主要依据专业机构索引发现项目，仍缺主管机关国籍、合法入境及既有身份资格条款；不能仅凭收入数字判断中国籍或其他特定身份申请人可递交。",
+          "identity_statement": "【核心证据缺口】待核实：目前主要依据专业机构索引发现项目，仍缺主管机关国籍、合法入境及既有身份资格条款；不能仅凭收入数字判断中国籍或其他特定身份申请人可递交。",
           "references": [
             "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-03-2026.pdf"
           ],
@@ -939,7 +939,7 @@
         {
           "program": "E33G — Remote Worker",
           "finding": "partial",
-          "identity_statement": "E33G要求国家护照和境外公司雇佣合同；不能将所有自由职业者、印尼本地雇员或仅有远程收入者都视为适用。当前所引条款未确认完整的特别国籍／Calling Visa限制清单，需按本人护照核对移民局受理规则。",
+          "identity_statement": "【部分待核实】E33G要求国家护照和境外公司雇佣合同；不能将所有自由职业者、印尼本地雇员或仅有远程收入者都视为适用。当前所引条款未确认完整的特别国籍／Calling Visa限制清单，需按本人护照核对移民局受理规则。",
           "references": [
             "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia",
             "https://evisa.imigrasi.go.id/"
@@ -984,7 +984,7 @@
         {
           "program": "Neo Nomad Visa",
           "finding": "partial",
-          "identity_statement": "Neo Nomad B12-1的国籍／邀请函材料应按递件馆名单核对；免邀请函的国家范围不能自动理解为只有这些国籍能申请。当前来源尚不足以完整确认名单和其他国籍替代程序，且不得与ICT人才Digital Nomad Residency的身份条件混用。",
+          "identity_statement": "【部分待核实】Neo Nomad B12-1的国籍／邀请函材料应按递件馆名单核对；免邀请函的国家范围不能自动理解为只有这些国籍能申请。当前来源尚不足以完整确认名单和其他国籍替代程序，且不得与ICT人才Digital Nomad Residency的身份条件混用。",
           "references": [
             "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en",
             "https://www.gov.kz/memleket/entities/mfa-bern/press/article/details/6521?lang=en"
@@ -999,7 +999,7 @@
         {
           "program": "Permit Class N — Digital Nomad",
           "finding": "partial",
-          "identity_statement": "Class N面向为境外雇主工作、经营境外企业或服务境外客户的外国远程工作者，并要求不属于被禁止入境者。公开资格页未列项目专属国籍白名单；这只说明所引页的证据范围，不构成对所有国籍的受理保证。",
+          "identity_statement": "【部分待核实】Class N面向为境外雇主工作、经营境外企业或服务境外客户的外国远程工作者，并要求不属于被禁止入境者。公开资格页未列项目专属国籍白名单；这只说明所引页的证据范围，不构成对所有国籍的受理保证。",
           "references": [
             "https://fns.immigration.go.ke/infopack/permits/classN/"
           ],
@@ -1105,7 +1105,7 @@
         {
           "program": "Digital Nomad temporary residence",
           "finding": "partial",
-          "identity_statement": "须属于受雇于境外公司或经营境外公司的外国远程工作者；在黑山合法入境、停留与递交期限另须满足。所引专项说明未列完整国籍白名单，不据此保证任意国籍均可入境申请。",
+          "identity_statement": "【部分待核实】须属于受雇于境外公司或经营境外公司的外国远程工作者；在黑山合法入境、停留与递交期限另须满足。所引专项说明未列完整国籍白名单，不据此保证任意国籍均可入境申请。",
           "references": [
             "https://digitalnomads.gov.me/article/legal-status-for-nomads"
           ],
@@ -1136,7 +1136,7 @@
         {
           "program": "Digital Nomad Visa",
           "finding": "partial",
-          "identity_statement": "须证明境外雇主、企业或客户关系。所引NIPDB公开要求未列完整国籍限制；护照与背景材料要求不能解释为任何国籍均获准，原有在纳米比亚身份及是否可境内转换仍须由移民机关确认。",
+          "identity_statement": "【部分待核实】须证明境外雇主、企业或客户关系。所引NIPDB公开要求未列完整国籍限制；护照与背景材料要求不能解释为任何国籍均获准，原有在纳米比亚身份及是否可境内转换仍须由移民机关确认。",
           "references": [
             "https://www.nipdb.com/digital-nomad-visa"
           ],
@@ -1165,7 +1165,7 @@
         {
           "program": "D8 Remote Work Residence",
           "finding": "partial",
-          "identity_statement": "须证明与葡萄牙境外实体的雇佣或服务关系；税务居所证明与国籍、永久居留是不同材料。所引D8专门条款未列国籍白名单，但这不等于所有国籍都免于一般入境及受理辖区限制。",
+          "identity_statement": "【部分待核实】须证明与葡萄牙境外实体的雇佣或服务关系；税务居所证明与国籍、永久居留是不同材料。所引D8专门条款未列国籍白名单，但这不等于所有国籍都免于一般入境及受理辖区限制。",
           "references": [
             "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe",
             "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=940A0031A&ficha=1&nid=940&nversao=&pagina=1&so_miolo=&tabela=leis",
@@ -1184,7 +1184,7 @@
         {
           "program": "Digital Nomad long-stay visa / residence",
           "finding": "partial",
-          "identity_statement": "须证明境外公司雇佣或符合条件的境外公司经营身份及远程工作性质；本页所引移民机关条款未列出完整国籍排除名单。公司所在国、本人国籍与目前合法居留地须分别核对，不能据海外收入认定任意身份均可办理。",
+          "identity_statement": "【部分待核实】须证明境外公司雇佣或符合条件的境外公司经营身份及远程工作性质；本页所引移民机关条款未列出完整国籍排除名单。公司所在国、本人国籍与目前合法居留地须分别核对，不能据海外收入认定任意身份均可办理。",
           "references": [
             "https://igi.mai.gov.ro/alte-scopuri/"
           ],
@@ -1198,7 +1198,7 @@
         {
           "program": "Seychelles Workcation Retreat",
           "finding": "gap",
-          "identity_statement": "待核实：原Workcation入口现为通用电子边境系统，不能从普通入境授权的国籍选择项推断专项许可向所有国籍开放；须先补当前项目收件及申请人身份范围。",
+          "identity_statement": "【核心证据缺口】待核实：原Workcation入口现为通用电子边境系统，不能从普通入境授权的国籍选择项推断专项许可向所有国籍开放；须先补当前项目收件及申请人身份范围。",
           "references": [
             "https://seychelles.govtas.com/en/workcation"
           ],
@@ -1226,7 +1226,7 @@
         {
           "program": "Remote Work Visitor’s Visa",
           "finding": "partial",
-          "identity_statement": "须有境外雇主合同并符合远程工作签证要求，不能仅凭被动收入替代受雇条件。所引官方材料未明确完整国籍排除范围；是否可境内转签须另按本人当前签证和一般移民法判断。",
+          "identity_statement": "【部分待核实】须有境外雇主合同并符合远程工作签证要求，不能仅凭被动收入替代受雇条件。所引官方材料未明确完整国籍排除范围；是否可境内转签须另按本人当前签证和一般移民法判断。",
           "references": [
             "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
           ],
@@ -1240,7 +1240,7 @@
         {
           "program": "Workcation / Digital Nomad Visa",
           "finding": "partial",
-          "identity_statement": "须按Workcation的境外经营／工作及同行业经历条件判断；青年和地区优惠中的年龄、住所与携家属条件会改变适用档位。本次未完整取得当前特别国籍及境内转换条款，不能将优惠年龄分档或免签入境名单当作申请国籍白名单。",
+          "identity_statement": "【部分待核实】须按Workcation的境外经营／工作及同行业经历条件判断；青年和地区优惠中的年龄、住所与携家属条件会改变适用档位。本次未完整取得当前特别国籍及境内转换条款，不能将优惠年龄分档或免签入境名单当作申请国籍白名单。",
           "references": [
             "https://www.moj.go.kr/bbs/immigration_eng/229/464290/download.do",
             "https://overseas.mofa.go.kr/de-de/wpge/m_7236/contents.do",
@@ -1340,7 +1340,7 @@
         {
           "program": "Virtual Work Residence Visa",
           "finding": "partial",
-          "identity_statement": "面向为阿联酋境外机构远程工作的外国申请人，采用无本地担保人的虚拟工作居留；“无担保人”不等于不审查国籍和入境资格。GDRFA所引公开条件未提供完整国籍排除清单。",
+          "identity_statement": "【部分待核实】面向为阿联酋境外机构远程工作的外国申请人，采用无本地担保人的虚拟工作居留；“无担保人”不等于不审查国籍和入境资格。GDRFA所引公开条件未提供完整国籍排除清单。",
           "references": [
             "https://gdrfad.gov.ae/en/services/f52024e3-b812-11ed-5210-4cd98f768936",
             "https://gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8",
@@ -1356,7 +1356,7 @@
         {
           "program": "Permiso especial para nómadas digitales",
           "finding": "partial",
-          "identity_statement": "政府公告面向为境外企业工作或境外自雇的外国远程工作者；没有在所引公告中找到完整国籍限制条款。电子身份或入境后的申请步骤不能替代合法入境与本人护照资格审查。",
+          "identity_statement": "【部分待核实】政府公告面向为境外企业工作或境外自雇的外国远程工作者；没有在所引公告中找到完整国籍限制条款。电子身份或入境后的申请步骤不能替代合法入境与本人护照资格审查。",
           "references": [
             "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal"
           ],
@@ -1370,7 +1370,7 @@
         {
           "program": "Investor Permit",
           "finding": "partial",
-          "identity_statement": "投资许可针对年满18岁的外国投资者，并须提交相应身份、背景及经营材料；已核实的公开条件未列项目专属国籍白名单。是否能够入境、在境内申请以及经营受限行业仍须分别确认。",
+          "identity_statement": "【部分待核实】投资许可针对年满18岁的外国投资者，并须提交相应身份、背景及经营材料；已核实的公开条件未列项目专属国籍白名单。是否能够入境、在境内申请以及经营受限行业仍须分别确认。",
           "references": [
             "https://www.immigration.gov.fj/investor-permit-application/",
             "https://www.investmentfiji.org.fj/article/investment-fiji-sets-focus-to-be-a-leading-ipa",
@@ -1386,7 +1386,7 @@
         {
           "program": "Talent-porteur de projet — investissement économique",
           "finding": "partial",
-          "identity_statement": "须由外国申请人直接投资，或通过本人管理／持股达到规定比例的公司投资并满足就业承诺；不是任意被动持有人均适用。EU自由迁徙对象、其他法国居留及特别双边制度应另判；所引条款未确认完整特别国籍限制。",
+          "identity_statement": "【部分待核实】须由外国申请人直接投资，或通过本人管理／持股达到规定比例的公司投资并满足就业承诺；不是任意被动持有人均适用。EU自由迁徙对象、其他法国居留及特别双边制度应另判；所引条款未确认完整特别国籍限制。",
           "references": [
             "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922",
             "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049052499/",
@@ -1425,7 +1425,7 @@
         {
           "program": "Business Investor Work Visa",
           "finding": "partial",
-          "identity_statement": "须符合官方商业投资工作签证对年龄、商业经验、英语及品格等要求；不是纯被动投资资格。公开资格页未列国籍白名单或事先持外国永居要求，证明英语的国籍／教育替代条件不应误写成申请国籍名单。",
+          "identity_statement": "【部分待核实】须符合官方商业投资工作签证对年龄、商业经验、英语及品格等要求；不是纯被动投资资格。公开资格页未列国籍白名单或事先持外国永居要求，证明英语的国籍／教育替代条件不应误写成申请国籍名单。",
           "references": [
             "https://www.immigration.govt.nz/visas/business-investor-work-visa/"
           ],
@@ -1439,7 +1439,7 @@
         {
           "program": "Golden Residency — Property Owner",
           "finding": "partial",
-          "identity_statement": "须以外国房产所有人及本人合资格产权份额申请；不是只要家属或所投资企业持房就当然符合本人身份条件。当前入口本次未完整返回可读的国籍／既有居留条款，完整身份排除范围仍须NPRA确认。",
+          "identity_statement": "【部分待核实】须以外国房产所有人及本人合资格产权份额申请；不是只要家属或所投资企业持房就当然符合本人身份条件。当前入口本次未完整返回可读的国籍／既有居留条款，完整身份排除范围仍须NPRA确认。",
           "references": [
             "https://goldenresidency.gov.bh/eligibility-criteria/",
             "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/",
@@ -1455,7 +1455,7 @@
         {
           "program": "Québec Investor Program",
           "finding": "partial",
-          "identity_statement": "须符合商业管理经历、教育及法语等投资者资格，并按魁北克定居及工作许可阶段要求办理；并非只需持有资产。所引现行资格页未列国籍白名单或事先取得外国永居的门槛；加拿大联邦可入境性审查仍须满足。",
+          "identity_statement": "【部分待核实】须符合商业管理经历、教育及法语等投资者资格，并按魁北克定居及工作许可阶段要求办理；并非只需持有资产。所引现行资格页未列国籍白名单或事先取得外国永居的门槛；加拿大联邦可入境性审查仍须满足。",
           "references": [
             "https://www.quebec.ca/immigration/permanente/immigrer-affaires/investisseurs/conditions",
             "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html"
@@ -1470,7 +1470,7 @@
         {
           "program": "Immigration Permit for Investors",
           "finding": "gap",
-          "identity_statement": "待核实：现行移民部门投资永居页本次返回访问阻断，尚未完整确认当前特别国籍／关联限制及现有居留适用规则。不能据€300k门槛判断任何护照均可申请，也不能套用已关闭投资入籍项目的名单。",
+          "identity_statement": "【核心证据缺口】待核实：现行移民部门投资永居页本次返回访问阻断，尚未完整确认当前特别国籍／关联限制及现有居留适用规则。不能据€300k门槛判断任何护照均可申请，也不能套用已关闭投资入籍项目的名单。",
           "references": [
             "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/"
           ],
@@ -1484,7 +1484,7 @@
         {
           "program": "Malta Permanent Residence Programme (MPRP)",
           "finding": "partial",
-          "identity_statement": "限非EU／EEA／瑞士的第三国国民，并排除受主管机关制裁国家范围及其他不相容计划受益人。已取得或正在申请马耳他EU长期居民身份者也须核对法规排除条款。旧FAQ中的国籍及“紧密联系”名单不能与数字游民项目共用；本次尚未取得可确认截至核查日完整有效的新版MPRP国别清单。",
+          "identity_statement": "【部分待核实】限非EU／EEA／瑞士的第三国国民，并排除受主管机关制裁国家范围及其他不相容计划受益人。已取得或正在申请马耳他EU长期居民身份者也须核对法规排除条款。旧FAQ中的国籍及“紧密联系”名单不能与数字游民项目共用；本次尚未取得可确认截至核查日完整有效的新版MPRP国别清单。",
           "references": [
             "https://residencymalta.gov.mt/legal-framework-mprp-2/",
             "https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf",
@@ -1500,7 +1500,7 @@
         {
           "program": "Investor Permanent Residence Permit",
           "finding": "partial",
-          "identity_statement": "本块为外国投资者在合资格商业活动直接投资的路线，不应把另一路Occupation Permit持有人的多年经营转换条件自动套入，也不能只凭已有外国永居替代商业投资资格。所引官方资料未列完整国籍排除范围。",
+          "identity_statement": "【部分待核实】本块为外国投资者在合资格商业活动直接投资的路线，不应把另一路Occupation Permit持有人的多年经营转换条件自动套入，也不能只凭已有外国永居替代商业投资资格。所引官方资料未列完整国籍排除范围。",
           "references": [
             "https://passport.govmu.org/passport/?page_id=626"
           ],
@@ -1514,7 +1514,7 @@
         {
           "program": "Qualified Investor",
           "finding": "partial",
-          "identity_statement": "须由外国合格投资者按相应分支证明本人投资及境外资金来源；不能以公司、家属或第三国永居身份直接替代主申请人资格。现有资料未确认完整受限国籍及原有巴拿马身份转换规则。",
+          "identity_statement": "【部分待核实】须由外国合格投资者按相应分支证明本人投资及境外资金来源；不能以公司、家属或第三国永居身份直接替代主申请人资格。现有资料未确认完整受限国籍及原有巴拿马身份转换规则。",
           "references": [
             "https://www.migracion.gob.pa/wp-content/uploads/DECRETO_EJECUTIVO_722.pdf",
             "https://www.migracion.gob.pa/wp-content/uploads/DECRETO-EJECUTIVO-193-DE-15-DE-OCTUBRE-DE-2024-QUE-MODIIFICA-Y-ADICIONA-AL-DECRETO-172-DE-15-DE-OCTUBRE-DE-2020.pdf",
@@ -1530,7 +1530,7 @@
         {
           "program": "Premium Residency — Business Investor",
           "finding": "partial",
-          "identity_statement": "须符合Business Investor本人持股份额、投资登记及经营证明条件，不能只看公司总投资额。项目门户本次未完整返回可读的一般身份规则，国籍限制、年龄及现有沙特身份的合法性要求仍须主管机关确认。",
+          "identity_statement": "【部分待核实】须符合Business Investor本人持股份额、投资登记及经营证明条件，不能只看公司总投资额。项目门户本次未完整返回可读的一般身份规则，国籍限制、年龄及现有沙特身份的合法性要求仍须主管机关确认。",
           "references": [
             "https://pr.gov.sa/pr?id=pr_product_details_investor_residency",
             "https://pr.gov.sa/pr?id=faqs",
@@ -1546,7 +1546,7 @@
         {
           "program": "Permanent Residence by Investment",
           "finding": "partial",
-          "identity_statement": "须有与直接投资有关的至少5年商业关联／经营联系等官方条件，并非任何外国人单纯一次付款即可取得永居。所引资格页未列完整国籍白名单；外国永居不替代本项目的既有商业经历。",
+          "identity_statement": "【部分待核实】须有与直接投资有关的至少5年商业关联／经营联系等官方条件，并非任何外国人单纯一次付款即可取得永居。所引资格页未列完整国籍白名单；外国永居不替代本项目的既有商业经历。",
           "references": [
             "https://investinseychelles.com/investors-guide/investor-resources/residency-by-investment/permanent-residence-permit"
           ],
@@ -1560,7 +1560,7 @@
         {
           "program": "Global Investor Programme",
           "finding": "partial",
-          "identity_statement": "EDB按成熟企业主、下一代企业主、高增长企业创始人、家族办公室负责人四类背景设资格，须符合对应商业履历及资产／营业额条件；仅有资金或第三国永居不足。所引资格表未列国籍白名单，也未要求申请前已是新加坡永久居民。",
+          "identity_statement": "【部分待核实】EDB按成熟企业主、下一代企业主、高增长企业创始人、家族办公室负责人四类背景设资格，须符合对应商业履历及资产／营业额条件；仅有资金或第三国永居不足。所引资格表未列国籍白名单，也未要求申请前已是新加坡永久居民。",
           "references": [
             "https://www.edb.gov.sg/en/how-we-help/global-investor-programme",
             "https://assets.app.optical.gov.sg/edb/production/published/collections/pages/%252Fhow-we-help%252Fglobal-investor-programme/5d1d8faa-729b-463d-ac13-9d2c9b5a6abd.pdf",
@@ -1578,7 +1578,7 @@
         {
           "program": "Financially Independent Permanent Residence",
           "finding": "partial",
-          "identity_statement": "须按财务独立永久居留而非投资签证资格申请；净资产证明不能替代一般可入境性和本人身份审查。所引金额公告不提供完整国籍／既有签证排除范围，本次不据此推断所有外国身份均适用。",
+          "identity_statement": "【部分待核实】须按财务独立永久居留而非投资签证资格申请；净资产证明不能替代一般可入境性和本人身份审查。所引金额公告不提供完整国籍／既有签证排除范围，本次不据此推断所有外国身份均适用。",
           "references": [
             "https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit",
             "https://www.gov.za/sites/default/files/gcis_document/201409/37716gon454.pdf",
@@ -1597,7 +1597,7 @@
         {
           "program": "Immigrant Investor Scheme for Public Business",
           "finding": "partial",
-          "identity_statement": "须分别核对公共事业投资移民的一般及高额分支；已废止退休优惠不能再按年龄或退休身份认定资格。韩英页面版本不同，本次未取得完整现行特别国籍和原有在韩身份转换条款。",
+          "identity_statement": "【部分待核实】须分别核对公共事业投资移民的一般及高额分支；已废止退休优惠不能再按年龄或退休身份认定资格。韩英页面版本不同，本次未取得完整现行特别国籍和原有在韩身份转换条款。",
           "references": [
             "https://www.moj.go.kr/moj/189/subview.do",
             "https://www.moj.go.kr/immigration/1515/subview.do",
@@ -1637,7 +1637,7 @@
         {
           "program": "Residència sense treball",
           "finding": "partial",
-          "identity_statement": "2026修法可确认非工作居留的投资变化，但不能单独证明完整国籍与现有身份适用范围；外国居留、国籍及此前已递交安道尔申请的过渡资格须分开判断。递交时间决定的旧制资格不是某一国籍的永久优惠。",
+          "identity_statement": "【部分待核实】2026修法可确认非工作居留的投资变化，但不能单独证明完整国籍与现有身份适用范围；外国居留、国籍及此前已递交安道尔申请的过渡资格须分开判断。递交时间决定的旧制资格不是某一国籍的永久优惠。",
           "references": [
             "https://www.portaljuridicandorra.ad/L2026002",
             "https://portaljuridicandorra.ad/L2026002_F",
@@ -1656,7 +1656,7 @@
         {
           "program": "RN 36 Real Estate Investment Residence",
           "finding": "partial",
-          "identity_statement": "RN36针对以自有境外资金投资房地产的外国自然人；须证明本人投资和国际资金汇入。所引专项法条未列项目国籍白名单；企业持有房产、外国永居或一般免签入境均不自动等于本人获批投资居留。",
+          "identity_statement": "【部分待核实】RN36针对以自有境外资金投资房地产的外国自然人；须证明本人投资和国际资金汇入。所引专项法条未列项目国籍白名单；企业持有房产、外国永居或一般免签入境均不自动等于本人获批投资居留。",
           "references": [
             "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/portal-de-imigracao-laboral/navegacao-guiada-1/possui-autorizacao-de-residencia/o-que-deseja/qual-a-finalidade-desejada-1/investidor-pessoa-fisica/rn-36-2018",
             "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/autorizacao-de-residencia",
@@ -1673,7 +1673,7 @@
         {
           "program": "Migrant Visa — Investor",
           "finding": "partial",
-          "identity_statement": "须为符合M类投资者要求的外国申请人并证明本人投资登记；该类别不能直接套用V类数字游民的免签护照白名单。所引M类页面未列完整国籍排除清单，普通签证拒签事由仍独立适用。",
+          "identity_statement": "【部分待核实】须为符合M类投资者要求的外国申请人并证明本人投资登记；该类别不能直接套用V类数字游民的免签护照白名单。所引M类页面未列完整国籍排除清单，普通签证拒签事由仍独立适用。",
           "references": [
             "https://www.cancilleria.gov.co/node/26979",
             "https://www.cancilleria.gov.co/node/26933",
@@ -1690,7 +1690,7 @@
         {
           "program": "Short-Term Residence Permit (property)",
           "finding": "partial",
-          "identity_statement": "须由外国申请人持有合资格不动产并满足居留申请条件；合法停留及是否可从当前入境身份递交须另核，不能把第三国签证、永居带来的入境便利等同于居留申请资格。现有来源未确认完整特别国籍限制。",
+          "identity_statement": "【部分待核实】须由外国申请人持有合资格不动产并满足居留申请条件；合法停留及是否可从当前入境身份递交须另核，不能把第三国签证、永居带来的入境便利等同于居留申请资格。现有来源未确认完整特别国籍限制。",
           "references": [
             "https://sda.gov.ge/en/products/migration-residence-permits/",
             "https://www.matsne.gov.ge/en/document/view/2278806",
@@ -1703,7 +1703,7 @@
         {
           "program": "Investment Residence Permit",
           "finding": "partial",
-          "identity_statement": "须以外国投资者身份满足投资及登记条件；不能仅因拥有其他国家居留或已免签入境便认定可在境内获批投资居留。特别国籍限制及当前入境身份的转换规则仍待补齐。",
+          "identity_statement": "【部分待核实】须以外国投资者身份满足投资及登记条件；不能仅因拥有其他国家居留或已免签入境便认定可在境内获批投资居留。特别国籍限制及当前入境身份的转换规则仍待补齐。",
           "references": [
             "https://sda.gov.ge/en/products/migration-residence-permits/",
             "https://www.matsne.gov.ge/en/document/view/2278806",
@@ -1721,7 +1721,7 @@
         {
           "program": "Real-estate Golden Visa（Migration Code Art. 100 B.5）",
           "finding": "partial",
-          "identity_statement": "本块仅为第100条B.5外国房地产投资者路线；须核对本人产权及合法入境条件。现有法条与通知未完整解决特别国籍、双重国籍和受制裁关联的当前受理限制，不能仅据持有合资格物业认定身份可办。",
+          "identity_statement": "【部分待核实】本块仅为第100条B.5外国房地产投资者路线；须核对本人产权及合法入境条件。现有法条与通知未完整解决特别国籍、双重国籍和受制裁关联的当前受理限制，不能仅据持有合资格物业认定身份可办。",
           "references": [
             "https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance",
             "https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf",
@@ -1773,7 +1773,7 @@
         {
           "program": "Golden Visa — Investors",
           "finding": "partial",
-          "identity_statement": "E28B企业投资者与E28C不设公司个人投资者须分开；E28B的境外公司持股、营业额等要求属于申请人商业背景条件，不能只看存款额。国家护照、特别国籍／Calling Visa及原有在印尼身份的适用限制仍须补现行移民局条款。",
+          "identity_statement": "【部分待核实】E28B企业投资者与E28C不设公司个人投资者须分开；E28B的境外公司持股、营业额等要求属于申请人商业背景条件，不能只看存款额。国家护照、特别国籍／Calling Visa及原有在印尼身份的适用限制仍须补现行移民局条款。",
           "references": [
             "https://www.imigrasi.go.id/wna/daftar-visa-indonesia",
             "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia"
@@ -1810,7 +1810,7 @@
         {
           "program": "Investor Property Residence",
           "finding": "partial",
-          "identity_statement": "2026政府公告适用于外国购房投资者，但未完整说明受限国籍、已有约旦居留及家属身份条件；房产所在地区和卖方类别合格，不等于主申请人的身份资格已经确定。",
+          "identity_statement": "【部分待核实】2026政府公告适用于外国购房投资者，但未完整说明受限国籍、已有约旦居留及家属身份条件；房产所在地区和卖方类别合格，不等于主申请人的身份资格已经确定。",
           "references": [
             "https://www.pm.gov.jo/AR/NewsDetails/am0847",
             "https://petra.gov.jo/candid/htdocs/index.php/en/news/government-revamps-investor-citizenship-rules-to-funnel-capital-into-provinces"
@@ -1880,7 +1880,7 @@
         {
           "program": "Approved Property Scheme Residence",
           "finding": "partial",
-          "identity_statement": "面向按获批房地产计划购房的非公民；持有房产及合资格投资主体的要求须按所用计划核对。所引条件未把事先持有第三国永居列为门槛，也未提供完整国籍排除名单。",
+          "identity_statement": "【部分待核实】面向按获批房地产计划购房的非公民；持有房产及合资格投资主体的要求须按所用计划核对。所引条件未把事先持有第三国永居列为门槛，也未提供完整国籍排除名单。",
           "references": [
             "https://edbmauritius.org/real-estate-hospitality",
             "https://residency.mu/acquire/real-estate-scheme/",
@@ -1897,7 +1897,7 @@
         {
           "program": "Active Investor Plus Visa",
           "finding": "partial",
-          "identity_statement": "须以合资格投资申请人身份满足品格、健康和合法资金要求；本页所引AIP资格未列国籍白名单，也未要求先持其他国家永久居留。资金能否合法汇入与本人国籍、居留资格是独立问题，不能据有资金即判可办。",
+          "identity_statement": "【部分待核实】须以合资格投资申请人身份满足品格、健康和合法资金要求；本页所引AIP资格未列国籍白名单，也未要求先持其他国家永久居留。资金能否合法汇入与本人国籍、居留资格是独立问题，不能据有资金即判可办。",
           "references": [
             "https://www.immigration.govt.nz/visas/active-investor-plus-visa/",
             "https://www.immigration.govt.nz/opsmanual/78345.htm",
@@ -1916,7 +1916,7 @@
         {
           "program": "Golden Residency",
           "finding": "partial",
-          "identity_statement": "须按个人投资、创造就业或企业提名等具体分支证明资格；企业获提名不等于其所有股东及员工都自动有资格。当前门户及政府新闻未充分列明完整国籍、年龄及现有阿曼身份限制，须取得所选分支书面规则。",
+          "identity_statement": "【部分待核实】须按个人投资、创造就业或企业提名等具体分支证明资格；企业获提名不等于其所有股东及员工都自动有资格。当前门户及政府新闻未充分列明完整国籍、年龄及现有阿曼身份限制，须取得所选分支书面规则。",
           "references": [
             "https://omanresidence.gov.om/en-us/",
             "https://tejarah.gov.om/en/media/news/m4peoqcsjjn94obkfvjym0mg"
@@ -1931,7 +1931,7 @@
         {
           "program": "Special Investor’s Resident Visa (SIRV)",
           "finding": "partial",
-          "identity_statement": "SIRV实施规则允许年满21岁的外国人申请，但明确排除外交部认定不得获发签证国家的国民，并有犯罪、健康等准入条件。本次未取得外交部完整现行排除名单，不能简写成“任何国籍均可申请”。",
+          "identity_statement": "【部分待核实】SIRV实施规则允许年满21岁的外国人申请，但明确排除外交部认定不得获发签证国家的国民，并有犯罪、健康等准入条件。本次未取得外交部完整现行排除名单，不能简写成“任何国籍均可申请”。",
           "references": [
             "https://boi.gov.ph/resources/faqs/",
             "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/41709",
@@ -1964,7 +1964,7 @@
         {
           "program": "Real Estate Residency",
           "finding": "partial",
-          "identity_statement": "属于非卡塔尔人的指定区域购房及相应居留权益制度；外国人可购范围不是全境房产。所引官方说明未确认完整国籍排除名单，购房资格、居留权益和永久居民身份须分别判断。",
+          "identity_statement": "【部分待核实】属于非卡塔尔人的指定区域购房及相应居留权益制度；外国人可购范围不是全境房产。所引官方说明未确认完整国籍排除名单，购房资格、居留权益和永久居民身份须分别判断。",
           "references": [
             "https://www.moj.gov.qa/en/departments/non-qatari-ownership-and-use-real-estate",
             "https://www.nhrc-qa.org/storage/publications/file_6666d6f57f82d_1718015733.pdf"
@@ -1979,7 +1979,7 @@
         {
           "program": "Premium Residency — Real Estate Owner",
           "finding": "partial",
-          "identity_statement": "房地产所有权／用益权与合资格期房为不同分支，须核对申请人本人持有权益。现行门户本次未完整返回一般身份规则，特别国籍、年龄及现有沙特居留合法性要求仍待主管机关确认。",
+          "identity_statement": "【部分待核实】房地产所有权／用益权与合资格期房为不同分支，须核对申请人本人持有权益。现行门户本次未完整返回一般身份规则，特别国籍、年龄及现有沙特居留合法性要求仍待主管机关确认。",
           "references": [
             "https://pr.gov.sa/pr?id=pr_product_details_real_estate_owner",
             "https://pr.gov.sa/pr?id=faqs",
@@ -1995,7 +1995,7 @@
         {
           "program": "Investor Visa Category",
           "finding": "partial",
-          "identity_statement": "官方Investor Visa类别面向外国投资者及合资格配偶、受养人；须符合允许的投资活动。公开类别说明未列完整国籍排除名单；行业投资限制不能与本人国籍资格混为一谈。",
+          "identity_statement": "【部分待核实】官方Investor Visa类别面向外国投资者及合资格配偶、受养人；须符合允许的投资活动。公开类别说明未列完整国籍排除名单；行业投资限制不能与本人国籍资格混为一谈。",
           "references": [
             "https://www.immigration.gov.lk/pages_t.php?id=67",
             "https://www.immigration.gov.lk/content/files/visa/Guideline%20Investor%20Visa%20Category%20doc%202.pdf",
@@ -2011,7 +2011,7 @@
         {
           "program": "LTR — Wealthy Global Citizen",
           "finding": "partial",
-          "identity_statement": "本页为LTR Wealthy Global Citizen分支，申请人须证明本人资产及合资格泰国投资；不能把Wealthy Pensioner的50岁年龄条件套用于这一分支。所引BOI条件未列国籍白名单或事先取得第三国永居要求。",
+          "identity_statement": "【部分待核实】本页为LTR Wealthy Global Citizen分支，申请人须证明本人资产及合资格泰国投资；不能把Wealthy Pensioner的50岁年龄条件套用于这一分支。所引BOI条件未列国籍白名单或事先取得第三国永居要求。",
           "references": [
             "https://ltr.boi.go.th/",
             "https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_(EN",
@@ -2028,7 +2028,7 @@
         {
           "program": "Golden Visa — Investors",
           "finding": "partial",
-          "identity_statement": "须按公共投资者、企业出资人或房地产所有人对应资格申请；“无需担保人”不代表不审查本人身份。所引ICP／迪拜资料未列完整国籍排除清单，原有居留、实际持有权益及受理酋长国规则须分别核对。",
+          "identity_statement": "【部分待核实】须按公共投资者、企业出资人或房地产所有人对应资格申请；“无需担保人”不代表不审查本人身份。所引ICP／迪拜资料未列完整国籍排除清单，原有居留、实际持有权益及受理酋长国规则须分别核对。",
           "references": [
             "https://icp.gov.ae/en/services/uae-golden-residency/",
             "https://icp.gov.ae/en/services-details/?serviceid=68e34eea5ae59b00117383d5",
@@ -2046,7 +2046,7 @@
         {
           "program": "Residence permit for pensioners",
           "finding": "partial",
-          "identity_statement": "须证明境外退休金及相应领取身份；退休金路线不能仅以一般存款或投资收益替代。所引条款未确认完整国籍排除和已有阿尔巴尼亚居留转换规则，须补主管机关当前操作资格。",
+          "identity_statement": "【部分待核实】须证明境外退休金及相应领取身份；退休金路线不能仅以一般存款或投资收益替代。所引条款未确认完整国籍排除和已有阿尔巴尼亚居留转换规则，须补主管机关当前操作资格。",
           "references": [
             "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf"
           ],
@@ -2074,7 +2074,7 @@
         {
           "program": "Self-Sponsorship Residence — Retired Foreigner",
           "finding": "partial",
-          "identity_statement": "针对退休外国人；NPRA要求至少15年的政府／私营部门或GCC相关退休与年资证明。该英文表述对工作地区范围仍需书面澄清，不能直接写成任何国家任意15年工龄都满足。完整国籍排除亦未确认。",
+          "identity_statement": "【部分待核实】针对退休外国人；NPRA要求至少15年的政府／私营部门或GCC相关退休与年资证明。该英文表述对工作地区范围仍需书面澄清，不能直接写成任何国家任意15年工龄都满足。完整国籍排除亦未确认。",
           "references": [
             "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/rps/self-sponsorship-residence-permit-and-return-visa-foreign-investor-0/"
           ],
@@ -2083,7 +2083,7 @@
         {
           "program": "Golden Residency — Retired Non-Resident",
           "finding": "partial",
-          "identity_statement": "本分支针对不居住巴林的境外退休人士，所引NPRA说明覆盖从巴林或其他国家退休者；不能套用另一条“在巴林工作15年”的退休居民分支，也不能与BHD500自担保退休居留混用。完整特别国籍限制仍待确认。",
+          "identity_statement": "【部分待核实】本分支针对不居住巴林的境外退休人士，所引NPRA说明覆盖从巴林或其他国家退休者；不能套用另一条“在巴林工作15年”的退休居民分支，也不能与BHD500自担保退休居留混用。完整特别国籍限制仍待确认。",
           "references": [
             "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/"
           ],
@@ -2111,7 +2111,7 @@
         {
           "program": "Retiree Residence",
           "finding": "partial",
-          "identity_statement": "须有本人退休或遗属养老金领取资格，合资格其他稳定收入可按规定补足金额；不是只要持有存款的任何外国人都符合。现有领馆材料未确认完整国籍与既有巴西身份限制，须按递交地点补证。",
+          "identity_statement": "【部分待核实】须有本人退休或遗属养老金领取资格，合资格其他稳定收入可按规定补足金额；不是只要持有存款的任何外国人都符合。现有领馆材料未确认完整国籍与既有巴西身份限制，须按递交地点补证。",
           "references": [
             "https://www.gov.br/mre/pt-br/embaixada-camberra/English/consular-section/visas/long-term-visas-for-stays-longer-than-90-days/vitem-xiv-immigration-policy"
           ],
@@ -2125,7 +2125,7 @@
         {
           "program": "M Visa — Pensionado",
           "finding": "partial",
-          "identity_statement": "须为获得终身养老金的外国申请人并符合M Pensionado要求；不应套用V类数字游民的免签护照白名单。养老金资格不能只靠第三国永居或一般投资收益替代，完整特别国籍排除仍须另核。",
+          "identity_statement": "【部分待核实】须为获得终身养老金的外国申请人并符合M Pensionado要求；不应套用V类数字游民的免签护照白名单。养老金资格不能只靠第三国永居或一般投资收益替代，完整特别国籍排除仍须另核。",
           "references": [
             "https://www.cancilleria.gov.co/node/26976"
           ],
@@ -2139,7 +2139,7 @@
         {
           "program": "Pensionado / Rentista Residence",
           "finding": "partial",
-          "identity_statement": "Pensionado依赖合资格终身养老金身份，Rentista依赖规定持续收入，两者不能都写成必须正式退休。当前官方办理链接存在缺口，完整国籍排除及境内转换身份条件本次未确认。",
+          "identity_statement": "【部分待核实】Pensionado依赖合资格终身养老金身份，Rentista依赖规定持续收入，两者不能都写成必须正式退休。当前官方办理链接存在缺口，完整国籍排除及境内转换身份条件本次未确认。",
           "references": [
             "https://www.visitcostarica.com/retirement"
           ],
@@ -2167,7 +2167,7 @@
         {
           "program": "VLS-TS / carte de séjour — visiteur",
           "finding": "partial",
-          "identity_statement": "须以无需在法国工作即可生活的外国访客身份符合要求；已有其他法国居留者、享自由迁徙权者及适用双边特别制度者，不能自动套用同一VLS-TS／居留卡程序。所引访客条件未提供完整国籍特别规则，本次不据此作“所有国籍无限制”的判断。",
+          "identity_statement": "【部分待核实】须以无需在法国工作即可生活的外国访客身份符合要求；已有其他法国居留者、享自由迁徙权者及适用双边特别制度者，不能自动套用同一VLS-TS／居留卡程序。所引访客条件未提供完整国籍特别规则，本次不据此作“所有国籍无限制”的判断。",
           "references": [
             "https://www.service-public.fr/particuliers/vosdroits/F302"
           ],
@@ -2181,7 +2181,7 @@
         {
           "program": "Financially Independent Person Permit",
           "finding": "gap",
-          "identity_statement": "待核实：当前所引主管机关分类入口不足以确认本许可完整国籍、已有希腊居留及转换条件。不能把达到收入门槛解释为任何外国身份均可申请，也不能套用房地产投资者的居留条件。",
+          "identity_statement": "【核心证据缺口】待核实：当前所引主管机关分类入口不足以确认本许可完整国籍、已有希腊居留及转换条件。不能把达到收入门槛解释为任何外国身份均可申请，也不能套用房地产投资者的居留条件。",
           "references": [
             "https://migration.gov.gr/en/adeia-diamonis-gia-oikonomika-anexartita-atoma/"
           ],
@@ -2195,7 +2195,7 @@
         {
           "program": "Stamp 0 — retire / independent means",
           "finding": "partial",
-          "identity_statement": "Stamp 0的独立财力／退休安排应先取得入境前批准，不能将访客入境自动当作境内转为退休居留的资格。当前官方页面复取不完整，国籍分组及其他现有身份例外仍须补主管机关现行条款。",
+          "identity_statement": "【部分待核实】Stamp 0的独立财力／退休安排应先取得入境前批准，不能将访客入境自动当作境内转为退休居留的资格。当前官方页面复取不完整，国籍分组及其他现有身份例外仍须补主管机关现行条款。",
           "references": [
             "https://www.irishimmigration.ie/coming-to-live-in-ireland/i-want-to-retire-to-ireland/"
           ],
@@ -2209,7 +2209,7 @@
         {
           "program": "Elective Residence Visa",
           "finding": "partial",
-          "identity_statement": "适用于以稳定、持续非劳动收入生活的外国申请人，并非只向领取退休金者开放。驻外领馆清单须结合合法居住地和受理辖区使用，不能将某馆要求的当地居留解释为全体申请人的外国永久居民门槛；完整特殊国籍限制仍须另核。",
+          "identity_statement": "【部分待核实】适用于以稳定、持续非劳动收入生活的外国申请人，并非只向领取退休金者开放。驻外领馆清单须结合合法居住地和受理辖区使用，不能将某馆要求的当地居留解释为全体申请人的外国永久居民门槛；完整特殊国籍限制仍须另核。",
           "references": [
             "https://ambtashkent.esteri.it/wp-content/uploads/2026/03/Residenza-elettiva_IT.pdf"
           ],
@@ -2251,7 +2251,7 @@
         {
           "program": "Pensionado",
           "finding": "partial",
-          "identity_statement": "须有政府、国际组织或合资格私人机构支付的终身养老金；一般租金／投资收益不能自动替代养老金身份。现有官方法令本次未完整复取，特别国籍及其他现有居留转换限制仍待核实。",
+          "identity_statement": "【部分待核实】须有政府、国际组织或合资格私人机构支付的终身养老金；一般租金／投资收益不能自动替代养老金身份。现有官方法令本次未完整复取，特别国籍及其他现有居留转换限制仍待核实。",
           "references": [
             "https://www.migracion.gob.pa/wp-content/uploads/02-JUBILADO-PENSIONADO-1.pdf"
           ],
@@ -2265,7 +2265,7 @@
         {
           "program": "Special Resident Retiree’s Visa (SRRV)",
           "finding": "partial",
-          "identity_statement": "PRA现行SRRV面向年满40岁的外国国民及前菲律宾公民，并要求有效旅游身份等材料；Courtesy等分支另针对未重新取得菲律宾国籍的前菲律宾人、合资格退休外交／国际组织／特定军职背景，不能推广成所有申请人都适用优惠。完整限制国家及特别批准范围本次仍未确认。",
+          "identity_statement": "【部分待核实】PRA现行SRRV面向年满40岁的外国国民及前菲律宾公民，并要求有效旅游身份等材料；Courtesy等分支另针对未重新取得菲律宾国籍的前菲律宾人、合资格退休外交／国际组织／特定军职背景，不能推广成所有申请人都适用优惠。完整限制国家及特别批准范围本次仍未确认。",
           "references": [
             "https://www.pra.gov.ph/srrvisa"
           ],
@@ -2279,7 +2279,7 @@
         {
           "program": "Retirement / own-income residence visa（常称D7）",
           "finding": "partial",
-          "identity_statement": "政府所列对象包括退休人士、宗教人士及依靠本人收入生活的外国人，不能把所有D7申请人都限定为已经退休。EU／EEA／瑞士人士与第三国签证申请分属不同规则；所引D7条件未列完整特别国籍排除名单。",
+          "identity_statement": "【部分待核实】政府所列对象包括退休人士、宗教人士及依靠本人收入生活的外国人，不能把所有D7申请人都限定为已经退休。EU／EEA／瑞士人士与第三国签证申请分属不同规则；所引D7条件未列完整特别国籍排除名单。",
           "references": [
             "https://www.gov.pt/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios",
             "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1",
@@ -2295,7 +2295,7 @@
         {
           "program": "Permit Class K — Assured Income",
           "finding": "partial",
-          "identity_statement": "Class K针对有足以保障生活收入且不拟在卢旺达就业的外国申请人；须按所用K类细分条件证明退休或相应收入身份。公开分类页未列完整国籍白名单，不能只凭存款而跳过身份与活动目的审查。",
+          "identity_statement": "【部分待核实】Class K针对有足以保障生活收入且不拟在卢旺达就业的外国申请人；须按所用K类细分条件证明退休或相应收入身份。公开分类页未列完整国籍白名单，不能只凭存款而跳过身份与活动目的审查。",
           "references": [
             "https://www.migration.gov.rw/index.php?L=2&id=66"
           ],
@@ -2309,7 +2309,7 @@
         {
           "program": "Retired Person’s Visa / retired PR",
           "finding": "partial",
-          "identity_statement": "须按退休人士签证／退休永居的对应条件证明养老金、年金或规定资产收入；两种身份的递交条件不能合并。金额公告及领馆清单未充分确认完整国籍、年龄及境内转换限制，本次保留身份证据缺口。",
+          "identity_statement": "【部分待核实】须按退休人士签证／退休永居的对应条件证明养老金、年金或规定资产收入；两种身份的递交条件不能合并。金额公告及领馆清单未充分确认完整国籍、年龄及境内转换限制，本次保留身份证据缺口。",
           "references": [
             "https://www.gov.za/documents/notices/immigration-act-minimum-amounts-payment-month-pension-or-irrevocable-annuity-or"
           ],
@@ -2323,7 +2323,7 @@
         {
           "program": "Non-lucrative Residence Visa",
           "finding": "partial",
-          "identity_statement": "面向符合非盈利居留条件的外国申请人；EU自由迁徙及其家属身份应另行判断。领馆要求在辖区合法居住，是递交地点条件，不等于必须先持某国永久居民身份；本次未确认完整特殊国籍限制。",
+          "identity_statement": "【部分待核实】面向符合非盈利居留条件的外国申请人；EU自由迁徙及其家属身份应另行判断。领馆要求在辖区合法居住，是递交地点条件，不等于必须先持某国永久居民身份；本次未确认完整特殊国籍限制。",
           "references": [
             "https://www.exteriores.gob.es/Embajadas/nuevadelhi/en/ServiciosConsulares/Paginas/Consular/Visado-de-residencia-no-lucrativa.aspx"
           ],
@@ -2337,7 +2337,7 @@
         {
           "program": "LTR — Wealthy Pensioner",
           "finding": "partial",
-          "identity_statement": "本页仅为LTR Wealthy Pensioner分支，主申请人须年满50岁，并以养老金或规定的被动收入满足要求；工资不能当然按退休收入计算。所引BOI条件未列国籍白名单，不能把其他LTR分支的年龄及职业条件移植过来。",
+          "identity_statement": "【部分待核实】本页仅为LTR Wealthy Pensioner分支，主申请人须年满50岁，并以养老金或规定的被动收入满足要求；工资不能当然按退休收入计算。所引BOI条件未列国籍白名单，不能把其他LTR分支的年龄及职业条件移植过来。",
           "references": [
             "https://ltr.boi.go.th/"
           ],
@@ -2365,7 +2365,7 @@
         {
           "program": "中小学学生路线（Student visa subclass 500）",
           "finding": "partial",
-          "identity_statement": "儿童按Student 500及未满18岁福利安排判断；合资格监护安排中澳大利亚公民、永久签证或Student Guardian 590等条件针对监护人，不是要求儿童先有澳大利亚PR。完整国籍差异及境内转换限制仍须补当前动态资格页确认。",
+          "identity_statement": "【部分待核实】儿童按Student 500及未满18岁福利安排判断；合资格监护安排中澳大利亚公民、永久签证或Student Guardian 590等条件针对监护人，不是要求儿童先有澳大利亚PR。完整国籍差异及境内转换限制仍须补当前动态资格页确认。",
           "references": [
             "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
             "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18",
@@ -2387,7 +2387,7 @@
         {
           "program": "学生监护人路线（Student Guardian visa subclass 590）",
           "finding": "partial",
-          "identity_statement": "须按590的父母、监护权人或合资格亲属身份及年龄条件申请；不能把任何陪同成年人都视为合格。已有澳大利亚身份能否改办590及附加限制，本次未能完整复取官网动态条件，须单独确认。",
+          "identity_statement": "【部分待核实】须按590的父母、监护权人或合资格亲属身份及年龄条件申请；不能把任何陪同成年人都视为合格。已有澳大利亚身份能否改办590及附加限制，本次未能完整复取官网动态条件，须单独确认。",
           "references": [
             "https://immi.homeaffairs.gov.au/visa-subsite/pages/student/590-student-guardian.aspx",
             "https://www.legislation.gov.au/F2019L01366/latest/text",
@@ -2410,7 +2410,7 @@
         {
           "program": "大学学位路线（Student visa subclass 500）",
           "finding": "partial",
-          "identity_statement": "须符合Student 500的真实学生及现有身份要求；境内递交能否成立取决于当前签证类别及附加条件。当前官网动态资格页未能完整复取，因此本次不确认完整国籍差异及境内禁止转换名单，不能据录取或资金证明判断任何身份均可境内办理。",
+          "identity_statement": "【部分待核实】须符合Student 500的真实学生及现有身份要求；境内递交能否成立取决于当前签证类别及附加条件。当前官网动态资格页未能完整复取，因此本次不确认完整国籍差异及境内禁止转换名单，不能据录取或资金证明判断任何身份均可境内办理。",
           "references": [
             "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
             "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
@@ -2547,7 +2547,7 @@
         {
           "program": "高等教育学生路线",
           "finding": "partial",
-          "identity_statement": "须区分需办学生长期签证／居留的外国人、EU自由迁徙对象及已持允许学习的其他居留者。Études en France适用国家或居住地名单主要决定办理渠道，不能等同于只允许这些国籍留学；完整特别国籍／双边制度适用仍须另核。",
+          "identity_statement": "【部分待核实】须区分需办学生长期签证／居留的外国人、EU自由迁徙对象及已持允许学习的其他居留者。Études en France适用国家或居住地名单主要决定办理渠道，不能等同于只允许这些国籍留学；完整特别国籍／双边制度适用仍须另核。",
           "references": [
             "https://www.service-public.gouv.fr/particuliers/vosdroits/F2231?lang=fr",
             "https://www.france-visas.gouv.fr/etudiant",
@@ -2623,7 +2623,7 @@
         {
           "program": "§ 16b 高等教育居留",
           "finding": "partial",
-          "identity_statement": "§16b属于外国学生居留路径，须与EU自由迁徙及已有其他允许学习的居留身份区分。录取与财力条件未形成一张所有国籍通用的免签名单；是否需先申请签证、能否境内申请取决于本人国籍和既有身份。",
+          "identity_statement": "【部分待核实】§16b属于外国学生居留路径，须与EU自由迁徙及已有其他允许学习的居留身份区分。录取与财力条件未形成一张所有国籍通用的免签名单；是否需先申请签证、能否境内申请取决于本人国籍和既有身份。",
           "references": [
             "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html",
             "https://www.gesetze-im-internet.de/aufenthg_2004/__17.html",
@@ -2656,7 +2656,7 @@
         {
           "program": "以中小学就读为主活动的“留学”在留资格",
           "finding": "partial",
-          "identity_statement": "针对以中小学就读为主活动的外国儿童，须符合该在留资格的年龄及接待条件；与已随家庭在日儿童的公校入学不同。不能把日本数字游民护照名单套用到“留学”，也不能因儿童录取而认定父母当然取得陪读身份。",
+          "identity_statement": "【部分待核实】针对以中小学就读为主活动的外国儿童，须符合该在留资格的年龄及接待条件；与已随家庭在日儿童的公校入学不同。不能把日本数字游民护照名单套用到“留学”，也不能因儿童录取而认定父母当然取得陪读身份。",
           "references": [
             "https://www.moj.go.jp/isa/applications/status/student.html",
             "https://laws.e-gov.go.jp/law/402M50000010016",
@@ -2716,7 +2716,7 @@
         {
           "program": "在留资格“留学”（大学学位路线）",
           "finding": "partial",
-          "identity_statement": "面向以合资格教育机构学习为主活动的外国人；日本数字游民国籍白名单不适用于“留学”在留资格。本人现有在留类别、在留资格变更及学历等条件须分别核对，学校录取不保证任何现有身份均可转换。",
+          "identity_statement": "【部分待核实】面向以合资格教育机构学习为主活动的外国人；日本数字游民国籍白名单不适用于“留学”在留资格。本人现有在留类别、在留资格变更及学历等条件须分别核对，学校录取不保证任何现有身份均可转换。",
           "references": [
             "https://www.moj.go.jp/isa/applications/status/student.html",
             "https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html",
@@ -3101,7 +3101,7 @@
         {
           "program": "Temporary Resident Visa — economic solvency",
           "finding": "partial",
-          "identity_statement": "这是外国申请人的经济能力临时居民签证，须使用受理领馆的现行财力及辖区规则；领馆要求在第三国合法居住时，该要求不等于项目统一要求先获第三国永久居留。现有来源未确认完整国籍及境内身份转换例外。",
+          "identity_statement": "【部分待核实】这是外国申请人的经济能力临时居民签证，须使用受理领馆的现行财力及辖区规则；领馆要求在第三国合法居住时，该要求不等于项目统一要求先获第三国永久居留。现有来源未确认完整国籍及境内身份转换例外。",
           "references": [
             "https://www.miconsulado.sre.gob.mx/visasmexicanas/visa/visa-de-residencia-temporal/",
             "https://consulmex.sre.gob.mx/sandiego/images/visasespanol2026/5a_Temporal_-_Solvencia_economica.pdf",
@@ -3127,5 +3127,10 @@
         }
       ]
     }
-  ]
+  ],
+  "public_gap_labels": {
+    "partial": "【部分待核实】：已有部分官方依据，但所列身份细节尚待补证或确认。",
+    "gap": "【核心证据缺口】：尚未取得足以确认当前申请者身份范围的官方正文。",
+    "scope": "标记表示身份证据的完整程度，不等于项目关闭、拒签或个人资格结论；没有标记也不表示全部政策字段或所有个案资格均已核实。"
+  }
 }
