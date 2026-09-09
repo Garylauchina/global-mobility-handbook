@@ -186,6 +186,7 @@ function validateCountryPage(
     const activeFields = expectedStudyRoute
       ? [
           "当前状态",
+          "申请者身份限制",
           "适用对象与核心资格",
           "录取与院校要求",
           "资金证明",
@@ -202,6 +203,7 @@ function validateCountryPage(
         ]
       : [
           "当前状态",
+          "申请者身份限制",
           "最低门槛或收入",
           "资金或收入性质",
           "首次身份与期限",
@@ -248,6 +250,7 @@ function validateCountryPage(
   if (isWarningPage) {
     const warningFields = [
       "当前状态",
+      "申请者身份限制",
       "关键变化",
       "为什么不能按有效项目处理",
       "证据等级",

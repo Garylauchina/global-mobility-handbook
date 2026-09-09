@@ -17,6 +17,7 @@ region: "亚洲"
 ## IHL Student’s Pass 路线
 
 - **当前状态：** 开放；外国人获 ICA 当前 IHL 类别所列机构的全日制注册学籍或录取后，可申请 Student’s Pass。持有效 Dependant’s Pass、Long-Term Visit Pass（LTVP）或 Immigration Exemption Order 者，通常可在其现有身份有效期内就读全日制非宗教课程而免办 Student’s Pass；短期访问身份只在 ICA 列明的完整独立短课程条件内例外。
+- **申请者身份限制：** 一般为获准就读合资格全日制课程的外国学生。持有效Dependant’s Pass、Long-Term Visit Pass或Immigration Exemption Order者，ICA对合资格非宗教全日制学习列有免另办Student’s Pass情形；须在原身份有效及满足例外条件时使用，不能把所有外国学生都列为必需新办。
 - **适用对象与核心资格：** 已获 ICA IHL 页面所覆盖机构的全日制 matriculated／registered student 身份，能提交真实完整资料并满足 In-Principle Approval（IPA）列明条件的外国学生。Student’s Pass 只适用于获准的全日制课程；非全日制、晚间或周末课程不合资格。交换生即使持 Student’s Pass，也不因此获得 MOM 的学生工作豁免。
 - **录取与院校要求：** 院校录取与 ICA 批准分开。院校先在 Student’s Pass 系统登记申请人并出具 Registration Acknowledgement Letter，申请人再按该编号递交。ICA 的 IHL 分类当前覆盖其页面列明的本地大学、本地理工学院和部分境外院校新加坡校区；“大学”“学院”或学位课程的名称本身不能替代当前 ICA 分类。未列入 IHL 的机构可能适用 Private Education Institution 等不同入口、EduTrust 条件和审理流程，不能照搬本页。
 - **资金证明：** ICA 的 IHL 申请页要求申报 financial support，并保留要求补充材料的权力，但未公布适用于所有 IHL 学生的统一最低存款或生活费数字。申请人应按录取文件分别覆盖学费、住宿、生活、交通、保险及学校要求；不得把 Student’s Pass 行政费当作完整财力门槛。当前申请处理费为 S$45；获批后 Student’s Pass 签发费为 S$60，适用时另有 S$30 Multiple Journey Visa 费，均应在递交时刷新。

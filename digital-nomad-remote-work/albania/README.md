@@ -17,6 +17,7 @@ region: "欧洲"
 ## Single Permit for digital mobile workers
 
 - **当前状态：** 开放
+- **申请者身份限制：** 第68条要求外国申请人在阿尔巴尼亚合法停留，并持有境外雇佣合同或与境外委托人／客户的服务合同；须证明本人居所及身份背景。免签入境不等于自动获批Single Permit，非法或逾期停留不能据远程合同直接补正。见[内政部第68条及材料说明](https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/)。
 - **最低门槛或收入：** 在阿尔巴尼亚二级银行的个人或家庭存款不少于ALL300,000/人/日历年，或月收入不少于ALL32,000/人
 - **资金或收入性质：** 境外合同收入/存款
 - **首次身份与期限：** 一般首次最长1年，可按条件续；内政部页面另列美国、EU及科索沃公民首次可获5年许可的例外

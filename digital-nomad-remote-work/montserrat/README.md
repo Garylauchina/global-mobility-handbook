@@ -15,6 +15,7 @@ region: "加勒比"
 ## Remote Workers Stamp
 
 - **当前状态：** 开放
+- **申请者身份限制：** 官方FAQ针对非本地国民，须属于境外企业雇员、境外企业合伙人／股东或主要向境外客户提供服务的自由职业／咨询者。境外雇主可属公营或私营，不能擅自加上只接受私企雇员的限制；本地普通入境身份并不等于获批Remote Workers Stamp。见[官方FAQ](https://montserratremoteworker.com/faqs/)。
 - **最低门槛或收入：** 法定年收入须超过EC$189,000（约US$70,000）
 - **资金或收入性质：** 境外远程收入
 - **首次身份与期限：** 最长12个月，可申请续期
@@ -25,7 +26,7 @@ region: "加勒比"
 - **税务提示：** 《Remote Employment Act》第8条对许可持有人境外来源收入免征蒙特塞拉特所得税；原税籍及其他国家义务仍须另判
 - **关键限制与变化：** 本人及随行家属不得在当地受雇；医疗保险须覆盖本人和家属。英国海外领地许可不自动产生英国国籍或定居权
 - **证据等级：** A
-- **主要来源：** [蒙特塞拉特现行法律汇编](https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf)；[政府项目公告](https://www.gov.ms/2021/01/29/applications-are-now-open-for-the-12-month-montserrat-remote-workers-stamp/)；[政府公告所链接的申请网站](https://montserratremoteworker.com/)
+- **主要来源：** [蒙特塞拉特现行法律汇编](https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf)；[政府项目公告](https://www.gov.ms/2021/01/29/applications-are-now-open-for-the-12-month-montserrat-remote-workers-stamp/)；[政府公告所链接的申请网站](https://montserratremoteworker.com/)；[官方FAQ](https://montserratremoteworker.com/faqs/)
 
 ## 纠错与更新
 

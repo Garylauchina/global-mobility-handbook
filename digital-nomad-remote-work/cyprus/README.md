@@ -17,6 +17,7 @@ region: "欧洲"
 ## Digital Nomad Residence Permit
 
 - **当前状态：** 开放
+- **申请者身份限制：** 限非EU／EEA国民，须受雇于境外注册公司，或自雇并为境外客户提供服务；已持其他身份在塞浦路斯合法居住者可按规定境内申请，不能把该便利扩展到逾期停留。见[移民部门现行资格与程序](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/)。
 - **最低门槛或收入：** 净€3,500/月；配偶+20%，每子女+15%
 - **资金或收入性质：** 境外远程收入
 - **首次身份与期限：** 1年，可续至总计3年
@@ -27,7 +28,7 @@ region: "欧洲"
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 签证不等于免税；60/183日等税籍另判
 - **证据等级：** B
-- **主要来源：** [官方或主要依据](https://www.moi.gov.cy/dmmip/md.nsf/All/AAEAEA2695E7E270C2258921002C2FB4/%24file/Accompanying%20Documents_VIS%20Digital%20Nomad_19032025.pdf?OpenElement=)
+- **主要来源：** [官方或主要依据](https://www.moi.gov.cy/dmmip/md.nsf/All/AAEAEA2695E7E270C2258921002C2FB4/%24file/Accompanying%20Documents_VIS%20Digital%20Nomad_19032025.pdf?OpenElement=)；[移民部门现行资格与程序](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/)
 
 ## 纠错与更新
 
