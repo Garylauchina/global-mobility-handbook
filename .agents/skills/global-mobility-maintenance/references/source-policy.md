@@ -15,6 +15,8 @@ A source being governmental does not make it relevant to every field. Confirm th
 
 Never use an intermediary, developer, fund seller, law firm, news article, search snippet, or AI summary as the sole support for an open program or a material benefit.
 
+When eligibility incorporates another nationality or visa-exemption list, read that linked list and its passport-type, birthplace, citizenship-class, validity and other exceptions. A country appearing in the table does not prove every holder qualifies. Keep mandatory identity prerequisites separate from alternative income, occupation or prior-visa criteria.
+
 ## Grade evidence
 
 - `A`: for a current page, current official or legal material directly supports the core conditions. On a stale page, A describes the last completed review, not confirmation that the source is still accessible or current.

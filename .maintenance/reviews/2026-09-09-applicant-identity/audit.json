@@ -6,9 +6,9 @@
   "page_count": 173,
   "program_count": 181,
   "finding_counts": {
-    "partial": 79,
+    "partial": 80,
     "gap": 7,
-    "documented": 65,
+    "documented": 64,
     "historical-or-not-actionable": 30
   },
   "definitions": {
@@ -18,7 +18,8 @@
     "historical-or-not-actionable": "历史、停办、暂停或未具备可确认当前收件资格的项目；不据旧规则判断可新申请。"
   },
   "evidence_downgrades": [
-    "investment-permanent-residence/cyprus/README.md"
+    "investment-permanent-residence/cyprus/README.md",
+    "digital-nomad-remote-work/colombia/README.md"
   ],
   "pages": [
     {
@@ -750,12 +751,14 @@
       "programs": [
         {
           "program": "Visitor Visa — Digital Nomad",
-          "finding": "documented",
-          "identity_statement": "Resolución 5477/2022第46条要求持由获短期免签待遇国家／地区签发的有效护照；还须属于为境外企业远程工作或合资格数字创业者。不能把第三国居留、第三国签证带来的入境便利，直接替代此处护照条件；本限制不应移植到M类投资者或养老金签证。",
+          "finding": "partial",
+          "identity_statement": "第5477/2022号决议第46条要求短期免签国家／地区签发的护照，并符合境外远程工作或数字创业条件。但所引用的第5488/2022号决议还包含中国等国的附条件免签，以及按特定第三国永久居留取得的短停免签；不能把所有情况压缩成单一国籍白名单。这些附条件情形是否满足第46条的数字游民护照要求，尚需主管机关确认，不作一律可办或不可办的结论。见[现行免签决议第3–5条](https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5488_2022.htm)。",
           "references": [
-            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm",
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5488_2022.htm"
           ],
-          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。",
+          "followup_record": "taiwan-linked-list-followup.json"
         }
       ]
     },
@@ -1288,11 +1291,15 @@
         {
           "program": "Digital Nomad Visitor Visa",
           "finding": "documented",
-          "identity_statement": "限享有赴台免签待遇国家的国民，并须符合远程工作资格；不能把第三地永久居留或单次入境便利当作该国国籍。中国大陆普通护照持有人不能据此直接按外国数字游民申请；另持外国护照者的大陆地区人民／外国人身份适用仍须另向主管机关确认。见[领务局资格及免签名单入口](https://www.boca.gov.tw/fp-158-7718-c0382-2.html)。",
+          "identity_statement": "主申请人须为实际适用台湾免签待遇的外国人，并持合资格外国护照；不能只看签发国家是否出现在名单，还须核对护照类别、出生地及公民身份脚注。中国大陆普通护照不符合，外国永居或其他国家数字游民签证不能替代免签资格。另持外国护照者仍须分别核对免签排除条件及大陆地区人民／外国人身份适用。依据[2026资格公告](https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032005/ch01/type1/gov84/num1/Eg.htm)及[完整免签名单与限制](https://www.boca.gov.tw/cp-149-4486-7785a-2.html)，具体边界见下文。",
           "references": [
+            "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032005/ch01/type1/gov84/num1/Eg.htm",
+            "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032067/ch01/type2/gov84/num2/Eg.pdf",
+            "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
             "https://www.boca.gov.tw/fp-158-7718-c0382-2.html"
           ],
-          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。",
+          "followup_record": "taiwan-linked-list-followup.json"
         }
       ]
     },

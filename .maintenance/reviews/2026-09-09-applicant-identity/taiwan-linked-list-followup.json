@@ -1,0 +1,107 @@
+{
+  "review_date": "2026-09-09",
+  "scope": "Targeted follow-up on incorporated nationality and visa-exemption lists; not a full-library or full-page re-review",
+  "trigger": "User identified Taiwan digital-nomad visa-exempt passport prerequisite as a possible omission",
+  "starting_commit": "1368c4e56519aaf711dc86c1144c5bffbb852457",
+  "changes_global_review_baseline": false,
+  "findings": [
+    {
+      "path": "digital-nomad-remote-work/taiwan/README.md",
+      "prior_record": "已有免签国家国民前提，但未把关联名单的护照类别、出生地和公民身份脚注展开；此前两年上限及家属扩展欠正式法源。",
+      "correction": "主申请人须实际适用免签待遇，三选一收入或既有数字游民签证条件不替代此前提；加显著提示及名单脚注，补2026公报的家属、停留及附表提示。",
+      "sources_read": [
+        {
+          "url": "https://www.boca.gov.tw/fp-158-7718-c0382-2.html",
+          "access": "readable official HTML via web tool",
+          "sections": "Eligibility; Passport; proof alternatives; procedures",
+          "supports": "免签国家国民资格、护照有效期及临时／紧急护照排除；一般访客入境程序并不替代项目资格"
+        },
+        {
+          "url": "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
+          "access": "readable official HTML via web tool",
+          "official_updated_date": "2026-07-17",
+          "sections": "Foreign nationals eligible for visa-exempt entry; Requirements 1 and 2",
+          "supports": "部分护照的出生地排除、英国British Citizen及马绍尔群岛国籍取得范围、证件类别例外"
+        },
+        {
+          "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032005/ch01/type1/gov84/num1/Eg.htm",
+          "access": "readable official HTML retrieved directly after NDC law-system access failed",
+          "official_publication_date": "2026-01-08",
+          "official_effective_date": "2026-01-01",
+          "sections": "公告事項",
+          "supports": "明确将适用免签待遇与三选一条件并列为须同时满足的要求"
+        },
+        {
+          "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032067/ch01/type2/gov84/num2/Eg.htm",
+          "access": "readable official HTML retrieved directly",
+          "official_publication_date": "2026-04-16",
+          "official_effective_date": "2026-01-01",
+          "sections": "修正要点第2、3点",
+          "supports": "6个月有效及停留、每次延期不超过6个月、每次总停留最长2年；配偶、未成年子女及因身心障碍无法自理生活的成年子女"
+        },
+        {
+          "url": "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032067/ch01/type2/gov84/num2/Eg.pdf",
+          "access": "official PDF retrieved directly; text and annex extracted with pypdf",
+          "sections": "修正后附表及Description of intended activities",
+          "supports": "远程工作和收入证明、近6个月平均每月存款、保险；附表提示来台停留期间少于6个月者，签证到期后不能按第14条延期"
+        }
+      ],
+      "unresolved": [
+        "大陆地区人民改持外国护照后的身份适用仍须独立确认",
+        "随行家属的个案递交及具体延期操作未在本轮完整复核；保留B级",
+        "没有把免签国家护照或满足前置门槛解释为自动获批"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/colombia/README.md",
+      "sources_read": [
+        {
+          "url": "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm",
+          "access": "readable official HTML retrieved directly",
+          "sections": "Article 46",
+          "supports": "数字游民护照须来自短停免签国家／地区"
+        },
+        {
+          "url": "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5488_2022.htm",
+          "access": "readable official consolidated HTML retrieved directly",
+          "sections": "Article 3(C), current text amended by Resolution 3717/2023; Articles 4 and 5",
+          "supports": "中国等8个国家／地区的附条件短停免签；美国／申根有效居留许可或入境时有效期至少180天签证；特定区域成员国第三国永久居民的短停免签"
+        }
+      ],
+      "correction": "不能把这些条件压缩为单一国籍名单；加入原文并保留其适用于数字游民第46条的边界待确认。",
+      "unresolved": ["附条件及第三国永久居民短停免签如何满足数字游民护照要求，尚无足够明确主管机关解释；A降B，documented改partial。"]
+    },
+    {
+      "path": "digital-nomad-remote-work/argentina/README.md",
+      "sources_read": [
+        {
+          "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+          "access": "readable official HTML retrieved directly",
+          "sections": "Eligibility introduction; A quién está dirigido; identity documents",
+          "supports": "现行项目正文仍规定免旅游签国家国民前提；材料项的所有国籍可用护照字样不取消前面的对象限定"
+        }
+      ],
+      "correction": "既有前提表述保留；未重新查完其全部旅游免签及附条件例外，不能称为全部国籍资格复核完成。"
+    },
+    {
+      "path": "digital-nomad-remote-work/japan/README.md",
+      "sources_read": [
+        {
+          "url": "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html",
+          "access": "readable official HTML via web tool; direct request denied",
+          "sections": "Eligibility and activity; Necessary documents",
+          "supports": "外交部仍要求按入管厅专项国家／地区名单核对，并分别列本人及配偶／子女材料"
+        }
+      ],
+      "access_failures": [
+        {
+          "url": "https://www.moj.go.jp/isa/content/001416932.pdf",
+          "result": "403 via web and direct retrieval on this follow-up"
+        }
+      ],
+      "correction": "保留上一轮取得的名单结论；此次未重新取得PDF，不声称完整名单与脚注已再次核实。"
+    }
+  ],
+  "process_change": "对项目援引的名单继续读取脚注；区分所有人必须满足的前置条件与可以任选的条件。",
+  "current_counts": {"documented": 64, "partial": 80, "gap": 7, "historical-or-not-actionable": 30}
+}
