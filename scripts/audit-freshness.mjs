@@ -8,10 +8,10 @@ import {
   enumerateCategory,
 } from "./content-tree.mjs";
 import {
-  addCalendarMonth,
+  addReviewInterval,
   dateInTimeZone,
   loadReviewState,
-  monthlyReviewIsDue,
+  reviewIsDue,
   parseIsoDate,
 } from "./review-state.mjs";
 
@@ -109,9 +109,9 @@ for (const tree of trees) {
       path: relativePath,
       status: metadata.status,
       reviewed,
-      due: addCalendarMonth(reviewed),
+      due: addReviewInterval(reviewed),
       ageDays,
-      isDue: monthlyReviewIsDue(reviewed, asOfValue, metadata.status),
+      isDue: reviewIsDue(reviewed, asOfValue, metadata.status),
     });
   }
 }
@@ -123,7 +123,7 @@ const dueRows = rows.filter((row) => row.isDue);
 const overdueCurrentRows = dueRows.filter((row) => row.status === "current");
 const visibleRows = options.all ? rows : dueRows;
 console.log(
-  `Monthly review queue as of ${asOfValue}: ${dueRows.length} due of ${rows.length} pages, ${overdueCurrentRows.length} overdue pages still marked current; cadence=monthly; last full review baseline=${reviewState.last_full_review}.`,
+  `30-day review queue as of ${asOfValue}: ${dueRows.length} due of ${rows.length} pages, ${overdueCurrentRows.length} overdue pages still marked current; cadence=every-30-days; last full review baseline=${reviewState.last_full_review}.`,
 );
 console.log("This queue checks review dates and status only; it does not verify policy facts or official sources.");
 for (const row of visibleRows) {
@@ -132,7 +132,7 @@ for (const row of visibleRows) {
     [
       state,
       row.due,
-      "monthly",
+      "every-30-days",
       `${row.ageDays}d-old`,
       row.status,
       row.reviewed,

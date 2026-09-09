@@ -1,0 +1,4540 @@
+{
+  "review_date": "2026-09-09",
+  "scope": [
+    "digital-nomad-remote-work/albania/README.md",
+    "digital-nomad-remote-work/andorra/README.md",
+    "digital-nomad-remote-work/argentina/README.md",
+    "digital-nomad-remote-work/barbados/README.md",
+    "digital-nomad-remote-work/belize/README.md",
+    "digital-nomad-remote-work/brazil/README.md",
+    "digital-nomad-remote-work/bulgaria/README.md",
+    "digital-nomad-remote-work/cabo-verde/README.md",
+    "digital-nomad-remote-work/colombia/README.md",
+    "digital-nomad-remote-work/costa-rica/README.md",
+    "digital-nomad-remote-work/croatia/README.md",
+    "digital-nomad-remote-work/curacao/README.md",
+    "digital-nomad-remote-work/cyprus/README.md",
+    "digital-nomad-remote-work/czech-republic/README.md",
+    "digital-nomad-remote-work/dominica/README.md",
+    "digital-nomad-remote-work/ecuador/README.md",
+    "digital-nomad-remote-work/estonia/README.md",
+    "digital-nomad-remote-work/greece/README.md",
+    "digital-nomad-remote-work/guatemala/README.md",
+    "digital-nomad-remote-work/hungary/README.md",
+    "digital-nomad-remote-work/italy/README.md",
+    "digital-nomad-remote-work/japan/README.md",
+    "digital-nomad-remote-work/kazakhstan/README.md",
+    "digital-nomad-remote-work/kenya/README.md",
+    "digital-nomad-remote-work/kyrgyzstan/README.md",
+    "digital-nomad-remote-work/latvia/README.md",
+    "digital-nomad-remote-work/malaysia/README.md",
+    "digital-nomad-remote-work/malta/README.md",
+    "digital-nomad-remote-work/mauritius/README.md",
+    "digital-nomad-remote-work/moldova/README.md",
+    "digital-nomad-remote-work/montenegro/README.md",
+    "digital-nomad-remote-work/montserrat/README.md",
+    "digital-nomad-remote-work/namibia/README.md",
+    "digital-nomad-remote-work/panama/README.md",
+    "digital-nomad-remote-work/portugal/README.md",
+    "digital-nomad-remote-work/romania/README.md",
+    "digital-nomad-remote-work/seychelles/README.md",
+    "digital-nomad-remote-work/slovenia/README.md",
+    "digital-nomad-remote-work/south-africa/README.md",
+    "digital-nomad-remote-work/south-korea/README.md",
+    "digital-nomad-remote-work/spain/README.md",
+    "digital-nomad-remote-work/sri-lanka/README.md",
+    "digital-nomad-remote-work/taiwan/README.md",
+    "digital-nomad-remote-work/thailand/README.md",
+    "digital-nomad-remote-work/turkey/README.md",
+    "digital-nomad-remote-work/united-arab-emirates/README.md",
+    "digital-nomad-remote-work/uruguay/README.md"
+  ],
+  "pages": [
+    {
+      "path": "digital-nomad-remote-work/albania/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "数字流动工作者统一许可有在线申请程序。",
+          "source_urls": [
+            "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "核对专属第68条程序：ALL300,000存款或ALL32,000月收入，存款须在阿尔巴尼亚二级银行。",
+          "source_urls": [
+            "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外雇主劳动合同或境外客户服务合同，证明可借信息技术异地工作。",
+          "source_urls": [
+            "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "一般首次至1年；同栏目列美国、EU、科索沃国民首次5年例外，已补。",
+          "source_urls": [
+            "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "栏目列续签费用；长期年限计算仍须另找法律。",
+          "source_urls": [
+            "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "仅境外雇主/合同方的获准远程目的；没有一般当地工作授权。",
+          "source_urls": [
+            "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "家庭团聚栏目要求至少1年且可续的居留、稳定供养能力。",
+          "source_urls": [
+            "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：连续合法居留5年可申请永久居留（受缺席限制）",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "通用税务边界提示，不主张特定免税待遇；需按本人事实另判。",
+          "source_urls": [
+            "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "要求至少1年健康保险、无犯罪和住所，处理4至12周。",
+          "source_urls": [
+            "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/",
+          "title": "阿尔巴尼亚内政部居留与统一许可说明",
+          "access_result": "opened-content via web; local cache empty"
+        }
+      ],
+      "changes": [
+        "补全特定国籍首次5年许可例外；明确存款银行所在地，属于资料更正。"
+      ],
+      "unresolved": [
+        "普通永久居留5年和缺席计算尚须现行法律补证。"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/andorra/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "有主管机关数字游民申请条件，受配额限制；经济部须先作有利认定。",
+          "source_urls": [
+            "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "官方服务页要求足够经济能力，未在该页列固定金额。",
+          "source_urls": [
+            "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "以地点独立、通信技术工作为资格；境外收入的法律具体限制尚需补证。",
+          "source_urls": [
+            "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "2年、2年、3年，其后10年，条约国可例外。",
+          "source_urls": [
+            "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "每自然年主要及实际居住至少90日。",
+          "source_urls": [
+            "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "页面使用无工作居留申请表，非一般本地就业许可。",
+          "source_urls": [
+            "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "经济能力和保险要求覆盖本人及受养人。",
+          "source_urls": [
+            "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：可持续续签；入籍一般20年实际居住",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "通用税务边界提示，不主张特定免税待遇；需按本人事实另判。",
+          "source_urls": [
+            "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "须住房、保险、经济部认定及配额；90日是移民条件。",
+          "source_urls": [
+            "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital",
+          "title": "D.3 Residència per a nòmada digital",
+          "access_result": "opened-content"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "20年归化年限与当前配额余量尚未找到匹配的已打开法律/主管机关正文。"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/argentina/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "主管机关有现行申请程序，仅旅游免签国国民。",
+          "source_urls": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "规定未设统一固定数额，要求证明工作与收入。",
+          "source_urls": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外个人或法人远程服务合同/雇主证明及收入材料。",
+          "source_urls": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "最长180日，法律仅允许同等期限延长一次。",
+          "source_urls": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "延长须此前期限至少50%在境内并保持工作条件。",
+          "source_urls": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "限为境外定居主体提供远程服务。",
+          "source_urls": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "专项规定未设统一附属家庭申请包，不据此宣称家属工作权。",
+          "source_urls": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "该许可为transitoria，不直接授予永久居留；类别变更另依一般规则。",
+          "source_urls": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "通用税务边界提示，不主张特定免税待遇；需按本人事实另判。",
+          "source_urls": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "补齐免旅游签证国籍条件，保留临时身份边界。",
+          "source_urls": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+          "title": "移民局数字游民临时停留",
+          "access_result": "opened-content"
+        },
+        {
+          "url": "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto",
+          "title": "DNM Disposición 758/2022全文",
+          "access_result": "opened-content"
+        }
+      ],
+      "changes": [
+        "补上免旅游签证国籍这一核心适用限制；非政策新增。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/barbados/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "申请表同时接受新申请及续签。",
+          "source_urls": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "未来12个月预计US$50,000，或足够供养本人及随行家属的能力。",
+          "source_urls": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外雇佣或远程业务，申请表审查雇主与工作内容。",
+          "source_urls": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "12个月；有续签选项。",
+          "source_urls": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "临时专项计划，续签重新申请；不是直接永久居留。",
+          "source_urls": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "本人及家庭组不得向巴巴多斯当地个人/机构提供服务或接受就业。",
+          "source_urls": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶/伴侣和受养人可联申请；儿童可按计划入学。",
+          "source_urls": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "12个月专项许可不直接授予永久居留。",
+          "source_urls": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "补上官方明确的巴巴多斯所得税豁免，并保留原税籍国及其他税种边界。",
+          "source_urls": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "原笼统税务模板遗漏计划专项待遇，已资料更正。",
+          "source_urls": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://barbadoswelcomestamp.bb/applynow/",
+          "title": "Barbados Welcome Stamp application and renewals",
+          "access_result": "opened-content"
+        },
+        {
+          "url": "https://www.visitbarbados.org/barbados-welcome-stamp",
+          "title": "Official Welcome Stamp information",
+          "access_result": "opened-content"
+        }
+      ],
+      "changes": [
+        "补充Welcome Stamp专属所得税待遇；避免原通用模板掩盖明确政策。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/belize/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "法律和旅游说明仍存在，但不能确认失效移民链接背后的现行递件服务",
+          "source_urls": [
+            "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "75000美元单人/100000家庭；EU/UK/US/Canada公民或永久居民",
+          "source_urls": [
+            "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外受雇/自雇、保险与合同",
+          "source_urls": [
+            "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "最长六个月且每日历年最多六个月",
+          "source_urls": [
+            "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "不可延期",
+          "source_urls": [
+            "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "本人家属不能当地就业",
+          "source_urls": [
+            "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶、未成年子女及依法受养人",
+          "source_urls": [
+            "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：本许可没有直接PR通道，且不可延期的6个月结构本身不能满足普通PR所需的一年合法居留和累计离境不超过14天；改用其他合法身份后的路径须另行判断",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：最长180天不自动保证无税务义务；在伯利兹有住所、一个评税年度停留超过183天或取得伯利兹来源收入，均可能触发相应税务规则",
+          "source_urls": []
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "费用币种冲突且原服务URL失效",
+          "source_urls": [
+            "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://immigration.gov.bz/permits/long-stay-permit/",
+          "title": "Immigration longstay permit",
+          "access_result": "404，web访问失败"
+        },
+        {
+          "url": "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf",
+          "title": "Act20of2021 amendment",
+          "access_result": "200 PDF，已提取并读收入/国籍/期限/工作/家属条文"
+        },
+        {
+          "url": "https://www.travelbelize.org/work-where-you-vacation/",
+          "title": "Official tourism workwhereyouvacation",
+          "access_result": "本地403；web200全文可读"
+        }
+      ],
+      "changes": [
+        "撤回仍有现行移民局在线入口的无依据断言",
+        "将费用冲突准确区分失效移民页历史口径与旅游局现页"
+      ],
+      "unresolved": [
+        "当前移民递件入口、费用币种冲突、普通PR一年/离境14天与税183天法条未完整核验"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/brazil/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：开放",
+          "source_urls": []
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：US$1,500/月，或银行资金US$18,000",
+          "source_urls": []
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：境外远程收入或存款",
+          "source_urls": []
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：1年，可续1年",
+          "source_urls": []
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：无专属PR路径",
+          "source_urls": []
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：只可为境外主体远程工作",
+          "source_urls": []
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：家属可按团聚",
+          "source_urls": []
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：不直接通PR",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。",
+          "source_urls": []
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：须维持境外收入和保险",
+          "source_urls": []
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://portaldeimigracao.mj.gov.br/pt/midia-e-atualidades/1700-sem-categoria/noticias-obmigra/401615-oficina-36e45",
+          "title": "旧移民门户培训文章",
+          "access_result": "缓存超时；web仅导航/重定向至移民门户，未获核心正文"
+        },
+        {
+          "url": "https://www.gov.br/mre/pt-br/consulado-nova-york/servicos-consulares/visto-visa-2/VITEM/nomad_XIV",
+          "title": "New York consulate nomad",
+          "access_result": "搜索有详细规则，但实际web仅6行挑战页、直接取429，不能作已读正文"
+        },
+        {
+          "url": "https://www.gov.br/mre/pt-br/consulado-porto/servicos-consulares/vistos/visto-temporario-xiv-nomade-digital",
+          "title": "Porto consulate nomad",
+          "access_result": "搜索有门槛，但实际web仅6行挑战页，不能以摘要完成核验"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "保留US1500/18000、1+1年等原记录，但本轮未取得可读取主管机关正文；额外三个使领馆源仍挑战页，家属及持续资格未完成"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/bulgaria/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：开放",
+          "source_urls": []
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "第24с条明确上一日历年度最低月工资50倍，按毛收入；原固定BGN50,000错误。",
+          "source_urls": [
+            "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外雇佣、境外公司控制/持股或个人远程服务三类定义。",
+          "source_urls": [
+            "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "1年，只可续一次1年。",
+          "source_urls": [
+            "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：最多2年，需换类别才继续累计",
+          "source_urls": []
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "雇主或公司须在EU/EEA/瑞士之外；个人服务需已有至少1年，禁止当地客户与当地自由职业。",
+          "source_urls": [
+            "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：家属按团聚",
+          "source_urls": []
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "专项最长2年，法文本未赋直接永久身份。",
+          "source_urls": [
+            "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "通用税务边界提示，不主张特定免税待遇；需按本人事实另判。",
+          "source_urls": [
+            "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "已用公报全文替代空壳URL，保留具体实施核实缺口。",
+          "source_urls": [
+            "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.parliament.bg/bg/laws/ID/166119",
+          "title": "原议会法律条目",
+          "access_result": "opened-empty HTML"
+        },
+        {
+          "url": "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575",
+          "title": "State Gazette 2025 foreigners-law amendment",
+          "access_result": "opened-content"
+        },
+        {
+          "url": "https://www.mfa.bg/bg/5686",
+          "title": "MFA visa D requirements",
+          "access_result": "opened-content, no digital nomad section"
+        }
+      ],
+      "changes": [
+        "固定BGN50,000改为上一日历年度法定最低月工资50倍；属于资料更正。"
+      ],
+      "unresolved": [
+        "当前受理程序、家属操作及长期身份年限计算尚未建立完整官方依据。"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/cabo-verde/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "2025条例明确设远程活动居留签证",
+          "source_urls": [
+            "https://boe.incv.cv/Bulletins/DownloadAct?id=85465"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "第35条要3个月平均收入未写固定数额",
+          "source_urls": [
+            "https://boe.incv.cv/Bulletins/DownloadAct?id=85465"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外雇佣/自雇合同与税务居民证明",
+          "source_urls": [
+            "https://boe.incv.cv/Bulletins/DownloadAct?id=85465"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：入境签后临时居留通常2年，可每2年续",
+          "source_urls": []
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：实际连续居住可累计长期身份",
+          "source_urls": []
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "专业活动远程服务境外",
+          "source_urls": [
+            "https://boe.incv.cv/Bulletins/DownloadAct?id=85465"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "第37条设普通家庭团聚材料",
+          "source_urls": [
+            "https://boe.incv.cv/Bulletins/DownloadAct?id=85465"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：临时居留满5年可申请永久居留；归化通常也看5年惯常居住",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "税务独立判断；税务居民证明为签证文件",
+          "source_urls": [
+            "https://boe.incv.cv/Bulletins/DownloadAct?id=85465"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "不能混旧旅游远程与现行居留签证，补收入回溯/税籍材料",
+          "source_urls": [
+            "https://boe.incv.cv/Bulletins/DownloadAct?id=85465"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://boe.incv.cv/Bulletins/View/85465",
+          "title": "BOE Decree13/2025 metadata",
+          "access_result": "200，原页面只有标题元数据；进一步获取全文"
+        },
+        {
+          "url": "https://boe.incv.cv/Bulletins/DownloadAct?id=85465",
+          "title": "BOE decree and consolidated regulation",
+          "access_result": "200，已读第35条远程签证及家庭第37条等；下载正文151224字符"
+        }
+      ],
+      "changes": [
+        "补真实法条全文来源",
+        "补3个月收入及税务居民证明材料"
+      ],
+      "unresolved": [
+        "上位法最新临时居留2年及每2年续、PR5年和归化5年未完成当前全文核对；不推进全页日期"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/colombia/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "现行汇编仍列V数字游民类别",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "近3个月收入至少3倍SMLMV",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外公司雇佣/服务或合资格数字创业",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "最长两年",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "第90条累计R居留只列M类别，V不累计",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "禁止为境内住所法人/自然人开展有偿活动",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "第46条明确允许受益人申请",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "V数字游民没有直接R路径",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "保留按事实判断税务提示，签证法不授予全面免税",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "补入免签国家/地区护照资格漏项",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.cancilleria.gov.co/sites/default/files/FOTOS2020/5477%20del%2022%20de%20julio%20de%202022.pdf",
+          "title": "原决议PDF",
+          "access_result": "读取失败：TLS错误；已取得外交部同一决议现行HTML汇编"
+        },
+        {
+          "url": "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm",
+          "title": "Resolución 5477 de 2022 – Normograma",
+          "access_result": "200，已阅读第46条及第23、90条"
+        }
+      ],
+      "changes": [
+        "补免签国籍/护照范围限制",
+        "替换失效PDF为外交部现行法律汇编"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/costa-rica/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "官方项目和申请程序存在，家属金额冲突仍在",
+          "source_urls": [
+            "https://www.visitcostarica.com/digital-nomads",
+            "https://www.visitcostarica.com/digital-nomads/requirements"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "单人3000/过去一年证明；详细申请与续期家庭4000，首页5000",
+          "source_urls": [
+            "https://www.visitcostarica.com/digital-nomads",
+            "https://www.visitcostarica.com/digital-nomads/requirements",
+            "https://www.visitcostarica.com/digital-nomads/renewal"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外自然人或法人客户数字远程服务收入",
+          "source_urls": [
+            "https://www.visitcostarica.com/digital-nomads/requirements"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "最长1年可申请更短，项目可再1年",
+          "source_urls": [
+            "https://www.visitcostarica.com/digital-nomads",
+            "https://www.pgrweb.go.cr/DOCS/NORMAS/1/VIGENTE/L/2020-2029/2020-2024/2022/17A12/14E170.HTML"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "至少80天且重交收入/保险",
+          "source_urls": [
+            "https://www.visitcostarica.com/digital-nomads/renewal"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "申请服务须为境外客户，不将专项当本地劳动市场许可",
+          "source_urls": [
+            "https://www.visitcostarica.com/digital-nomads/requirements"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶同居、未满25岁未婚子女、残障子女、共同生活长者，分别证明",
+          "source_urls": [
+            "https://www.visitcostarica.com/digital-nomads/requirements-for-dependents"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "Estancia短期专项而非普通居留；未设置直接PR",
+          "source_urls": [
+            "https://www.visitcostarica.com/digital-nomads/requirements"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "专项官方待遇明确非普通税务居民及所得税义务豁免",
+          "source_urls": [
+            "https://www.visitcostarica.com/digital-nomads/benefits"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "保险至少50000美元全程，所有家属也须有保险",
+          "source_urls": [
+            "https://www.visitcostarica.com/digital-nomads"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.visitcostarica.com/digital-nomads",
+          "title": "ICT项目首页",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://www.visitcostarica.com/digital-nomads/requirements",
+          "title": "ICT详细要求",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://www.visitcostarica.com/digital-nomads/renewal",
+          "title": "ICT续期要求",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://www.visitcostarica.com/digital-nomads/requirements-for-dependents",
+          "title": "ICT家属要求",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://www.visitcostarica.com/digital-nomads/benefits",
+          "title": "ICT法定待遇说明",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://www.pgrweb.go.cr/DOCS/NORMAS/1/VIGENTE/L/2020-2029/2020-2024/2022/17A12/14E170.HTML",
+          "title": "第10208号法",
+          "access_result": "实际本地读到期限可少于1年的解释条款"
+        }
+      ],
+      "changes": [
+        "补过去一年收入、80天续期、家属范围及专项税务规则",
+        "以两个实际正文固定家属金额冲突来源"
+      ],
+      "unresolved": [
+        "同一主管项目站仍列两个家庭收入金额，需要DGME确认具体标准，不能宣称门槛已完全核验"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/croatia/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "现行内政部完整申请流程",
+          "source_urls": [
+            "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "月3622.50欧；12月43470欧或18月65205欧；家属加成公式保留",
+          "source_urls": [
+            "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外工作收入或资金证明",
+          "source_urls": [
+            "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "最长18个月",
+          "source_urls": [
+            "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "一次延长最多6个月且总18个月；60天前递件；新申请间隔6个月",
+          "source_urls": [
+            "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "为境外雇主/境外公司远程，不为本地登记雇主服务",
+          "source_urls": [
+            "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "主申请获批后近亲及合资格伴侣团聚",
+          "source_urls": [
+            "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "六个月新申请间隔意味着本专项不能当然构成连续长期居留",
+          "source_urls": [
+            "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "政府说明确认数字游民工作收入专项不课税；原页仍区分其他收入和税务居民",
+          "source_urls": [
+            "https://investcroatia.gov.hr/en/5th-round-of-tax-reform-enters-into-force-on-1-january-2021/"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "第三国国籍、保险、犯罪记录、住宿和动态金额",
+          "source_urls": [
+            "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1",
+          "title": "MUP Temporary stay of digital nomads",
+          "access_result": "200，已阅读当前金额、18个月和家属规则"
+        },
+        {
+          "url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_40_545.html",
+          "title": "NN40/2025 Foreigners Act amendment",
+          "access_result": "200，已读数字游民修法段及生效条"
+        },
+        {
+          "url": "https://investcroatia.gov.hr/en/5th-round-of-tax-reform-enters-into-force-on-1-january-2021/",
+          "title": "Government 2021 tax reform",
+          "access_result": "200，已读数字游民收入豁免说明"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/curacao/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "官方FAQ称开放但网页含明显历史疫情段落；未取得完整当前申请附件",
+          "source_urls": [
+            "https://athomeincuracao.com/faq/"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "FAQ未列远程工作统一固定收入数值；不能由未列数字证明无门槛",
+          "source_urls": [
+            "https://athomeincuracao.com/faq/"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外雇主、公司业务或境外客户合同",
+          "source_urls": [
+            "https://athomeincuracao.com/faq/"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "6个月可再6个月",
+          "source_urls": [
+            "https://athomeincuracao.com/faq/"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "最多1年也不成为居民",
+          "source_urls": [
+            "https://athomeincuracao.com/faq/"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "不允许为本地注册或设立实体工作",
+          "source_urls": [
+            "https://athomeincuracao.com/faq/"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "各人分别申请收费，12岁以上签名",
+          "source_urls": [
+            "https://athomeincuracao.com/faq/"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "远程工作短期许可明确不产生居民身份",
+          "source_urls": [
+            "https://athomeincuracao.com/faq/"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "FAQ明确当地所得税不要求缴纳；其他税籍不在该承诺内",
+          "source_urls": [
+            "https://athomeincuracao.com/faq/"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "医疗保险必须；旧疫情、旧币种文字降低当前操作清单确定性",
+          "source_urls": [
+            "https://athomeincuracao.com/faq/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://athomeincuracao.com/faq/",
+          "title": "@HOME FAQ",
+          "access_result": "本地成功读取完整正文；web重试超时"
+        },
+        {
+          "url": "https://athomeincuracao.com/remote-workers/",
+          "title": "远程工作入口",
+          "access_result": "已打开并实读官方正文"
+        },
+        {
+          "url": "https://athomeincuracao.com/remote-workers/application-remote-workers/",
+          "title": "远程申请入口",
+          "access_result": "实际打开，表单和附件正文未完整呈现"
+        }
+      ],
+      "changes": [
+        "以项目官方正文补证候选，补家庭分别申请及项目税务说明"
+      ],
+      "unresolved": [
+        "需主管机关提供当前完整资金、住宿、保险附件及申请受理确认"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/cyprus/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：开放",
+          "source_urls": []
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：净€3,500/月；配偶+20%，每子女+15%",
+          "source_urls": []
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：境外远程收入",
+          "source_urls": []
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：1年，可续至总计3年",
+          "source_urls": []
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：依许可续签；非自动长期居民",
+          "source_urls": []
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：不得为塞浦路斯雇主/客户服务；随行家属不得工作",
+          "source_urls": []
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：配偶、子女可随行",
+          "source_urls": []
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：官方未承诺计入长期居民，按不直接处理",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。",
+          "source_urls": []
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：签证不等于免税；60/183日等税籍另判",
+          "source_urls": []
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.moi.gov.cy/dmmip/md.nsf/All/AAEAEA2695E7E270C2258921002C2FB4/%24file/Accompanying%20Documents_VIS%20Digital%20Nomad_19032025.pdf?OpenElement=",
+          "title": "原内政部2025材料清单",
+          "access_result": "原链接404；替换新部域名后403"
+        },
+        {
+          "url": "https://www.mip.gov.cy/dmmip/md.nsf/All/BF9908B541BFF7D3C22587EA003CD306?OpenDocument=",
+          "title": "迁移部Digital Nomads主页面",
+          "access_result": "web及本地访问失败；Chrome显示ERR_CERT_DATE_INVALID，未取得政策正文"
+        },
+        {
+          "url": "https://www.mip.gov.cy/dmmip/md.nsf/c87d3baf8dd342adc22587ad0037081e/c1c8a10e30c0d8f6c2258c600036f351?OpenDocument=",
+          "title": "迁移部重新受理公告",
+          "access_result": "web/本地403，仅搜索摘要不能作已读证据"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "现行金额、期限、受理开放、工作、家属、长期居民及税务全部核心字段仍需主管机关可读取原文；多通道重试未成功，不更新为完成"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/czech-republic/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "MPO提供现行入选申请，限职业国籍",
+          "source_urls": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "明确1.5倍平均毛年薪公式，非无统一门槛",
+          "source_urls": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外雇员或捷克IT/营销自由职业",
+          "source_urls": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "雇员入选一年；自由职业入选无期限与居留期限区分",
+          "source_urls": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "雇员先延续项目资格再申请长期居留",
+          "source_urls": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "分别受雇佣/商业活动许可约束，不能概称仅IT",
+          "source_urls": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶/登记伴侣及子女可同批；成年受养子女按学习等许可",
+          "source_urls": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "原页仅提示取决最终许可及实际居住，不保证永久路径",
+          "source_urls": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "税务独立判断，项目不授予统一免税",
+          "source_urls": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "扩及营销及13个国家地区，雇主50人条件",
+          "source_urls": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://ipc.gov.cz/en/for-employers/programmes-approved-by-the-government-with-the-view-of-economic-benefit-of-the-czech-republic/",
+          "title": "内政部项目索引",
+          "access_result": "200，旧摘要仍只写IT；以链接指向的执行主管机关新版规则为准"
+        },
+        {
+          "url": "https://mpo.gov.cz/en/foreign-trade/economic-migration/digital-nomad-program--275799/",
+          "title": "MPO Digital Nomad Program",
+          "access_result": "200，2025-07-01公布的现行项目说明"
+        },
+        {
+          "url": "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf",
+          "title": "Digital Nomad Program rules",
+          "access_result": "200，10页PDF已阅读职业、国籍、薪资、期限及家属条件"
+        }
+      ],
+      "changes": [
+        "补市场营销职业及13个国家地区范围",
+        "将不明固定金额改为法定薪资公式",
+        "区分项目入选与居留有效期"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/dominica/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "官方项目仍提供申请流程",
+          "source_urls": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "未来12月预期50,000美元或充分资金",
+          "source_urls": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "须具备境外远程工作能力",
+          "source_urls": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "入境盖章后最长18个月",
+          "source_urls": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "没有直接永居承诺；本页不推定可无限续签",
+          "source_urls": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "只能服务境外公司或个人",
+          "source_urls": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶/伴侣、18岁以下子女及因年龄/疾病完全受养亲属",
+          "source_urls": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "专项仅18个月，不授予直接永久身份",
+          "source_urls": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "更正为WIN远程收入专项豁免并保留原税务住所义务",
+          "source_urls": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "与投资入籍分属不同制度，须健康保险及无犯罪材料",
+          "source_urls": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://windominica.gov.dm/component/content/category/8-program-details",
+          "title": "Work in Nature – Visa Information",
+          "access_result": "200，已阅读完整项目、资格、家属、期限与税务说明"
+        }
+      ],
+      "changes": [
+        "补入官方明确的WIN远程工作所得税待遇与境外税务义务"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/ecuador/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "主管机关有当前完整申请及在线e-VISAS流程，原仅索引的证据不足已部分解决",
+          "source_urls": [
+            "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "3个月逐月3SBU或年度36SBU，家属每人250美元",
+          "source_urls": [
+            "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外雇主/自然人或法人客户，或境外自有公司",
+          "source_urls": [
+            "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "最长2年，操作页引用第60条续期一次",
+          "source_urls": [
+            "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "续期一次已明确；长期身份转轨及缺席未得到当前全文",
+          "source_urls": [
+            "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "该专项以境外对象远程工作为依据，不授予一般当地就业许可",
+          "source_urls": [
+            "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "专项允许庇护受养人并列每人收入加成，具体亲属范围未完整",
+          "source_urls": [
+            "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：可沿普通居留路径，但非自动",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "主管签证页无免税承诺，单独税务判断提示保留",
+          "source_urls": [
+            "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "所有国籍、全程保险、5年无犯罪、仅线上申请，正文可读",
+          "source_urls": [
+            "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-03-2026.pdf",
+          "title": "原EY索引",
+          "access_result": "实际读对应国家条目，仅二级线索"
+        },
+        {
+          "url": "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada",
+          "title": "MREMH当前专项操作页",
+          "access_result": "web全文读取252行，含法律条款及线上流程"
+        }
+      ],
+      "changes": [
+        "补主管机关一手操作页、明确3个月/年度替代及家属250美元",
+        "明确2年续期一次与线上手续"
+      ],
+      "unresolved": [
+        "长期居留衔接/缺席限制及全部家属亲属资格尚缺当前官方全文，不能只因找到操作页就全标已核"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/estonia/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "D签申请公开；俄白申请另有限制",
+          "source_urls": [
+            "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa",
+            "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "外交部3960/3个月，e-Residency4500/6个月，两官方页面冲突",
+          "source_urls": [
+            "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa",
+            "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "外国雇主或境外公司或主要外国客户；资金审核包含多种合法来源",
+          "source_urls": [
+            "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "D签365天/12个月",
+          "source_urls": [
+            "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "不续期可重申，730天最多548",
+          "source_urls": [
+            "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa",
+            "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "FAQ明确准许附带本地工作，境外远程仍须为主要目的；旧一律禁止错误",
+          "source_urls": [
+            "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶伙伴、未成年及不能独立生活成年子女另办；工作依签证条件",
+          "source_urls": [
+            "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "FAQ明确DNV不是居留卡、不产生PR/国籍权利",
+          "source_urls": [
+            "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "EMTA为至少183天/连续12个月，或住所；比FAQ超过183更精确",
+          "source_urls": [
+            "https://www.emta.ee/en/private-client/foreigner-non-resident/tax-residency"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "收入/证明期间冲突、允许附带本地工作及税籍计算期均须说明",
+          "source_urls": [
+            "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa",
+            "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/",
+            "https://www.emta.ee/en/private-client/foreigner-non-resident/tax-residency"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa",
+          "title": "外交部D签申请",
+          "access_result": "原本地全文及web再次实读"
+        },
+        {
+          "url": "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/",
+          "title": "政府e-Residency2026FAQ",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://www.emta.ee/en/private-client/foreigner-non-resident/tax-residency",
+          "title": "EMTA税籍规则",
+          "access_result": "实际打开并阅读全文"
+        }
+      ],
+      "changes": [
+        "发现并公开官方3960/4500及3/6个月冲突",
+        "纠正全面禁止当地工作的旧结论",
+        "补家属范围、重申548/730上限及税籍计算周期"
+      ],
+      "unresolved": [
+        "外交部与政府e-Residency收入金额、证明期间冲突须主管机关确认，未标记完成"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/greece/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "外交部、官方项目站及移民部通函共同确认专项",
+          "source_urls": [
+            "https://www.mfa.gr/services/working-in-greece-as-a-digital-nomad/",
+            "https://workfromgreece.gr/",
+            "https://migration.gov.gr/wp-content/uploads/2024/10/6%CE%95%CE%B3%CE%BA%CF%8D%CE%BB%CE%B9%CE%BF%CF%82-3JUN2024-%CE%BD_5038_2023-%CE%B7-1%CE%B7-%CE%BC%CE%B5%CE%B3%CE%B1%CE%BB%CE%B7-%CE%9D%CF%8C%CE%BC%CE%BF%CF%85.pdf"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "3500税后，配偶20%子15%",
+          "source_urls": [
+            "https://workfromgreece.gr/",
+            "https://migration.gov.gr/wp-content/uploads/2024/10/6%CE%95%CE%B3%CE%BA%CF%8D%CE%BB%CE%B9%CE%BF%CF%82-3JUN2024-%CE%BD_5038_2023-%CE%B7-1%CE%B7-%CE%BC%CE%B5%CE%B3%CE%B1%CE%BB%CE%B7-%CE%9D%CF%8C%CE%BC%CE%BF%CF%85.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "远程薪资或足够资金，不能写成只接受薪资",
+          "source_urls": [
+            "https://workfromgreece.gr/"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "D签1年随后居留2年",
+          "source_urls": [
+            "https://workfromgreece.gr/"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "每次2年续期，须延续基本资格",
+          "source_urls": [
+            "https://workfromgreece.gr/"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "不得为希腊公司以受雇或自由职业方式工作",
+          "source_urls": [
+            "https://workfromgreece.gr/"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶同居伴侣子女随行并加资金",
+          "source_urls": [
+            "https://workfromgreece.gr/"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：居留许可原则可累计5年长期居民、7年入籍，但须真实居住/融入",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "入口无签证即免税条款，保留单独判定提示",
+          "source_urls": [
+            "https://www.mfa.gr/services/working-in-greece-as-a-digital-nomad/"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "移民部通函明确主管受理机关及资金；长期路径不是低居住承诺",
+          "source_urls": [
+            "https://migration.gov.gr/wp-content/uploads/2024/10/6%CE%95%CE%B3%CE%BA%CF%8D%CE%BB%CE%B9%CE%BF%CF%82-3JUN2024-%CE%BD_5038_2023-%CE%B7-1%CE%B7-%CE%BC%CE%B5%CE%B3%CE%B1%CE%BB%CE%B7-%CE%9D%CF%8C%CE%BC%CE%BF%CF%85.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.mfa.gr/services/working-in-greece-as-a-digital-nomad/",
+          "title": "希腊外交部数字游民入口",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://workfromgreece.gr/",
+          "title": "Work from Greece",
+          "access_result": "www版本本地成功读取31542字符，外交部明确标识为官方项目站"
+        },
+        {
+          "url": "https://migration.gov.gr/wp-content/uploads/2024/10/6%CE%95%CE%B3%CE%BA%CF%8D%CE%BB%CE%B9%CE%BF%CF%82-3JUN2024-%CE%BD_5038_2023-%CE%B7-1%CE%B7-%CE%BC%CE%B5%CE%B3%CE%B1%CE%BB%CE%B7-%CE%9D%CF%8C%CE%BC%CE%BF%CF%85.pdf",
+          "title": "移民部2024第6号通函",
+          "access_result": "实际下载并阅读24页PDF相关DN金额及主管机关条款"
+        },
+        {
+          "url": "https://migration.gov.gr/en/nomothesia-1-2/nomothesia-ypiresia-nomimis-metanasteysis/",
+          "title": "移民部法规目录",
+          "access_result": "实际打开法规目录，未取得5038/2023全部合并条文"
+        }
+      ],
+      "changes": [
+        "补外交部指定项目正文及实施通函",
+        "明确资金不仅限工资，补家属范围与本地工作边界"
+      ],
+      "unresolved": [
+        "5年长期居民、7年国籍及Z.1具体计期/离境规则缺完整当前法源，尚未形成全页闭环"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/guatemala/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：候选/待主管机关确认（索引原始状态：开放/新项目）",
+          "source_urls": []
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：公开执行口径约US$3,000/月；以移民机关最新清单为准",
+          "source_urls": []
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：境外远程收入",
+          "source_urls": []
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：最长5年",
+          "source_urls": []
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：依新制度续签/维持",
+          "source_urls": []
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：仅境外工作",
+          "source_urls": []
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：家属规则需个案确认",
+          "source_urls": []
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：长期身份衔接仍需确认",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。",
+          "source_urls": []
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：2025-10-08起新项目，公开操作历史短",
+          "source_urls": []
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-03-2026.pdf",
+          "title": "EY2026原索引",
+          "access_result": "实际下载读取对应国家段落；仅二级线索"
+        },
+        {
+          "url": "https://igm.gob.gt/informacion-residencias-temporales/",
+          "title": "移民局临时居留",
+          "access_result": "web/本地403；Chrome显示Cloudflare人工验证，未取得正文"
+        },
+        {
+          "url": "https://igm.gob.gt/wp-content/uploads/2025/09/24.1.4-Reglamento-de-Residencias-Guatemaltecas-Acdo-IGM-016-2025-AMN-05-2025.pdf",
+          "title": "移民局2025居留条例",
+          "access_result": "403，搜索摘要不能代替法规正文"
+        },
+        {
+          "url": "https://igm.gob.gt/igm-actualiza-reglamentos-para-agilizar-tramites-fortalecer-la-atencion-y-brindar-un-mejor-servicio-a-personas-extranjeras-en-guatemala/",
+          "title": "移民局新条例说明",
+          "access_result": "访问被拒，未取得正文"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "所有核心字段欠主管机关正文；搜索线索提单人2000/家庭3000，与旧页3000概括可能不同，未将摘要直接用于修改门槛",
+        "2025年新条例的期限、家属、续期、工作范围及长期衔接未读到完整条文"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/hungary/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "主管机关保留现行White Card申请说明",
+          "source_urls": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "净3000欧元，入境前6个月及整个停留期间",
+          "source_urls": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外受雇或盈利境外公司股东的远程收入",
+          "source_urls": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "一年，可续一次一年",
+          "source_urls": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "续签有90/180天实际居住及提前90至30天递件要求",
+          "source_urls": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "禁止匈牙利有偿活动及持股本地公司",
+          "source_urls": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "原则不准团聚，在匈出生子女例外",
+          "source_urls": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "官方排除National Residence Card；不宣称自动永久身份",
+          "source_urls": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "保留税务另判提示，项目页没有授予全面免税",
+          "source_urls": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "境内改换居留目的受限，补入原页漏项",
+          "source_urls": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads",
+          "title": "NDGAP White Card",
+          "access_result": "200，已阅读资格、续签、收入、家属与永久身份段落"
+        }
+      ],
+      "changes": [
+        "纠正收入回溯期相对入境日期",
+        "补入续签实际居住和递件窗口",
+        "补入境内更换居留目的限制"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/italy/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "现行使馆清单支持开放",
+          "source_urls": [
+            "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "两项不同法定公式；删除未经当前源支持2026区间",
+          "source_urls": [
+            "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "高技能远程活动合法收入",
+          "source_urls": [
+            "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "原华盛顿清单一年及年度续签",
+          "source_urls": [
+            "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "须续工作/住所/保险；长期累计另核",
+          "source_urls": [
+            "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "高技能自雇/受雇，源未作所有境外雇主限制",
+          "source_urls": [
+            "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "华盛顿清单配偶和未成年子女",
+          "source_urls": [
+            "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：合法连续居住5年可EU长期居留；非EU入籍通常10年",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "保留税务独立判断，无一概免税",
+          "source_urls": [
+            "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "高技能、6月经验、入境8工作日办居留",
+          "source_urls": [
+            "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://ambwashingtondc.esteri.it/wp-content/uploads/2026/02/Digital-nomad-Remote-Worker-Visa-2026.pdf",
+          "title": "Washington digital nomad PDF2026 filename",
+          "access_result": "200，完整提取；文本仍含2024金额示例，不能当2026数字依据"
+        },
+        {
+          "url": "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf",
+          "title": "Chisinau updated18Mar2026 checklist",
+          "access_result": "200，已读全部2页及雇员额外薪资公式"
+        }
+      ],
+      "changes": [
+        "删除不受现行源支持的2026金额区间",
+        "补受雇远程者额外报酬公式及经验/居留申请期限"
+      ],
+      "unresolved": [
+        "5年EU长期居留及10年归化的一般法律与本许可累计适用仍未交叉补证"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/japan/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "外务省专项签证仍有明确材料与COE程序",
+          "source_urls": [
+            "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "年收入不少于1000万日元、医疗赔付至少1000万日元",
+          "source_urls": [
+            "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "外务省以远程工作收入及雇佣或商业伙伴合同证明",
+          "source_urls": [
+            "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "6个月不得延期",
+          "source_urls": [
+            "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "专项明确不可延期",
+          "source_urls": [
+            "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：不得从日本主体取得报酬",
+          "source_urls": []
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶子女随行，医疗保障同一最低额，适用独立较广名单",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/content/001416932.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "从6个月不可延长性质可确认非直接永住项目，非对其他身份转换作保证",
+          "source_urls": [
+            "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "外务省不承诺税务豁免，保留签证与税籍分别判断提示",
+          "source_urls": [
+            "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "主申请人与家属名单分列，均无中国大陆；家属保险容易遗漏",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/content/001416932.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html",
+          "title": "外务省专项签证",
+          "access_result": "已打开并实读官方正文"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/content/001416932.pdf",
+          "title": "入管厅合资格国家地区名单",
+          "access_result": "web403后本地实际下载并读PDF，两组名单"
+        }
+      ],
+      "changes": [
+        "区分主申请人与家属国籍名单，补家属医疗保额"
+      ],
+      "unresolved": [
+        "外务省与该名单未载日本主体报酬完整禁止条文；需入管厅活动定义正文补证"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/kazakhstan/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "两馆均列B12-1旅游型Neo Nomad",
+          "source_urls": [
+            "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en",
+            "https://www.gov.kz/memleket/entities/mfa-bern/press/article/details/6521?lang=en"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "伦敦至少3000、伯尔尼超过3000，近6个月境外收入证明；边界待递件馆确认",
+          "source_urls": [
+            "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en",
+            "https://www.gov.kz/memleket/entities/mfa-bern/press/article/details/6521?lang=en"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "稳定境外远程收入，税务居民申报及资金证明",
+          "source_urls": [
+            "https://www.gov.kz/memleket/entities/mfa-bern/press/article/details/6521?lang=en"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "多次签证最长1年",
+          "source_urls": [
+            "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "向内务部申请可再延1年",
+          "source_urls": [
+            "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "不提供在哈萨克斯坦就业权",
+          "source_urls": [
+            "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "家属受养人获与主申请人相同期限",
+          "source_urls": [
+            "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "明确为旅游类签证，未承诺PR；不能和ICT居留混同",
+          "source_urls": [
+            "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "要求提供税务资料但未设免税承诺，单独判断提示保留",
+          "source_urls": [
+            "https://www.gov.kz/memleket/entities/mfa-bern/press/article/details/6521?lang=en"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "适用国籍/邀请函及刚好3000的边界须递件馆确认",
+          "source_urls": [
+            "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en",
+            "https://www.gov.kz/memleket/entities/mfa-bern/press/article/details/6521?lang=en"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en",
+          "title": "伦敦使馆Neo Nomad",
+          "access_result": "原抓取JS壳；Chrome实读全部专项正文"
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/mfa-bern/press/article/details/6521?lang=en",
+          "title": "伯尔尼使馆全签证清单",
+          "access_result": "web实际打开读取B12-1段落"
+        }
+      ],
+      "changes": [
+        "记录使馆3000美元严格/含等号差异，补实际可读双源"
+      ],
+      "unresolved": [
+        "两馆对3000美元是否包含等号不一致；伦敦正文所指申请国籍和48国邀请函豁免完整清单未呈现"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/kenya/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "现行Class N明确开放",
+          "source_urls": [
+            "https://fns.immigration.go.ke/infopack/permits/classN/"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "未完成：当前eFNS清单只要近3个月收入证明，未列55000美元年额",
+          "source_urls": [
+            "https://fns.immigration.go.ke/infopack/permits/classN/"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外受雇/公司股东/境外客户自雇",
+          "source_urls": [
+            "https://fns.immigration.go.ke/infopack/permits/classN/"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "一年或两年可续",
+          "source_urls": [
+            "https://fns.immigration.go.ke/infopack/permits/classN/"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "官方未直接说明Class N计入PR，原页不作肯定承诺",
+          "source_urls": [
+            "https://fns.immigration.go.ke/infopack/permits/classN/"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "限定外国注册公司/境外客户，清单未写无偿工作边界",
+          "source_urls": [
+            "https://fns.immigration.go.ke/infopack/permits/classN/"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：家属可办Dependent Pass",
+          "source_urls": []
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "PR需另行核实，不能确认累计",
+          "source_urls": [
+            "https://fns.immigration.go.ke/infopack/permits/classN/"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。",
+          "source_urls": []
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：税务居民常见183日或三年平均122日规则",
+          "source_urls": []
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://fns.immigration.go.ke/infopack/permits/classN/",
+          "title": "Immigration eFNS Class N",
+          "access_result": "200，已读全部现行申请清单"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "年55000法定阈值、依亲Pass、当地无偿活动限制、税籍122/183规则需法规/主管说明补证"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/kyrgyzstan/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "主管机关已上线dnomad电子申请，足以支持开放建议",
+          "source_urls": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "一年合同收入5000美元+余额3000美元",
+          "source_urls": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "专业合同收入；非仅境外收入的统一限制",
+          "source_urls": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "60天后1年",
+          "source_urls": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "可按年延长至法规10年框架，补医疗登记收入等",
+          "source_urls": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "准许列明专业的本地经营且免工作许可",
+          "source_urls": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶子女受养人，需签者FF",
+          "source_urls": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "条例授予专项状态，不直接授PR或国籍",
+          "source_urls": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "须守税法和社会保险义务，不主张豁免",
+          "source_urls": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "11国及明确专业清单",
+          "source_urls": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-03-2026.pdf",
+          "title": "EY2026 remote work index",
+          "access_result": "200 PDF，已读吉尔吉斯段；旧6个月/全体国籍摘要与现行法规冲突"
+        },
+        {
+          "url": "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf",
+          "title": "Government digital nomad status regulation",
+          "access_result": "200 PDF，已读第3、7–14、28–29条及申请流程；TLS校验错误后经只读重取正文"
+        },
+        {
+          "url": "https://mlsp.gov.kg/ru/2025/12/16/v-kyrgyzskoj-respublike-zapushhena-elektronnaya-platforma-dlya-podachi-hodatajstv-inostrannymi-grazhdanami-na-prisvoenie-statusa-czifrovoj-kochevnik-digital-nomad/",
+          "title": "MLSP platform launch",
+          "access_result": "200，已读2025-12-16上线公告并核对60天/1年/10年结构"
+        }
+      ],
+      "changes": [
+        "用政府现行条例重建资格、资金、60天/1年期限与家属",
+        "纠正旧索引全体国籍和6个月说法；建议从候选升级，交root统一状态"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/latvia/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "现行PMLP服务页",
+          "source_urls": [
+            "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "4538欧/月，上一年度平均毛月薪2.5倍",
+          "source_urls": [
+            "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "OECD注册雇主/自雇与6月既往关系",
+          "source_urls": [
+            "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "一年D签",
+          "source_urls": [
+            "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "D签证本身非居留卡",
+          "source_urls": [
+            "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "不准拉脱维亚就业",
+          "source_urls": [
+            "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：单人清单没有积极说明无家属配套",
+          "source_urls": [
+            "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：D签时间不计永久居留需要长期身份规则",
+          "source_urls": [
+            "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。",
+          "source_urls": []
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：183日可能触发税籍",
+          "source_urls": []
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work",
+          "title": "PMLP Long term remote-work visa",
+          "access_result": "200，已读2026-06-15现行资格、4538金额及材料"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "家属无配套、D签长期累计及183天税籍三个字段未完成当前官方交叉补证"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/malaysia/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "MDEC仍列项目与新入口，非科技扩展清单不全",
+          "source_urls": [
+            "https://www.mdec.my/press-releases/mdec-expands-de-rantau-programme-new-opportunities-for-global-digital-nomads-and-exciting-partnerships"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "v3数字科技收入严格超过24000美元；非科技当前更高标准缺完整正文",
+          "source_urls": [
+            "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "远程雇员境外公司；自由职业合同/订单/平台收入",
+          "source_urls": [
+            "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "Professional Visit Pass 3至12个月可再12个月，总24",
+          "source_urls": [
+            "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "届满2个月前申请续期",
+          "source_urls": [
+            "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "本地注册客户可授予项目并作担保；旧全面禁止本地客户错误",
+          "source_urls": [
+            "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶伴侣未成年/残障子女及主申请人父母，配偶无工作权",
+          "source_urls": [
+            "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "访客类专项总24个月，无该项目直接PR条款",
+          "source_urls": [
+            "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "FAQ分雇员与自由职业来源税务，不因外国收入即免税",
+          "source_urls": [
+            "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "原PDF存在过时范围及担保说明，后续非科技与东马分项目需当前FAQ",
+          "source_urls": [
+            "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf",
+          "title": "MDEC FAQ v3",
+          "access_result": "本次下载PDF并实际阅读全14页"
+        },
+        {
+          "url": "https://www.mdec.my/press-releases/mdec-expands-de-rantau-programme-new-opportunities-for-global-digital-nomads-and-exciting-partnerships",
+          "title": "扩展项目公告",
+          "access_result": "打开仅有非科技扩展开头，完整金额未呈现"
+        },
+        {
+          "url": "https://www.mdec.my/media-release/news-press-release/336/mdec-expands-de-rantau-programme-new-opportunities-for-global-digital-nomads-and-exciting-partnerships",
+          "title": "公告新路径",
+          "access_result": "本地200但正文只标题与相关资讯"
+        }
+      ],
+      "changes": [
+        "纠正所有客户必须境外的错误",
+        "补主申请人父母及残障子女等家属范围"
+      ],
+      "unresolved": [
+        "非科技扩展后完整现行资格/金额/担保要求；砂拉越独立项目不在本页已核范围"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/malta/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "官方现行FAQ及在线申请",
+          "source_urls": [
+            "https://nomad.residencymalta.gov.mt/new-faqs/"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "毛年42000欧；2024-04-01前申请保留32400门槛",
+          "source_urls": [
+            "https://nomad.residencymalta.gov.mt/new-faqs/"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外雇主/公司/客户，不能为其马耳他子公司服务",
+          "source_urls": [
+            "https://nomad.residencymalta.gov.mt/new-faqs/"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "一年，可续3次共4年",
+          "source_urls": [
+            "https://nomad.residencymalta.gov.mt/new-faqs/"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "5/12个月实际居住、提前2–3个月申请",
+          "source_urls": [
+            "https://nomad.residencymalta.gov.mt/new-faqs/"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "仅境外服务，禁止间接向本地客户服务",
+          "source_urls": [
+            "https://nomad.residencymalta.gov.mt/new-faqs/"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "合资格伴侣子女；新增时点限制",
+          "source_urls": [
+            "https://nomad.residencymalta.gov.mt/new-faqs/"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "官方明确不通永久/长期/公民身份",
+          "source_urls": [
+            "https://nomad.residencymalta.gov.mt/new-faqs/"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "第3–4条确认10%、12个月条件性豁免、税务登记和家属一般税法",
+          "source_urls": [
+            "https://legislation.mt/getpdf/65815fd48a3ed618b0827fe2"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "保险最低100000欧覆盖EU和英国、限制国籍名单",
+          "source_urls": [
+            "https://nomad.residencymalta.gov.mt/new-faqs/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://nomad.residencymalta.gov.mt/wp-content/uploads/2024/04/Nomad-FAQs-v.12.pdf",
+          "title": "旧2024FAQ PDF",
+          "access_result": "本地403、web404，已从官方主页发现新版HTML"
+        },
+        {
+          "url": "https://nomad.residencymalta.gov.mt/new-faqs/",
+          "title": "Residency Malta current FAQs",
+          "access_result": "200，已读资格、家属、延期、长期身份、保险及税务"
+        },
+        {
+          "url": "https://legislation.mt/getpdf/65815fd48a3ed618b0827fe2",
+          "title": "S.L.123.210 income tax rules",
+          "access_result": "200，4页PDF已读税率、首12月及登记条件"
+        }
+      ],
+      "changes": [
+        "修复失效主要来源",
+        "补家属新增时点、续签提交窗口及保险条件",
+        "将专项税率放回税务字段并注明适用边界"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/mauritius/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "移民署入口与EDB专项表支持开放",
+          "source_urls": [
+            "https://passport.govmu.org/passport/?page_id=595"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "每成人1500/月、每受养子女500/月，3个月银行流水",
+          "source_urls": [
+            "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "主要业务与收入利润来源须在境外",
+          "source_urls": [
+            "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "超过6个月至1年可续；境外批准者自入境开始1年，6个月内须使用",
+          "source_urls": [
+            "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "续期重交保险住宿收入与返程安排",
+          "source_urls": [
+            "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "不得进入本地劳动市场",
+          "source_urls": [
+            "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "专项清单支持配偶子女，但未证实旧页24岁上限",
+          "source_urls": [
+            "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "可另申Occupation Permit或退休居留；该签证不承诺直接PR，20年PR具体衔接未补证",
+          "source_urls": [
+            "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "汇入、外国银行卡、已在境外纳税声明和既有财富区分已核；应税者登记申报",
+          "source_urls": [
+            "https://www.mra.mu/download/FAQsPremiumVISA.pdf"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "原属国是否已税与收入/积蓄性质影响处理",
+          "source_urls": [
+            "https://www.mra.mu/download/FAQsPremiumVISA.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://passport.govmu.org/passport/?page_id=595",
+          "title": "护照与移民署Premium Visa",
+          "access_result": "已打开并实读官方正文"
+        },
+        {
+          "url": "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf",
+          "title": "EDB专项FAQ",
+          "access_result": "本地实读全文含申请清单"
+        },
+        {
+          "url": "https://www.mra.mu/download/FAQsPremiumVISA.pdf",
+          "title": "MRA专项FAQ",
+          "access_result": "本地实读全文含税务声明表"
+        }
+      ],
+      "changes": [
+        "移除无专项依据的24岁家属上限",
+        "明确汇入税务规则和3个月资金证明"
+      ],
+      "unresolved": [
+        "专项文件未证实子女24岁上限，已移除固定年龄；20年PR衔接仍需正式依据"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/moldova/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "现行专项FAQ提供法律及办理说明",
+          "source_urls": [
+            "https://invest.gov.md/en/qa-2/digital-nomads/"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "18倍最近6个月合计，2026基数17400；算得313200合计、52200月均",
+          "source_urls": [
+            "https://invest.gov.md/en/qa-2/digital-nomads/",
+            "https://cnas.gov.md/ro/node/568"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外法人受雇/服务、境外公司股东管理员",
+          "source_urls": [
+            "https://invest.gov.md/en/qa-2/digital-nomads/"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "最长2年可续",
+          "source_urls": [
+            "https://invest.gov.md/en/qa-2/digital-nomads/"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "可续临时居留；长期累计和离境规则仍未闭环",
+          "source_urls": [
+            "https://invest.gov.md/en/qa-2/digital-nomads/"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "不得进入本地市场；境外公司限定",
+          "source_urls": [
+            "https://invest.gov.md/en/qa-2/digital-nomads/",
+            "https://invest.gov.md/wp-content/uploads/2026/01/Profile_BPO_2025.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "FAQ指向第38条家庭团聚，具体各类家属材料仍应按该制度",
+          "source_urls": [
+            "https://invest.gov.md/en/qa-2/digital-nomads/"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：可续，理论上5年永居；实践需确认",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "政府现行行业资料明确取得身份即税籍与每年2平均工资定额；推翻通用不必是税籍文案",
+          "source_urls": [
+            "https://invest.gov.md/wp-content/uploads/2026/01/Profile_BPO_2025.pdf"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "固定税与2026独立创业者税制是不同安排",
+          "source_urls": [
+            "https://invest.gov.md/wp-content/uploads/2026/01/Profile_BPO_2025.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://invest.gov.md/en/qa-2/digital-nomads/",
+          "title": "Invest Moldova数字游民问答",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://cnas.gov.md/ro/node/568",
+          "title": "CNAS2026平均工资",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://invest.gov.md/wp-content/uploads/2026/01/Profile_BPO_2025.pdf",
+          "title": "Invest Moldova BPO2025政府资料",
+          "access_result": "web成功打开18页PDF并读数字游民及税务段落"
+        }
+      ],
+      "changes": [
+        "明确2026收入公式及境外法人限定",
+        "用政府专项税务规定替换错误的通用183天推断"
+      ],
+      "unresolved": [
+        "5年长期居留与该身份计算、离境限制仍缺当前主管机关正文；专项税务申报程序尚需税务局复核"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/montenegro/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "政府网站列实际MIA申请流程",
+          "source_urls": [
+            "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "要求生活资金，页面未给数额",
+          "source_urls": [
+            "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外公司受雇/自有公司远程",
+          "source_urls": [
+            "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "最多2年",
+          "source_urls": [
+            "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "最多再2年，新申请间隔6月",
+          "source_urls": [
+            "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "境外公司活动",
+          "source_urls": [
+            "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶与18岁以下子女",
+          "source_urls": [
+            "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "间隔导致不能当然当连续5年专项路径",
+          "source_urls": [
+            "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。",
+          "source_urls": []
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：收入门槛与税收豁免条件不可混为一谈",
+          "source_urls": []
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://digitalnomads.gov.me/article/legal-status-for-nomads",
+          "title": "Government Digital Nomads legal status",
+          "access_result": "200，已读全文申请/资金/2+2/家庭说明"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "原页税收优惠另有收入公式未在当前所读主管页面出现；需要现行所得税/实施规则补证"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/montserrat/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "现行法律汇编与政府链接的项目网站支持制度仍有依据；原候选分类可由整合者审核升级",
+          "source_urls": [
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "第3条严格超过EC189000年收入，旧US70000表述遗漏严格大于",
+          "source_urls": [
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "外国雇主、外国公司或外国客户远程工作收入",
+          "source_urls": [
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "第5条最长12个月",
+          "source_urls": [
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "第6条届满至少1个月前续期；第7条即使续期仍视为非居民",
+          "source_urls": [
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "第9条申请人与家属均不得当地就业",
+          "source_urls": [
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "定义含配偶同居伴侣、18岁以下子女继子女及特定受养人",
+          "source_urls": [
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "第7条非居民属性，不由该项目产生直接PR",
+          "source_urls": [
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "第8条境外来源收入所得税豁免；不延伸为其他国家免税",
+          "source_urls": [
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "第3条保险覆盖家属，税务与非居民条款适用续期",
+          "source_urls": [
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf",
+          "title": "Remote Employment Act，2025修订汇编",
+          "access_result": "已打开并实读官方正文"
+        },
+        {
+          "url": "https://www.gov.ms/2021/01/29/applications-are-now-open-for-the-12-month-montserrat-remote-workers-stamp/",
+          "title": "政府项目开放公告",
+          "access_result": "已打开并实读官方正文"
+        },
+        {
+          "url": "https://montserratremoteworker.com/",
+          "title": "Remote Workers Stamp入口",
+          "access_result": "已打开项目首页，提供申请入口"
+        }
+      ],
+      "changes": [
+        "纠正严格收入比较、补续期期限、家属范围与法定税务豁免"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/namibia/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "官方提供现行申请清单和费用",
+          "source_urls": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "主申2000、配偶1000、每孩500美元/月",
+          "source_urls": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外公司/客户收入与6个月流水",
+          "source_urls": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "六个月",
+          "source_urls": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "不可续，到期12个月后重申",
+          "source_urls": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "境外远程业务",
+          "source_urls": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶、子女各需材料和资金",
+          "source_urls": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "六个月非可连续续签结构，无直接永久路径",
+          "source_urls": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未发现专项免税承诺；保留独立判断",
+          "source_urls": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "补入禁止境内变更停留条件",
+          "source_urls": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.nipdb.com/digital-nomad-visa",
+          "title": "NIPDB Digital Nomad Visa",
+          "access_result": "200，已阅读完整资格、续签间隔及家属清单"
+        }
+      ],
+      "changes": [
+        "补入境内不得变更停留条件"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/panama/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "现行移民局清单可访问",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "境外年收入36000巴波亚，雇主证明月3000",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外雇佣或注册公司自雇，资金与业务来源证明",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "9个月",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "一次相同9个月，重新证明原条件",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "不得为巴拿马境内国民居民游客企业提供服务",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "清单没有随行家属包，须另核其他类别",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "明定No Residente类别，不是永久居留授予",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未授予普遍免税，保留事实判断",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "须保险、犯罪记录及认证；家庭不作自动承诺",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf",
+          "title": "SNM Remote worker short stay requirements",
+          "access_result": "200 PDF，已提取并阅读全部3页条文与续签清单"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/portugal/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "AIMA现行D8居留办理公开",
+          "source_urls": [
+            "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "31-A要求3个月平均4倍RMMG；2026公报920，计算3680",
+          "source_urls": [
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=940A0031A&ficha=1&nid=940&nversao=&pagina=1&so_miolo=&tabela=leis",
+            "https://files.diariodarepublica.pt/2s/2026/01/003000001/0000200010.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外远程雇佣或独立服务、税籍文件",
+          "source_urls": [
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=940A0031A&ficha=1&nid=940&nversao=&pagina=1&so_miolo=&tabela=leis",
+            "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "第58条4个月两次入境居留签证，AIMA居留2年续3年",
+          "source_urls": [
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis",
+            "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "第85条6连续/8累计临居离境限制及合理理由例外，不把例外作免居住保证",
+          "source_urls": [
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=&ficha=101&nid=920&nversao=&pagina=2&so_miolo=&tabela=leis"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "D8基础境外远程；第83条一般居留工作权受专项规定限制，非全面当地禁业",
+          "source_urls": [
+            "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe",
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=&ficha=101&nid=920&nversao=&pagina=2&so_miolo=&tabela=leis"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "58(5)同步随行签证与98取得居留后团聚分开；后者2年/配偶15个月及例外",
+          "source_urls": [
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis",
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=&ficha=101&nid=920&nversao=&pagina=2&so_miolo=&tabela=leis"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "第80条5年临居加葡语生计住宿；新国籍法7/10及生效前已申请过渡",
+          "source_urls": [
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=&ficha=101&nid=920&nversao=&pagina=2&so_miolo=&tabela=leis",
+            "https://justica.gov.pt/en-gb/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "D8要求税籍文件，不承诺签证自动免税；保留按住所/天数/协定另审提示",
+          "source_urls": [
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=940A0031A&ficha=1&nid=940&nversao=&pagina=1&so_miolo=&tabela=leis"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "2026最低月薪和国籍新法已补证；资格维持及附加国籍条件不能忽略",
+          "source_urls": [
+            "https://files.diariodarepublica.pt/2s/2026/01/003000001/0000200010.pdf",
+            "https://justica.gov.pt/en-gb/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe",
+          "title": "AIMA D8居留",
+          "access_result": "本次原链接成功下载全文并读2+3及材料"
+        },
+        {
+          "url": "https://www.acm.gov.pt/documents/10181/0/Brochura-Lei-de-Estrangeiros-O-Que-Mudou-EN.pdf/946833a9-03d8-4f12-a6f8-60e05f287a63",
+          "title": "旧ACM法改说明",
+          "access_result": "实际打开重定向为站点关闭通知，不作依据"
+        },
+        {
+          "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=940A0031A&ficha=1&nid=940&nversao=&pagina=1&so_miolo=&tabela=leis",
+          "title": "现行实施条例31-A",
+          "access_result": "web及本地实读四倍/三个月及税籍证据条款"
+        },
+        {
+          "url": "https://files.diariodarepublica.pt/2s/2026/01/003000001/0000200010.pdf",
+          "title": "2026第233-A号公报",
+          "access_result": "实际下载PDF并读首段最低月薪870调920"
+        },
+        {
+          "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis",
+          "title": "外国人法现行第58条",
+          "access_result": "本地读取当前全文第1页"
+        },
+        {
+          "url": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=&ficha=101&nid=920&nversao=&pagina=2&so_miolo=&tabela=leis",
+          "title": "外国人法现行第2页",
+          "access_result": "本地读取第80/83/85/98条及2025修法"
+        },
+        {
+          "url": "https://justica.gov.pt/en-gb/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio",
+          "title": "司法部2026国籍法说明",
+          "access_result": "web实际读取生效日期、7/10年及旧申请过渡"
+        }
+      ],
+      "changes": [
+        "补D8收入公式完整法源及2026最低工资依据",
+        "区分同步随行签证与后续团聚等待规则",
+        "补居留离境规则、一般工作权及2026国籍法过渡"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/romania/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "IGI现行页面列数字游民许可清单",
+          "source_urls": [
+            "https://igi.mai.gov.ro/alte-scopuri/"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "后续许可期月收入平均毛薪3倍，原页前6月签证条件待其他法补证",
+          "source_urls": [
+            "https://igi.mai.gov.ro/alte-scopuri/"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外雇佣或持有至少3年的境外公司",
+          "source_urls": [
+            "https://igi.mai.gov.ro/alte-scopuri/"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "纠正首次居留6个月",
+          "source_urls": [
+            "https://igi.mai.gov.ro/alte-scopuri/"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "后续可续、至少提前30天递件、补税务收入证明",
+          "source_urls": [
+            "https://igi.mai.gov.ro/alte-scopuri/"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "仅境外公司合同/自有境外公司",
+          "source_urls": [
+            "https://igi.mai.gov.ro/alte-scopuri/"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：家属走普通团聚",
+          "source_urls": []
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：原则可累计长期居留，但建议IGI书面确认",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。",
+          "source_urls": []
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "补境外公司至少3年持有与税务收入证明",
+          "source_urls": [
+            "https://igi.mai.gov.ro/alte-scopuri/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://igi.mai.gov.ro/alte-scopuri/",
+          "title": "IGI Other purposes – digital nomads",
+          "access_result": "200，已阅读数字游民首次及后续续签清单"
+        }
+      ],
+      "changes": [
+        "纠正首次许可1年为6个月",
+        "补境外自有公司至少3年及续签税務收入证明"
+      ],
+      "unresolved": [
+        "初次签证收入前6个月回溯、家属普通团聚、长期5年可否累计以及特殊税务豁免未完成交叉补证"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/seychelles/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "专项原链接真实跳转普通电子边境首页，不能确认专项仍受理",
+          "source_urls": [
+            "https://seychelles.govtas.com/en/workcation"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：官方入口未给统一收入额；要求境外就业/自雇、资金、保险和住宿",
+          "source_urls": []
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：境外远程收入",
+          "source_urls": []
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：通常最长1年，以e-Border批文为准",
+          "source_urls": []
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：短期专项身份，不计PR",
+          "source_urls": []
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：不得为塞舌尔本地实体就业",
+          "source_urls": []
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：可家庭组合申请",
+          "source_urls": []
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：不计PR",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。",
+          "source_urls": []
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "旧页称专项入口仍在线不准确，已改为具体跳转与缺口",
+          "source_urls": [
+            "https://seychelles.govtas.com/en/workcation"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://seychelles.govtas.com/en/workcation",
+          "title": "Seychelles电子边境Workcation原入口",
+          "access_result": "原抓取仅JS壳；Chrome实开后跳转/en普通入境授权首页，无Workcation专项"
+        },
+        {
+          "url": "https://tourism.gov.sc/?p=5470",
+          "title": "旅游部门历史宣传",
+          "access_result": "实际打开返回500；搜索仅早期宣传线索，未取得当前专项规则"
+        },
+        {
+          "url": "https://mfa.gov.sc/frequently-asked-questions/",
+          "title": "外交部一般FAQ",
+          "access_result": "实际打开并读一般GOP/居留/学生规则；未提供Workcation资格，不能移用其他许可规则"
+        }
+      ],
+      "changes": [
+        "纠正原入口仍在线的误导，记录实际跳转及专项受理缺口"
+      ],
+      "unresolved": [
+        "所有专项核心资格、收入证据、期限、家属、当地工作及PR税务须官方新入口/书面说明，普通旅游授权不作替代"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/slovenia/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "2025-11-21实施，提供境外/境内合法停留递件流程",
+          "source_urls": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "月资金至少最新平均净薪2倍",
+          "source_urls": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "远程活动在境外；资金允许任意合法来源",
+          "source_urls": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "一年",
+          "source_urls": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "不可续，六个月后重申；有效期可转其他居留目的",
+          "source_urls": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "不进入当地劳动力市场",
+          "source_urls": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "可立即团聚，无先住期限限制",
+          "source_urls": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "本专项不保证连续永居，保留转类可能",
+          "source_urls": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "未授予全面免税，保留独立税务判断",
+          "source_urls": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "第三国国籍、动态公式；不得将其他合法资金误排除",
+          "source_urls": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/",
+          "title": "GOV.SI Temporary residence permit for digital nomads",
+          "access_result": "本地抓取被拒；web成功打开完整主管机关正文"
+        }
+      ],
+      "changes": [
+        "区分远程活动与生活资金来源",
+        "补有效期内转换其他目的居留的官方允许"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/south-africa/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "DHA保留正式Remote Work visitor checklist",
+          "source_urls": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "毛年薪650796兰特，三个月银行证明",
+          "source_urls": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "外国雇主合同",
+          "source_urls": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "超过三个月至三年",
+          "source_urls": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "Visitor类别，无自动PR承诺；境内变更原则禁止",
+          "source_urls": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "不授予南非就业权，纯自由职业未在清单明确",
+          "source_urls": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：专项清单没有家属相应访问签证规则",
+          "source_urls": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "Visitor身份不构成直接PR授予",
+          "source_urls": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "明确DTA税籍与183天SARS登记分支",
+          "source_urls": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "补外国雇主合同与境内转身份限制",
+          "source_urls": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf",
+          "title": "DHA Remote Work Visa requirements effective9Oct2024",
+          "access_result": "200 PDF，已完整读取2页"
+        }
+      ],
+      "changes": [
+        "把笼统税务提示改为DHA明确的SARS登记分支",
+        "补境内转身份限制"
+      ],
+      "unresolved": [
+        "家属各办访问身份的当前官方手续尚未补证；专项清单未覆盖"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/south-korea/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "两家使领馆发布现行受理规则",
+          "source_urls": [
+            "https://overseas.mofa.go.kr/de-de/wpge/m_7236/contents.do",
+            "https://overseas.mofa.go.kr/ru-stpetersburg-ru/brd/m_7886/view.do?page=1&seq=759308"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "1、1.5、2倍上一年度GNI分档；现行基数52416000韩元，至2027年3月31日；严格旧2倍表述过时",
+          "source_urls": [
+            "https://overseas.mofa.go.kr/ru-stpetersburg-ru/brd/m_7886/view.do?page=1&seq=759308"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外企业远程收入，同行业至少1年",
+          "source_urls": [
+            "https://www.moj.go.kr/bbs/immigration_eng/229/464290/download.do",
+            "https://overseas.mofa.go.kr/ru-stpetersburg-ru/brd/m_7886/view.do?page=1&seq=759308"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "2026年6月30日起首次1年、最长总3年",
+          "source_urls": [
+            "https://overseas.mofa.go.kr/de-de/wpge/m_7236/contents.do",
+            "https://overseas.mofa.go.kr/ru-stpetersburg-ru/brd/m_7886/view.do?page=1&seq=759308"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "按年续期，地区减免须证明住宿或workation安排",
+          "source_urls": [
+            "https://overseas.mofa.go.kr/de-de/wpge/m_7236/contents.do",
+            "https://overseas.mofa.go.kr/ru-stpetersburg-ru/brd/m_7886/view.do?page=1&seq=759308"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "本地就业与营利活动禁止",
+          "source_urls": [
+            "https://www.moj.go.kr/bbs/immigration_eng/229/464290/download.do"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶与未成年子女，携家属资本圈2倍/地方1.5倍，不沿单人青年档",
+          "source_urls": [
+            "https://overseas.mofa.go.kr/ru-stpetersburg-ru/brd/m_7886/view.do?page=1&seq=759308"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "本专项最长3年并未赋予直接PR路径；不把专项停留直接当F-2/F-5",
+          "source_urls": [
+            "https://www.moj.go.kr/bbs/immigration_eng/229/464290/download.do",
+            "https://overseas.mofa.go.kr/de-de/wpge/m_7236/contents.do"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "签证主管机关未承诺免税，保留税籍与收入来源单独判断提示",
+          "source_urls": [
+            "https://www.moj.go.kr/bbs/immigration_eng/229/464290/download.do"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "本轮发现已生效规则；不能沿用2024版本总2年与一律2倍门槛",
+          "source_urls": [
+            "https://overseas.mofa.go.kr/de-de/wpge/m_7236/contents.do",
+            "https://overseas.mofa.go.kr/ru-stpetersburg-ru/brd/m_7886/view.do?page=1&seq=759308"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.moj.go.kr/bbs/immigration_eng/229/464290/download.do",
+          "title": "韩国法务部Workcation说明",
+          "access_result": "实际下载并读取原PDF"
+        },
+        {
+          "url": "https://overseas.mofa.go.kr/de-de/wpge/m_7236/contents.do",
+          "title": "驻德使馆签证当前规则",
+          "access_result": "web后以Chrome成功读取2026年6月30日变更全文"
+        },
+        {
+          "url": "https://overseas.mofa.go.kr/ru-stpetersburg-ru/brd/m_7886/view.do?page=1&seq=759308",
+          "title": "驻圣彼得堡馆2026年7月1日说明",
+          "access_result": "Chrome成功读取完整分档表与有效期间"
+        }
+      ],
+      "changes": [
+        "新增2026年6月30日已生效收入分档及表格",
+        "首次1年续期总上限从2年改3年",
+        "补家属分档、地区住宿证明及政策时间线"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/spain/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "现行领馆清单及法律专项仍可申请",
+          "source_urls": [
+            "https://boe.es/buscar/act.php?id=BOE-A-2013-10074",
+            "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-visa.aspx"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "SMI1221对应200%2442；家属75%/25%，华盛顿916/306整额",
+          "source_urls": [
+            "https://boe.es/buscar/act.php?id=BOE-A-2026-3815",
+            "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-visa.aspx"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外公司经营1年、雇佣/客户关系3个月；华盛顿明确商业公司范围",
+          "source_urls": [
+            "https://boe.es/buscar/act.php?id=BOE-A-2013-10074",
+            "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-visa.aspx"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "签证1年、境内3年或短于此的合同期、续2年",
+          "source_urls": [
+            "https://boe.es/buscar/act.php?id=BOE-A-2013-10074"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "须维持资格；PR5年另需连续合法居住",
+          "source_urls": [
+            "https://boe.es/buscar/act.php?id=BOE-A-2013-10074",
+            "https://boe.es/buscar/act.php?id=BOE-A-2000-544"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "受雇只能境外企业，自雇西班牙业务最多总专业活动20%",
+          "source_urls": [
+            "https://boe.es/buscar/act.php?id=BOE-A-2013-10074"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "亲属范围已证配偶伴侣、未成年、依赖且未另组家庭成年人、受养尊亲属；家属工作权明确执行正文尚未取得",
+          "source_urls": [
+            "https://boe.es/buscar/act.php?id=BOE-A-2013-10074",
+            "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-visa.aspx"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "LO4/2000第32条连续5年临居、民法典第22条一般10年，均非自动",
+          "source_urls": [
+            "https://boe.es/buscar/act.php?id=BOE-A-2000-544",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "自然年超183或经济中心，特殊税制另选且覆盖远程雇员等合格群体",
+          "source_urls": [
+            "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/residencia-habitual-territorio-espanol.html",
+            "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/regimen-fiscal-especial-aplicable-trabajadores-desplazados.html"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "学历或3年经验；社保协定须专门适用证明；普通旅行险不行",
+          "source_urls": [
+            "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-visa.aspx",
+            "https://www.exteriores.gob.es/Consulados/buenosaires/es/ServiciosConsulares/Paginas/index.aspx?scca=Visados&scco=Argentina&scd=40&scs=Visado+de+residencia+para+teletrabajo+%28n%C3%B3mada+digital%29"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://boe.es/buscar/act.php?id=BOE-A-2013-10074",
+          "title": "BOE14/2013",
+          "access_result": "原缓存完整法律已读62、74bis至74quinquies及附则"
+        },
+        {
+          "url": "https://boe.es/buscar/act.php?id=BOE-A-2026-3815",
+          "title": "2026最低工资法令",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://www.inclusion.gob.es/documents/d/unidadgrandesempresas/digital-nomad-faqs-english",
+          "title": "UGE原FAQ",
+          "access_result": "web及本地多次超时；西语替代附件亦超时"
+        },
+        {
+          "url": "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-visa.aspx",
+          "title": "驻华盛顿领馆",
+          "access_result": "Chrome及本地完整读取2026清单"
+        },
+        {
+          "url": "https://www.exteriores.gob.es/Consulados/buenosaires/es/ServiciosConsulares/Paginas/index.aspx?scca=Visados&scco=Argentina&scd=40&scs=Visado+de+residencia+para+teletrabajo+%28n%C3%B3mada+digital%29",
+          "title": "驻布宜诺斯艾利斯领馆",
+          "access_result": "实际下载并阅读金额、社保协定及家属材料"
+        },
+        {
+          "url": "https://boe.es/buscar/act.php?id=BOE-A-2000-544",
+          "title": "LO4/2000第32条",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763",
+          "title": "民法典第22条",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/residencia-habitual-territorio-espanol.html",
+          "title": "AEAT税务居民条件",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/regimen-fiscal-especial-aplicable-trabajadores-desplazados.html",
+          "title": "AEAT特别税制",
+          "access_result": "实际打开并阅读全文"
+        }
+      ],
+      "changes": [
+        "补领馆家属金额向上取整、商业雇主范围与当前双馆来源",
+        "完善自然年税籍及BOE长居/归化证据"
+      ],
+      "unresolved": [
+        "旧页家属居留允许受雇/自雇的明确当前执行依据尚未读到；UGE附件持续超时，未据此将全页标完成"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/sri-lanka/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "官方清单提供Residence Visa Division实际递件流程",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "2000美元月汇入，超过2受养人后每人加500",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外远程/自由职业/境外公司收入且汇入",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "一年",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "可年度续签；须税务登记证明",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "禁止当地就业，收入来源境外",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶及受养人",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "本签证没有授予直接PR",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "补入续签必需税务登记；不能默认为免税",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "18岁、推荐/医疗/犯罪/安全材料；变化30天报备",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf",
+          "title": "Department of Immigration DNV category",
+          "access_result": "200 PDF，已阅读完整资格、手续、续签、税务及条件"
+        }
+      ],
+      "changes": [
+        "补年度续签及税务登记硬性条件",
+        "补30天变更报备"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/taiwan/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "BOCA现行办理入口开放，仅适用免签国家国民。",
+          "source_urls": [
+            "https://www.boca.gov.tw/fp-158-7718-c0382-2.html"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "核实三选一资格、30岁包含边界及独立US$10,000六个月月均存款条件。",
+          "source_urls": [
+            "https://www.boca.gov.tw/fp-158-7718-c0382-2.html"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外远程经验、有效工作/客户合同、银行资金及国际健康住院保险。",
+          "source_urls": [
+            "https://www.boca.gov.tw/fp-158-7718-c0382-2.html"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：每次最多6个月，可续至总计2年",
+          "source_urls": []
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：访客性质，不计永久居留",
+          "source_urls": []
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "远程活动须审查计划说明；两年新法细则正文仍待补。",
+          "source_urls": [
+            "https://www.boca.gov.tw/fp-158-7718-c0382-2.html"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：2026新规允许配偶及未成年子女随行",
+          "source_urls": []
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：不直接通永久居留",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "通用税务边界提示，不主张特定免税待遇；需按本人事实另判。",
+          "source_urls": [
+            "https://www.boca.gov.tw/fp-158-7718-c0382-2.html"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "已修正国籍遗漏、年龄边界及存款条件混写。",
+          "source_urls": [
+            "https://www.boca.gov.tw/fp-158-7718-c0382-2.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.boca.gov.tw/fp-158-7718-c0382-2.html",
+          "title": "BOCA Digital nomad visitor visa",
+          "access_result": "opened-content"
+        },
+        {
+          "url": "https://foreigntalentact.ndc.gov.tw/foreigntalentact_en/Content_List.aspx?n=829E8FB4B4C21175",
+          "title": "NDC Digital Nomad Visas Article 14",
+          "access_result": "403 on direct open; search result only, not treated as reviewed"
+        }
+      ],
+      "changes": [
+        "补全免签国籍，30岁及以上，以及US$10,000存款为独立必需条件。"
+      ],
+      "unresolved": [
+        "2年上限及家属扩展已找到NDC官方线索，但直接访问403；在打开现行法律正文前不计全项完成。"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/thailand/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "使馆现行DTV清单仍开放",
+          "source_urls": [
+            "https://washingtondc.thaiembassy.org/en/page/page/dtv-visa"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "500000泰铢；华盛顿要求过去3个月每月期末均达标",
+          "source_urls": [
+            "https://washingtondc.thaiembassy.org/en/page/page/dtv-visa"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "资金证明加工作合同/作品集或活动证明；非购买居留",
+          "source_urls": [
+            "https://image.mfa.go.th/mfa/0/4a5AsMHake/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B2/New_Visa_to_Thailand_-_Infographic.pdf"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "5年多次每次180天",
+          "source_urls": [
+            "https://image.mfa.go.th/mfa/0/4a5AsMHake/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B2/New_Visa_to_Thailand_-_Infographic.pdf"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "每次最多再180天，然后须出境重新入境",
+          "source_urls": [
+            "https://image.mfa.go.th/mfa/0/4a5AsMHake/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B2/New_Visa_to_Thailand_-_Infographic.pdf"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "外交部列远程海外工作；不是泰国本地工作许可",
+          "source_urls": [
+            "https://image.mfa.go.th/mfa/0/4a5AsMHake/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B2/New_Visa_to_Thailand_-_Infographic.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶及未满20岁子女",
+          "source_urls": [
+            "https://washingtondc.thaiembassy.org/en/page/page/dtv-visa"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "该多次签证未设PR路径，不把累计5年签证期作为PR居留期",
+          "source_urls": [
+            "https://image.mfa.go.th/mfa/0/4a5AsMHake/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B2/New_Visa_to_Thailand_-_Infographic.pdf"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "DTV材料未承诺税籍或免税，保留单独税务判断提示",
+          "source_urls": [
+            "https://washingtondc.thaiembassy.org/en/page/page/dtv-visa"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "驻美馆额外无犯罪和合法居留证据，明确仅该馆要求",
+          "source_urls": [
+            "https://washingtondc.thaiembassy.org/en/page/page/dtv-visa"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://washingtondc.thaiembassy.org/en/page/page/dtv-visa",
+          "title": "泰国驻华盛顿使馆DTV",
+          "access_result": "已读本次下载完整正文，原站标注2026-09-01更新"
+        },
+        {
+          "url": "https://image.mfa.go.th/mfa/0/4a5AsMHake/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B2/New_Visa_to_Thailand_-_Infographic.pdf",
+          "title": "外交部2024年7月签证说明",
+          "access_result": "已打开PDF并读第3页DTV"
+        }
+      ],
+      "changes": [
+        "补驻美馆3个月逐月余额与材料差异"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/turkey/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "识别证平台与后续领馆签证流程公开",
+          "source_urls": [
+            "https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "月3000或年36000美元，大学毕业、21–55岁",
+          "source_urls": [
+            "https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外公司雇佣或自雇商业合同，非只限受雇者",
+          "source_urls": [
+            "https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "识别证并非居留；普通短期居留每次最多2年，按移民署裁量",
+          "source_urls": [
+            "https://en.goc.gov.tr/residence-permit-types"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "短期居留按目的续期，失去条件或使用不符可拒续",
+          "source_urls": [
+            "https://en.goc.gov.tr/residence-permit-types"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "专项合同方须为境外公司；不视为当地工作许可",
+          "source_urls": [
+            "https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "普通家属另办且通常担保人已居留1年；期限不得超过主申请人",
+          "source_urls": [
+            "https://en.goc.gov.tr/residence-permit-types"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "普通长居8年连续持许可，收入保险及近3年无救助等另审",
+          "source_urls": [
+            "https://en.goc.gov.tr/residence-permit-types"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "项目未设签证即免税承诺；保留与税籍分开提示",
+          "source_urls": [
+            "https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "36国名单不含中国大陆，识别证后仍需签证及居留手续",
+          "source_urls": [
+            "https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://goturkiye.com/tr/digitalnomads/dijital-gocebe-vize-ve-kisa-donem-ikamet-icin-basvuru-sartlari",
+          "title": "GoTürkiye土耳其语专项",
+          "access_result": "本次本地成功读取正文"
+        },
+        {
+          "url": "https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence",
+          "title": "GoTürkiye英文专项",
+          "access_result": "实际打开并阅读全文"
+        },
+        {
+          "url": "https://en.goc.gov.tr/residence-permit-types",
+          "title": "移民署居留类型",
+          "access_result": "实际打开并阅读全文"
+        }
+      ],
+      "changes": [
+        "纠正仅受雇的收入来源限制，补自雇境外公司合同",
+        "补普通家属担保先居留1年及长期居留条件"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/united-arab-emirates/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "GDRFA居留及入境服务均实际可读且有办理流程",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/f52024e3-b812-11ed-5210-4cd98f768936"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "月入至少3500美元等值",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/f52024e3-b812-11ed-5210-4cd98f768936"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "外国组织远程工作及工资证明",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/f52024e3-b812-11ed-5210-4cd98f768936"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "入境60天用于办居留，居留1年可续",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "可续且不需境内担保人；届满或取消有60天宽限",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/f52024e3-b812-11ed-5210-4cd98f768936"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "该许可服务对象为境外组织远程工作；当地就业不属于此许可授权",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/f52024e3-b812-11ed-5210-4cd98f768936"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "可担保同期限家属",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8"
+          ]
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "本项目只承诺年度可续居留，没有直接PR/入籍条件",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/f52024e3-b812-11ed-5210-4cd98f768936"
+          ]
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "工资排除于经营所得；UAE经营营业额超过100万迪拉姆触发自然人企业税范围",
+          "source_urls": [
+            "https://tax.gov.ae/en/taxes/corporate.tax/corporate.tax.topics/basis.of.taxation.natural.person.aspx"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "保险、体检、境外工作证据均必交；不能以工资税务处理外推经营免税",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/f52024e3-b812-11ed-5210-4cd98f768936"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/residence-visa-for-working-outside-the-uae",
+          "title": "UAE原入口",
+          "access_result": "访问失败或空正文"
+        },
+        {
+          "url": "https://gdrfad.gov.ae/en/services/f52024e3-b812-11ed-5210-4cd98f768936",
+          "title": "GDRFA居留",
+          "access_result": "已打开并实读官方正文"
+        },
+        {
+          "url": "https://gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8",
+          "title": "GDRFA入境许可",
+          "access_result": "已打开并实读官方正文"
+        },
+        {
+          "url": "https://tax.gov.ae/en/taxes/corporate.tax/corporate.tax.topics/basis.of.taxation.natural.person.aspx",
+          "title": "FTA自然人企业税",
+          "access_result": "已打开并实读官方正文"
+        }
+      ],
+      "changes": [
+        "补60天入境转居留与同期限家属",
+        "以FTA替换笼统无个人税表述，明确经营例外"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "digital-nomad-remote-work/uruguay/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "当前状态",
+          "conclusion": "官方数字游民临时身份证明流程",
+          "source_urls": [
+            "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal"
+          ]
+        },
+        {
+          "field": "最低门槛或收入",
+          "conclusion": "宣誓有足够生活来源，无固定数额",
+          "source_urls": [
+            "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal"
+          ]
+        },
+        {
+          "field": "资金或收入性质",
+          "conclusion": "境外公司/自雇远程",
+          "source_urls": [
+            "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal"
+          ]
+        },
+        {
+          "field": "首次身份与期限",
+          "conclusion": "六个月",
+          "source_urls": [
+            "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "一次续六个月，犯罪记录和本地疫苗证书",
+          "source_urls": [
+            "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal"
+          ]
+        },
+        {
+          "field": "当地工作",
+          "conclusion": "境外工作情境，未授予本地就业专项权",
+          "source_urls": [
+            "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：家属须另行办理",
+          "source_urls": []
+        },
+        {
+          "field": "永居或入籍路径",
+          "conclusion": "未完成：现有来源未建立该字段的完整当前依据。原记录：可转换其他类别但非自动",
+          "source_urls": []
+        },
+        {
+          "field": "税务提示",
+          "conclusion": "保留按实际情况独立判断税务",
+          "source_urls": [
+            "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal"
+          ]
+        },
+        {
+          "field": "关键限制与变化",
+          "conclusion": "补两项实质续签条件",
+          "source_urls": [
+            "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal",
+          "title": "Agesic legal residence permit",
+          "access_result": "200，已读完整政府说明和续签条件"
+        }
+      ],
+      "changes": [
+        "补续签无犯罪及乌拉圭签发疫苗证明",
+        "删除原关键限制里未经该源支持的保险要求"
+      ],
+      "unresolved": [
+        "家属分别办理与普通临时/永久转换路径尚需移民机关当前服务页补证"
+      ]
+    }
+  ]
+}

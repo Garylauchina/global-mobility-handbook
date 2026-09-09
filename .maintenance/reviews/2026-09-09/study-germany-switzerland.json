@@ -1,0 +1,1072 @@
+{
+  "review_date": "2026-09-09",
+  "pages": [
+    {
+      "path": "study-student-residence/germany/university/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "状态/适用对象",
+          "conclusion": "§16b第三国全日制高等教育仍开放；录取与居留为不同决定。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html",
+            "https://www.make-it-in-germany.com/en/visa-residence/types/studying"
+          ]
+        },
+        {
+          "field": "院校/语言/课程",
+          "conclusion": "国家认可或可比机构、学习准备和必修实习；部分附条件/非全日制依§16b(5)裁量。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html"
+          ]
+        },
+        {
+          "field": "资金与费用",
+          "conclusion": "2026学生EUR992/月、11904/年；父母资产、VE、冻结账户、担保/奖学金等均有官方依据；国家签证75欧元。",
+          "source_urls": [
+            "https://www.make-it-in-germany.com/en/visa-residence/types/studying",
+            "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/08-finanzierung/606696",
+            "https://www.auswaertiges-amt.de/en/visa-service/215870-215870"
+          ]
+        },
+        {
+          "field": "首次许可",
+          "conclusion": "首次/续期一般2年，原则最少1年；短于2年的课程按课程期。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html",
+            "https://www.make-it-in-germany.com/en/visa-residence/types/studying"
+          ]
+        },
+        {
+          "field": "续签/学籍",
+          "conclusion": "正常进展且可合理完成；9个月换校机会针对因非本人原因拟撤回/撤销/缩短居留许可，原文误写为录取撤回已更正。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html"
+          ]
+        },
+        {
+          "field": "工作",
+          "conclusion": "140整日/280半日；每周2.5工作日算法属于同一年度账户，辅助岗位不计；自雇须批准。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html",
+            "https://www.make-it-in-germany.com/en/study-vocational-training/studies-in-germany/work"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶及未成年未婚子女另按§§27–32办理，学生配偶婚姻时间/预计停留逾一年及年龄语言、住房资金条件适用。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__27.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__29.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__30.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__32.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__36.html"
+          ]
+        },
+        {
+          "field": "毕业后",
+          "conclusion": "§20最长18个月求职可工作但不得再按同一求职目的延长；不能自动当技能工签。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__20.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html",
+            "https://www.make-it-in-germany.com/en/visa-residence/types/studying"
+          ]
+        },
+        {
+          "field": "永居/入籍",
+          "conclusion": "德国毕业生技能居留2年+24个月养老缴费；EU长期居留排除在读16b且学习期半计；普通归化5年但16b不是合资格最终身份。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__9a.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__9b.html",
+            "https://www.gesetze-im-internet.de/stag/__10.html"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "EStG1/AO8–9按住所和通常居所，连续6个月通常自始计；工作限额非免税限额。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/ao_1977/__8.html",
+            "https://www.gesetze-im-internet.de/ao_1977/__9.html",
+            "https://www.gesetze-im-internet.de/estg/__1.html"
+          ]
+        },
+        {
+          "field": "相邻寻找学位路线",
+          "conclusion": "§17(2)2026年1091/月、最多9个月不得同目的延长；20小时/周及总计2周试工。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__17.html",
+            "https://www.make-it-in-germany.com/en/visa-residence/types/studying"
+          ]
+        },
+        {
+          "field": "有效/公布日期",
+          "conclusion": "2023-08-18公报及2024-03-01学生工作新限额已核；2025-07-01取消remonstration而保留司法及重新申请。",
+          "source_urls": [
+            "https://www.recht.bund.de/bgbl/1/2023/217/regelungstext.pdf?__blob=publicationFile&v=2",
+            "https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act",
+            "https://www.auswaertiges-amt.de/en/2716462-2716462"
+          ]
+        },
+        {
+          "field": "证据边界",
+          "conclusion": "核心规则可由現行法律和政府办理正文覆盖；原来源抓取壳页通过官方web正文补足。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html",
+            "https://www.make-it-in-germany.com/en/visa-residence/types/studying"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/nationale-visa/visa-schule-studium-sprachkurs",
+          "title": "德国外交部：学习、学校及语言课程国家签证",
+          "access_result": "缓存HTTP400；web成功实读2025-10-30国家学习/学校签证正文。"
+        },
+        {
+          "url": "https://www.auswaertiges-amt.de/en/visa-service/215870-215870",
+          "title": "德国外交部：签证费用及手续",
+          "access_result": "缓存HTTP400；web成功实读费用及国家签证正文，成人75/未成年人37.50欧元。"
+        },
+        {
+          "url": "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/08-finanzierung/606696",
+          "title": "德国外交部：学生生活资金证明",
+          "access_result": "缓存HTTP400；web成功实读全部资金证明正文。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/ao_1977/__8.html",
+          "title": "§ 8 AO - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/ao_1977/__9.html",
+          "title": "§ 9 AO - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html",
+          "title": "§ 16b AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__17.html",
+          "title": "§ 17 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html",
+          "title": "§ 18c AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__20.html",
+          "title": "§ 20 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__29.html",
+          "title": "§ 29 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__30.html",
+          "title": "§ 30 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__32.html",
+          "title": "§ 32 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html",
+          "title": "§ 4a AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__9a.html",
+          "title": "§ 9a AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__9b.html",
+          "title": "§ 9b AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/estg/__1.html",
+          "title": "§ 1 EStG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/stag/__10.html",
+          "title": "§ 10 StAG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.make-it-in-germany.com/en/study-vocational-training/studies-in-germany/work",
+          "title": "Make it in Germany：Work while studying",
+          "access_result": "缓存安全壳；web成功实读140/280、20小时及辅助岗位/自雇工作正文。"
+        },
+        {
+          "url": "https://www.make-it-in-germany.com/en/visa-residence/skilled-immigration-act",
+          "title": "Make it in Germany：Skilled Immigration Act",
+          "access_result": "缓存安全壳；web成功实读2024年3月学生工作及毕业生定居改革正文。"
+        },
+        {
+          "url": "https://www.make-it-in-germany.com/en/visa-residence/types/studying",
+          "title": "Make it in Germany：Visa for studying",
+          "access_result": "缓存安全壳；web成功实读2026年EUR11904、求学位EUR1091、期限、工作与毕业求职。"
+        },
+        {
+          "url": "https://www.recht.bund.de/bgbl/1/2023/217/regelungstext.pdf?__blob=publicationFile&v=2",
+          "title": "Bundesgesetzblatt 2023 I Nr.217",
+          "access_result": "HTTP200官方PDF已提取；实读PDF页1、10–11、25，核对2023-08-18公布、§16b改文、2024-03-01生效。"
+        },
+        {
+          "url": "https://www.auswaertiges-amt.de/en/2716462-2716462",
+          "title": "外交部：Abolition of remonstration from 1 July 2025",
+          "access_result": "web成功实读取消日期、司法救济及重新申请保留。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__27.html",
+          "title": "§ 27 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实读。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__36.html",
+          "title": "§ 36 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实读。"
+        }
+      ],
+      "changes": [
+        "纠正§16b(6)为居留许可拟撤回/撤销/缩短时的最长9个月换校机会。",
+        "为2025-07-01取消remonstration补充已实读官方公告。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/germany/primary-secondary/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "§16f状态/对象",
+          "conclusion": "常规学校原则九年级起，低年级有特别理由个案例外；交流可无一对一交换。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html",
+            "https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf"
+          ]
+        },
+        {
+          "field": "§16f学校/照护",
+          "conclusion": "常规路线国际定位公立/认可或合资格自费学校，混合国籍班级；未成年监护同意、照护与材料要求有据。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html",
+            "https://jakarta.diplo.de/id-de/service/visa-und-einreise/2685866-2685866",
+            "https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf"
+          ]
+        },
+        {
+          "field": "§16f资金/费用",
+          "conclusion": "§2(3)生活保障公式与驻外2026清单支持992/月；未成年国家签证37.50欧元，交流互惠有豁免。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
+            "https://jakarta.diplo.de/id-de/service/visa-und-einreise/2685866-2685866",
+            "https://www.auswaertiges-amt.de/en/visa-service/215870-215870",
+            "https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf"
+          ]
+        },
+        {
+          "field": "§16f首次期限",
+          "conclusion": "交流通常不超过1年，国家签证原则12个月且不得长于计划停留；常规学校按具体学习目的。",
+          "source_urls": [
+            "https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html"
+          ]
+        },
+        {
+          "field": "§16f续签/转换",
+          "conclusion": "常规在读期间原则仅法定请求权可转；交流结束后只能法定请求权转。原文把结束后的限制一并概括为毕业再申请已更正。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html",
+            "https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf"
+          ]
+        },
+        {
+          "field": "§16f工作/家属",
+          "conclusion": "学校和交流不授权就业；16f不能使用大学140日或语言课20小时；子女学校身份不产生父母陪读权，父母通常仅§36特殊情况。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__36.html",
+            "https://www.gesetze-im-internet.de/jarbschg/__2.html",
+            "https://www.gesetze-im-internet.de/jarbschg/__5.html"
+          ]
+        },
+        {
+          "field": "§16f毕业/永居/归化",
+          "conclusion": "常规学校毕业可另核16b/17/16a；16f排除一般§9定居，StAG10排除16f为归化最终身份。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__17.html",
+            "https://www.gesetze-im-internet.de/stag/__10.html",
+            "https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf"
+          ]
+        },
+        {
+          "field": "家庭儿童状态/资格",
+          "conclusion": "§32未满18未婚子女、适格父母；16岁后单独赴德涉及C1/融入和法定例外；另一监护人同意适用。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__32.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
+            "https://www.make-it-in-germany.com/en/visa-residence/family-reunification/children-join"
+          ]
+        },
+        {
+          "field": "家庭儿童学校",
+          "conclusion": "一般6岁入学，9/10年州差异及小学4/6年已由KMK正文验证；公立免学费，分配由当地机关。",
+          "source_urls": [
+            "https://www.kmk.org/bildungsministerkonferenz/bildungsthemen/bildungswege-und-abschluesse.html",
+            "https://www.kmk.org/downloads-dokumente/rechtsvorschriften-/-lehrplaene/uebersicht-schulgesetze.html",
+            "https://www.make-it-in-germany.com/en/living-in-germany/family-life/school-system"
+          ]
+        },
+        {
+          "field": "家庭儿童资金/首次/续签",
+          "conclusion": "家庭资金住房独立于学生992标准；许可通常不长于父母，首次通常至少1年；§34延长及18岁独立化非毕业工签。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__27.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__29.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__34.html"
+          ]
+        },
+        {
+          "field": "家庭儿童工作/家属/升学",
+          "conclusion": "个人家属许可与劳动年龄双重条件；13岁有限轻型工作，学龄15–17仍按儿童保护；入学不能反向赋父母身份。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__34.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__36.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html",
+            "https://www.gesetze-im-internet.de/jarbschg/__2.html",
+            "https://www.gesetze-im-internet.de/jarbschg/__5.html"
+          ]
+        },
+        {
+          "field": "家庭儿童永居/入籍",
+          "conclusion": "§35为16岁已持家庭居留5年或成年申请时5年及其语言/在学/生活条件，不以学校学籍替代；StAG10另审。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__35.html",
+            "https://www.gesetze-im-internet.de/stag/__10.html"
+          ]
+        },
+        {
+          "field": "两路线税务",
+          "conclusion": "EStG1/AO8–9分别按住所和通常居所，不由未成年/学籍/禁工排除税务可能性。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/ao_1977/__8.html",
+            "https://www.gesetze-im-internet.de/ao_1977/__9.html",
+            "https://www.gesetze-im-internet.de/estg/__1.html"
+          ]
+        },
+        {
+          "field": "公布/生效",
+          "conclusion": "2019-08-20公报第31期1307页公布；外交部手册确认2020-03-01学校许可由例外制开放。",
+          "source_urls": [
+            "https://www.bundesanzeiger.de/pub/publication/fen7boHQxnK7RayKpit/content/fen7boHQxnK7RayKpit/BAnz%20AT%2026.08.2019%20H1.pdf",
+            "https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf"
+          ]
+        },
+        {
+          "field": "证据边界",
+          "conclusion": "两程序块的全部核心规则已核；保持B说明州教育实施差异，不将一使馆清单写成全国统一。",
+          "source_urls": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html",
+            "https://www.kmk.org/bildungsministerkonferenz/bildungsthemen/bildungswege-und-abschluesse.html",
+            "https://www.kmk.org/downloads-dokumente/rechtsvorschriften-/-lehrplaene/uebersicht-schulgesetze.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://jakarta.diplo.de/id-de/service/visa-und-einreise/2685866-2685866",
+          "title": "德国驻雅加达使馆：Schulbesuch/Schüleraustausch",
+          "access_result": "缓存HTTP400；web成功打开并实读2026-07-15 §16f材料正文：年级、学校、照护、首年付款、EUR992、保险。"
+        },
+        {
+          "url": "https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/nationale-visa/visa-schule-studium-sprachkurs",
+          "title": "德国外交部：学习、学校及语言课程国家签证",
+          "access_result": "缓存HTTP400；web成功实读2025-10-30国家学习/学校签证正文。"
+        },
+        {
+          "url": "https://www.auswaertiges-amt.de/en/visa-service/215870-215870",
+          "title": "德国外交部：签证费用及手续",
+          "access_result": "缓存HTTP400；web成功实读费用及国家签证正文，成人75/未成年人37.50欧元。"
+        },
+        {
+          "url": "https://www.auswaertiges-amt.de/resource/blob/207816/941d6b6ea53760b532a8fbedf3564bc0/visumhandbuch-data.pdf",
+          "title": "德国外交部Visumhandbuch（原地址）",
+          "access_result": "缓存HTTP400；web打开691页PDF。原地址章节提取失败，另从当前hash版本实读Schüler全5页（PDF页515–519）。"
+        },
+        {
+          "url": "https://www.bundesregierung.de/breg-de/aktuelles/mehr-fachkraefte-fuer-deutschland-1563122.pdf",
+          "title": "德国联邦政府：技术移民法历史说明（原链接失效）",
+          "access_result": "缓存HTTP400、web抓取失败；历史公布日期改由联邦公报目录，2020-03-01生效由外交部手册交叉证实。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/ao_1977/__8.html",
+          "title": "§ 8 AO - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/ao_1977/__9.html",
+          "title": "§ 9 AO - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html",
+          "title": "§ 16f AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
+          "title": "§ 2 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__27.html",
+          "title": "§ 27 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__29.html",
+          "title": "§ 29 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__32.html",
+          "title": "§ 32 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__34.html",
+          "title": "§ 34 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__35.html",
+          "title": "§ 35 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__36.html",
+          "title": "§ 36 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/estg/__1.html",
+          "title": "§ 1 EStG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/jarbschg/__2.html",
+          "title": "§ 2 JArbSchG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/jarbschg/__5.html",
+          "title": "§ 5 JArbSchG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/stag/__10.html",
+          "title": "§ 10 StAG - Einzelnorm",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。 联邦法条逐款核对。"
+        },
+        {
+          "url": "https://www.kmk.org/bildungsministerkonferenz/bildungsthemen/bildungswege-und-abschluesse.html",
+          "title": "Bildungswege und Abschlüsse in Deutschland - - Kultusministerkonferenz",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.kmk.org/downloads-dokumente/rechtsvorschriften-/-lehrplaene/uebersicht-schulgesetze.html",
+          "title": "Übersicht Schulgesetze - Kultusministerkonferenz",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.make-it-in-germany.com/en/living-in-germany/family-life/school-system",
+          "title": "Make it in Germany：School system",
+          "access_result": "缓存安全壳；web成功实读义务教育、免费公校、州差异、小学及新到儿童安排。"
+        },
+        {
+          "url": "https://www.make-it-in-germany.com/en/visa-residence/family-reunification/children-join",
+          "title": "Make it in Germany：Family reunification for children",
+          "access_result": "缓存安全壳；web成功实读未满18岁、单亲同意与16岁以上特殊要求。"
+        },
+        {
+          "url": "https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf",
+          "title": "外交部Visumhandbuch当前地址",
+          "access_result": "web成功打开691页PDF；实读Schüler第1–5页（PDF515–519）：九年级、低年级例外、照护、2020生效、学校毕业转换、交流一年与12个月签证。"
+        },
+        {
+          "url": "https://www.bundesanzeiger.de/pub/publication/fen7boHQxnK7RayKpit/content/fen7boHQxnK7RayKpit/BAnz%20AT%2026.08.2019%20H1.pdf",
+          "title": "Bundesanzeiger：BGBl I Nr31 vom20.08.2019目录",
+          "access_result": "web成功打开并实读1页PDF，确认Fachkräfteeinwanderungsgesetz位于1307页与公布日期。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__17.html",
+          "title": "§ 17 AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实读。"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html",
+          "title": "§ 4a AufenthG - Einzelnorm",
+          "access_result": "HTTP200正文已实读。"
+        }
+      ],
+      "changes": [
+        "区分§16f(3)常规学校在读与交流结束后的目的转换限制。",
+        "替换外交部手册为本轮可读当前hash，历史失效政府链接替为联邦公报公布目录；公布/生效日期保留。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/switzerland/university/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "状态/资格",
+          "conclusion": "EU/EFTA及第三国教育路线开放；AIG27学校确认、资金、住宿、资格，SEM全日制20课时与可信临时目的。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf"
+          ]
+        },
+        {
+          "field": "院校/语言",
+          "conclusion": "VZAE24与SEM允许要求认可学校/固定课程/语言；SERI明确入学决定归高校，与职业认可有别。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.sbfi.admin.ch/en/faq-recognition-procedure-for-professional-qualifications",
+            "https://www.sbfi.admin.ch/en/the-institutes-of-higher-education",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf"
+          ]
+        },
+        {
+          "field": "资金",
+          "conclusion": "无联邦统一CHF年额；VZAE23三类证明，外籍瑞士居民担保人须有B/C，已补此限定；CHF21000为苏黎世州口径。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf",
+            "https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html"
+          ]
+        },
+        {
+          "field": "首次/期限/费用",
+          "conclusion": "EU学生1年或课程期逐年续；第三国D签证由州预先批准，B超过1年/L较短；费用按程序不同。",
+          "source_urls": [
+            "https://www.eda.admin.ch/en/visa-requirements-for-entry-into-switzerland",
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.migration.sid.be.ch/de/start/einreise/buerger-drittstaaten.html",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf"
+          ]
+        },
+        {
+          "field": "续签/学籍",
+          "conclusion": "最早3个月最迟2周；学业正常、必要资金及住宿；第三国一般8年，转专业/额外阶段例外裁量。",
+          "source_urls": [
+            "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/",
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz/faq.html",
+            "https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html"
+          ]
+        },
+        {
+          "field": "普通兼职",
+          "conclusion": "第三国开学6个月后+学校证明+雇主申请，假期外15小时，假期全职须学校书面同意；同/近领域硕士院系工作可免等6个月。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aig-kap4.pdf.download.pdf/weisungen-aig-kap4-d.pdf",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.0006.html"
+          ]
+        },
+        {
+          "field": "博士/EU工作",
+          "conclusion": "博士Art40相关科研与外部合作、无关校外15小时的专门边界；EU工作自由流动登记且医保豁免可能因就业终止。",
+          "source_urls": [
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aig-kap4.pdf.download.pdf/weisungen-aig-kap4-d.pdf",
+            "https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz/faq.html",
+            "https://www.bag.admin.ch/en/health-insurance-foreign-students-in-switzerland"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "EU学生仅配偶和受养子女；第三国B家属Art44裁量，配偶/未成年未婚子女、住房资金语言等。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-familiennachzug-e.pdf.download.pdf/fs-familiennachzug-e.pdf",
+            "https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz/faq.html"
+          ]
+        },
+        {
+          "field": "毕业求职",
+          "conclusion": "第三国瑞士高校毕业6个月从学业确认完成起算，不可延长；已使用的毕业后学生许可时间计入，求职中获批可15小时/周；科学经济利益才豁免优先。已补起算/不可延长。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.0006.html",
+            "https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html"
+          ]
+        },
+        {
+          "field": "永居/入籍",
+          "conclusion": "AIG34一般10年且最后5年长期B，教育结束后2年长期B方可依例外计教育期；入籍C+10年/前5年内3年、B/C可计/L不计、8–18双计但实际6年。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html",
+            "https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "现行DBG3(4)保留国外住所、仅来就读者不因此形成税务住所/居所；已补到一般30/90天规则后；工资源泉税与移民许可分别看。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_3",
+            "https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf",
+            "https://www.estv.admin.ch/de/quellensteuer"
+          ]
+        },
+        {
+          "field": "限制/来源日期",
+          "conclusion": "边境CHF30/日实读SEM4.2，仅适用持有效学生许可的边境资金核查；不能替代居留资金。使用现行AIG/VZAE及2026-06-15/30 SEM指引。",
+          "source_urls": [
+            "https://www.sem.admin.ch/sem/en/home/themen/einreise/faq.html",
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aig-kap4.pdf.download.pdf/weisungen-aig-kap4-d.pdf",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf"
+          ]
+        },
+        {
+          "field": "证据边界",
+          "conclusion": "核心规定已由联邦现行全文及州办理正文覆盖；B保留以反映联邦/州不同职责，不全国化州资金或监护清单。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.migration.sid.be.ch/de/start/einreise/buerger-drittstaaten.html",
+            "https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.bag.admin.ch/en/health-insurance-foreign-students-in-switzerland",
+          "title": "Health insurance: Foreign students in Switzerland",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/",
+          "title": "ch.ch：Family reunification（本轮正文不可读）",
+          "access_result": "缓存与web仅cookie壳，无政策正文；相关家属核心条款改由Fedlex AIG正文及SEM EU/EFTA事实单验证。"
+        },
+        {
+          "url": "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/",
+          "title": "ch.ch：Swiss residence permits: application and renewal",
+          "access_result": "缓存仅cookie壳；web成功实读居留类别及续签窗口正文。"
+        },
+        {
+          "url": "https://www.eda.admin.ch/en/visa-requirements-for-entry-into-switzerland",
+          "title": "FDFA：Visa requirements for entry into Switzerland",
+          "access_result": "缓存HTTP403；web成功实读2026-02-01 C/D签证区别及州批准正文。"
+        },
+        {
+          "url": "https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf",
+          "title": "ESTV：The Swiss Tax System",
+          "access_result": "HTTP200官方PDF已下载并pypdf提取；实读PDF页30–31税务居民及未成年人收入归属，教育例外另读现行DBG。"
+        },
+        {
+          "url": "https://www.estv.admin.ch/de/quellensteuer",
+          "title": "Schweizerische Quellensteuer QST",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+          "title": "Fedlex：AIG现行法",
+          "access_result": "缓存/静态web仅JS壳；Chrome加载成功，实读现行2026-06-12版Art.21、27、33、34、44–47。"
+        },
+        {
+          "url": "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+          "title": "Fedlex：VZAE现行条例",
+          "access_result": "缓存/静态web仅JS壳；Chrome加载成功，实读现行2026-06-12版Art.23、24、38–40。"
+        },
+        {
+          "url": "https://www.migration.sid.be.ch/de/start/einreise/buerger-drittstaaten.html",
+          "title": "Einreise für Bürger/innen von Drittstaaten",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.sbfi.admin.ch/en/faq-recognition-procedure-for-professional-qualifications",
+          "title": "Frequently asked questions (FAQ) on the recognition procedure for professional qualifications",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.sbfi.admin.ch/en/the-institutes-of-higher-education",
+          "title": "The Institutes of Higher Education",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aig-kap4.pdf.download.pdf/weisungen-aig-kap4-d.pdf",
+          "title": "SEM Weisungen AIG Kapitel4（30.06.2026）",
+          "access_result": "HTTP200官方PDF已提取；实读2026-06-30版第4.4.3、4.4.5各款，核对一般学生兼职、硕士等待期例外和博士。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+          "title": "SEM Weisungen AIG（15.06.2026）",
+          "access_result": "HTTP200官方PDF已提取；实读2026-06-15版第5.1全部教育章、入境D签证有关条款；章节含资金、20课时、8年、续签、6月求职。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-familiennachzug-e.pdf.download.pdf/fs-familiennachzug-e.pdf",
+          "title": "SEM EU/EFTA Family Reunification factsheet",
+          "access_result": "HTTP200官方PDF已提取；实读全部3页SP02/24，学生仅配偶及受养子女，不含受养父母，家属期限与工作。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf",
+          "title": "SEM EU/EFTA Residing without gainful activity factsheet",
+          "access_result": "HTTP200官方PDF已提取；实读全部2页SP08/23，资金医保、认可教育机构、学生1年/课程期及续签。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html",
+          "title": "Ordinary naturalisation",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.0006.html",
+          "title": "FAQ – Working",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz/faq.html",
+          "title": "FAQ – Free Movement of Persons",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html",
+          "title": "Aufenthalt ohne Erwerbstätigkeit für Drittstaatsangehörige | Kanton Zürich",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html",
+          "title": "Niederlassungsbewilligung | Kanton Zürich",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_3",
+          "title": "Fedlex：DBG Art.3（Stand02.09.2026）",
+          "access_result": "静态抓取JS壳；Chrome成功加载现行全文并实读Art.3–5，包括Art.3(4)仅就读且国外有住所例外。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html",
+          "title": "SEM：How do I become a Swiss citizen?",
+          "access_result": "web成功实读普通入籍10年、申请前5年内3年及C许可要求。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/sem/en/home/themen/einreise/faq.html",
+          "title": "SEM：FAQ Entry §4.2",
+          "access_result": "web成功实读持有效学生许可者CHF30/日是边境资金要求。"
+        }
+      ],
+      "changes": [
+        "补充DBG3(4)纯就读且国外保留住所的税务居所例外。",
+        "补充外籍瑞士担保人须持B/C。",
+        "补充毕业求职6个月起算、不能延长与期间兼职15小时须批准。",
+        "添加实际核读的税法、入籍年限和边境资金来源；移除本站旧核验日陈述。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/switzerland/primary-secondary/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "在地公校状态/对象",
+          "conclusion": "EDK及苏黎世官方确认所有在地义务学龄儿童，包括不规则身份者；一般11年约4岁始，无由教育权产生移民许可。",
+          "source_urls": [
+            "https://edk.ch/en/education-system-ch/compulsory?set_language=en",
+            "https://www.zh.ch/de/bildung/informationen-fuer-schulen/informationen-volksschule/schulinfo-schule-migration/schulinfo-einschulung-neuzugezogene.html"
+          ]
+        },
+        {
+          "field": "在地公校/资金",
+          "conclusion": "市镇安置/州课程与学费边界，公立义务教育免费；家庭住房生活及每人医保依独立居留条件。",
+          "source_urls": [
+            "https://edk.ch/en/education-system-ch/compulsory?set_language=en",
+            "https://www.zh.ch/de/bildung/informationen-fuer-schulen/informationen-volksschule/schulinfo-schule-migration/schulinfo-einschulung-neuzugezogene.html",
+            "https://www.bag.admin.ch/en/health-insurance-requirement-to-obtain-insurance-for-persons-resident-in-switzerland"
+          ]
+        },
+        {
+          "field": "在地儿童首次/续签",
+          "conclusion": "公校不签B/L/D或父母陪读许可；家庭Art44/45及自身身份，迁移和续签另依法处理。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/",
+            "https://www.zh.ch/de/bildung/informationen-fuer-schulen/informationen-volksschule/schulinfo-schule-migration/schulinfo-einschulung-neuzugezogene.html"
+          ]
+        },
+        {
+          "field": "在地儿童工作",
+          "conclusion": "普通学籍无兼职豁免；13岁以下原则禁、13岁轻型学校时3小时/日9小时/周，15岁后一般9小时上限与保护。",
+          "source_urls": [
+            "https://www.seco.admin.ch/de/faq-jugendarbeitsschutz",
+            "https://www.seco.admin.ch/de/jugendarbeitsschutz",
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de"
+          ]
+        },
+        {
+          "field": "在地儿童家属/毕业",
+          "conclusion": "父母依据在先；学校学籍不反向担保父母，中小学无高校6个月毕业求职。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-familiennachzug-e.pdf.download.pdf/fs-familiennachzug-e.pdf",
+            "https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.0006.html"
+          ]
+        },
+        {
+          "field": "在地儿童永居/入籍",
+          "conclusion": "C依据国籍和合法身份；归化10年、前5年内3年和C；B/C可计、L不计、8–18双倍但实际6年。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html",
+            "https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html"
+          ]
+        },
+        {
+          "field": "在地儿童税务",
+          "conclusion": "一般住所/30或90天规则，学生国外住所纯就读例外不自动给全家；未成年工资独立、其他收入通常并亲权人。",
+          "source_urls": [
+            "https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf",
+            "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_3"
+          ]
+        },
+        {
+          "field": "独立学生状态/对象",
+          "conclusion": "AIG27可申请全日制学校，需校方认可、资金住宿、个人语言教育条件，未成年照护明确要求；EU学生另循自由流动。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf"
+          ]
+        },
+        {
+          "field": "独立学校/照护",
+          "conclusion": "VZAE24教学课程和语言，学校许可/移民接受/学历不同；沃州非寄宿未成年明确要求法定代表人签照护文件，寄宿例外不能全国化。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.vd.ch/population/population-etrangere/entree-et-sejour/etats-tiers/sejour-pour-etudes",
+            "https://www.zh.ch/de/bildung/schulen/spezielle-schulen.html"
+          ]
+        },
+        {
+          "field": "独立资金",
+          "conclusion": "VZAE23担保人/获准银行/奖学金贷款；外籍瑞士担保人须有B/C已补；预付寄宿费不能替代所有财力。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.vd.ch/population/population-etrangere/entree-et-sejour/etats-tiers/sejour-pour-etudes"
+          ]
+        },
+        {
+          "field": "独立首次/续签",
+          "conclusion": "EU一年/课程期；第三国D由州批准，B长/L短；续签3个月/2周，正常进展，第三国8年原则与特别理由例外。",
+          "source_urls": [
+            "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/",
+            "https://www.eda.admin.ch/en/visa-requirements-for-entry-into-switzerland",
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf",
+            "https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html"
+          ]
+        },
+        {
+          "field": "独立工作/家属",
+          "conclusion": "中小学不能外推大学Art38兼职权；EU学生不能担保受养父母；第三国学生不能反向由未成年人为父母担保。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.seco.admin.ch/de/jugendarbeitsschutz",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-familiennachzug-e.pdf.download.pdf/fs-familiennachzug-e.pdf",
+            "https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.0006.html"
+          ]
+        },
+        {
+          "field": "独立毕业/永居/入籍",
+          "conclusion": "中小学无6月毕业求职；大学录取后另办变更；学习期C计算需后续2年长期B等；归化年数与现有C另审。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html",
+            "https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html"
+          ]
+        },
+        {
+          "field": "独立税务",
+          "conclusion": "现行DBG3(4)国外保留住所而只来就读的未成年人不因寄宿天数当然成为税务居民；父母和工资仍分别判断。",
+          "source_urls": [
+            "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_3",
+            "https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf"
+          ]
+        },
+        {
+          "field": "证据边界",
+          "conclusion": "两个程序块逐字段已读官方全文；保留B反映州执行、学校监管和照护差异；未把某州做法泛化。",
+          "source_urls": [
+            "https://edk.ch/en/education-system-ch/compulsory?set_language=en",
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.vd.ch/population/population-etrangere/entree-et-sejour/etats-tiers/sejour-pour-etudes",
+            "https://www.zh.ch/de/bildung/informationen-fuer-schulen/informationen-volksschule/schulinfo-schule-migration/schulinfo-einschulung-neuzugezogene.html",
+            "https://www.zh.ch/de/bildung/schulen/spezielle-schulen.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://edk.ch/en/education-system-ch/compulsory?set_language=en",
+          "title": "Compulsory education - EDK",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.bag.admin.ch/en/health-insurance-foreign-students-in-switzerland",
+          "title": "Health insurance: Foreign students in Switzerland",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.bag.admin.ch/en/health-insurance-requirement-to-obtain-insurance-for-persons-resident-in-switzerland",
+          "title": "Health insurance: Requirement to obtain insurance for persons resident in Switzerland",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/",
+          "title": "ch.ch：Family reunification（本轮正文不可读）",
+          "access_result": "缓存与web仅cookie壳，无政策正文；相关家属核心条款改由Fedlex AIG正文及SEM EU/EFTA事实单验证。"
+        },
+        {
+          "url": "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/",
+          "title": "ch.ch：Swiss residence permits: application and renewal",
+          "access_result": "缓存仅cookie壳；web成功实读居留类别及续签窗口正文。"
+        },
+        {
+          "url": "https://www.eda.admin.ch/en/visa-requirements-for-entry-into-switzerland",
+          "title": "FDFA：Visa requirements for entry into Switzerland",
+          "access_result": "缓存HTTP403；web成功实读2026-02-01 C/D签证区别及州批准正文。"
+        },
+        {
+          "url": "https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf",
+          "title": "ESTV：The Swiss Tax System",
+          "access_result": "HTTP200官方PDF已下载并pypdf提取；实读PDF页30–31税务居民及未成年人收入归属，教育例外另读现行DBG。"
+        },
+        {
+          "url": "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+          "title": "Fedlex：AIG现行法",
+          "access_result": "缓存/静态web仅JS壳；Chrome加载成功，实读现行2026-06-12版Art.21、27、33、34、44–47。"
+        },
+        {
+          "url": "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+          "title": "Fedlex：VZAE现行条例",
+          "access_result": "缓存/静态web仅JS壳；Chrome加载成功，实读现行2026-06-12版Art.23、24、38–40。"
+        },
+        {
+          "url": "https://www.migration.sid.be.ch/de/start/einreise/buerger-drittstaaten.html",
+          "title": "Einreise für Bürger/innen von Drittstaaten",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.seco.admin.ch/de/faq-jugendarbeitsschutz",
+          "title": "FAQ Jugendarbeitsschutz",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.seco.admin.ch/de/jugendarbeitsschutz",
+          "title": "Jugendarbeitsschutz",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+          "title": "SEM Weisungen AIG（15.06.2026）",
+          "access_result": "HTTP200官方PDF已提取；实读2026-06-15版第5.1全部教育章、入境D签证有关条款；章节含资金、20课时、8年、续签、6月求职。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf",
+          "title": "SEM EU/EFTA Residing without gainful activity factsheet",
+          "access_result": "HTTP200官方PDF已提取；实读全部2页SP08/23，资金医保、认可教育机构、学生1年/课程期及续签。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html",
+          "title": "Ordinary naturalisation",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.0006.html",
+          "title": "FAQ – Working",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.vd.ch/population/population-etrangere/entree-et-sejour/etats-tiers/sejour-pour-etudes",
+          "title": "Séjour pour études | État de Vaud",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.zh.ch/de/bildung/informationen-fuer-schulen/informationen-volksschule/schulinfo-schule-migration/schulinfo-einschulung-neuzugezogene.html",
+          "title": "Einschulung von Neuzugezogenen | Kanton Zürich",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.zh.ch/de/bildung/schulen/spezielle-schulen.html",
+          "title": "Spezielle Schulen | Kanton Zürich",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html",
+          "title": "Aufenthalt ohne Erwerbstätigkeit für Drittstaatsangehörige | Kanton Zürich",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html",
+          "title": "Niederlassungsbewilligung | Kanton Zürich",
+          "access_result": "HTTP200正文已实际阅读；对照本页相关核心字段。"
+        },
+        {
+          "url": "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_3",
+          "title": "Fedlex：DBG Art.3（Stand02.09.2026）",
+          "access_result": "静态抓取JS壳；Chrome成功加载现行全文并实读Art.3–5，包括Art.3(4)仅就读且国外有住所例外。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html",
+          "title": "SEM：How do I become a Swiss citizen?",
+          "access_result": "web成功实读普通入籍10年、申请前5年内3年及C许可要求。"
+        },
+        {
+          "url": "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-familiennachzug-e.pdf.download.pdf/fs-familiennachzug-e.pdf",
+          "title": "SEM EU/EFTA Family Reunification factsheet",
+          "access_result": "HTTP200官方PDF已提取；实读全部3页SP02/24，学生仅配偶及受养子女，不含受养父母，家属期限与工作。"
+        }
+      ],
+      "changes": [
+        "在公校在地及独立寄宿两个程序块补充DBG3(4)学生税务居所例外与家庭适用边界。",
+        "独立学生资金证明补充外籍瑞士担保人的B/C身份条件。",
+        "添加税法、入籍年限与EU学生家属来源，移除本站旧核验日陈述。"
+      ],
+      "unresolved": []
+    }
+  ]
+}

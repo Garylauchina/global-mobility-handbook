@@ -164,7 +164,7 @@ function validateCountryPage(
       failures.push(`Candidate page is missing evidence warning: ${relativePath}`);
     }
     if (metadata.status === "stale") {
-      const expectedWarning = "> **复核警示：** 本页尚未完成本轮月度复核；在完成主管机关复核前，不应视为当前开放规则。";
+      const expectedWarning = "> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。";
       if (!markdown.includes(expectedWarning)) {
         failures.push(`Stale page has a missing or non-standard 复核警示: ${relativePath}`);
       }
@@ -370,7 +370,7 @@ for (const definition of categoryDefinitions) {
 try {
   await loadReviewState(root, { leafPaths: policyLeafPaths, asOf: validationDate });
 } catch (error) {
-  failures.push(`Invalid monthly review state: ${error.message}`);
+  failures.push(`Invalid 30-day review state: ${error.message}`);
 }
 
 await walk(root);
@@ -379,5 +379,5 @@ if (failures.length) {
   process.exit(1);
 }
 console.log(
-  `Validation passed as of ${validationDate}: ${programPages} program pages; metadata, central monthly review state, homepage baseline, links, governance files, and public-artifact rules are consistent. No policy facts were reverified by this check.`,
+  `Validation passed as of ${validationDate}: ${programPages} program pages; metadata, central 30-day review state, homepage baseline, links, governance files, and public-artifact rules are consistent. No policy facts were reverified by this check.`,
 );

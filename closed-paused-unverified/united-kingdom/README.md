@@ -13,7 +13,7 @@ status: "archived-or-unverified"
 ## Tier 1 Investor
 
 - **当前状态：** 已关闭
-- **关键变化：** 2022-02-17关闭新申请；存量延期截止2026-02-17
-- **为什么不能按有效项目处理：** 只有符合过渡条件的旧案可能继续至最迟2028永居节点
+- **关键变化：** 2022-02-17下午4时关闭新申请；存量延期须在2026-02-17之前递交，该过渡窗口已结束
+- **为什么不能按有效项目处理：** 只有符合过渡条件的旧案可能继续申请永居；须在2028-02-17之前递交并满足相应条件
 - **证据等级：** A
-- **主要来源：** [官方或主要依据](https://www.gov.uk/tier-1-investor)
+- **主要来源：** [GOV.UK项目页面](https://www.gov.uk/tier-1-investor)；[Home Office办理指南：过渡截止](https://www.gov.uk/government/publications/tier-1-investor-caseworker-guidance/tier-1-investor-caseworker-guidance-accessible)

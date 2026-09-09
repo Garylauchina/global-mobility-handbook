@@ -1,11 +1,11 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import {
-  addCalendarMonth,
+  addReviewInterval,
   dateInTimeZone,
   hasPageReviewDeclaration,
   homepageReviewLabels,
-  monthlyReviewIsDue,
+  reviewIsDue,
   parseIsoDate,
   validateReviewState,
 } from "./review-state.mjs";
@@ -16,7 +16,7 @@ const secondPolicyPath = "study-student-residence/example/university/README.md";
 function fixture() {
   return {
     state: {
-      cadence: "monthly",
+      cadence: "every-30-days",
       last_full_review: "2026-09-02",
       page_reviews: { [policyPath]: "2026-09-02" },
     },
@@ -29,18 +29,18 @@ function fixture() {
   };
 }
 
-test("calendar month clamps January 31 to February, including leap years", () => {
-  assert.equal(addCalendarMonth("2026-01-31"), "2026-02-28");
-  assert.equal(addCalendarMonth("2028-01-31"), "2028-02-29");
-  assert.equal(addCalendarMonth("2100-01-31"), "2100-02-28");
-  assert.equal(addCalendarMonth("2000-01-31"), "2000-02-29");
+test("a fixed 30 days crosses February correctly in common and leap years", () => {
+  assert.equal(addReviewInterval("2026-01-31"), "2026-03-02");
+  assert.equal(addReviewInterval("2028-01-31"), "2028-03-01");
+  assert.equal(addReviewInterval("2100-01-31"), "2100-03-02");
+  assert.equal(addReviewInterval("2000-01-31"), "2000-03-01");
 });
 
-test("calendar month keeps the day when possible and rolls across years", () => {
-  assert.equal(addCalendarMonth("2026-09-02"), "2026-10-02");
-  assert.equal(addCalendarMonth("2026-03-31"), "2026-04-30");
-  assert.equal(addCalendarMonth("2028-02-29"), "2028-03-29");
-  assert.equal(addCalendarMonth("2026-12-31"), "2027-01-31");
+test("30-day interval handles month and year boundaries without clamping", () => {
+  assert.equal(addReviewInterval("2026-09-09"), "2026-10-09");
+  assert.equal(addReviewInterval("2026-03-31"), "2026-04-30");
+  assert.equal(addReviewInterval("2028-02-29"), "2028-03-30");
+  assert.equal(addReviewInterval("2026-12-31"), "2027-01-30");
 });
 
 test("rejects nonexistent dates instead of accepting Date normalization", () => {
@@ -55,19 +55,19 @@ test("review day uses the Shanghai date across the UTC midnight boundary", () =>
   assert.equal(dateInTimeZone(new Date("2026-09-08T15:59:59Z")), "2026-09-08");
 });
 
-test("all statuses use a calendar month and are due on the boundary", () => {
+test("all statuses use 30 days and are due on the boundary", () => {
   for (const status of ["current", "candidate-unverified", "archived-or-unverified"]) {
-    assert.equal(monthlyReviewIsDue("2026-01-31", "2026-02-27", status), false);
-    assert.equal(monthlyReviewIsDue("2026-01-31", "2026-02-28", status), true);
-    assert.equal(monthlyReviewIsDue("2026-09-02", "2026-10-01", status), false);
-    assert.equal(monthlyReviewIsDue("2026-09-02", "2026-10-02", status), true);
+    assert.equal(reviewIsDue("2026-01-31", "2026-03-01", status), false);
+    assert.equal(reviewIsDue("2026-01-31", "2026-03-02", status), true);
+    assert.equal(reviewIsDue("2026-09-02", "2026-10-01", status), false);
+    assert.equal(reviewIsDue("2026-09-02", "2026-10-02", status), true);
   }
-  assert.equal(monthlyReviewIsDue("2028-01-31", "2028-02-28", "current"), false);
-  assert.equal(monthlyReviewIsDue("2028-01-31", "2028-02-29", "current"), true);
+  assert.equal(reviewIsDue("2028-01-31", "2028-02-29", "current"), false);
+  assert.equal(reviewIsDue("2028-01-31", "2028-03-01", "current"), true);
 });
 
 test("a stale page stays in the queue even before its date-based deadline", () => {
-  assert.equal(monthlyReviewIsDue("2026-09-02", "2026-09-09", "stale"), true);
+  assert.equal(reviewIsDue("2026-09-02", "2026-09-09", "stale"), true);
 });
 
 test("rejects Markdown and prose declarations of page verification dates", () => {
@@ -89,7 +89,7 @@ test("keeps official publication, effective, and event dates intact", () => {
     "- **事件证据：** 主管机关于 2026-09-02 发布公告，2026-10-01 生效。",
     "- **事件生效日：** 2026-09-02；不是本站更新日期。",
     "- **关键限制与变化：** 2026 年 AEIS 申请截至核验日已经关闭，考试安排为 2026-09-01 至 2026-09-03。",
-    "> **复核警示：** 本页尚未完成本轮月度复核；在完成主管机关复核前，不应视为当前开放规则。",
+    "> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。",
   ]) {
     assert.equal(hasPageReviewDeclaration(content), false, content);
   }
@@ -125,7 +125,7 @@ test("rejects empty or duplicate leaf enumeration", () => {
 
 test("rejects old interval policy, unknown fields, and invalid record containers", () => {
   const { state, options } = fixture();
-  assert.throws(() => validateReviewState({ ...state, cadence: "90days" }, options), /cadence must be monthly/);
+  assert.throws(() => validateReviewState({ ...state, cadence: "90days" }, options), /cadence must be every-30-days/);
   assert.throws(() => validateReviewState({ ...state, review_interval_days: 30 }, options), /must contain only/);
   assert.throws(() => validateReviewState({ ...state, page_reviews: [] }, options), /page_reviews must be an object/);
   assert.throws(() => validateReviewState(null, options), /must be an object/);

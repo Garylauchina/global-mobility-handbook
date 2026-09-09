@@ -16,4 +16,4 @@ status: "archived-or-unverified"
 - **关键变化：** 2023-02-15关闭新申请
 - **为什么不能按有效项目处理：** 存量案继续处理不代表可新办
 - **证据等级：** A
-- **主要来源：** [官方或主要依据](https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/press-releases/minister-harris-announces-closure-of-the-immigrant-investor-programme/)
+- **主要来源：** [官方或主要依据](https://www.irishimmigration.ie/faqs-closure-of-the-immigrant-investor-programme-iip/)

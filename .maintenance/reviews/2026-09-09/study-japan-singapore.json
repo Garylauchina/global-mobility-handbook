@@ -1,0 +1,802 @@
+{
+  "review_date": "2026-09-09",
+  "scope": [
+    "study-student-residence/japan/university/README.md",
+    "study-student-residence/japan/primary-secondary/README.md",
+    "study-student-residence/singapore/university/README.md",
+    "study-student-residence/singapore/primary-secondary/README.md"
+  ],
+  "pages": [
+    {
+      "path": "study-student-residence/japan/university/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前开放、COE/签证/上陆与许可期限",
+          "conclusion": "ISA仍列留学资格，大学与各K–12学段覆盖；MOFA确认COE可由境内代理提交但不保证签证，个案许可最长4年3个月。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/status/student.html",
+            "https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html"
+          ]
+        },
+        {
+          "field": "续签与学籍变化",
+          "conclusion": "满6个月以上许可通常到期前3个月受理更新；材料须继续合资格，转校14天内分别报告离校和入校；学生毕业未在校后旧资格外活动许可不能继续使用。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/procedures/16-3.html",
+            "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html"
+          ]
+        },
+        {
+          "field": "学生工作",
+          "conclusion": "先获资格外活动许可，综合每周28小时，学校长假每日8小时；包括与个别许可及本业/禁止营业限制分别判断。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html",
+            "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html"
+          ]
+        },
+        {
+          "field": "一般永住条件与已宣布变化",
+          "conclusion": "连续10年且其中5年合资格工作/居住身份；公共义务与最长期间条件仍需满足；2027-04-01起3年期间不再普遍视同最长，现持3年个案过渡按公告，不提前套用。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html",
+            "https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html"
+          ]
+        },
+        {
+          "field": "国籍法最低住所条件与现行归化运用",
+          "conclusion": "国籍法第5条最低5年仍在；MOJ当前FAQ与2026-03-27记者会确认4月1日起社会融入裁量原则10年并延长税/社保记录审查，不写成法定门槛修法；补两页正文与时间线。",
+          "source_urls": [
+            "https://www.moj.go.jp/MINJI/minji78",
+            "https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "NTA按生活本拠住所或连续1年居所等客观事实，不按学生身份自动免税。",
+          "source_urls": [
+            "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm"
+          ]
+        },
+        {
+          "field": "未来费用变化",
+          "conclusion": "ISA新闻索引确认2026-08-28公告；10月1日受理起变更/更新依获准期间分档、线上另结算费；9月30日及以前受理仍旧费。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/01_00644.html",
+            "https://www.moj.go.jp/isa/11_00107.html",
+            "https://www.moj.go.jp/isa/publications/newslist/index.html"
+          ]
+        },
+        {
+          "field": "大学录取、语言与资金",
+          "conclusion": "MEXT大学入学资格包括12年教育或特定替代条件；JASSO要求学校个别入学/语言审查；2023生活调查105000日元/月不含学费且只是预算参考；ISA COE资金清单视觉确认存款原件、资金形成、支弁人关系/职业/收入，不设全国统一余额。",
+          "source_urls": [
+            "https://www.mext.go.jp/en/policy/education/highered/title02/detail02/1373912.html",
+            "https://www.studyinjapan.go.jp/en/planning/learn-about-schools/universities/",
+            "https://www.studyinjapan.go.jp/en/life/cost-of-living/",
+            "https://www.studyinjapan.go.jp/en/planning/academic-fees/",
+            "https://www.moj.go.jp/isa/content/001463586.pdf"
+          ]
+        },
+        {
+          "field": "大学生家属",
+          "conclusion": "家族滞在为合资格扶养配偶/子女，依实际大学类教育资格及扶养能力审查；日本语机构不普遍适用，父母不在家属类别。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/status/dependent.html",
+            "https://laws.e-gov.go.jp/law/402M50000010016",
+            "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html"
+          ]
+        },
+        {
+          "field": "毕业求职",
+          "conclusion": "官方专项与FAQ44确认合资格大学等毕业生在毕业前已求职、校方推荐等下特定活动6个月+一次6个月；非自动工签，正式工作须独立工作资格。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/status/designatedactivities14.html",
+            "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.moj.go.jp/isa/applications/status/student.html",
+          "title": "在留資格「留学」 | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html",
+          "title": "MOFA General visa Student",
+          "access_result": "direct-403; web-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/procedures/16-3.html",
+          "title": "在留期間更新許可申請 | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html",
+          "title": "出入国審査・在留審査Q&A | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html",
+          "title": "「留学」の在留資格に係る資格外活動許可について | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html",
+          "title": "永住許可に関するガイドライン（令和８年２月２４日改訂） | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html",
+          "title": "永住許可（入管法第22条） | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/MINJI/minji78",
+          "title": "法務省：国籍Ｑ＆Ａ",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html",
+          "title": "MOJ minister press conference 2026-03-27",
+          "access_result": "web-403; Chrome-opened-and-read-20260327-naturalisation-announcement"
+        },
+        {
+          "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm",
+          "title": "No.2875 居住者と非居住者の区分｜国税庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/01_00644.html",
+          "title": "令和８年１０月１日付け在留許可手数料の額の改定等について | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/11_00107.html",
+          "title": "オンライン申請における手数料額及び手数料納付方法について(２０２６年１０月１日以降の申請分のみに適用) | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/publications/newslist/index.html",
+          "title": "ISA official news index",
+          "access_result": "web-403; Chrome-opened-and-read-August28-fee-announcement-entries"
+        },
+        {
+          "url": "https://www.mext.go.jp/en/policy/education/highered/title02/detail02/1373912.html",
+          "title": "MEXT : Entrance Qualification for Universities",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.studyinjapan.go.jp/en/planning/learn-about-schools/universities/",
+          "title": "Universities (Undergraduate) and Junior Colleges｜Study in Japan Official Website",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.studyinjapan.go.jp/en/life/cost-of-living/",
+          "title": "Living Costs and Expenses｜Study in Japan Official Website",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.studyinjapan.go.jp/en/planning/academic-fees/",
+          "title": "Academic Fees｜Study in Japan Official Website",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/content/001463586.pdf",
+          "title": "ISA current Student COE / renewal checklist",
+          "access_result": "direct-200-PDF; text encoding corrupt; rendered first-page checklist visually read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/status/dependent.html",
+          "title": "在留資格「家族滞在」 | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://laws.e-gov.go.jp/law/402M50000010016",
+          "title": "e-Gov Immigration landing permission criteria",
+          "access_result": "direct/web-JS-empty; Chrome current 20260401 text opened and Student table read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/status/designatedactivities14.html",
+          "title": "本邦の大学等を卒業した留学生が就職活動を行う場合  | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        }
+      ],
+      "changes": [
+        "补2026-04-01起归化社会融入原则10年运用及时间线，保留国籍法5年区别。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/japan/primary-secondary/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前开放、COE/签证/上陆与许可期限",
+          "conclusion": "ISA仍列留学资格，大学与各K–12学段覆盖；MOFA确认COE可由境内代理提交但不保证签证，个案许可最长4年3个月。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/status/student.html",
+            "https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html"
+          ]
+        },
+        {
+          "field": "续签与学籍变化",
+          "conclusion": "满6个月以上许可通常到期前3个月受理更新；材料须继续合资格，转校14天内分别报告离校和入校；学生毕业未在校后旧资格外活动许可不能继续使用。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/procedures/16-3.html",
+            "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html"
+          ]
+        },
+        {
+          "field": "学生工作",
+          "conclusion": "先获资格外活动许可，综合每周28小时，学校长假每日8小时；包括与个别许可及本业/禁止营业限制分别判断。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html",
+            "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html"
+          ]
+        },
+        {
+          "field": "一般永住条件与已宣布变化",
+          "conclusion": "连续10年且其中5年合资格工作/居住身份；公共义务与最长期间条件仍需满足；2027-04-01起3年期间不再普遍视同最长，现持3年个案过渡按公告，不提前套用。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html",
+            "https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html"
+          ]
+        },
+        {
+          "field": "国籍法最低住所条件与现行归化运用",
+          "conclusion": "国籍法第5条最低5年仍在；MOJ当前FAQ与2026-03-27记者会确认4月1日起社会融入裁量原则10年并延长税/社保记录审查，不写成法定门槛修法；补两页正文与时间线。",
+          "source_urls": [
+            "https://www.moj.go.jp/MINJI/minji78",
+            "https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "NTA按生活本拠住所或连续1年居所等客观事实，不按学生身份自动免税。",
+          "source_urls": [
+            "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm"
+          ]
+        },
+        {
+          "field": "未来费用变化",
+          "conclusion": "ISA新闻索引确认2026-08-28公告；10月1日受理起变更/更新依获准期间分档、线上另结算费；9月30日及以前受理仍旧费。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/01_00644.html",
+            "https://www.moj.go.jp/isa/11_00107.html",
+            "https://www.moj.go.jp/isa/publications/newslist/index.html"
+          ]
+        },
+        {
+          "field": "中小学年龄、照护、资金与学校条件",
+          "conclusion": "e-Gov现行20260401留学表核对高中20岁以下及1年日语、法定交流例外；初中17/小学14岁以下，交流仅豁免年龄，在日监护人、专职生活指导及常驻职员住宿等仍需；COE/renewal PDF视觉核对资金、亲权同意、未18高中独居照护及出席/成绩文件。",
+          "source_urls": [
+            "https://laws.e-gov.go.jp/law/402M50000010016",
+            "https://www.moj.go.jp/isa/content/001463593.pdf",
+            "https://www.moj.go.jp/isa/content/001463625.pdf"
+          ]
+        },
+        {
+          "field": "儿童劳动与家属边界",
+          "conclusion": "劳动法56条原则义务教育结束前不能雇用，60至62条限制未18岁工时/深夜/危险劳动；家族滞在仅扶养配偶子女，监护条件不创设父母身份。",
+          "source_urls": [
+            "https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_7.html",
+            "https://www.mhlw.go.jp/web/t_doc?dataId=73022000",
+            "https://www.moj.go.jp/isa/applications/status/dependent.html",
+            "https://laws.e-gov.go.jp/law/402M50000010016"
+          ]
+        },
+        {
+          "field": "升学与专项就业",
+          "conclusion": "MEXT高中入学须中学毕业或同等；ISA家族滞在成长者定住/特定活动条件含日本义教或高中、入境未18、工作offer、公义务/担保，插班N2等，不能推导普通K–12毕业工签。",
+          "source_urls": [
+            "https://www.mext.go.jp/a_menu/shotou/kaikaku/sikaku/1311004.htm",
+            "https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00122"
+          ]
+        },
+        {
+          "field": "在日公立义务教育准入与费用",
+          "conclusion": "MEXT确认外国儿童无同等就学义务但可免费入学；有实际居住无住民票也可经地方委员会核验入学，临时体验个案；教科书免费、教材/餐等另费，非签证资格。2026指针明确临时释放及监理儿童应获就学引导。",
+          "source_urls": [
+            "https://www.mext.go.jp/a_menu/shotou/shugaku/detail/1422256.htm",
+            "https://www.mext.go.jp/a_menu/shotou/clarinet/004/005.htm",
+            "https://www.mext.go.jp/a_menu/shotou/clarinet/004/1415154_00018.html",
+            "https://www.mext.go.jp/content/20220506-mxt_kouhou02-000022321_1.pdf"
+          ]
+        },
+        {
+          "field": "无在留资格就学后的工作边界",
+          "conclusion": "ISA监理措施说明原则无在留不能工作，遣返令前为生计可获严格指定工作个别许可；仮放免只是临时解除收容，不产生普通工作权。",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/08_00045.html",
+            "https://www.moj.go.jp/isa/08_00050.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.moj.go.jp/isa/applications/status/student.html",
+          "title": "在留資格「留学」 | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html",
+          "title": "MOFA General visa Student",
+          "access_result": "direct-403; web-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/procedures/16-3.html",
+          "title": "在留期間更新許可申請 | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html",
+          "title": "出入国審査・在留審査Q&A | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html",
+          "title": "「留学」の在留資格に係る資格外活動許可について | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html",
+          "title": "永住許可に関するガイドライン（令和８年２月２４日改訂） | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html",
+          "title": "永住許可（入管法第22条） | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/MINJI/minji78",
+          "title": "法務省：国籍Ｑ＆Ａ",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html",
+          "title": "MOJ minister press conference 2026-03-27",
+          "access_result": "web-403; Chrome-opened-and-read-20260327-naturalisation-announcement"
+        },
+        {
+          "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm",
+          "title": "No.2875 居住者と非居住者の区分｜国税庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/01_00644.html",
+          "title": "令和８年１０月１日付け在留許可手数料の額の改定等について | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/11_00107.html",
+          "title": "オンライン申請における手数料額及び手数料納付方法について(２０２６年１０月１日以降の申請分のみに適用) | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/publications/newslist/index.html",
+          "title": "ISA official news index",
+          "access_result": "web-403; Chrome-opened-and-read-August28-fee-announcement-entries"
+        },
+        {
+          "url": "https://laws.e-gov.go.jp/law/402M50000010016",
+          "title": "e-Gov Immigration landing permission criteria",
+          "access_result": "direct/web-JS-empty; Chrome current 20260401 text opened and Student table read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/content/001463593.pdf",
+          "title": "ISA current Student COE / renewal checklist",
+          "access_result": "direct-200-PDF; text encoding corrupt; rendered first-page checklist visually read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/content/001463625.pdf",
+          "title": "ISA current Student COE / renewal checklist",
+          "access_result": "direct-200-PDF; text encoding corrupt; rendered first-page checklist visually read"
+        },
+        {
+          "url": "https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_7.html",
+          "title": "現在、10歳の児童を舞台の子役として使うことを考えているのですが、どのような手順を踏めばよいでしょうか。｜厚生労働省",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=73022000",
+          "title": "・労働基準法(◆昭和22年04月07日法律第49号)",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/status/dependent.html",
+          "title": "在留資格「家族滞在」 | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mext.go.jp/a_menu/shotou/kaikaku/sikaku/1311004.htm",
+          "title": "高等学校入学資格 法令等：文部科学省",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00122",
+          "title": "「家族滞在」の在留資格をもって在留し、高等学校卒業後に日本での就労を希望する方へ | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mext.go.jp/a_menu/shotou/shugaku/detail/1422256.htm",
+          "title": "13.　外国人の子等の就学に関する手続について：文部科学省",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mext.go.jp/a_menu/shotou/clarinet/004/005.htm",
+          "title": "Q&A：文部科学省",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mext.go.jp/a_menu/shotou/clarinet/004/1415154_00018.html",
+          "title": "外国人の子供の就学促進及び就学状況の把握等に関する指針（令和8年8月28日改訂版）：文部科学省",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mext.go.jp/content/20220506-mxt_kouhou02-000022321_1.pdf",
+          "title": "MEXT guide to school enrolment for foreign children",
+          "access_result": "direct-200-PDF-extracted-and-read-relevant-education-admission-fees-sections"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/08_00045.html",
+          "title": "監理措置制度について　 | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/08_00050.html",
+          "title": "仮放免制度について | 出入国在留管理庁",
+          "access_result": "direct-200-opened-and-read"
+        }
+      ],
+      "changes": [
+        "两段长期身份边界补归化新运用与时间线，不以学校年限推定身份。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/singapore/university/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "Student Pass总规则",
+          "conclusion": "全日制获准学习，DP/LTVP/IEO合资格非宗教学习豁免；兼职/晚间/周末不合资格，学校分类分开，获录取不等于签发/入境。",
+          "source_urls": [
+            "https://www.ica.gov.sg/reside/STP/apply?pageid=325&secid=182"
+          ]
+        },
+        {
+          "field": "财力、申请、签发",
+          "conclusion": "ICA要求financial support无全国统一固定余额；开课前2–3个月申请，45处理+60签发+适用30多次签证；IPA条件和在新合法停留、生物识别，数字许可有效期个案。",
+          "source_urls": [
+            "https://www.ica.gov.sg/reside/STP/apply/ihl",
+            "https://www.ica.gov.sg/reside/STP/collect"
+          ]
+        },
+        {
+          "field": "续签、学籍、出勤、取消",
+          "conclusion": "实际PDF条款持续注册、至少90%总出勤、个人资料变化14天通知；停止/终止学习7天取消，转校未领证须重申，不能自动延续。",
+          "source_urls": [
+            "https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf",
+            "https://www.ica.gov.sg/reside/STP/cancel",
+            "https://www.ica.gov.sg/reside/STP/apply?pageid=325&secid=182"
+          ]
+        },
+        {
+          "field": "学习期间工作",
+          "conclusion": "MOM两张清单分开：合資格term16小时或计入毕业的学校实习；假期14岁以上；交换生无豁免，毕业STP到期后须雇主工作准证。",
+          "source_urls": [
+            "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students"
+          ]
+        },
+        {
+          "field": "长期身份与国民服役",
+          "conclusion": "学生PR为在新学生且国家考试/IP条件，非仅学位自动PR；学生公民类别>3年居住含1年PR及考试/IP；ICA说明男性学生/父母担保PR公民需NS且大学不延期。",
+          "source_urls": [
+            "https://www.ica.gov.sg/reside/PR/",
+            "https://www.ica.gov.sg/reside/citizenship"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "IRAS日历年183天、连续3年或跨2年合资格连续雇用183天分别适用，学生许可不等于税务居民/免税。",
+          "source_urls": [
+            "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency"
+          ]
+        },
+        {
+          "field": "IHL院校分类与家属",
+          "conclusion": "ICA IHL当前具体院校类别读取；Student Pass与MOM DP不同，后者为合资格EP/S Pass等家属，学生不能直接担保家属。",
+          "source_urls": [
+            "https://www.ica.gov.sg/reside/STP/apply/ihl",
+            "https://www.mom.gov.sg/passes-and-permits/dependants-pass/eligibility"
+          ]
+        },
+        {
+          "field": "毕业与求职LTVP",
+          "conclusion": "ICA问答正文确认取消STP可个案获最多89天访问；IHL毕业生求职LTVP1年不可续，名单单独，45/60/适用30费、6周目标，非开放工签。",
+          "source_urls": [
+            "https://ask.gov.sg/ica/questions/clos83fvp01ht5k0w2hqby2ji",
+            "https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore",
+            "https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore/list_ihl",
+            "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/apply?pageid=325&secid=182",
+          "title": "ICA | Becoming a Student's Pass Holder",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/apply/ihl",
+          "title": "ICA | Institutes of Higher Learning",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/collect",
+          "title": "ICA | Completion of Formalities and Issuance of Student's Pass",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf",
+          "title": "ICA Student Pass terms and conditions",
+          "access_result": "direct-200-PDF-extracted-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/cancel",
+          "title": "ICA | Cancel Student's Pass",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students",
+          "title": "Work pass exemption for foreign students",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/PR/",
+          "title": "ICA | Becoming a Permanent Resident",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/citizenship",
+          "title": "ICA | Becoming a Singapore Citizen",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency",
+          "title": "IRAS | Working out my tax residency",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mom.gov.sg/passes-and-permits/dependants-pass/eligibility",
+          "title": "Eligibility for Dependant's Pass",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://ask.gov.sg/ica/questions/clos83fvp01ht5k0w2hqby2ji",
+          "title": "ICA graduate LTVP and graduation FAQ",
+          "access_result": "web-opened-and-read; graduate LTVP overview also Chrome-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore",
+          "title": "ICA graduate LTVP and graduation FAQ",
+          "access_result": "web-opened-and-read; graduate LTVP overview also Chrome-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore/list_ihl",
+          "title": "ICA graduate LTVP and graduation FAQ",
+          "access_result": "web-opened-and-read; graduate LTVP overview also Chrome-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/singapore/primary-secondary/README.md",
+      "outcome": "future-change-announced",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "Student Pass总规则",
+          "conclusion": "全日制获准学习，DP/LTVP/IEO合资格非宗教学习豁免；兼职/晚间/周末不合资格，学校分类分开，获录取不等于签发/入境。",
+          "source_urls": [
+            "https://www.ica.gov.sg/reside/STP/apply?pageid=325&secid=182"
+          ]
+        },
+        {
+          "field": "财力、申请、签发",
+          "conclusion": "ICA要求financial support无全国统一固定余额；开课前2–3个月申请，45处理+60签发+适用30多次签证；IPA条件和在新合法停留、生物识别，数字许可有效期个案。",
+          "source_urls": [
+            "https://www.ica.gov.sg/reside/STP/apply/ihl",
+            "https://www.ica.gov.sg/reside/STP/collect"
+          ]
+        },
+        {
+          "field": "续签、学籍、出勤、取消",
+          "conclusion": "实际PDF条款持续注册、至少90%总出勤、个人资料变化14天通知；停止/终止学习7天取消，转校未领证须重申，不能自动延续。",
+          "source_urls": [
+            "https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf",
+            "https://www.ica.gov.sg/reside/STP/cancel",
+            "https://www.ica.gov.sg/reside/STP/apply?pageid=325&secid=182"
+          ]
+        },
+        {
+          "field": "学习期间工作",
+          "conclusion": "MOM两张清单分开：合資格term16小时或计入毕业的学校实习；假期14岁以上；交换生无豁免，毕业STP到期后须雇主工作准证。",
+          "source_urls": [
+            "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students"
+          ]
+        },
+        {
+          "field": "长期身份与国民服役",
+          "conclusion": "学生PR为在新学生且国家考试/IP条件，非仅学位自动PR；学生公民类别>3年居住含1年PR及考试/IP；ICA说明男性学生/父母担保PR公民需NS且大学不延期。",
+          "source_urls": [
+            "https://www.ica.gov.sg/reside/PR/",
+            "https://www.ica.gov.sg/reside/citizenship"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "IRAS日历年183天、连续3年或跨2年合资格连续雇用183天分别适用，学生许可不等于税务居民/免税。",
+          "source_urls": [
+            "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency"
+          ]
+        },
+        {
+          "field": "政府/FSS申请差异",
+          "conclusion": "gov/FSS两官方页均要求full-time及财力、2–3个月提前、45费；gov/ITE才local sponsor且21岁SC/PR，FSS适用EduTrust。外出生<=12岁须疫苗资料。",
+          "source_urls": [
+            "https://www.ica.gov.sg/reside/STP/apply/gov",
+            "https://www.ica.gov.sg/reside/STP/apply/fss",
+            "https://www.ica.gov.sg/reside/STP/sponsor"
+          ]
+        },
+        {
+          "field": "小一、AEIS与费用",
+          "conclusion": "Chrome实际MOE：小一先意向后获配注册，改旧Phase3描述；AEIS小学2–5中学1–3，小学CEQ先达标，学额个案；2026报名关闭、9月1–3日考，340/630另GST，学校月费按国籍学校分别。",
+          "source_urls": [
+            "https://www.moe.gov.sg/primary/p1-registration/international-students",
+            "https://www.moe.gov.sg/international-students/aeis",
+            "https://www.moe.gov.sg/international-students/aeis/eligibility-criteria",
+            "https://www.moe.gov.sg/international-students/aeis/apply",
+            "https://www.moe.gov.sg/financial-matters/fees"
+          ]
+        },
+        {
+          "field": "已预告S-AEIS窗口",
+          "conclusion": "MOE当前2027计划：1月初报名、2月底/3月初考试暂定，小学2–4中学1–2，同学年4/5月开学，CEQ自2026年1月测试；原正文等待下一轮表述补现有公告且保留暂定性质。",
+          "source_urls": [
+            "https://www.moe.gov.sg/international-students/s-aeis"
+          ]
+        },
+        {
+          "field": "陪读亲属与工作限制",
+          "conclusion": "ICA一名父母/祖父母LTVP须21岁SC/PR sponsor，独立审查；MOM父母首年不得工作，1年后雇主WP、LTVP剩4个月、配额levy、期限挂钩；未直接扩大祖父母，LOC限SC/PR配偶/未21未婚子女。",
+          "source_urls": [
+            "https://www.ica.gov.sg/reside/LTVP/apply/parent-or-grandparent-of-a-child-or-grandchild-studying-in-singapore-on-a-students-pass",
+            "https://www.mom.gov.sg/passes-and-permits/work-passes-for-holders-of-long-term-visit-passes-issued-by-ica",
+            "https://www.mom.gov.sg/passes-and-permits/loc-for-ica-issued-ltvp-holders/eligibility"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/apply?pageid=325&secid=182",
+          "title": "ICA | Becoming a Student's Pass Holder",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/apply/ihl",
+          "title": "ICA | Institutes of Higher Learning",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/collect",
+          "title": "ICA | Completion of Formalities and Issuance of Student's Pass",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf",
+          "title": "ICA Student Pass terms and conditions",
+          "access_result": "direct-200-PDF-extracted-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/cancel",
+          "title": "ICA | Cancel Student's Pass",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students",
+          "title": "Work pass exemption for foreign students",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/PR/",
+          "title": "ICA | Becoming a Permanent Resident",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/citizenship",
+          "title": "ICA | Becoming a Singapore Citizen",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency",
+          "title": "IRAS | Working out my tax residency",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/apply/gov",
+          "title": "ICA | Government/Government-Aided/Independent Schools",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/apply/fss",
+          "title": "ICA | Foreign System Schools and Privately-Funded Schools",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/STP/sponsor",
+          "title": "ICA | Sponsor Student's Pass",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.moe.gov.sg/primary/p1-registration/international-students",
+          "title": "MOE official current admissions / school fee guidance",
+          "access_result": "direct/web-JS-challenge; Chrome-opened-and-read-current-page"
+        },
+        {
+          "url": "https://www.moe.gov.sg/international-students/aeis",
+          "title": "MOE official current admissions / school fee guidance",
+          "access_result": "direct/web-JS-challenge; Chrome-opened-and-read-current-page"
+        },
+        {
+          "url": "https://www.moe.gov.sg/international-students/aeis/eligibility-criteria",
+          "title": "MOE official current admissions / school fee guidance",
+          "access_result": "direct/web-JS-challenge; Chrome-opened-and-read-current-page"
+        },
+        {
+          "url": "https://www.moe.gov.sg/international-students/aeis/apply",
+          "title": "MOE official current admissions / school fee guidance",
+          "access_result": "direct/web-JS-challenge; Chrome-opened-and-read-current-page"
+        },
+        {
+          "url": "https://www.moe.gov.sg/financial-matters/fees",
+          "title": "MOE official current admissions / school fee guidance",
+          "access_result": "direct/web-JS-challenge; Chrome-opened-and-read-current-page"
+        },
+        {
+          "url": "https://www.moe.gov.sg/international-students/s-aeis",
+          "title": "MOE official current admissions / school fee guidance",
+          "access_result": "direct/web-JS-challenge; Chrome-opened-and-read-current-page"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/LTVP/apply/parent-or-grandparent-of-a-child-or-grandchild-studying-in-singapore-on-a-students-pass",
+          "title": "ICA | LTVP for Parent or Grandparent of a Child or Grandchild Studying in Singapore on a Student's Pass",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mom.gov.sg/passes-and-permits/work-passes-for-holders-of-long-term-visit-passes-issued-by-ica",
+          "title": "Work passes for holders of Long-Term Visit Passes issued by ICA",
+          "access_result": "direct-200-opened-and-read"
+        },
+        {
+          "url": "https://www.mom.gov.sg/passes-and-permits/loc-for-ica-issued-ltvp-holders/eligibility",
+          "title": "Eligibility for Letter of Consent for ICA-issued LTVP/LTVP+ holders",
+          "access_result": "direct-200-opened-and-read"
+        }
+      ],
+      "changes": [
+        "小一旧Phase3表述改成现行意向/录取流程；删除截至核验日措辞；补2027S-AEIS已预告窗口与暂定考试。"
+      ],
+      "unresolved": []
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "review_date": "2026-09-09",
+  "scope": [
+    "visitor-financial-remote/canada/README.md",
+    "visitor-financial-remote/mexico/README.md"
+  ],
+  "pages": [
+    {
+      "path": "visitor-financial-remote/canada/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "Status, funding and validity",
+          "conclusion": "Visitor status up to6months; no dedicated income minimum; all income must be outside Canada and clients exclusively foreign. Funds and end-of-stay departure must be demonstrated.",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/digital-nomads.html"
+          ]
+        },
+        {
+          "field": "Renewal, work and family",
+          "conclusion": "Visitor record for longer stay. Local employer requires work permit or statutory exemption before starting. Family members require independent temporary status and work/study authorization.",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/digital-nomads.html"
+          ]
+        },
+        {
+          "field": "Long-term route",
+          "conclusion": "Foreign remote work does not count as CEC Canadian experience: remote work must physically occur in Canada for Canadian employer.",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/canadian-experience-class.html"
+          ]
+        },
+        {
+          "field": "Tax",
+          "conclusion": "CRA facts-based ties, duration and intention, not visa category or foreign payment, determine residency.",
+          "source_urls": [
+            "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/digital-nomads.html",
+          "title": "IRCC digital nomads May26 2026",
+          "access_result": "Root read full official body; reviewer independently opened/read same current body"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/canadian-experience-class.html",
+          "title": "IRCC CEC June22 2026",
+          "access_result": "Root and reviewer read full official body"
+        },
+        {
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html",
+          "title": "CRA residency",
+          "access_result": "Read actual body during Quebec review; reused current-session source"
+        }
+      ],
+      "changes": [
+        "Specified foreign-only income evidence and visitor-record extension; clarified family/work/CEC and tax boundaries; added direct operational sources."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "visitor-financial-remote/mexico/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "Threshold and funds",
+          "conclusion": "San Diego2026 requires monthly average investments/savings75950 over12months OR employment/pension4510 over6months. Local consular example, not nationwide UMA dollar value.",
+          "source_urls": [
+            "https://consulmex.sre.gob.mx/sandiego/images/visasespanol2026/5a_Temporal_-_Solvencia_economica.pdf"
+          ]
+        },
+        {
+          "field": "Status, validity and family",
+          "conclusion": "SRE economic-solvency temporary residence up to4years and family-unity pathway; no local job offer needed.",
+          "source_urls": [
+            "https://www.miconsulado.sre.gob.mx/visasmexicanas/visa/visa-de-residencia-temporal/"
+          ]
+        },
+        {
+          "field": "Work",
+          "conclusion": "SanDiego employment proof must explicitly authorize living in Mexico and remote work; does not confer general local employment authorization.",
+          "source_urls": [
+            "https://consulmex.sre.gob.mx/sandiego/images/visasespanol2026/5a_Temporal_-_Solvencia_economica.pdf",
+            "https://www.miconsulado.sre.gob.mx/visasmexicanas/visa/visa-de-residencia-temporal/"
+          ]
+        },
+        {
+          "field": "Permanent residence and citizenship",
+          "conclusion": "INM requires application and valid temporary card after4years; SRE ordinary naturalisation5years qualifying residence, excludes student time, with travel/language/history/background evidence.",
+          "source_urls": [
+            "https://www.inm.gob.mx/static/Tramites/cambio_residente_temporal-residente_permanente.pdf",
+            "https://sre.gob.mx/carta-de-naturalizacion-por-residencia"
+          ]
+        },
+        {
+          "field": "Tax",
+          "conclusion": "Current Congress CFF Apr9 2026 Article9: Mexican home, or vital interests if homes in both countries; over50percent Mexican-source income or main professional activity centre examples. Foreign employer does not imply tax exemption.",
+          "source_urls": [
+            "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.miconsulado.sre.gob.mx/visasmexicanas/visa/visa-de-residencia-temporal/",
+          "title": "SRE temporary residence",
+          "access_result": "Root and reviewer opened full body"
+        },
+        {
+          "url": "https://consulmex.sre.gob.mx/sandiego/images/visasespanol2026/5a_Temporal_-_Solvencia_economica.pdf",
+          "title": "SanDiego2026 solvency PDF",
+          "access_result": "Root and reviewer opened/read both PDF pages"
+        },
+        {
+          "url": "https://www.inm.gob.mx/static/Tramites/cambio_residente_temporal-residente_permanente.pdf",
+          "title": "INM temporary-to-permanent PDF",
+          "access_result": "Root and reviewer read actual onepage PDF"
+        },
+        {
+          "url": "https://sre.gob.mx/carta-de-naturalizacion-por-residencia",
+          "title": "SRE naturalisation",
+          "access_result": "Root and reviewer read actual official procedure body"
+        },
+        {
+          "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
+          "title": "CFF current consolidated Apr9 2026",
+          "access_result": "Reviewer opened current377page PDF and read Article9 on page5"
+        }
+      ],
+      "changes": [
+        "Corrected obsolete3064 to4510 and specified local consulate and6/12month periods; added employer remote permission, nonautomatic4year PR, nationality and specific tax rule."
+      ],
+      "unresolved": []
+    }
+  ]
+}

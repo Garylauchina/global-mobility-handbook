@@ -16,4 +16,4 @@ status: "archived-or-unverified"
 - **关键变化：** 欧盟法院2025-04-29判决后停止并从法律中删除；现行MPRP仅为永居
 - **为什么不能按有效项目处理：** Citizenship by Merit是个案特殊贡献制度，不是定价CBI替代品
 - **证据等级：** A
-- **主要来源：** [官方或主要依据](https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf)
+- **主要来源：** [欧盟法院2025-04-29判决说明](https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf)；[主管机关2025-07-24法律修正说明](https://komunita.gov.mt/2025/09/02/amendments-to-the-maltese-citizenship-act-and-subsidiary-legislation/)；[2026-02-05 Citizenship by Merit澄清](https://komunita.gov.mt/2026/02/05/malta-citizenship-by-merit/)

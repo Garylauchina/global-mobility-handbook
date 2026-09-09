@@ -25,7 +25,7 @@ Do not upgrade a grade merely because several secondary sources repeat the same 
 
 ## Handle incomplete or conflicting evidence
 
-Use the repository [update policy](../../../../UPDATE_POLICY.md) for status transitions, monthly review records and standard warnings. A failed search or inaccessible source is an evidence gap, not positive evidence of closure.
+Use the repository [update policy](../../../../UPDATE_POLICY.md) for status transitions, 30-day review records and standard warnings. A failed search or inaccessible source is an evidence gap, not positive evidence of closure.
 
 If a previously authoritative URL is temporarily inaccessible, search for an official replacement first. If none is found, preserve the last authoritative URL, identify the access failure in the stale warning or change description, and do not replace it with a commercial link. Remove it only when an equally authoritative replacement or positive evidence makes the old source obsolete.
 

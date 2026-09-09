@@ -30,24 +30,18 @@ export function dateInTimeZone(date = new Date(), timeZone = "Asia/Shanghai") {
   return `${values.year}-${values.month}-${values.day}`;
 }
 
-// Use the same day next calendar month, clamped to that month's final day.
-export function addCalendarMonth(value) {
+// Fixed elapsed calendar days; UTC arithmetic avoids DST and month-end drift.
+export function addReviewInterval(value) {
   const date = parseIsoDate(value);
-  const day = date.getUTCDate();
-  date.setUTCDate(1);
-  date.setUTCMonth(date.getUTCMonth() + 1);
-  const lastDay = new Date(date.valueOf());
-  lastDay.setUTCMonth(lastDay.getUTCMonth() + 1);
-  lastDay.setUTCDate(0);
-  date.setUTCDate(Math.min(day, lastDay.getUTCDate()));
+  date.setUTCDate(date.getUTCDate() + 30);
   const result = date.toISOString().slice(0, 10);
-  parseIsoDate(result, "next monthly review date");
+  parseIsoDate(result, "next 30-day review date");
   return result;
 }
 
-export function monthlyReviewIsDue(reviewed, asOf, status) {
+export function reviewIsDue(reviewed, asOf, status) {
   parseIsoDate(asOf, "audit date");
-  const due = addCalendarMonth(reviewed);
+  const due = addReviewInterval(reviewed);
   return status === "stale" || asOf >= due;
 }
 
@@ -77,8 +71,8 @@ export function validateReviewState(state, {
   if (JSON.stringify(Object.keys(state).sort()) !== JSON.stringify(expectedKeys.sort())) {
     throw new Error(`${reviewStatePath} must contain only cadence, last_full_review, and page_reviews`);
   }
-  if (state.cadence !== "monthly") {
-    throw new Error(`${reviewStatePath} cadence must be monthly`);
+  if (state.cadence !== "every-30-days") {
+    throw new Error(`${reviewStatePath} cadence must be every-30-days`);
   }
   parseIsoDate(state.last_full_review, "last_full_review");
   if (state.last_full_review > asOf) {

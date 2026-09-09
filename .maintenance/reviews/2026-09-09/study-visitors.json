@@ -1,0 +1,1852 @@
+{
+  "review_date": "2026-09-09",
+  "scope": [
+    "study-student-residence/australia/primary-secondary/README.md",
+    "study-student-residence/australia/university/README.md",
+    "study-student-residence/canada/primary-secondary/README.md",
+    "study-student-residence/canada/university/README.md",
+    "study-student-residence/france/primary-secondary/README.md",
+    "study-student-residence/france/university/README.md",
+    "study-student-residence/new-zealand/primary-secondary/README.md",
+    "study-student-residence/new-zealand/university/README.md",
+    "study-student-residence/united-kingdom/primary-secondary/README.md",
+    "study-student-residence/united-kingdom/university/README.md",
+    "study-student-residence/united-states/primary-secondary/README.md",
+    "study-student-residence/united-states/university/README.md",
+    "visitor-financial-remote/new-zealand/README.md"
+  ],
+  "pages": [
+    {
+      "path": "study-student-residence/australia/primary-secondary/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放、录取与真实性",
+          "conclusion": "500官方动态正文已逐栏读取：CRICOS与CoE、课程包间隔、GS、OSHC、健康品行及相应年龄/英语要求。录取不保证签证",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement"
+          ]
+        },
+        {
+          "field": "资金与费用",
+          "conclusion": "学生29710、伴侣10394、孩子4449、学校13502及年收入87856/102500；7月起通常500与590基础费2500，优惠另计",
+          "source_urls": [
+            "https://www.legislation.gov.au/F2019L01366/latest/text",
+            "https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18"
+          ]
+        },
+        {
+          "field": "期限与续学",
+          "conclusion": "500最长6年、常见高教5年、研究延期和学校分段；新签证续学及National Code主课/第一学校课程前6个月转校限制已核对",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+            "https://www.education.gov.au/download/11459/standard-7-overseas-student-transfers/30165/document/pdf"
+          ]
+        },
+        {
+          "field": "工作与家属",
+          "conclusion": "500开课后通常48小时/两周；研究硕博学生与全部硕博的家属豁免范围分别核对；子女未满18岁、既有家属先申报",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18"
+          ]
+        },
+        {
+          "field": "政策变化",
+          "conclusion": "MD115排序与2027规划295000、TAFE未来豁免；中学毕业直接升读NPL豁免实际PDF核读，均不是个人获签保证",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visa-subsite/pages/processing-times/student-visa-processing-priorities.aspx",
+            "https://www.education.gov.au/managed-system-international-education",
+            "https://www.education.gov.au/download/19803/factsheet-transitioning-school-students-exempted-national-planning-level/42852/document/pdf"
+          ]
+        },
+        {
+          "field": "长期身份及税务",
+          "conclusion": "一般归化4年合法居住/最后12个月PR、4年离境最多12个月且最后一年90天；ATO真实浏览器正文确认超过6个月课程居民判断与temporary resident外国收入例外",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident",
+            "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/australian-resident-for-tax-purposes",
+            "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/foreign-and-temporary-residents"
+          ]
+        },
+        {
+          "field": "未成年与监护",
+          "conclusion": "500至少6岁及各年级年龄上限、CAAW/父母监护；590年满21近亲等资格、与学生同住和出境替代照护、无工作权、少量学习、未满6岁孩子限制；guardian及学生各29710的法定资金条款已读",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18",
+            "https://immi.homeaffairs.gov.au/visa-subsite/pages/student/590-student-guardian.aspx",
+            "https://www.legislation.gov.au/F2019L01366/latest/text"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+          "title": "Skip to navigation",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+          "title": "Genuine Student requirement",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+          "title": "Length of stay for Student visas",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18",
+          "title": "Welfare and custody arrangements for students under 18",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.legislation.gov.au/F2019L01366/latest/text",
+          "title": "Migration (LIN 19/198: Evidence of financial capacity—Subclass 500 Visa and Subclass 590 Visa) Instrument 2019 - Federal Register of Legislation",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html",
+          "title": "EXPLANATORY STATEMENT",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.education.gov.au/download/11459/standard-7-overseas-student-transfers/30165/document/pdf",
+          "title": "https://www.education.gov.au/download/11459/standard-7-overseas-student-transfers/30165/document/pdf",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visa-subsite/pages/processing-times/student-visa-processing-priorities.aspx",
+          "title": "Student visa processing priorities",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.education.gov.au/managed-system-international-education",
+          "title": "https://www.education.gov.au/managed-system-international-education",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.education.gov.au/download/19803/factsheet-transitioning-school-students-exempted-national-planning-level/42852/document/pdf",
+          "title": "https://www.education.gov.au/download/19803/factsheet-transitioning-school-students-exempted-national-planning-level/42852/document/pdf",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident",
+          "title": "Skip to navigation",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visa-subsite/pages/student/590-student-guardian.aspx",
+          "title": "Skip to navigation",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/australian-resident-for-tax-purposes",
+          "title": "ATO Australian resident for tax purposes",
+          "access_result": "真实浏览器完整正文读取：居民事实、超过6个月课程、全球收入及协定"
+        },
+        {
+          "url": "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/foreign-and-temporary-residents",
+          "title": "ATO Foreign and temporary residents",
+          "access_result": "真实浏览器正文读取：temporary resident资格、境内收入及境外劳务例外"
+        },
+        {
+          "url": "https://www.legislation.gov.au/F2019L01366/2024-05-10/2024-05-10/text/original/epub/OEBPS/document_1/document_1.html",
+          "title": "LIN19/198 Compilation2",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        }
+      ],
+      "changes": [
+        "修正ATO课程判断为超过6个月，并替换API链接为实际税务正文"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/australia/university/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放、录取与真实性",
+          "conclusion": "500官方动态正文已逐栏读取：CRICOS与CoE、课程包间隔、GS、OSHC、健康品行及相应年龄/英语要求。录取不保证签证",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement"
+          ]
+        },
+        {
+          "field": "资金与费用",
+          "conclusion": "学生29710、伴侣10394、孩子4449、学校13502及年收入87856/102500；7月起通常500与590基础费2500，优惠另计",
+          "source_urls": [
+            "https://www.legislation.gov.au/F2019L01366/latest/text",
+            "https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18"
+          ]
+        },
+        {
+          "field": "期限与续学",
+          "conclusion": "500最长6年、常见高教5年、研究延期和学校分段；新签证续学及National Code主课/第一学校课程前6个月转校限制已核对",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+            "https://www.education.gov.au/download/11459/standard-7-overseas-student-transfers/30165/document/pdf"
+          ]
+        },
+        {
+          "field": "工作与家属",
+          "conclusion": "500开课后通常48小时/两周；研究硕博学生与全部硕博的家属豁免范围分别核对；子女未满18岁、既有家属先申报",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18"
+          ]
+        },
+        {
+          "field": "政策变化",
+          "conclusion": "MD115排序与2027规划295000、TAFE未来豁免；中学毕业直接升读NPL豁免实际PDF核读，均不是个人获签保证",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visa-subsite/pages/processing-times/student-visa-processing-priorities.aspx",
+            "https://www.education.gov.au/managed-system-international-education",
+            "https://www.education.gov.au/download/19803/factsheet-transitioning-school-students-exempted-national-planning-level/42852/document/pdf"
+          ]
+        },
+        {
+          "field": "长期身份及税务",
+          "conclusion": "一般归化4年合法居住/最后12个月PR、4年离境最多12个月且最后一年90天；ATO真实浏览器正文确认超过6个月课程居民判断与temporary resident外国收入例外",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident",
+            "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/australian-resident-for-tax-purposes",
+            "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/foreign-and-temporary-residents"
+          ]
+        },
+        {
+          "field": "毕业生",
+          "conclusion": "485年龄35/研究硕博及HK-BNO未满50例外；2/3年及特殊国籍期限、区域第二次至少2年居住获1/2年；完整官方资格页与92周/16月学习页实际浏览器核读",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/second-post-higher-education-work"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+          "title": "Skip to navigation",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+          "title": "Genuine Student requirement",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+          "title": "Length of stay for Student visas",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18",
+          "title": "Welfare and custody arrangements for students under 18",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.legislation.gov.au/F2019L01366/latest/text",
+          "title": "Migration (LIN 19/198: Evidence of financial capacity—Subclass 500 Visa and Subclass 590 Visa) Instrument 2019 - Federal Register of Legislation",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html",
+          "title": "EXPLANATORY STATEMENT",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.education.gov.au/download/11459/standard-7-overseas-student-transfers/30165/document/pdf",
+          "title": "https://www.education.gov.au/download/11459/standard-7-overseas-student-transfers/30165/document/pdf",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visa-subsite/pages/processing-times/student-visa-processing-priorities.aspx",
+          "title": "Student visa processing priorities",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.education.gov.au/managed-system-international-education",
+          "title": "https://www.education.gov.au/managed-system-international-education",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.education.gov.au/download/19803/factsheet-transitioning-school-students-exempted-national-planning-level/42852/document/pdf",
+          "title": "https://www.education.gov.au/download/19803/factsheet-transitioning-school-students-exempted-national-planning-level/42852/document/pdf",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident",
+          "title": "Skip to navigation",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485",
+          "title": "Temporary Graduate visa - Subclass 485",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/second-post-higher-education-work",
+          "title": "Skip to navigation",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/australian-resident-for-tax-purposes",
+          "title": "ATO Australian resident for tax purposes",
+          "access_result": "真实浏览器完整正文读取：居民事实、超过6个月课程、全球收入及协定"
+        },
+        {
+          "url": "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/foreign-and-temporary-residents",
+          "title": "ATO Foreign and temporary residents",
+          "access_result": "真实浏览器正文读取：temporary resident资格、境内收入及境外劳务例外"
+        },
+        {
+          "url": "https://www.legislation.gov.au/F2019L01366/2024-05-10/2024-05-10/text/original/epub/OEBPS/document_1/document_1.html",
+          "title": "LIN19/198 Compilation2",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/post-higher-education-work",
+          "title": "485 Post-Higher Education Work",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        },
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/meeting-the-temporary-graduate-visa-subclass-485-study-requirement",
+          "title": "485 study requirement",
+          "access_result": "官方正文已通过动态浏览器、网页工具或当日缓存实读；具体核对字段见core_claims"
+        }
+      ],
+      "changes": [
+        "修正ATO课程判断为超过6个月，并替换API链接为实际税务正文",
+        "补485 AFP先于签证递交、课程组合和92周解释"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/canada/primary-secondary/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放状态、录取与资格",
+          "conclusion": "DLI、学籍和PAL/TAL分类仍成立；公立DLI硕博自2026年起豁免，小学和中学亦豁免。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5269-applying-study-permit-outside-canada.html"
+          ]
+        },
+        {
+          "field": "资金与费用",
+          "conclusion": "联邦2026年9月起单人23448加币，魁省单人24617及家庭表金额与原文相符；学费交通另计。学签费150。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+            "https://www.quebec.ca/en/education/study-quebec/required-conditions/costs-studies",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5269-applying-study-permit-outside-canada.html"
+          ]
+        },
+        {
+          "field": "期限、续签与转校",
+          "conclusion": "完成学业后90天与证件日期取较早；大学提前30天、未成年专题90天均有各自官方依据；更换高教DLI需要新许可。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/extend-study-permit/when-to-apply.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/change-schools.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html"
+          ]
+        },
+        {
+          "field": "工作与家属",
+          "conclusion": "大学校外24小时与假期7/150/180天边界、校内工时及硕士配偶16个月等限制仍成立；2026年4月起高教co-op免另证但最多课程50%，中学仍须另证。监护17岁措辞冲突保留。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-on-campus.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html",
+            "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=503",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html"
+          ]
+        },
+        {
+          "field": "毕业后与长期身份",
+          "conclusion": "PGWP学位、期限、语言及授课方式限制仍成立；中学文凭不直接取得PGWP。成人和未成年入籍规则区分，学生阶段不保证PR。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html"
+          ]
+        },
+        {
+          "field": "税务与政策边界",
+          "conclusion": "CRA按居住联系及183天/协定判断；2026签发目标与PAL申请上限维持原值。",
+          "source_urls": [
+            "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/international-students-studying-canada.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html",
+          "title": "Study permit: Get the right documents Provincial attestation letter or territorial attestation letter - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5269-applying-study-permit-outside-canada.html",
+          "title": "Guide 5269 - Applying for a Study Permit outside Canada - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+          "title": "Study permit: Get the right documents - Proof of financial support - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.quebec.ca/en/education/study-quebec/required-conditions/costs-studies",
+          "title": "Costs related to studying in Québec | Gouvernement du Québec",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/extend-study-permit/when-to-apply.html",
+          "title": "Extend your study permit or restore your status: When to apply - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/change-schools.html",
+          "title": "Changing your school or program - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html",
+          "title": "Studying in Canada as a minor - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html",
+          "title": "Work in a student work placement - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html",
+          "title": "Work off campus as an international student  - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-on-campus.html",
+          "title": "Work on campus as an international student - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html",
+          "title": "Help your spouse or common-law partner work in Canada - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=503",
+          "title": "Can I work as many hours as I want if I’m eligible to work off campus?",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+          "title": "Post-graduation work permit: About the post-graduation work permit (PGWP) - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+          "title": "Post-graduation work permit: Who can apply - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html",
+          "title": "Canadian citizenship for adults and minor children: Who can apply - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/international-students-studying-canada.html",
+          "title": "Taxes for International students studying in Canada - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html",
+          "title": "2026 provincial and territorial allocations under the international student cap - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/canada/university/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放状态、录取与资格",
+          "conclusion": "DLI、学籍和PAL/TAL分类仍成立；公立DLI硕博自2026年起豁免，小学和中学亦豁免。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5269-applying-study-permit-outside-canada.html"
+          ]
+        },
+        {
+          "field": "资金与费用",
+          "conclusion": "联邦2026年9月起单人23448加币，魁省单人24617及家庭表金额与原文相符；学费交通另计。学签费150。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+            "https://www.quebec.ca/en/education/study-quebec/required-conditions/costs-studies",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5269-applying-study-permit-outside-canada.html"
+          ]
+        },
+        {
+          "field": "期限、续签与转校",
+          "conclusion": "完成学业后90天与证件日期取较早；大学提前30天、未成年专题90天均有各自官方依据；更换高教DLI需要新许可。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/extend-study-permit/when-to-apply.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/change-schools.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html"
+          ]
+        },
+        {
+          "field": "工作与家属",
+          "conclusion": "大学校外24小时与假期7/150/180天边界、校内工时及硕士配偶16个月等限制仍成立；2026年4月起高教co-op免另证但最多课程50%，中学仍须另证。监护17岁措辞冲突保留。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-on-campus.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html",
+            "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=503",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html"
+          ]
+        },
+        {
+          "field": "毕业后与长期身份",
+          "conclusion": "PGWP学位、期限、语言及授课方式限制仍成立；中学文凭不直接取得PGWP。成人和未成年入籍规则区分，学生阶段不保证PR。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html"
+          ]
+        },
+        {
+          "field": "税务与政策边界",
+          "conclusion": "CRA按居住联系及183天/协定判断；2026签发目标与PAL申请上限维持原值。",
+          "source_urls": [
+            "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/international-students-studying-canada.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html",
+          "title": "Study permit: Get the right documents Provincial attestation letter or territorial attestation letter - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5269-applying-study-permit-outside-canada.html",
+          "title": "Guide 5269 - Applying for a Study Permit outside Canada - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+          "title": "Study permit: Get the right documents - Proof of financial support - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.quebec.ca/en/education/study-quebec/required-conditions/costs-studies",
+          "title": "Costs related to studying in Québec | Gouvernement du Québec",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/extend-study-permit/when-to-apply.html",
+          "title": "Extend your study permit or restore your status: When to apply - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/change-schools.html",
+          "title": "Changing your school or program - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html",
+          "title": "Studying in Canada as a minor - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html",
+          "title": "Work in a student work placement - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html",
+          "title": "Work off campus as an international student  - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-on-campus.html",
+          "title": "Work on campus as an international student - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html",
+          "title": "Help your spouse or common-law partner work in Canada - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=503",
+          "title": "Can I work as many hours as I want if I’m eligible to work off campus?",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+          "title": "Post-graduation work permit: About the post-graduation work permit (PGWP) - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+          "title": "Post-graduation work permit: Who can apply - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html",
+          "title": "Canadian citizenship for adults and minor children: Who can apply - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/international-students-studying-canada.html",
+          "title": "Taxes for International students studying in Canada - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html",
+          "title": "2026 provincial and territorial allocations under the international student cap - Canada.ca",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/france/primary-secondary/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "境外未成年就学",
+          "conclusion": "父母不在法国、入境时未成年及公共/私立学校条件；11个月长期签证可续，住房资金保险同意与法国接待人；无统一最低资金",
+          "source_urls": [
+            "https://www.france-visas.gouv.fr/web/france-visas/mineur-scolarise",
+            "https://www.france-visas.gouv.fr/web/france-visas/visa-de-long-sejour"
+          ]
+        },
+        {
+          "field": "境内教育与续学",
+          "conclusion": "3至16岁教育、16至18岁培训义务；公立教学免费，入学不以居留卡为前提；小学市政及学校两步，CASNAV评估中学安置与UPE2A支持",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F1898",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F1866",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F21304",
+            "https://www.education.gouv.fr/botexte/bo020328/MENE0200681C.htm",
+            "https://www.education.gouv.fr/les-grands-principes-du-systeme-educatif-9842"
+          ]
+        },
+        {
+          "field": "工作、监护与家庭",
+          "conclusion": "未成年签证并非父母陪读居留；14/15/16岁不同劳动许可规则，16至17岁通常35小时/周8小时/日；不能套用成年学生964小时工作权",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2736",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2216",
+            "https://www.france-visas.gouv.fr/web/france-visas/mineur-scolarise"
+          ]
+        },
+        {
+          "field": "居留、升学与长期身份",
+          "conclusion": "一般未成年不需居留卡、16岁工作等须申领，DCEM辅助旅行不构成成人居留；学校或文凭无直接永居/毕业工签",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2687",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2718",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "孩子和父母分别按家庭生活中心等事实及协定判断；教育入学不决定居民身份",
+          "source_urls": [
+            "https://www.impots.gouv.fr/international-particulier/imposition-des-revenus-de-source-etrangere",
+            "https://www.impots.gouv.fr/resident-de-france"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.france-visas.gouv.fr/web/france-visas/mineur-scolarise",
+          "title": "One moment please",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.france-visas.gouv.fr/web/france-visas/visa-de-long-sejour",
+          "title": "One moment please",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1898",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1866",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21304",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.education.gouv.fr/botexte/bo020328/MENE0200681C.htm",
+          "title": "Attention Required! | Cloudflare",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.education.gouv.fr/les-grands-principes-du-systeme-educatif-9842",
+          "title": "Attention Required! | Cloudflare",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2736",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2216",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2687",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2718",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.impots.gouv.fr/international-particulier/imposition-des-revenus-de-source-etrangere",
+          "title": "Imposition des revenus de source étrangère |impots.gouv.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.impots.gouv.fr/resident-de-france",
+          "title": "法国税务机关 Resident de France",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        }
+      ],
+      "changes": [
+        "替换税务居民官方正文入口"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/france/university/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "开放与录取",
+          "conclusion": "VLS-TS路线开放，录取、EEF和Parcoursup按国籍及学段，签证指示费50/99欧元；录取不保证批准",
+          "source_urls": [
+            "https://www.france-visas.gouv.fr/etudiant"
+          ]
+        },
+        {
+          "field": "资金、许可与续签",
+          "conclusion": "资金877.50欧元/月与SMIC税前47%公式；首卡4个月至1年，入境3个月验证，ANEF到期前4至2个月续签；100/150及逾期180欧元核对一致",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2231?lang=fr",
+            "https://www.legifrance.gouv.fr/eli/decret/2026/6/22/INTV2605727D/jo/texte"
+          ]
+        },
+        {
+          "field": "工作、家属与毕业",
+          "conclusion": "学生964小时/居留年和工作通知；家属按18个月居留后团聚另审；RECE一年不续、学历范围及2800.53欧元薪资，补申请最后2个月窗口",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F11166",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319"
+          ]
+        },
+        {
+          "field": "长期身份与归化",
+          "conclusion": "现行Service Public一般LTR合资格清单不含学生；普通归化5年及两年高教例外，2026 B2与公民考试已核对；法条具体排除文本本轮未成功获取",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F17359",
+            "https://www.immigration.interieur.gouv.fr/devenir-francais/procedures-dacces-a-nationalite-francaise"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "税务官网居民事实与税收协定、居民境外收入申报支持现有谨慎表述；替换未定位到正文的税法旧链接",
+          "source_urls": [
+            "https://www.impots.gouv.fr/international-particulier/imposition-des-revenus-de-source-etrangere",
+            "https://www.impots.gouv.fr/resident-de-france"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.france-visas.gouv.fr/etudiant",
+          "title": "One moment please",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2231?lang=fr",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/eli/decret/2026/6/22/INTV2605727D/jo/texte",
+          "title": "Just a moment...",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F11166",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17359",
+          "title": "Service-public.fr renforce temporairement son dispositif d’accès pour mieux vous servir ! |Service-Public.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.immigration.interieur.gouv.fr/devenir-francais/procedures-dacces-a-nationalite-francaise",
+          "title": "Attention Required! | Cloudflare",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.impots.gouv.fr/international-particulier/imposition-des-revenus-de-source-etrangere",
+          "title": "Imposition des revenus de source étrangère |impots.gouv.fr",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        },
+        {
+          "url": "https://www.impots.gouv.fr/resident-de-france",
+          "title": "法国税务机关 Resident de France",
+          "access_result": "官方正文已通过网页工具实际读取，所核字段见core_claims"
+        }
+      ],
+      "changes": [
+        "明确RECE到期前最后2个月申请窗口",
+        "更换税务居民官方正文入口；维护频率改30天"
+      ],
+      "unresolved": [
+        "CESEDA L426-18链接经多种官方路径仅返回目录或403；现行行政指南可支持学生不直接适用一般LTR，但本轮未完整重建法条排除及年限计算原文。"
+      ]
+    },
+    {
+      "path": "study-student-residence/new-zealand/primary-secondary/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放、资格、资金与期限",
+          "conclusion": "Fee Paying开放、全日制批准课程及Code签署；高教20000/年或1667/月，中小学17000/年或1417/月，学费离境另计；最长4年、按已付学期和护照；PhD保险例外仅用于大学",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+            "https://www.immigration.govt.nz/study/for-education-providers/offering-a-place-to-a-student/",
+            "https://www2.nzqa.govt.nz/tertiary/the-code/",
+            "https://www2.nzqa.govt.nz/tertiary/the-code/the-code-for-education-providers/code-resources-for-school-signatories/"
+          ]
+        },
+        {
+          "field": "续学与工作",
+          "conclusion": "续学看进度出勤；转机构/降级须新签证，条件变更不延长日期；25小时凭签证条件，旧20小时需获批变更；research Masters/PhD不限时但仍须全日制，学生不得自雇",
+          "source_urls": [
+            "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/check-or-change-your-student-visa-conditions/",
+            "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+            "https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-student-visa-work-rights/"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "大学伴侣工签限9/10级及列明7/8；PhD等才直接支持子女学生签；监护仅一名合法父母/监护人，孩子<=17或1至13年级，须同住；监护资金和转签限制依官页",
+          "source_urls": [
+            "https://www.immigration.govt.nz/process-to-apply/once-you-have-a-visa/bringing-family-to-new-zealand/bringing-family-on-a-student-visa/",
+            "https://www.immigration.govt.nz/visas/partner-of-a-student-work-visa/",
+            "https://www.immigration.govt.nz/visas/guardian-visitor-visa/"
+          ]
+        },
+        {
+          "field": "长期身份与税务",
+          "conclusion": "学生/监护临时签不自动转居民；入籍需5年无限期居留身份、每年240和合计1350；IRD183/PPA及有条件275天非居民访客特例分别判断，全球收入与4年外国被动收入例外不免除海外工资",
+          "source_urls": [
+            "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/",
+            "https://www.ird.govt.nz/topics/tax-residency/tax-residency-status",
+            "https://www.ird.govt.nz/international/individuals/tax-for-new-zealand-tax-residents"
+          ]
+        },
+        {
+          "field": "中小学照护与升学",
+          "conclusion": "未满10岁父母/法定监护同住，NZQA宿舍例外；<=17岁机构住宿声明，公校先本地生/奖学金名额；工作限>=16且12/13年级书面同意；中小学毕业不产生PSWV",
+          "source_urls": [
+            "https://www2.nzqa.govt.nz/tertiary/the-code/the-code-for-education-providers/code-resources-for-school-signatories/",
+            "https://www.education.govt.nz/education-professionals/schools-year-0-13/enrolment/enrolling-students-overseas",
+            "https://www.immigration.govt.nz/study/for-education-providers/offering-a-place-to-a-student/",
+            "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+          "title": "Fee Paying Student Visa » Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/study/for-education-providers/offering-a-place-to-a-student/",
+          "title": "Offering a place to a student :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www2.nzqa.govt.nz/tertiary/the-code/",
+          "title": "The Tertiary and International Learners Code of Practice - NZQA",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www2.nzqa.govt.nz/tertiary/the-code/the-code-for-education-providers/code-resources-for-school-signatories/",
+          "title": "Code resources for school signatories - NZQA",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/check-or-change-your-student-visa-conditions/",
+          "title": "Check or change your student visa conditions :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+          "title": "Working on a student visa :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-student-visa-work-rights/",
+          "title": "Upcoming changes to student visa work rights :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/process-to-apply/once-you-have-a-visa/bringing-family-to-new-zealand/bringing-family-on-a-student-visa/",
+          "title": "Bringing family if you have a student visa :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/visas/partner-of-a-student-work-visa/",
+          "title": "Partner of a Student Work Visa » Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/visas/guardian-visitor-visa/",
+          "title": "Guardian Visitor Visa » Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/",
+          "title": "Presence in NZ requirements | New Zealand Government",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.ird.govt.nz/topics/tax-residency/tax-residency-status",
+          "title": "Tax residency status for individuals",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.ird.govt.nz/international/individuals/tax-for-new-zealand-tax-residents",
+          "title": "Tax for New Zealand tax residents",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.education.govt.nz/education-professionals/schools-year-0-13/enrolment/enrolling-students-overseas",
+          "title": "Enrolling students from overseas - Ministry of EducationSkip to main content",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        }
+      ],
+      "changes": [
+        "维护频率统一30天",
+        "补监护人资金、转签限制及已公告递件系统变化"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/new-zealand/university/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放、资格、资金与期限",
+          "conclusion": "Fee Paying开放、全日制批准课程及Code签署；高教20000/年或1667/月，中小学17000/年或1417/月，学费离境另计；最长4年、按已付学期和护照；PhD保险例外仅用于大学",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+            "https://www.immigration.govt.nz/study/for-education-providers/offering-a-place-to-a-student/",
+            "https://www2.nzqa.govt.nz/tertiary/the-code/",
+            "https://www2.nzqa.govt.nz/tertiary/the-code/the-code-for-education-providers/code-resources-for-school-signatories/"
+          ]
+        },
+        {
+          "field": "续学与工作",
+          "conclusion": "续学看进度出勤；转机构/降级须新签证，条件变更不延长日期；25小时凭签证条件，旧20小时需获批变更；research Masters/PhD不限时但仍须全日制，学生不得自雇",
+          "source_urls": [
+            "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/check-or-change-your-student-visa-conditions/",
+            "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+            "https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-student-visa-work-rights/"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "大学伴侣工签限9/10级及列明7/8；PhD等才直接支持子女学生签；监护仅一名合法父母/监护人，孩子<=17或1至13年级，须同住；监护资金和转签限制依官页",
+          "source_urls": [
+            "https://www.immigration.govt.nz/process-to-apply/once-you-have-a-visa/bringing-family-to-new-zealand/bringing-family-on-a-student-visa/",
+            "https://www.immigration.govt.nz/visas/partner-of-a-student-work-visa/",
+            "https://www.immigration.govt.nz/visas/guardian-visitor-visa/"
+          ]
+        },
+        {
+          "field": "长期身份与税务",
+          "conclusion": "学生/监护临时签不自动转居民；入籍需5年无限期居留身份、每年240和合计1350；IRD183/PPA及有条件275天非居民访客特例分别判断，全球收入与4年外国被动收入例外不免除海外工资",
+          "source_urls": [
+            "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/",
+            "https://www.ird.govt.nz/topics/tax-residency/tax-residency-status",
+            "https://www.ird.govt.nz/international/individuals/tax-for-new-zealand-tax-residents"
+          ]
+        },
+        {
+          "field": "毕业生及未来变化",
+          "conclusion": "PSWV degree>=7境内30周；9/10级3年，7/8按学习时长；普通窗口到期3月、PhD6月、连续短高阶例外12月，资金5000；2026-11-16新短期毕业工签及Graduate Diploma扩大范围未生效",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/post-study-work-visa/",
+            "https://www.immigration.govt.nz/work/requirements-for-work-visas/how-long-you-can-work-on-work-visas/how-long-you-can-stay-on-a-post-study-work-visa/",
+            "https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+          "title": "Fee Paying Student Visa » Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/study/for-education-providers/offering-a-place-to-a-student/",
+          "title": "Offering a place to a student :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www2.nzqa.govt.nz/tertiary/the-code/",
+          "title": "The Tertiary and International Learners Code of Practice - NZQA",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www2.nzqa.govt.nz/tertiary/the-code/the-code-for-education-providers/code-resources-for-school-signatories/",
+          "title": "Code resources for school signatories - NZQA",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/check-or-change-your-student-visa-conditions/",
+          "title": "Check or change your student visa conditions :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+          "title": "Working on a student visa :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/about-us/news-centre/upcoming-changes-to-student-visa-work-rights/",
+          "title": "Upcoming changes to student visa work rights :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/process-to-apply/once-you-have-a-visa/bringing-family-to-new-zealand/bringing-family-on-a-student-visa/",
+          "title": "Bringing family if you have a student visa :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/visas/partner-of-a-student-work-visa/",
+          "title": "Partner of a Student Work Visa » Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/visas/guardian-visitor-visa/",
+          "title": "Guardian Visitor Visa » Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/",
+          "title": "Presence in NZ requirements | New Zealand Government",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.ird.govt.nz/topics/tax-residency/tax-residency-status",
+          "title": "Tax residency status for individuals",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.ird.govt.nz/international/individuals/tax-for-new-zealand-tax-residents",
+          "title": "Tax for New Zealand tax residents",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/visas/post-study-work-visa/",
+          "title": "Post-Study Work Visa » Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/work/requirements-for-work-visas/how-long-you-can-work-on-work-visas/how-long-you-can-stay-on-a-post-study-work-visa/",
+          "title": "How long you can stay on a Post Study Work Visa :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/",
+          "title": "New and updated post-study work visa options :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        }
+      ],
+      "changes": [
+        "维护频率统一30天"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/united-kingdom/primary-secondary/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放状态、资格与录取",
+          "conclusion": "Student为16岁起和合格CAS；Child Student为4至17岁独立学校，北爱尔兰寄宿voluntary grammar例外及父母同意边界仍成立。",
+          "source_urls": [
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student"
+          ]
+        },
+        {
+          "field": "资金、费用、期限",
+          "conclusion": "Student1529/1171，Child按住宿模式570、1560+625或1334/1023，最长9个月、28天持有与31天证据窗口；申请费558和学生IHS776仍一致。Student课程附加期及Child年龄分段期限与原文相符。",
+          "source_urls": [
+            "https://www.gov.uk/student-visa/money",
+            "https://www.gov.uk/child-study-visa/money",
+            "https://www.gov.uk/child-study-visa/overview",
+            "https://www.gov.uk/healthcare-immigration-application/how-much-pay",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student"
+          ]
+        },
+        {
+          "field": "续签、工作与家属",
+          "conclusion": "3个月申请窗口及28天课程衔接；Student合资格学位学期20小时，Child16岁起10小时但条文over16/16orover措辞差异保留。家属研究学位限制、845/680及家长4至11岁儿童陪读无工作权仍一致。",
+          "source_urls": [
+            "https://www.gov.uk/student-visa/extend-your-visa",
+            "https://www.gov.uk/child-study-visa/extend-your-visa",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student",
+            "https://www.gov.uk/student-visa/family-members",
+            "https://www.gov.uk/parent-of-a-child-at-school-visa"
+          ]
+        },
+        {
+          "field": "毕业后、长期身份与税务",
+          "conclusion": "Graduate在2026年底前申请2年、2027起18个月、博士3年；不由中学毕业触发。10年合法居留路径和HMRC事实税籍判断保留。",
+          "source_urls": [
+            "https://www.gov.uk/graduate-visa",
+            "https://www.gov.uk/long-residence/eligibility",
+            "https://www.gov.uk/tax-foreign-income/residence"
+          ]
+        },
+        {
+          "field": "限制与证据冲突",
+          "conclusion": "Student visa brake目前仍适用于阿富汗、喀麦隆、缅甸、苏丹境外主申请；未发现解除公告。Child工作年龄与资金表的官方文字差异已有明确提示，不擅自裁决。",
+          "source_urls": [
+            "https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student",
+          "title": "Immigration Rules - Immigration Rules: Appendix Student - Guidance - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student",
+          "title": "Immigration Rules - Immigration Rules Appendix Child Student - Guidance - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/student-visa/money",
+          "title": "Student visa : Money you need - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/child-study-visa/money",
+          "title": "Child Student visa: Money you need - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/child-study-visa/overview",
+          "title": "Child Student visa: Overview - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/healthcare-immigration-application/how-much-pay",
+          "title": "Pay for UK healthcare as part of your immigration application: How much you have to pay - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/student-visa/extend-your-visa",
+          "title": "Student visa : Extend your visa - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/child-study-visa/extend-your-visa",
+          "title": "Child Student visa: Extend your visa - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/student-visa/family-members",
+          "title": "Student visa : Your partner and children  - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/parent-of-a-child-at-school-visa",
+          "title": "Parent of a Child Student visa: Who can apply - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/graduate-visa",
+          "title": "Graduate visa: Overview - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/long-residence/eligibility",
+          "title": "Indefinite leave to remain if you’ve been in the UK for 10 years (long residence): Eligibility - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/tax-foreign-income/residence",
+          "title": "Tax on foreign income: UK residence and tax - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system",
+          "title": "Visa brake: changes to the UK visa system - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/united-kingdom/university/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放状态、资格与录取",
+          "conclusion": "Student为16岁起和合格CAS；Child Student为4至17岁独立学校，北爱尔兰寄宿voluntary grammar例外及父母同意边界仍成立。",
+          "source_urls": [
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student"
+          ]
+        },
+        {
+          "field": "资金、费用、期限",
+          "conclusion": "Student1529/1171，Child按住宿模式570、1560+625或1334/1023，最长9个月、28天持有与31天证据窗口；申请费558和学生IHS776仍一致。Student课程附加期及Child年龄分段期限与原文相符。",
+          "source_urls": [
+            "https://www.gov.uk/student-visa/money",
+            "https://www.gov.uk/child-study-visa/money",
+            "https://www.gov.uk/child-study-visa/overview",
+            "https://www.gov.uk/healthcare-immigration-application/how-much-pay",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student"
+          ]
+        },
+        {
+          "field": "续签、工作与家属",
+          "conclusion": "3个月申请窗口及28天课程衔接；Student合资格学位学期20小时，Child16岁起10小时但条文over16/16orover措辞差异保留。家属研究学位限制、845/680及家长4至11岁儿童陪读无工作权仍一致。",
+          "source_urls": [
+            "https://www.gov.uk/student-visa/extend-your-visa",
+            "https://www.gov.uk/child-study-visa/extend-your-visa",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student",
+            "https://www.gov.uk/student-visa/family-members",
+            "https://www.gov.uk/parent-of-a-child-at-school-visa"
+          ]
+        },
+        {
+          "field": "毕业后、长期身份与税务",
+          "conclusion": "Graduate在2026年底前申请2年、2027起18个月、博士3年；不由中学毕业触发。10年合法居留路径和HMRC事实税籍判断保留。",
+          "source_urls": [
+            "https://www.gov.uk/graduate-visa",
+            "https://www.gov.uk/long-residence/eligibility",
+            "https://www.gov.uk/tax-foreign-income/residence"
+          ]
+        },
+        {
+          "field": "限制与证据冲突",
+          "conclusion": "Student visa brake目前仍适用于阿富汗、喀麦隆、缅甸、苏丹境外主申请；未发现解除公告。Child工作年龄与资金表的官方文字差异已有明确提示，不擅自裁决。",
+          "source_urls": [
+            "https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student",
+          "title": "Immigration Rules - Immigration Rules: Appendix Student - Guidance - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student",
+          "title": "Immigration Rules - Immigration Rules Appendix Child Student - Guidance - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/student-visa/money",
+          "title": "Student visa : Money you need - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/child-study-visa/money",
+          "title": "Child Student visa: Money you need - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/child-study-visa/overview",
+          "title": "Child Student visa: Overview - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/healthcare-immigration-application/how-much-pay",
+          "title": "Pay for UK healthcare as part of your immigration application: How much you have to pay - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/student-visa/extend-your-visa",
+          "title": "Student visa : Extend your visa - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/child-study-visa/extend-your-visa",
+          "title": "Child Student visa: Extend your visa - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/student-visa/family-members",
+          "title": "Student visa : Your partner and children  - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/parent-of-a-child-at-school-visa",
+          "title": "Parent of a Child Student visa: Who can apply - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/graduate-visa",
+          "title": "Graduate visa: Overview - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/long-residence/eligibility",
+          "title": "Indefinite leave to remain if you’ve been in the UK for 10 years (long residence): Eligibility - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/tax-foreign-income/residence",
+          "title": "Tax on foreign income: UK residence and tax - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system",
+          "title": "Visa brake: changes to the UK visa system - GOV.UK",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/united-states/primary-secondary/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放、资格与资金",
+          "conclusion": "F-1学业及临时意图、境外住所、SEVP/I-20与首年可用资金及后续可靠来源；移民申请不是自动排除，未授权工作不能作资金方案",
+          "source_urls": [
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-2",
+            "https://fam.state.gov/fam/09FAM/09FAM040205.html",
+            "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html"
+          ]
+        },
+        {
+          "field": "费用、入境和停留",
+          "conclusion": "I-901通常350、签证185、新生365天签发与30天入境、护照6个月例外；现行D/S与公立高中固定期限分清",
+          "source_urls": [
+            "https://www.ice.gov/doclib/sevis/pdf/i901.pdf",
+            "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-8",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-3"
+          ]
+        },
+        {
+          "field": "全日制、续学和转校",
+          "conclusion": "本科12学分、研究生认证、网课1门或3学分/最后1门须现场；DSO事先降课、合理学术医疗延期；转学5个月较早截止及OPT转校终止",
+          "source_urls": [
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-3",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-4",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-8"
+          ]
+        },
+        {
+          "field": "工作与毕业",
+          "conclusion": "校内20小时、假期全职但课程结束原则不得校内工作；CPT通常大学一学年/研究生例外，12个月全职CPT排除OPT，OPT12+STEM24及EAD先批准",
+          "source_urls": [
+            "https://fam.state.gov/fam/09FAM/09FAM040205.html",
+            "https://www.ice.gov/sevis/employment",
+            "https://www.ice.gov/sevis/practical-training"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶及未婚21岁以下子女F-2，独立I-20不缴I-901、不能工作；高教非全日制及K12可全日制，须先获准适当身份才开始全日制高教",
+          "source_urls": [
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-9",
+            "https://www.ice.gov/doclib/sevis/pdf/Nonimmigrant%20Class%20Who%20Can%20Study.pdf",
+            "https://www.ice.gov/doclib/sevis/pdf/i901.pdf"
+          ]
+        },
+        {
+          "field": "长期身份和税务",
+          "conclusion": "学生不直接PR；普通归化须先LPR通常5年30月；IRS学生最多5个日历年免计天数而非免税、8843和应税收入申报分别判断",
+          "source_urls": [
+            "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization",
+            "https://www.irs.gov/individuals/international-taxpayers/exempt-individual-who-is-a-student",
+            "https://www.irs.gov/individuals/international-taxpayers/foreign-students-scholars-teachers-researchers-and-exchange-visitors"
+          ]
+        },
+        {
+          "field": "限制与未来规则",
+          "conclusion": "PP10998适用生效时境外且无有效签证者及例外；F/M/J社媒public审查、2026-07-15地点原则；91FR44976预定9月15日生效仍附国会审查条件，4年固定期/30天/转校与层级限制及D/S过渡条款按正式PDF147至150页实读，未将未来规则称现行",
+          "source_urls": [
+            "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+            "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
+            "https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-niv-applicants-in-their-country-of-residence.html",
+            "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14439.pdf"
+          ]
+        },
+        {
+          "field": "中小学及童工",
+          "conclusion": "公立K8禁F1、公高12个月并全额无补贴支付；按法律及国务院F1范围裁决旧图F/M/J笼统表述；公高固定I94到期后转校升学须I539，DSO不能单独续I94；DOL实读联邦州较严及年龄时数岗位限制",
+          "source_urls": [
+            "https://travel.state.gov/content/travel/en/us-visas/study/student-visa/foreign-students-in-public-schools.html",
+            "https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1184",
+            "https://studyinthestates.dhs.gov/assets/sevp_publicprivatek12student_infographic_v4.pdf",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-3",
+            "https://www.dol.gov/agencies/whd/fact-sheets/43-child-labor-non-agriculture"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-2",
+          "title": "volume-2-part-f-chapter-2",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://fam.state.gov/fam/09FAM/09FAM040205.html",
+          "title": "09FAM040205.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+          "title": "student-visa.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.ice.gov/doclib/sevis/pdf/i901.pdf",
+          "title": "i901.pdf",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-8",
+          "title": "volume-2-part-f-chapter-8",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-3",
+          "title": "volume-2-part-f-chapter-3",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-4",
+          "title": "volume-2-part-f-chapter-4",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.ice.gov/sevis/employment",
+          "title": "employment",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.ice.gov/sevis/practical-training",
+          "title": "practical-training",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-9",
+          "title": "volume-2-part-f-chapter-9",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.ice.gov/doclib/sevis/pdf/Nonimmigrant%20Class%20Who%20Can%20Study.pdf",
+          "title": "Nonimmigrant%20Class%20Who%20Can%20Study.pdf",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization",
+          "title": "citizenship-and-naturalization",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.irs.gov/individuals/international-taxpayers/exempt-individual-who-is-a-student",
+          "title": "exempt-individual-who-is-a-student",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.irs.gov/individuals/international-taxpayers/foreign-students-scholars-teachers-researchers-and-exchange-visitors",
+          "title": "foreign-students-scholars-teachers-researchers-and-exchange-visitors",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+          "title": "suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
+          "title": "announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-niv-applicants-in-their-country-of-residence.html",
+          "title": "adjudicating-niv-applicants-in-their-country-of-residence.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14439.pdf",
+          "title": "2026-14439.pdf",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa/foreign-students-in-public-schools.html",
+          "title": "foreign-students-in-public-schools.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1184",
+          "title": "view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1184",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://studyinthestates.dhs.gov/assets/sevp_publicprivatek12student_infographic_v4.pdf",
+          "title": "sevp_publicprivatek12student_infographic_v4.pdf",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.dol.gov/agencies/whd/fact-sheets/43-child-labor-non-agriculture",
+          "title": "43-child-labor-non-agriculture",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        }
+      ],
+      "changes": [
+        "更正公立高中通常固定停留期限及I539要求",
+        "明确旧图示累计范围以法律及国务院F1范围为准",
+        "删除页面自身核验基准措辞"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "study-student-residence/united-states/university/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放、资格与资金",
+          "conclusion": "F-1学业及临时意图、境外住所、SEVP/I-20与首年可用资金及后续可靠来源；移民申请不是自动排除，未授权工作不能作资金方案",
+          "source_urls": [
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-2",
+            "https://fam.state.gov/fam/09FAM/09FAM040205.html",
+            "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html"
+          ]
+        },
+        {
+          "field": "费用、入境和停留",
+          "conclusion": "I-901通常350、签证185、新生365天签发与30天入境、护照6个月例外；现行D/S与公立高中固定期限分清",
+          "source_urls": [
+            "https://www.ice.gov/doclib/sevis/pdf/i901.pdf",
+            "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-8",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-3"
+          ]
+        },
+        {
+          "field": "全日制、续学和转校",
+          "conclusion": "本科12学分、研究生认证、网课1门或3学分/最后1门须现场；DSO事先降课、合理学术医疗延期；转学5个月较早截止及OPT转校终止",
+          "source_urls": [
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-3",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-4",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-8"
+          ]
+        },
+        {
+          "field": "工作与毕业",
+          "conclusion": "校内20小时、假期全职但课程结束原则不得校内工作；CPT通常大学一学年/研究生例外，12个月全职CPT排除OPT，OPT12+STEM24及EAD先批准",
+          "source_urls": [
+            "https://fam.state.gov/fam/09FAM/09FAM040205.html",
+            "https://www.ice.gov/sevis/employment",
+            "https://www.ice.gov/sevis/practical-training"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "配偶及未婚21岁以下子女F-2，独立I-20不缴I-901、不能工作；高教非全日制及K12可全日制，须先获准适当身份才开始全日制高教",
+          "source_urls": [
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-9",
+            "https://www.ice.gov/doclib/sevis/pdf/Nonimmigrant%20Class%20Who%20Can%20Study.pdf",
+            "https://www.ice.gov/doclib/sevis/pdf/i901.pdf"
+          ]
+        },
+        {
+          "field": "长期身份和税务",
+          "conclusion": "学生不直接PR；普通归化须先LPR通常5年30月；IRS学生最多5个日历年免计天数而非免税、8843和应税收入申报分别判断",
+          "source_urls": [
+            "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization",
+            "https://www.irs.gov/individuals/international-taxpayers/exempt-individual-who-is-a-student",
+            "https://www.irs.gov/individuals/international-taxpayers/foreign-students-scholars-teachers-researchers-and-exchange-visitors"
+          ]
+        },
+        {
+          "field": "限制与未来规则",
+          "conclusion": "PP10998适用生效时境外且无有效签证者及例外；F/M/J社媒public审查、2026-07-15地点原则；91FR44976预定9月15日生效仍附国会审查条件，4年固定期/30天/转校与层级限制及D/S过渡条款按正式PDF147至150页实读，未将未来规则称现行",
+          "source_urls": [
+            "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+            "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
+            "https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-niv-applicants-in-their-country-of-residence.html",
+            "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14439.pdf"
+          ]
+        },
+        {
+          "field": "OPT及cap-gap边界",
+          "conclusion": "OPT失业90/150天；cap-gap财政年4月1日或已批准开始日较早，宽限期才递交H1B仅身份延长不恢复工作；D/S过渡I765于2027-03-18前合资格免配套I539",
+          "source_urls": [
+            "https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/extension-of-post-completion-optional-practical-training-opt-and-f-1-status-for-eligible-students",
+            "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14439.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-2",
+          "title": "volume-2-part-f-chapter-2",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://fam.state.gov/fam/09FAM/09FAM040205.html",
+          "title": "09FAM040205.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+          "title": "student-visa.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.ice.gov/doclib/sevis/pdf/i901.pdf",
+          "title": "i901.pdf",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-8",
+          "title": "volume-2-part-f-chapter-8",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-3",
+          "title": "volume-2-part-f-chapter-3",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-4",
+          "title": "volume-2-part-f-chapter-4",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.ice.gov/sevis/employment",
+          "title": "employment",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.ice.gov/sevis/practical-training",
+          "title": "practical-training",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-9",
+          "title": "volume-2-part-f-chapter-9",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.ice.gov/doclib/sevis/pdf/Nonimmigrant%20Class%20Who%20Can%20Study.pdf",
+          "title": "Nonimmigrant%20Class%20Who%20Can%20Study.pdf",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization",
+          "title": "citizenship-and-naturalization",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.irs.gov/individuals/international-taxpayers/exempt-individual-who-is-a-student",
+          "title": "exempt-individual-who-is-a-student",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.irs.gov/individuals/international-taxpayers/foreign-students-scholars-teachers-researchers-and-exchange-visitors",
+          "title": "foreign-students-scholars-teachers-researchers-and-exchange-visitors",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+          "title": "suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
+          "title": "announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-niv-applicants-in-their-country-of-residence.html",
+          "title": "adjudicating-niv-applicants-in-their-country-of-residence.html",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14439.pdf",
+          "title": "2026-14439.pdf",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        },
+        {
+          "url": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/extension-of-post-completion-optional-practical-training-opt-and-f-1-status-for-eligible-students",
+          "title": "extension-of-post-completion-optional-practical-training-opt-and-f-1-status-for-eligible-students",
+          "access_result": "当日官方正文实际读取；USCIS/DOL通过真实浏览器，PDF正文及K12图表已核读；PP10998和归化结合投资组当日实读证据交叉确认"
+        }
+      ],
+      "changes": [
+        "补cap-gap仅延身份不恢复已失效工作权的例外",
+        "补未来OPT/EOS过渡窗口与直接USCIS章节来源",
+        "删除页面自身核验基准措辞"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "visitor-financial-remote/new-zealand/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "远程活动",
+          "conclusion": "境外雇主/客户、无时数上限；不含新西兰主体交换食宿及必须到场工作；2025-01-27或之后申请访客签",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visit/checking-or-changing-the-conditions-of-your-visitor-visa-or-nzeta/working-remotely-in-new-zealand-on-a-visitor-visa/"
+          ]
+        },
+        {
+          "field": "资金、身份、期限、家属及续留",
+          "conclusion": "普通Visitor和VisaWaiver分开：1000/400、6/12或9/18与NZeTA3/6个月，家属联合申请或分别NZeTA；无本路线自动PR",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/visitor-visa/",
+            "https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "IRD最新居民183/PPA及有条件275天非居民访客，不能把INZ旧92/183所得税说明当统一免税期",
+          "source_urls": [
+            "https://www.ird.govt.nz/topics/tax-residency/tax-residency-status"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.immigration.govt.nz/visit/checking-or-changing-the-conditions-of-your-visitor-visa-or-nzeta/working-remotely-in-new-zealand-on-a-visitor-visa/",
+          "title": "Check or change your visitor visa conditions :: Immigration New Zealand",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.ird.govt.nz/topics/tax-residency/tax-residency-status",
+          "title": "Tax residency status for individuals",
+          "access_result": "当日官方正文已读取并核对所列字段"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/visas/visitor-visa/",
+          "title": "INZ Visitor Visa",
+          "access_result": "官方正文已读：资金、联合家属、6/9个月、未来纸质申请变更"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/",
+          "title": "INZ Visa Waiver Visitor Visa",
+          "access_result": "官方正文已读：3/6个月及NZeTA每人分别办理"
+        }
+      ],
+      "changes": [
+        "分开普通Visitor与NZeTA许可期限",
+        "补最低访客资金和家属规则",
+        "补远程活动边界及非居民访客税务特例"
+      ],
+      "unresolved": []
+    }
+  ]
+}

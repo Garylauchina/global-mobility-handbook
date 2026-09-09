@@ -14,18 +14,18 @@ region: "中东"
 
 ## Golden Residency — Property Owner
 
-- **当前状态：** 开放/门槛冲突
-- **最低门槛或收入：** 专项官网称房产合计BHD130k；NPRA部分操作页仍显示BHD200k
+- **当前状态：** 开放
+- **最低门槛或收入：** 专项官网和NPRA当前服务页均列购入时本人房产份额合计至少BHD130k
 - **资金或收入性质：** 房地产
-- **首次身份与期限：** 10年/长期可续；官方项目称永久型居留
+- **首次身份与期限：** 永久居留；NPRA明确每10年缴BHD300行政费，并非仅10年后身份自动终止
 - **居住与续签：** 官方FAQ称无最低停留
-- **当地工作：** 工作仍可能需LMRA许可
+- **当地工作：** 须取得LMRA工作许可；Golden Residency本身不替代该许可
 - **家属：** 配偶、子女、父母可纳入
 - **永居或入籍路径：** 非入籍路径
 - **税务提示：** 巴林无个人所得税；经营及原税籍另核。
-- **关键限制与变化：** 政府页面存在门槛冲突；递件前必须向NPRA书面确认
+- **关键限制与变化：** BHD200k为旧门槛资料，不能用它替代当前专项官网及NPRA的BHD130k标准；共有房产按本人份额判断资格
 - **证据等级：** B
-- **主要来源：** [官方或主要依据](https://goldenresidency.gov.bh/eligibility-criteria/)
+- **主要来源：** [专项官网资格](https://goldenresidency.gov.bh/eligibility-criteria/)；[NPRA当前总入口](https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/)；[专项官网FAQ](https://goldenresidency.gov.bh/faqs/)
 
 ## 纠错与更新
 

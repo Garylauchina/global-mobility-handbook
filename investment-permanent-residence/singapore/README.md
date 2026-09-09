@@ -15,9 +15,9 @@ region: "亚洲"
 ## Global Investor Programme
 
 - **当前状态：** 开放
-- **最低门槛或收入：** A：向新设或扩张中的新加坡企业投入至少S$10m；B：投入GIP指定基金S$25m；C：设立单一家族办公室，AUM至少S$200m，并在新加坡部署至少S$50m
+- **最低门槛或收入：** A：向新设或扩张中的新加坡企业投入至少S$10m；B：投入GIP指定基金S$25m；C：设立单一家族办公室，AUM至少S$200m，并向新加坡转入至少S$50m，在最终获批后12个月内投向新加坡获准交易所上市股票
 - **资金或收入性质：** A为真实企业资本；B为自担风险的指定基金投资，并非政府保本；C须维持家办、资产管理规模和指定部署
-- **首次身份与期限：** 最终获批并完成手续后直接取得PR；再入境许可（REP）通常为5年。原则批准后通常须在6个月内完成投资，并在最终批准后12个月内正式取得PR
+- **首次身份与期限：** 最终获批并完成手续后直接取得PR；再入境许可（REP）通常为5年。A/B路线原则批准后通常须在6个月内完成投资；C路线须先向新加坡转入指定资金，再按最终批准后12个月的期限完成规定部署；正式取得PR手续须在最终批准后12个月内完成
 - **居住与续签：** 续的是REP而非PR本身。5年续期须同时达到投资、就业/经济贡献及主申请人或全部随行PR家属过半时间居住等路线条件；3年续期允许在经济贡献与居住条件之间择一，但仍须满足投资条件
 - **当地工作：** PR通常无须另办普通工作准证即可工作或经营；受监管行业许可仍另行适用
 - **家属：** 配偶及递件时未婚未满21岁子女可列入PR；父母和年满21岁的未婚子女通常只能申请与REP挂钩的长期探访准证；男性附属PR可能承担国民服役
@@ -25,7 +25,7 @@ region: "亚洲"
 - **税务提示：** PR不自动等于个人税务居民；个人天数、通常居住、企业和家办安排应分别按IRAS规则判断
 - **关键限制与变化：** 申请人须符合成熟企业主、下一代企业主、高增长企业创始人或家办负责人等背景及营收/估值条件；不是只凭资金即可申请
 - **证据等级：** A
-- **主要来源：** [EDB项目入口](https://www.edb.gov.sg/en/how-we-help/global-investor-programme)；[EDB GIP Factsheet](https://www.edb.gov.sg/content/dam/edb-en/how-we-help/global-investor-programme/GIP%20Factsheet.pdf)；[ICA公民申请资格](https://www.ica.gov.sg/reside/citizenship)
+- **主要来源：** [EDB项目入口](https://www.edb.gov.sg/en/how-we-help/global-investor-programme)；[EDB GIP Factsheet](https://assets.app.optical.gov.sg/edb/production/published/collections/pages/%252Fhow-we-help%252Fglobal-investor-programme/5d1d8faa-729b-463d-ac13-9d2c9b5a6abd.pdf)；[ICA公民申请资格](https://www.ica.gov.sg/reside/citizenship)；[MOM关于PR免工作准证的说明](https://www.mom.gov.sg/faq/work-pass-general/how-can-an-employer-hire-a-stateless-person-who-holds-a-special-pass-issued-by-ica)；[IRAS税务居民规则](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency)
 
 ## 纠错与更新
 

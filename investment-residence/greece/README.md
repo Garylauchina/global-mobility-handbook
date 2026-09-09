@@ -18,14 +18,24 @@ region: "欧洲"
 - **最低门槛或收入：** 阿提卡全区、塞萨洛尼基地区单位、米科诺斯、圣托里尼及人口超过3,100的岛屿为€800k；其他地区为€400k；合资格商改住或受保护建筑为€250k
 - **资金或收入性质：** 房地产购买或法定特定租赁结构；普通€800k/€400k购买路线原则上须为单一物业，已有建筑或有建造许可的物业主要空间通常不少于120㎡；两类€250k特殊路线不适用120㎡限制
 - **首次身份与期限：** 5年永久投资者居留许可，可等期续签
-- **居住与续签：** 维持合资格所有权或合同即可续签，离境本身不妨碍续签；受保护建筑须在首次续签前完成全面修复或重建
+- **居住与续签：** 维持合资格所有权或合同，离境本身不妨碍续签；受保护建筑须在首次续签前完成全面修复或重建。置换须先完成新合资格投资并向主管机关申报确认，再处置原物业，避免产权中断导致撤销
 - **当地工作：** B.5许可不授予任何形式的就业权；持有资产或取得投资收益不等于可以在企业任职或实际经营
 - **家属：** 配偶或登记伴侣、原则上未满21岁的合资格未婚子女、符合规定的无行为能力受扶养成年子女，以及双方直系尊亲属；子女满21岁后的独立许可另有期限和条件
 - **永居或入籍路径：** Golden Visa可在维持投资时续签，但不自动转欧盟长期居民或国籍；普通归化通常要求7年合法且实际持续居住、语言及经济社会融入，零居住持卡不足
 - **税务提示：** 居留卡不自动决定税籍；永久或主要住所、惯常居所、重大利益中心及任意12个月超过183天等因素均可能触发希腊税务居民规则
-- **关键限制与变化：** 商改住须在2024-04-05后且递件前完成用途变更；受保护建筑和新法物业另有修复、短租/转租及用途限制。本文只覆盖第100条B.5房地产路线，不代表希腊全部投资居留类别
+- **关键限制与变化：** 商改住须在2024-04-05后且递件前完成用途变更；€250k特殊优惠不能在获签后转售时由下一买家重复套用，2026年第1号通知对特殊再次改造情形另作区分。新法物业禁止法定短租/短期转租，商改住不得用作企业总部或分支；旧制及过渡投资另有例外。本文限第100条B.5房地产路线
 - **证据等级：** A
-- **主要来源：** [国家行政程序登记：商改住](https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance)；[移民部第9号通知](https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf)；[AADE税务居民规则](https://www.aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc)
+- **主要来源：** [国家行政程序登记：商改住](https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance)；[移民部第9号通知](https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf)；[2026年第1号通知：再售/置换/家庭](https://diavgeia.gov.gr/doc/%CE%A8%CE%A3%CE%99746%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A7%CE%9C)；[移民法Article95](https://api.et.gr/apiLAW/1/2023/5038/pdf)；[2026年家庭条款修法Article29](https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=CELEX:72004L0038GRC_202604740)；[普通归化Mitos程序](https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%B7%CF%83%CE%B7_%CE%91%CE%BB%CE%BB%CE%BF%CE%B3%CE%B5%CE%BD%CF%8E%CE%BD_%CE%91%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CF%8E%CE%BD)；[AADE税务居民规则](https://www.aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc)
+
+## 政策时间线
+
+### 2026-04-21 — 第1号通知明确特殊物业再售及置换规则
+
+- **来源日期：** 移民部第1号通知，协议号72019，2026-04-21；属于官方实施解释
+- **变化摘要：** €250k商改住/受保护建筑优惠不能在已经依优惠获签后的再售交易中简单重复使用；置换应先完成新合资格投资及向主管机关申报确认，再出售原物业
+- **适用边界：** 通知对受保护非住宅随后再改为住宅等情形另有说明，不能把所有旧物业转售都视为€250k可用
+- **官方依据：** [第1号通知说明9及11](https://diavgeia.gov.gr/doc/%CE%A8%CE%A3%CE%99746%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A7%CE%9C)
+- **事件证据：** A
 
 ## 纠错与更新
 

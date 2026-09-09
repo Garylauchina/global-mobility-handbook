@@ -29,11 +29,9 @@ region: "北美"
 - **税务提示：** 日历年内任何时间符合绿卡测试，通常即成为美国联邦税务居民并原则上申报全球所得；所得、海外账户、遗产和赠与义务应在取得身份前规划
 - **关键限制与变化：** EB-5约占职业移民年度额度7.1%，家属也占签证号；其中农村20%、高失业10%、基础设施2%为预留。2026年9月非预留最终裁定日：中国大陆2016-12-01、印度U（不可用）、其他列示地区C（当前有名额）；三类预留均为C（当前有名额）
 - **证据等级：** A
-- **主要来源：** [8 USC §1153(b)(5)](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1153)；[2026年9月Visa Bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html)；[IRS绿卡测试](https://www.irs.gov/individuals/international-taxpayers/us-tax-residency-green-card-test)
+- **主要来源：** [8 USC §1153(b)(5)](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1153)；[2026年9月Visa Bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html)；[USCIS投资移民程序](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-process)；[I-829](https://www.uscis.gov/i-829)；[USCIS收件通知延长身份证明](https://content.govdelivery.com/accounts/USDHSCIS/bulletins/3447266)；[永久居民工作权](https://www.uscis.gov/green-card/after-we-grant-your-green-card/rights-and-responsibilities-of-a-green-card-holder-permanent-resident)；[维持永久居留](https://www.uscis.gov/green-card/after-we-grant-your-green-card/maintaining-permanent-residence)；[普通归化资格](https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization/i-am-a-lawful-permanent-resident-of-5-years)；[IRS绿卡测试](https://www.irs.gov/individuals/international-taxpayers/us-tax-residency-green-card-test)
 
 ## 政策时间线
-
-> 本时间线自2026-09-02起前向记录；仅在有官方一手证据时选择性补录此前事件，不保证覆盖完整历史。
 
 ### 2026-01-01 — 部分国籍及旅行证件的签证签发/入境限制生效
 
@@ -49,6 +47,14 @@ region: "北美"
 - **过渡安排：** 年度额度于2026-10-01重置，但不保证届时立即无排期
 - **官方依据：** [美国国务院额度公告](https://travel.state.gov/content/travel/en/News/visas-news/india-per-country-limit-reached-in-the-eb-5-unreserved-category.html)
 - **事件证据：** A
+### 2026-08-21 — 75国移民签证财政风险暂停不再生效
+
+- **公布与生效：** 国务院于2026-08-28更新说明，依据法院命令，自2026-08-21起原2026年1月对75国的移民签证签发暂停不再生效
+- **变化摘要：** 此项暂停的终止不等同于取消PP10998、排期或其他签证资格要求
+- **过渡安排：** 各申请仍按所属签证类别及其他有效限制审查
+- **官方依据：** [国务院移民签证审理更新](https://travel.state.gov/content/travel/en/News/visas-news/immigrant-visa-processing-updates-for-nationalities-at-high-risk-of-public-benefits-usage.html)
+- **事件证据：** A
+
 ### 2027-01-01 — 投资额将首次按通胀调整
 
 - **公布与生效：** 调整机制已写入现行成文法，首次调整日为2027-01-01

@@ -31,7 +31,7 @@ Current, stale, and candidate pages keep these frontmatter keys: `title`, `categ
 - Reopening requires a current application route and sufficient official support; historical eligibility alone is insufficient.
 - Record the transition in `CHANGELOG.md`.
 
-Warning-archive pages use `title`, `category`, and `status: "archived-or-unverified"` in frontmatter. Evidence belongs to each program block because one country page may describe several historical or uncertain programs; do not force active-page fields onto this template. These pages remain part of the full monthly review.
+Warning-archive pages use `title`, `category`, and `status: "archived-or-unverified"` in frontmatter. Evidence belongs to each program block because one country page may describe several historical or uncertain programs; do not force active-page fields onto this template. These pages remain part of the full 30-day review.
 
 ## Broken or conflicting source
 
@@ -43,7 +43,7 @@ Warning-archive pages use `title`, `category`, and `status: "archived-or-unverif
 
 ## Batch or periodic review
 
-- Use `node scripts/audit-freshness.mjs` for priority; a monthly review covers the complete registered policy-page list, including candidate, warning-archive and not-yet-due pages. Keep a list of pages actually opened.
+- Use `node scripts/audit-freshness.mjs` for priority; a 30-day review covers the complete registered policy-page list, including candidate, warning-archive and not-yet-due pages. Keep a list of pages actually opened.
 - Review in bounded batches that can be evidenced and validated.
 - Do not apply one country's rule, terminology, fee, or status to another by pattern matching.
 - Report pages reviewed with no change separately from pages not reviewed.

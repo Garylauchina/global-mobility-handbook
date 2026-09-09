@@ -21,7 +21,7 @@ region: "欧洲"
 - **录取与院校要求：** 常规学校路线须保证班级由不同国籍学生组成，学校须为具有国际定位的公立或国家认可学校，或不由公共资金资助/不主要由公共资金资助且为国际、外国或国家认可学历作准备的学校。申请通常须提交学校接收确认、年级和学校类别、费用或学校合同，以及住宿、既往学业、语言和未成年人照护文件；使领馆清单会因管辖地和个案调整。交换路线与常规长期学校就读的学校和期限审查不能互换。
 - **资金证明：** 依据 § 2(3) 与 2026 年外交部操作材料，§ 16f 学校就读的生活保障基准为每月 EUR 992；常见方式包括限制提款账户、具有偿付能力证明的 Verpflichtungserklärung，或合资格交换组织承担 §§ 66–68 费用的保证。学校/寄宿费、保险、旅行和其他实际支出须另外覆盖；某一使领馆文件清单不能替代主管签证机关和外国人管理局对个案资金可用性的最终判断。
 - **首次许可与期限：** 通常须在入境前申请 § 16f 目的国家签证，未成年人国家签证标准费为 EUR 37.50，但存在法定减免和国籍例外。居留期限按获批学校或交换安排及护照等条件确定；外交部签证手册把有期限学生交换通常界定为不超过 1 年，并指引国家签证原则上最长按计划停留签发 12 个月。常规学校就读没有一个适用于所有州和学校的统一最长年限。
-- **续签与学籍变化：** 延长须继续满足学校、年级、资金、保险、照护及学习目的。更换学校、州、住宿/监护安排或从交换转为常规学校就读前，应先让外国人管理局确认是否须变更许可。§ 16f(3) 对学校目的完成前转换其他居留目的设置严格限制，通常只在申请人对新身份有法定请求权时转换；完成学校目的后仍须按新路线重新满足全部条件。
+- **续签与学籍变化：** 延长须继续满足学校、年级、资金、保险、照护及学习目的。更换学校、州、住宿/监护安排或从交换转为常规学校就读前，应先让外国人管理局确认是否须变更许可。§ 16f(3) 须区分两种情况：常规学校就读期间，原则上仅在对新身份有法定请求权时转换；交换生在交流结束后，也只能在存在法定请求权时取得其他目的居留。常规学校毕业后可按新路线申请，但仍须满足该路线的全部条件。
 - **学习期间工作：** § 16f 明确规定，学生交换和 § 16f(2) 学校就读居留均不得从事 Erwerbstätigkeit，包括受雇和自雇；不能套用大学生每周 20 小时或 140 日规则。德国《青少年劳动保护法》允许的某些轻微劳动或学校实习例外不会自行消除移民法上的这项禁止，任何边界活动都应先由外国人管理局和学校确认。
 - **家属：** 此路线没有随学生自动派生的家属或父母陪读许可。§ 36 对未成年外国人父母的法定团聚权只覆盖列明的保护和人道身份，并不包括 § 16f；其他家庭成员通常只有避免特殊困难等非常狭窄依据，或须凭自己的工作、学习、家庭等独立路线获批。未成年学生仍须证明监护权人同意和实际照护/住宿安排，但承担监护不等于获得居留或工作权。
 - **毕业后或升学路径：** 德国中小学毕业或完成交换不产生毕业工作许可。取得合资格高校/Studienkolleg 录取并满足资金、语言和其他条件后，可申请 § 16b；尚无录取而只寻找大学位置时须核对 § 17(2)。职业学校如属于取得国家认可职业资格的职业培训，通常应按 § 16a 而不是 § 16f 学校就读处理。
@@ -29,7 +29,7 @@ region: "欧洲"
 - **税务提示：** 学校居留不决定税务居民身份；未成年人和父母须分别按住所、通常居所、收入来源及税收协定判断。德国 EStG § 1 与 AO §§ 8–9 可能使在德有住所或连续停留超过 6 个月者承担无限所得税义务，即使 § 16f 禁止学生工作，境外收入和家庭税务仍可能需要独立核对。
 - **关键限制与变化：** “原则上从九年级起”不是一律年满某岁即可，也不是一律禁止低年级；低年级属于需要特别理由的裁量例外。符合 § 16f 的公立学校须具有国际定位并满足混合国籍班级条件，普通义务教育公校不能仅因愿意录取国际生就替代移民审查。州与外国公共机关之间经州最高居留主管机关同意的双边或多边学校协议另有 § 16f(4) 边界。父母不得先以孩子入学为由推导自己的居留，再用父母身份反向证明孩子可入学。
 - **证据等级：** B
-- **主要来源：** [《居留法》§ 16f：语言课程与学校就读](https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html)；[《居留法》§ 2(3)：生活保障公式](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html)；[外交部签证手册“Schüler”章节](https://www.auswaertiges-amt.de/resource/blob/207816/941d6b6ea53760b532a8fbedf3564bc0/visumhandbuch-data.pdf)；[外交部 § 16f 学校/交换签证材料示例](https://jakarta.diplo.de/id-de/service/visa-und-einreise/2685866-2685866)；[外交部长期学习、学校与语言课程签证](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/nationale-visa/visa-schule-studium-sprachkurs)；[外交部签证与费用](https://www.auswaertiges-amt.de/en/visa-service/215870-215870)；[父母及其他家属团聚 § 36](https://www.gesetze-im-internet.de/aufenthg_2004/__36.html)；[青少年劳动保护法 § 2：年龄](https://www.gesetze-im-internet.de/jarbschg/__2.html)；[青少年劳动保护法 § 5：儿童就业限制](https://www.gesetze-im-internet.de/jarbschg/__5.html)；[《国籍法》§ 10](https://www.gesetze-im-internet.de/stag/__10.html)；[所得税法 § 1](https://www.gesetze-im-internet.de/estg/__1.html)；[税收通则 § 8：住所](https://www.gesetze-im-internet.de/ao_1977/__8.html)；[税收通则 § 9：通常居所](https://www.gesetze-im-internet.de/ao_1977/__9.html)
+- **主要来源：** [《居留法》§ 16f：语言课程与学校就读](https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html)；[《居留法》§ 2(3)：生活保障公式](https://www.gesetze-im-internet.de/aufenthg_2004/__2.html)；[外交部签证手册“Schüler”章节](https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf)；[外交部 § 16f 学校/交换签证材料示例](https://jakarta.diplo.de/id-de/service/visa-und-einreise/2685866-2685866)；[外交部长期学习、学校与语言课程签证](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/nationale-visa/visa-schule-studium-sprachkurs)；[外交部签证与费用](https://www.auswaertiges-amt.de/en/visa-service/215870-215870)；[父母及其他家属团聚 § 36](https://www.gesetze-im-internet.de/aufenthg_2004/__36.html)；[青少年劳动保护法 § 2：年龄](https://www.gesetze-im-internet.de/jarbschg/__2.html)；[青少年劳动保护法 § 5：儿童就业限制](https://www.gesetze-im-internet.de/jarbschg/__5.html)；[《国籍法》§ 10](https://www.gesetze-im-internet.de/stag/__10.html)；[所得税法 § 1](https://www.gesetze-im-internet.de/estg/__1.html)；[税收通则 § 8：住所](https://www.gesetze-im-internet.de/ao_1977/__8.html)；[税收通则 § 9：通常居所](https://www.gesetze-im-internet.de/ao_1977/__9.html)
 
 ## 随父母合法居留儿童的州义务教育
 
@@ -57,7 +57,7 @@ region: "欧洲"
 - **公布与生效：** 《技术移民法》于 2019-08-20 公布，§ 16f 学校就读修订于 2020-03-01 生效。
 - **变化摘要：** 常规学校就读不再仅限例外个案，§ 16f(2) 改为在原则上的九年级起、混合国籍班级和法定学校类型条件均满足时“原则上应予”许可；低于九年级仍须特别理由和个案裁量。
 - **过渡安排：** 州间双边或多边学校协议继续适用 § 16f(4)；新表述没有把所有公立或私立中小学变成合资格国际学生学校。
-- **官方依据：** [联邦政府关于 2020-03-01 生效的说明](https://www.bundesregierung.de/breg-de/aktuelles/mehr-fachkraefte-fuer-deutschland-1563122.pdf)；[外交部签证手册“Schüler”章节](https://www.auswaertiges-amt.de/resource/blob/207816/941d6b6ea53760b532a8fbedf3564bc0/visumhandbuch-data.pdf)；[现行《居留法》§ 16f](https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html)
+- **官方依据：** [联邦公报 2019 年第 31 期公布记录](https://www.bundesanzeiger.de/pub/publication/fen7boHQxnK7RayKpit/content/fen7boHQxnK7RayKpit/BAnz%20AT%2026.08.2019%20H1.pdf)；[外交部签证手册“Schüler”章节](https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf)；[现行《居留法》§ 16f](https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html)
 - **事件证据：** A
 ## 纠错与更新
 

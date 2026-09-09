@@ -19,7 +19,7 @@ Read this reference before creating or reviewing a study-category index or polic
 
 ## Leaf metadata and fields
 
-In addition to the standard active-page frontmatter, require `country` and a stable directory-matched `route` slug. Use the same central monthly review cadence as every other category.
+In addition to the standard active-page frontmatter, require `country` and a stable directory-matched `route` slug. Use the same central 30-day review cadence as every other category.
 
 Each program block uses this order:
 

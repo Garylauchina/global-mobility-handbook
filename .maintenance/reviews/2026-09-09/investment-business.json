@@ -1,0 +1,2794 @@
+{
+  "review_date": "2026-09-09",
+  "scope": [
+    "entrepreneur-business-residence/fiji/README.md",
+    "entrepreneur-business-residence/france/README.md",
+    "entrepreneur-business-residence/japan/README.md",
+    "entrepreneur-business-residence/new-zealand/README.md",
+    "investment-permanent-residence/bahrain/README.md",
+    "investment-permanent-residence/canada-quebec/README.md",
+    "investment-permanent-residence/cyprus/README.md",
+    "investment-permanent-residence/malta/README.md",
+    "investment-permanent-residence/mauritius/README.md",
+    "investment-permanent-residence/panama/README.md",
+    "investment-permanent-residence/saudi-arabia/README.md",
+    "investment-permanent-residence/seychelles/README.md",
+    "investment-permanent-residence/singapore/README.md",
+    "investment-permanent-residence/south-africa/README.md",
+    "investment-permanent-residence/south-korea/README.md",
+    "investment-permanent-residence/united-states/README.md",
+    "investment-residence/andorra/README.md",
+    "investment-residence/brazil/README.md",
+    "investment-residence/colombia/README.md",
+    "investment-residence/georgia/README.md",
+    "investment-residence/greece/README.md",
+    "investment-residence/hong-kong/README.md",
+    "investment-residence/hungary/README.md",
+    "investment-residence/indonesia/README.md",
+    "investment-residence/italy/README.md",
+    "investment-residence/jordan/README.md",
+    "investment-residence/latvia/README.md",
+    "investment-residence/luxembourg/README.md",
+    "investment-residence/malaysia/README.md",
+    "investment-residence/mauritius/README.md",
+    "investment-residence/new-zealand/README.md",
+    "investment-residence/oman/README.md",
+    "investment-residence/philippines/README.md",
+    "investment-residence/portugal/README.md",
+    "investment-residence/qatar/README.md",
+    "investment-residence/saudi-arabia/README.md",
+    "investment-residence/sri-lanka/README.md",
+    "investment-residence/thailand/README.md",
+    "investment-residence/united-arab-emirates/README.md"
+  ],
+  "pages": [
+    {
+      "path": "entrepreneur-business-residence/fiji/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "investment",
+          "conclusion": "Official investment agency and government reporting portal requireFJ300k within3months incorporation,Minister may waive after assessment; old no-public-minimum statement invalid.",
+          "source_urls": [
+            "https://www.investmentfiji.org.fj/article/investment-fiji-sets-focus-to-be-a-leading-ipa",
+            "https://www.businessnow.gov.fj/starting-a-business/investor-reporting-portal/"
+          ]
+        },
+        {
+          "field": "status/eligibility/family",
+          "conclusion": "Immigration application accepts investors operating businesses with company registration,TIN,ReserveBank shares,offshore funds,sector endorsements; spouse/dependent children included; renewal merits/compliance.",
+          "source_urls": [
+            "https://www.immigration.gov.fj/investor-permit-application/"
+          ]
+        },
+        {
+          "field": "Validity supplemental",
+          "conclusion": "Ministry actual body at old7year URL says3year Investor Permit. Legacy FTIB/FIRC wording conflicts with BusinessNOW current removal, so validity/current requirements not confidently settled.",
+          "source_urls": [
+            "https://www.immigration.gov.fj/seven-7-years-investor-permit/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.immigration.gov.fj/investor-permit-application/",
+          "title": "Fiji Investor Permit",
+          "access_result": "HTTP200 cache10518chars full read; web403"
+        },
+        {
+          "url": "https://www.investmentfiji.org.fj/article/investment-fiji-sets-focus-to-be-a-leading-ipa",
+          "title": "Investment Fiji legislative update",
+          "access_result": "Web body opened/read"
+        },
+        {
+          "url": "https://www.businessnow.gov.fj/starting-a-business/investor-reporting-portal/",
+          "title": "businessNOW Investor Reporting Portal",
+          "access_result": "Web timeout; directcurlHTTP200144937bytes; substantive text parsed/read"
+        },
+        {
+          "url": "https://www.immigration.gov.fj/seven-7-years-investor-permit/",
+          "title": "Fiji permit duration page",
+          "access_result": "Web403; title7years/snippet3years conflict not treated as confirmation"
+        },
+        {
+          "url": "https://www.immigration.gov.fj/seven-7-years-investor-permit/",
+          "title": "Investor Permit old7year URL",
+          "access_result": "Chrome full body read; body says3years but refers to superseded FTIB/FIRC, so not complete current operational rules"
+        }
+      ],
+      "changes": [
+        "Replaced erroneous no-minimum statement with generalFJ300k rule and waiver/sector boundary."
+      ],
+      "unresolved": [
+        "Current initial permit duration and specific authorised employment limits need written official detail; retained3year term not fully reverified."
+      ]
+    },
+    {
+      "path": "entrepreneur-business-residence/france/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "门槛/资金/项目工作",
+          "conclusion": "项目页+R421-35：300k固定资产、本人/管理/30%股权、4年就业；项目相关商业活动",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922",
+            "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801016/"
+          ]
+        },
+        {
+          "field": "首期/续签",
+          "conclusion": "VLSTS<1年、卡≤4年；R421-36未启动1年/非法资金可撤销；项目执行要求",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922",
+            "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801016/"
+          ]
+        },
+        {
+          "field": "家属工作",
+          "conclusion": "家属简化手续，配偶及以未成年身份入境子女；家属卡可受雇及非受雇活动",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F35792"
+          ]
+        },
+        {
+          "field": "长期",
+          "conclusion": "5实际连续年、允许6连续/10累计月离境、来源医保、B1及公民考试；页面泛称语言融入未错",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F17359?lang=fr"
+          ]
+        },
+        {
+          "field": "归化",
+          "conclusion": "一般5年居住、例外另定；在法生活中心及其他条件",
+          "source_urls": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2213"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "任何住所/主要职业/经济中心标准以及全球收入、协定",
+          "source_urls": [
+            "https://www.impots.gouv.fr/resident-de-france"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922",
+          "title": "Talent programme June2026",
+          "access_result": "opened core investment section, duration, documents and family"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049052499/",
+          "title": "L421-16",
+          "access_result": "opened page metadata; repeated detailed web reads internal error and directHTTP403; core wording independently verified through Service-Public and R421-35/36"
+        },
+        {
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801016/",
+          "title": "R421-35/R421-36",
+          "access_result": "opened complete operative clauses"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35792",
+          "title": "Talent family May2026",
+          "access_result": "opened age/entry requirements, all professional activity and duration"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17359?lang=fr",
+          "title": "Long-term EU June2026",
+          "access_result": "opened eligibility, absence and language/civic requirements"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2213",
+          "title": "Naturalisation",
+          "access_result": "opened general5year and exception rules"
+        },
+        {
+          "url": "https://www.impots.gouv.fr/resident-de-france",
+          "title": "Tax residence",
+          "access_result": "opened residence tests, treaty and global income"
+        }
+      ],
+      "changes": [
+        "核心政策未发现需改；补家属、长期身份、归化和税务官方证据链接"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "entrepreneur-business-residence/japan/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "capital/eligibility/work",
+          "conclusion": "2025-10-16 reform:30m yen business capital/assets,one qualifying employee,B2 applicant/employee,masters or3years management,expert business plan; real activity,tax/social insurance; qualification distinctions reviewed.",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/resources/10_00237.html",
+            "https://www.moj.go.jp/isa/content/001448070.pdf"
+          ]
+        },
+        {
+          "field": "duration/renewal",
+          "conclusion": "5/3/1years,6/4/3months;2028 transition and exceptions; PR10years including5 qualifying work/residence,HSP70/80points3/1years;2027longest-stay change and one-time3year transition verified.",
+          "source_urls": [
+            "https://www.moj.go.jp/isa/applications/status/businessmanager.html",
+            "https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html",
+            "https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html"
+          ]
+        },
+        {
+          "field": "family/tax",
+          "conclusion": "Dependent status requires permission to work and28hours cap; NTA domicile or continuous residence >=1year test.",
+          "source_urls": [
+            "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jigyounushi/seido/anteikyoku/gairou/980908gai01.htm",
+            "https://www.nta.go.jp/english/taxes/individual/12006.htm"
+          ]
+        },
+        {
+          "field": "naturalization",
+          "conclusion": "Statutory5year domicile unchanged but March27 minister announcement imposes generally10year integration review fromApril1,2026 and longer tax/social-insurance review; case discretion.",
+          "source_urls": [
+            "https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.moj.go.jp/isa/applications/resources/10_00237.html",
+          "title": "ISA business reform",
+          "access_result": "HTTP200 full official cache read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/status/businessmanager.html",
+          "title": "ISA current business-manager status",
+          "access_result": "HTTP200 full official cache read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html",
+          "title": "ISA PR guidelines February2026",
+          "access_result": "HTTP200 full official cache read"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/content/001448070.pdf",
+          "title": "ISA reform summary PDF",
+          "access_result": "HTTP200 PDF downloaded and pdftotext read all pages"
+        },
+        {
+          "url": "https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html",
+          "title": "ISA PR procedure future change",
+          "access_result": "HTTP200 full body read"
+        },
+        {
+          "url": "https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html",
+          "title": "MOJ March27,2026 minister press conference",
+          "access_result": "Web/curl403; actual Chrome browser successfully opened original page and full statement read"
+        },
+        {
+          "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jigyounushi/seido/anteikyoku/gairou/980908gai01.htm",
+          "title": "MHLW foreign-worker rules",
+          "access_result": "Web full body read"
+        },
+        {
+          "url": "https://www.nta.go.jp/english/taxes/individual/12006.htm",
+          "title": "NTA tax residence",
+          "access_result": "Web full body read"
+        }
+      ],
+      "changes": [
+        "Corrected ordinary naturalization from simple5years to legal5years plus generally10years integration review effective2026-04-01; added timeline and family/tax sources.",
+        "Aligned evidence label/date display: site editorial dates retained in Git/review ledger rather than policy timeline."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "entrepreneur-business-residence/new-zealand/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "状态、投资与资金性质",
+          "conclusion": "官方可申请；100万/200万投资加50万储备，合法资金；投资价值排除物业及GST。",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/business-investor-work-visa/"
+          ]
+        },
+        {
+          "field": "首次身份、续期",
+          "conclusion": "四年结构含12个月设立期，九个月须提交购买经营证据；可按条件续两年。",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/business-investor-work-visa/"
+          ]
+        },
+        {
+          "field": "居住、工作、就业",
+          "conclusion": "实际经营指定业务、每年184天，维持五个全职等值岗位；新增本地岗位须保持12个月。",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/business-investor-work-visa/"
+          ]
+        },
+        {
+          "field": "家属、居民路径",
+          "conclusion": "配偶可获工签，子女学生/访客；标准经营三年、快速12个月可申请居民，快速亦须合计经营三年。",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/business-investor-work-visa/"
+          ]
+        },
+        {
+          "field": "关键资格、税务边界",
+          "conclusion": "补齐55岁上限、三年经验、英语、企业五年营运及25%持股；税务段仅保留个案另判提醒。",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/business-investor-work-visa/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.immigration.govt.nz/visas/business-investor-work-visa/",
+          "title": "INZ Business Investor Work Visa",
+          "access_result": "web正文成功，已读资格、经营及居民路径各节"
+        }
+      ],
+      "changes": [
+        "资料补全，非政策新变化：年龄、经验、英语、企业资格、设立期及家属签证。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-permanent-residence/bahrain/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "threshold/status",
+          "conclusion": "Current programme and NPRA both confirm130k personal property share and permanent status,300BHD administrative fee every10years;200k treated only as older indexed material.",
+          "source_urls": [
+            "https://goldenresidency.gov.bh/eligibility-criteria/",
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/"
+          ]
+        },
+        {
+          "field": "stay/work/family/tax",
+          "conclusion": "FAQ explicitly no minimum stay,LMRA work permit required,spouse/parents/children without age limit,0%income tax.",
+          "source_urls": [
+            "https://goldenresidency.gov.bh/faqs/"
+          ]
+        },
+        {
+          "field": "conflict",
+          "conclusion": "Older government operation catalogue still indexed200k; exact current application form threshold could not be opened, preserve boundary.",
+          "source_urls": [
+            "https://goldenresidency.gov.bh/eligibility-criteria/",
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/"
+          ]
+        },
+        {
+          "field": "Threshold cross-check",
+          "conclusion": "Both live NPRA service and programme eligibility/FAQ say130k; no actually readable current200k rule found. Obsolete indexed catalogue does not override current two direct agency sources.",
+          "source_urls": [
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/",
+            "https://goldenresidency.gov.bh/eligibility-criteria/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://goldenresidency.gov.bh/eligibility-criteria/",
+          "title": "Golden Residency eligibility",
+          "access_result": "Web403/HTTP202; actual Chrome full body read"
+        },
+        {
+          "url": "https://goldenresidency.gov.bh/faqs/",
+          "title": "Golden Residency FAQ",
+          "access_result": "Actual Chrome full FAQ read"
+        },
+        {
+          "url": "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/",
+          "title": "NPRA Golden Residency",
+          "access_result": "HTTP200 full official cache read"
+        },
+        {
+          "url": "https://www.bahrain.bh/wps/portal/en/BNP/ServicesCatalogue/GSX-UI-PServiceDetails?psID=3021",
+          "title": "Older property operation page",
+          "access_result": "Web403; indexed200k not used as current threshold"
+        }
+      ],
+      "changes": [
+        "Clarified NPRA main source130k,permanent status/admin fee and definite LMRA work-permit requirement.",
+        "Removed present-tense threshold-conflict claim after both current NPRA and programme bodies confirm130k;200k retained only as obsolete historical material."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-permanent-residence/canada-quebec/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "状态、最低门槛、资金性质",
+          "conclusion": "官方条件页仍提供申请；净资产200万、100万五年无息政府担保投资及20万贡献、法语口语7级得到支持。",
+          "source_urls": [
+            "https://www.quebec.ca/immigration/permanente/immigrer-affaires/investisseurs/conditions"
+          ]
+        },
+        {
+          "field": "首次身份、居住与续签",
+          "conclusion": "已补清甄选意向通知→六个月内申请工签→两年内完成12个月居住→CSQ→联邦PR的顺序。",
+          "source_urls": [
+            "https://www.quebec.ca/immigration/permanente/immigrer-affaires/investisseurs/conditions"
+          ]
+        },
+        {
+          "field": "工作、家属、长期身份",
+          "conclusion": "家庭列入工签及后续申请，主申至少住六个月、其余可由配偶完成；PR需另经联邦程序，未承诺入籍。",
+          "source_urls": [
+            "https://www.quebec.ca/immigration/permanente/immigrer-affaires/investisseurs/conditions"
+          ]
+        },
+        {
+          "field": "关键资格与限制",
+          "conclusion": "补列近五年两年管理经验及规定学历；原净资产来源、法语、管理与联邦审查边界保留。",
+          "source_urls": [
+            "https://www.quebec.ca/immigration/permanente/immigrer-affaires/investisseurs/conditions"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "CRA以重要居住联系、实际停留及协定判断，已去除PR取得与税籍的模糊关联。",
+          "source_urls": [
+            "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.quebec.ca/immigration/permanente/immigrer-affaires/investisseurs/conditions",
+          "title": "Québec投资者计划条件",
+          "access_result": "web及独立HTTP正文成功；页面更新2026-08-26"
+        },
+        {
+          "url": "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html",
+          "title": "CRA determining your residency status",
+          "access_result": "web正文成功"
+        }
+      ],
+      "changes": [
+        "资料补全及更正，非发现政策新变化：补齐两阶段甄选、经验学历和居住时限。",
+        "加入CRA来源并明确PR不等于税务居民。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-permanent-residence/cyprus/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "investment/income",
+          "conclusion": "300k plus VAT for first-sale homes; other property resale possible;300k company with5employees/funds.50k income+15kspouse+10kminor; only home route requires overseas income, other routes local income allowed.",
+          "source_urls": [
+            "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/"
+          ]
+        },
+        {
+          "field": "status/residence",
+          "conclusion": "Unlimited residence,10year adultcard; establish residence within1year fromoverseas; foreign permanent residence or2years absence invalidates.",
+          "source_urls": [
+            "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/"
+          ]
+        },
+        {
+          "field": "work/family",
+          "conclusion": "Main/spouse no employment except invested company director; unpaid directorship/shareholding allowed. Spouse/minors;18-25unmarried overseas tertiary students dependent,ownapplication+10kincome; independent adult children additionalinvestment/income.",
+          "source_urls": [
+            "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/"
+          ]
+        },
+        {
+          "field": "monitoring/limits",
+          "conclusion": "Annual investment/insurance proof retained; annual income proof abolished; police certificate every3years per bottom clarifications overriding initial text. Residence programme not citizenship/tax conclusion.",
+          "source_urls": [
+            "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/",
+          "title": "Cyprus investor immigration permits, fourth revision and clarifications",
+          "access_result": "web/curl403; actual Chrome browser opened and complete text including lower clarification section read"
+        }
+      ],
+      "changes": [
+        "Specified company5employees,VAT,income-source exceptions,employment/directorship,dependent criteria,foreignPR cancellation,and3year police update."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-permanent-residence/malta/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "状态、费用、资金",
+          "conclusion": "现行官网支持6万行政费、3.7万贡献、2000捐赠、1.4万年租/37.5万购房；补列两套资产测试与成年家属附加费。",
+          "source_urls": [
+            "https://residencymalta.gov.mt/legal-framework-mprp-2/",
+            "https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf"
+          ]
+        },
+        {
+          "field": "首次身份、续签",
+          "conclusion": "永久权利以持续符合条件为前提；卡通常五年，规定资产及合资格房产保持五年，之后须保留住所。",
+          "source_urls": [
+            "https://residencymalta.gov.mt/legal-framework-mprp-2/",
+            "https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "按2025合并法规补充成年子女未满29岁、未婚受扶养，父母祖父母非全职就业且受扶养。",
+          "source_urls": [
+            "https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf"
+          ]
+        },
+        {
+          "field": "工作、入籍与税务",
+          "conclusion": "官方FAQ解释MPRP不自动给予工作许可或国籍；旧FAQ仅用于此边界，不用于已被2025替代金额。税务不作个案结论。",
+          "source_urls": [
+            "https://residencymalta.gov.mt/wp-content/uploads/2024/08/MPRP-FAQs-V2.6.4.pdf"
+          ]
+        },
+        {
+          "field": "限制",
+          "conclusion": "国籍/制裁排除、持续尽调、保险与申根90/180边界保留。",
+          "source_urls": [
+            "https://residencymalta.gov.mt/legal-framework-mprp-2/",
+            "https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://residencymalta.gov.mt/legal-framework-mprp-2/",
+          "title": "Residency Malta MPRP current requirements",
+          "access_result": "web正文成功"
+        },
+        {
+          "url": "https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf",
+          "title": "S.L.217.26 consolidated with 2025 amendment",
+          "access_result": "web打开29页PDF并读取家属及持续条件"
+        },
+        {
+          "url": "https://residencymalta.gov.mt/wp-content/uploads/2024/08/MPRP-FAQs-V2.6.4.pdf",
+          "title": "MPRP FAQ v2.6.4",
+          "access_result": "web打开27页PDF；旧金额不采用，仅核对工作/入籍边界"
+        }
+      ],
+      "changes": [
+        "资料补全，非政策新变化：资产、家属费用和年龄/扶养限制。",
+        "将无日期停留承诺改为当前法规明确的持续合规义务。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-permanent-residence/mauritius/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "threshold/status",
+          "conclusion": "PIO expressly retains375kUSD qualifying business activity direct20yearresidence; listed sectors agriculture,manufacturing,IT,tourism,etc. Distinct from3yearOP-turnover pathways.",
+          "source_urls": [
+            "https://passport.govmu.org/passport/?page_id=626"
+          ]
+        },
+        {
+          "field": "work/family",
+          "conclusion": "PIO confirms OP combined work/residence and dependencies forOP/RP; does not fully set out work/dependent/maintenance conditions specific to direct375k20yearPR.",
+          "source_urls": [
+            "https://passport.govmu.org/passport/?page_id=626"
+          ]
+        },
+        {
+          "field": "citizenship/tax",
+          "conclusion": "20yearpermit not nationality; no country-specific numeric tax claim asserted in page.",
+          "source_urls": [
+            "https://passport.govmu.org/passport/?page_id=626"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://passport.govmu.org/passport/?page_id=626",
+          "title": "PIO Occupation Permit and PR",
+          "access_result": "HTTP2005344chars; entire substantive body read"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "Direct20yearPR ongoing investment/operating conditions and dependant/work rules need current detailed EDB law; genericOP facts not promoted to directPR verification."
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/panama/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "investment",
+          "conclusion": "Decree 193/2024: real estate / qualified promissory purchase B/.300k; securities B/.500k; deposits B/.750k. Foreign funds required.",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/DECRETO-EJECUTIVO-193-DE-15-DE-OCTUBRE-DE-2024-QUE-MODIIFICA-Y-ADICIONA-AL-DECRETO-172-DE-15-DE-OCTUBRE-DE-2020.pdf"
+          ]
+        },
+        {
+          "field": "status/maintenance/work",
+          "conclusion": "Direct PR; Decree 722 article 5 requires five-year investment and annual evidence; MITRADEL separately requires work permission, category 4B for qualified investor.",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/DECRETO_EJECUTIVO_722.pdf",
+            "https://www.mitradel.gob.pa/empleo/migracion-laboral/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.migracion.gob.pa/wp-content/uploads/DECRETO_EJECUTIVO_722.pdf",
+          "title": "Decree 722/2020",
+          "access_result": "HTTP200 PDF opened; rendered and visually read pp3-5"
+        },
+        {
+          "url": "https://www.migracion.gob.pa/wp-content/uploads/DECRETO-EJECUTIVO-193-DE-15-DE-OCTUBRE-DE-2024-QUE-MODIIFICA-Y-ADICIONA-AL-DECRETO-172-DE-15-DE-OCTUBRE-DE-2020.pdf",
+          "title": "Decree 193/2024",
+          "access_result": "HTTP200 scanned PDF opened and visually read pp2-5"
+        },
+        {
+          "url": "https://www.mitradel.gob.pa/empleo/migracion-laboral/",
+          "title": "MITRADEL work categories",
+          "access_result": "Web full body opened/read"
+        }
+      ],
+      "changes": [
+        "Corrected real estate 500k to 300k, specified five-year investment and separate work permit; historical event 2024-10-15 added."
+      ],
+      "unresolved": [
+        "Dependent categories, ordinary naturalization five-year claim and general absence limits need additional current direct sources; no full-review date advancement."
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/saudi-arabia/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "投资及永久身份",
+          "conclusion": "实际企业投资份额≥7m、有效MISA投资登记和商业登记、章程/注资证明；按投资份额对应至少10名员工及GOSI证明，直接有条件永久Premium Residency。",
+          "source_urls": [
+            "https://pr.gov.sa/pr?id=pr_product_details_investor_residency",
+            "https://pr.gov.sa/pr?id=conditions_controls"
+          ]
+        },
+        {
+          "field": "维持投资与雇员",
+          "conclusion": "头两年必须同时维持至少7m及10名员工，接受周期企业复查；未维持可取消。",
+          "source_urls": [
+            "https://pr.gov.sa/pr?id=pr_product_details_investor_residency",
+            "https://pr.gov.sa/pr?id=faqs",
+            "https://pr.gov.sa/pr?id=conditions_controls"
+          ]
+        },
+        {
+          "field": "工作、家属、停留与税务",
+          "conclusion": "私人企业工作和换雇主依法律，投资经营依投资法；配偶<25子女、不在沙特工作的父母。Business Investor详细条件和FAQ未列房产10/5天规则，不能跨产品套用；无专门PR税制，不自动入籍。",
+          "source_urls": [
+            "https://pr.gov.sa/pr?id=pr_product_details_investor_residency",
+            "https://pr.gov.sa/pr?id=faqs",
+            "https://pr.gov.sa/pr?id=conditions_controls"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://pr.gov.sa/pr?id=pr_product_details_investor_residency",
+          "title": "Business Investor Residency",
+          "access_result": "CUA产品详情全部资格、直接永久条件实读"
+        },
+        {
+          "url": "https://pr.gov.sa/pr?id=faqs",
+          "title": "Premium Residency FAQs - Business Investor and General",
+          "access_result": "CUA打开一般和企业投资FAQ实读"
+        },
+        {
+          "url": "https://pr.gov.sa/pr?id=conditions_controls",
+          "title": "Detailed Terms and Conditions - Business Investor",
+          "access_result": "CUA选择企业投资标签，展开资格、两年保持、永久授予、取消及家属定义实读"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "investment-permanent-residence/seychelles/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "investment/prerequisites",
+          "conclusion": "1mUSD company investment,5yrbusiness affiliation and5yrphysical residence onGOP/dependentpermit,one-year support resources.",
+          "source_urls": [
+            "https://investinseychelles.com/investors-guide/investor-resources/residency-by-investment/permanent-residence-permit"
+          ]
+        },
+        {
+          "field": "status/stay/work",
+          "conclusion": "Permanent status,work exemptGOP,absence>=1year requires minister consent;1000SCRapplication/350kSCRapprovalfee.",
+          "source_urls": [
+            "https://investinseychelles.com/investors-guide/investor-resources/residency-by-investment/permanent-residence-permit",
+            "https://www.ics.gov.sc/permits/permanent-residence"
+          ]
+        },
+        {
+          "field": "family/tax/citizenship",
+          "conclusion": "Programme does not promise citizenship; generic tax reminder retained. Current dependent-permit exact eligibility not fully opened.",
+          "source_urls": [
+            "https://investinseychelles.com/investors-guide/investor-resources/residency-by-investment/permanent-residence-permit",
+            "https://www.ics.gov.sc/permits/permanent-residence"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://investinseychelles.com/investors-guide/investor-resources/residency-by-investment/permanent-residence-permit",
+          "title": "Seychelles Investment Board PR",
+          "access_result": "OriginalHTTP403 but web full body successfully opened/read"
+        },
+        {
+          "url": "https://www.ics.gov.sc/permits/permanent-residence",
+          "title": "ICS Permanent Residence",
+          "access_result": "Web body opened/read"
+        },
+        {
+          "url": "https://www.gov.sc/Resources/Forms/Vice%20President%20Office/Application%20for%20Dependant%27s%20Permit.pdf",
+          "title": "Government dependent permit form",
+          "access_result": "Web timeout; snippet not treated as full source"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "Family dependent permission details not fully verified; no blanket full-review date update."
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/singapore/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "capital/eligibility",
+          "conclusion": "EDB current linked factsheet supports A10m/B25m/C200m AUM and 50m Singapore-listed equities deployment within 12 months final approval; business background tests remain.",
+          "source_urls": [
+            "https://assets.app.optical.gov.sg/edb/production/published/collections/pages/%252Fhow-we-help%252Fglobal-investor-programme/5d1d8faa-729b-463d-ac13-9d2c9b5a6abd.pdf"
+          ]
+        },
+        {
+          "field": "status/family/renewal",
+          "conclusion": "PR plus five-year REP; A/B investment within 6 months AIP; formalise PR within 12 months final approval; spouse/unmarried children under21 PR, others LTVP; REP renewal economic/residence matrix read.",
+          "source_urls": [
+            "https://assets.app.optical.gov.sg/edb/production/published/collections/pages/%252Fhow-we-help%252Fglobal-investor-programme/5d1d8faa-729b-463d-ac13-9d2c9b5a6abd.pdf"
+          ]
+        },
+        {
+          "field": "citizenship",
+          "conclusion": "ICA minimum PR2years and age21 eligibility remains discretionary.",
+          "source_urls": [
+            "https://www.ica.gov.sg/reside/citizenship"
+          ]
+        },
+        {
+          "field": "Work and tax supplemental",
+          "conclusion": "MOM states PR may work without work pass; IRAS SPR normally resident test and separate183-day foreigner rules directly read. Tax statement remains qualified.",
+          "source_urls": [
+            "https://www.mom.gov.sg/faq/work-pass-general/how-can-an-employer-hire-a-stateless-person-who-holds-a-special-pass-issued-by-ica",
+            "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.edb.gov.sg/en/how-we-help/global-investor-programme",
+          "title": "EDB GIP",
+          "access_result": "New official entry opened; old cache empty not used"
+        },
+        {
+          "url": "https://assets.app.optical.gov.sg/edb/production/published/collections/pages/%252Fhow-we-help%252Fglobal-investor-programme/5d1d8faa-729b-463d-ac13-9d2c9b5a6abd.pdf",
+          "title": "GIP Factsheet 5 May 2025",
+          "access_result": "Current EDB link PDF opened and read eligibility, investment, dependants and REP tables"
+        },
+        {
+          "url": "https://www.ica.gov.sg/reside/citizenship",
+          "title": "ICA citizenship",
+          "access_result": "HTTP200 body read"
+        },
+        {
+          "url": "https://www.mom.gov.sg/faq/work-pass-general/how-can-an-employer-hire-a-stateless-person-who-holds-a-special-pass-issued-by-ica",
+          "title": "MOM PR work exemption",
+          "access_result": "web body read"
+        },
+        {
+          "url": "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency",
+          "title": "IRAS working out tax residency",
+          "access_result": "web body read lines919-942"
+        }
+      ],
+      "changes": [
+        "Corrected C investment asset class and different deadline; replaced dead EDB PDF link.",
+        "Added MOM work and IRAS tax sources after closing earlier evidence gap."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-permanent-residence/south-africa/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "Status and threshold",
+          "conclusion": "Government service and VFS current dropdown confirm financial independence remains PR; gazette confirms net worth ZAR12m and payment ZAR120k.",
+          "source_urls": [
+            "https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit",
+            "https://www.gov.za/sites/default/files/gcis_document/201409/37716gon454.pdf",
+            "https://visa.vfsglobal.com/zaf/en/dha/visa-type/"
+          ]
+        },
+        {
+          "field": "Residence and work",
+          "conclusion": "DHA-hosted consolidated Act sections25/28 now read: broad citizen-like rights except reserved rights, residence within1year, withdrawal after3years absence with exceptions.",
+          "source_urls": [
+            "https://www.gov.za/sites/default/files/gcis_document/201409/a13-020.pdf"
+          ]
+        },
+        {
+          "field": "Family",
+          "conclusion": "Current government service and consolidated Act support separate family/kinship applications. Removed unsupported promise of simultaneous dependent filing.",
+          "source_urls": [
+            "https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit",
+            "https://visa.vfsglobal.com/zaf/en/dha/visa-type/"
+          ]
+        },
+        {
+          "field": "Naturalisation",
+          "conclusion": "Read page6 image of July2023 R3658: ordinary residence5years immediately before application; June2023 withdrawn notice not used.",
+          "source_urls": [
+            "https://www.dha.gov.za/images/gazettes/48924_7-7_HomeAffairs.pdf"
+          ]
+        },
+        {
+          "field": "Tax",
+          "conclusion": "SARS actual text confirms ordinary-resident alternative and conjunctive91/91/915 day physical test,330full-day cessation rule.",
+          "source_urls": [
+            "https://www.sars.gov.za/individuals/tax-during-all-life-stages-and-events/tax-and-non-residents/"
+          ]
+        },
+        {
+          "field": "Recent rules and future reform",
+          "conclusion": "Read waiver and fee gazettes: July8 medical report waiver for future/pending applications; Aug17 PR applicationfee1520. Cabinet approval does not enact migration reform.",
+          "source_urls": [
+            "https://www.gov.za/sites/default/files/gcis_document/202607/55016gon7714.pdf",
+            "https://www.gov.za/sites/default/files/gcis_document/202608/55209rg12036gon7834.pdf",
+            "https://www.gov.za/news/media-statements/minister-leon-schreiber-welcomes-cabinet-approval-revised-white-paper"
+          ]
+        },
+        {
+          "field": "Consolidated law and announced reform resolution",
+          "conclusion": "DHA hosted2015 consolidation actual pages31-35 confirm sec25-28. Europe reviewer read2026 published Act11: only sec34 detention changes, no PR change. Final Cabinet-approved WhitePaper mirrored original actual pages31-32 confirms future investment visa replacement requiring legislation, no numeric or commencement rules. Family wording narrowed to independent applicable kinship route rather than unproved simultaneous applications.",
+          "source_urls": [
+            "https://www.dha.gov.za/images/PDFs/IMMIGRATION-ACT-2002---UPDATED-2015.pdf",
+            "https://www.parliament.gov.za/storage/app/media/Acts/2025/Act_11_of_2025_The_Immigration_Amendment_Act.pdf",
+            "https://citizenshiprightsafrica.org/wp-content/uploads/White-Paper-on-CIRP-26March2026.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit",
+          "title": "Government PR service",
+          "access_result": "web full body read"
+        },
+        {
+          "url": "https://www.gov.za/sites/default/files/gcis_document/201409/37716gon454.pdf",
+          "title": "Notice454",
+          "access_result": "current-session HTTP PDF extracted and read"
+        },
+        {
+          "url": "https://visa.vfsglobal.com/zaf/en/dha/visa-type/",
+          "title": "VFS DHA visa types financial independence dropdown",
+          "access_result": "Chrome actual rendered body read"
+        },
+        {
+          "url": "https://www.gov.za/sites/default/files/gcis_document/201409/a13-020.pdf",
+          "title": "Immigration Act2002",
+          "access_result": "HTTP original gazette full PDF read relevant sections; consolidated SAFlii blocked web and Chrome"
+        },
+        {
+          "url": "https://www.dha.gov.za/images/gazettes/48924_7-7_HomeAffairs.pdf",
+          "title": "Gazette48924 R3658",
+          "access_result": "HTTP PDF downloaded; pages4-6 visually read"
+        },
+        {
+          "url": "https://www.sars.gov.za/individuals/tax-during-all-life-stages-and-events/tax-and-non-residents/",
+          "title": "SARS tax residence",
+          "access_result": "web full body read"
+        },
+        {
+          "url": "https://www.gov.za/sites/default/files/gcis_document/202607/55016gon7714.pdf",
+          "title": "Medical waiver",
+          "access_result": "current-session HTTP PDF extracted and read"
+        },
+        {
+          "url": "https://www.gov.za/sites/default/files/gcis_document/202608/55209rg12036gon7834.pdf",
+          "title": "PRfee regulations",
+          "access_result": "current-session HTTP PDF extracted and read"
+        },
+        {
+          "url": "https://www.gov.za/news/media-statements/minister-leon-schreiber-welcomes-cabinet-approval-revised-white-paper",
+          "title": "Minister on Cabinet WhitePaper approval",
+          "access_result": "web full body read"
+        },
+        {
+          "url": "https://www.dha.gov.za/images/White-Paper-on-CIRP-26March2026.pdf",
+          "title": "Final revised WhitePaper March2026",
+          "access_result": "web error and HTTP403; snippet not treated as full text"
+        },
+        {
+          "url": "https://www.dha.gov.za/images/PDFs/IMMIGRATION-ACT-2002---UPDATED-2015.pdf",
+          "title": "DHA consolidated Immigration Act2015",
+          "access_result": "HTTP200 PDF; pages31-35 directly read by both reviewers"
+        },
+        {
+          "url": "https://www.parliament.gov.za/storage/app/media/Acts/2025/Act_11_of_2025_The_Immigration_Amendment_Act.pdf",
+          "title": "Act11of2025 published2026",
+          "access_result": "Official Parliament PDF read by Europe reviewer; only sec34 amended"
+        },
+        {
+          "url": "https://citizenshiprightsafrica.org/wp-content/uploads/White-Paper-on-CIRP-26March2026.pdf",
+          "title": "DHA Cabinet-approved final WhitePaper March2026 mirrored original",
+          "access_result": "56page original PDF preserved by CRAI; pages31-32 directly read; official origin link404, mirror explicitly identified"
+        }
+      ],
+      "changes": [
+        "Updated redirected VFS link and added official residence, naturalisation and tax sources; removed site verification date from transition paragraph.",
+        "Aligned evidence label/date display: site editorial dates retained in Git/review ledger rather than policy timeline.",
+        "Closed law/reform evidence gaps with DHA consolidation and Cabinet-approved final document mirror; narrowed family statement to directly supported law."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-permanent-residence/south-korea/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "capital/funds/status",
+          "conclusion": "KoreanMOJ15eok generalF2 thenF5after5years;30eok directconditionalF5,withdrawalbefore5years cancels. InterestfreeprincipalprotectedKDBfund vsrisk-development routes.",
+          "source_urls": [
+            "https://www.moj.go.kr/moj/189/subview.do",
+            "https://www.moj.go.kr/immigration/1515/subview.do"
+          ]
+        },
+        {
+          "field": "work/family/stay",
+          "conclusion": "Main andspouse/unmarriedchildren freedom ofeconomicactivity onF2;no official general annualdays stated; age/dependency details not fully stated and page preserves this limit.",
+          "source_urls": [
+            "https://www.moj.go.kr/moj/189/subview.do"
+          ]
+        },
+        {
+          "field": "tax",
+          "conclusion": "NTS June9/July1,2026 interpretation read:183days across consecutive2taxyears,objectiveoccupation/family/assets and2025carryover into2026; visa label alone insufficient.",
+          "source_urls": [
+            "https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000021872"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.moj.go.kr/moj/189/subview.do",
+          "title": "MOJ public business investment",
+          "access_result": "HTTP200 entire programme core read"
+        },
+        {
+          "url": "https://www.moj.go.kr/immigration/1515/subview.do",
+          "title": "MOJ immigration policy",
+          "access_result": "HTTP200 body read; many unrelatedsections not treatedas detailedscheme proof"
+        },
+        {
+          "url": "https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000021872",
+          "title": "NTS2026 residence interpretation",
+          "access_result": "HTTPbodyempty; actual Chrome full ruling read"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "Dependants age/dependency and fullgeneralF5/naturalization rules not completely specified in current programme sources; retainB and incomplete."
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/united-states/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "capital/jobs/future",
+          "conclusion": "8USC1153(b)(5) directly supports 800k/1.05m, >=2yr,10jobs, no guaranteed redemption;2027 CPI/75% adjustment and RC expiry September30 2027.",
+          "source_urls": [
+            "https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1153"
+          ]
+        },
+        {
+          "field": "availability",
+          "conclusion": "September unreserved China Dec1 2016,India U,others C; reserved C with20/10/2 shares. PP10998 remains; distinct 75-country public-benefits pause ceased August21 per August28 notice.",
+          "source_urls": [
+            "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html",
+            "https://travel.state.gov/content/travel/en/News/visas-news/immigrant-visa-processing-updates-for-nationalities-at-high-risk-of-public-benefits-usage.html",
+            "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+            "https://travel.state.gov/content/travel/en/News/visas-news/india-per-country-limit-reached-in-the-eb-5-unreserved-category.html"
+          ]
+        },
+        {
+          "field": "tax/family",
+          "conclusion": "IRS green-card test read; DOS procedure supports spouse/unmarried under21 children. Outdated investment thresholds on DOS procedure ignored.",
+          "source_urls": [
+            "https://www.irs.gov/individuals/international-taxpayers/us-tax-residency-green-card-test",
+            "https://travel.state.gov/content/travel/en/us-visas/immigrate/immigrant-investor-visas.html"
+          ]
+        },
+        {
+          "field": "Conditional status, work, family, residence, citizenship supplemental",
+          "conclusion": "Chrome actual current USCIS bodies confirm2year CPR for main/deps; I82990day filing window; work legal jobs; extended absence risk governed by facts; ordinary naturalisation5year LPR and30months physical presence. Official USCIS GovDelivery bulletin supports receipt+expired card status/work/travel proof.",
+          "source_urls": [
+            "https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-process",
+            "https://www.uscis.gov/i-829",
+            "https://www.uscis.gov/green-card/after-we-grant-your-green-card/rights-and-responsibilities-of-a-green-card-holder-permanent-resident",
+            "https://www.uscis.gov/green-card/after-we-grant-your-green-card/maintaining-permanent-residence",
+            "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization/i-am-a-lawful-permanent-resident-of-5-years",
+            "https://content.govdelivery.com/accounts/USDHSCIS/bulletins/3447266"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1153",
+          "title": "8 USC1153",
+          "access_result": "HTTP200 cache full statute; (b)(5) read"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html",
+          "title": "September2026 Visa Bulletin",
+          "access_result": "Web full table opened/read"
+        },
+        {
+          "url": "https://www.irs.gov/individuals/international-taxpayers/us-tax-residency-green-card-test",
+          "title": "IRS Green Card Test",
+          "access_result": "Web full body read"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news/immigrant-visa-processing-updates-for-nationalities-at-high-risk-of-public-benefits-usage.html",
+          "title": "DOS Public Benefits update",
+          "access_result": "Web opened/read latest August28 update"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+          "title": "DOS PP10998",
+          "access_result": "Web opened/read scope/exceptions"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/News/visas-news/india-per-country-limit-reached-in-the-eb-5-unreserved-category.html",
+          "title": "DOS India cap",
+          "access_result": "Web opened/read"
+        },
+        {
+          "url": "https://www.uscis.gov/policy-manual/volume-6-part-g-chapter-2",
+          "title": "USCIS manual",
+          "access_result": "403; unofficial lookalike domains in search ignored"
+        },
+        {
+          "url": "https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-process",
+          "title": "eb-5-immigrant-investor-process",
+          "access_result": "Chrome actual body and relevant accordion read"
+        },
+        {
+          "url": "https://www.uscis.gov/i-829",
+          "title": "i-829",
+          "access_result": "Chrome actual body and relevant accordion read"
+        },
+        {
+          "url": "https://www.uscis.gov/green-card/after-we-grant-your-green-card/rights-and-responsibilities-of-a-green-card-holder-permanent-resident",
+          "title": "rights-and-responsibilities-of-a-green-card-holder-permanent-resident",
+          "access_result": "Chrome actual body and relevant accordion read"
+        },
+        {
+          "url": "https://www.uscis.gov/green-card/after-we-grant-your-green-card/maintaining-permanent-residence",
+          "title": "maintaining-permanent-residence",
+          "access_result": "Chrome actual body and relevant accordion read"
+        },
+        {
+          "url": "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization/i-am-a-lawful-permanent-resident-of-5-years",
+          "title": "i-am-a-lawful-permanent-resident-of-5-years",
+          "access_result": "Chrome actual body and relevant accordion read"
+        },
+        {
+          "url": "https://content.govdelivery.com/accounts/USDHSCIS/bulletins/3447266",
+          "title": "3447266",
+          "access_result": "web actual body read"
+        },
+        {
+          "url": "https://travel.state.gov/content/travel/en/us-visas/immigrate/immigrant-investor-visas.html",
+          "title": "Immigrant Investor Visas",
+          "access_result": "Official DOS full webpage reopened and read on 2026-09-09: family section confirms spouse and unmarried children younger than 21 may apply; procedural sections also read. Legacy 1m/500k investment figures are not used for current thresholds."
+        }
+      ],
+      "changes": [
+        "Added August21 historical event ending distinct75-country suspension.",
+        "Added USCIS procedure, I829, employment, maintaining residence and naturalisation sources after Chrome resolved web access failures.",
+        "Aligned evidence label/date display: site editorial dates retained in Git/review ledger rather than policy timeline."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/andorra/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "状态/配额",
+          "conclusion": "2026政府新配额含163个无营利许可；不声称剩余名额",
+          "source_urls": [
+            "https://www.govern.ad/ca/w/el-govern-acorda-reduir-les-quotes-d-immigracio-per-afavorir-el-creixement-sostenible-i-controlat-de-la-poblacio"
+          ]
+        },
+        {
+          "field": "门槛/资金/时限/过渡",
+          "conclusion": "现行Article96：1m一般、400k住房基金、50k/12k不退还、房产每套>800k、金融36个月、6个月落实；通过前申请旧法",
+          "source_urls": [
+            "https://www.portaljuridicandorra.ad/L2026002",
+            "https://portaljuridicandorra.ad/L2026002_F"
+          ]
+        },
+        {
+          "field": "首期/续签/工作/家属",
+          "conclusion": "初期2年及2/3/10续签、90天、不劳动职业活动、收入300%+100%和家属保险文件",
+          "source_urls": [
+            "https://www.e-tramits.ad/tramits/ca/d1-residencia-sense-treball-autoritzacio-inicial/p/GV001309"
+          ]
+        },
+        {
+          "field": "国籍",
+          "conclusion": "Article7/11/28：20年且前5年实际，融入及原国籍丧失",
+          "source_urls": [
+            "https://www.portaljuridicandorra.ad/L19951005A"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": ">183天或经济活动利益中心；许可不单独替代税籍判断",
+          "source_urls": [
+            "https://www.e-tramits.ad/tramits/impostos/irpf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.e-tramits.ad/tramits/ca/d1-residencia-sense-treball-autoritzacio-inicial/p/GV001309",
+          "title": "D.1 初始许可",
+          "access_result": "opened official body; monetary fields superseded by law"
+        },
+        {
+          "url": "https://www.portaljuridicandorra.ad/L2026002",
+          "title": "Llei 2/2026",
+          "access_result": "opened Articles96, transition and entry-into-force"
+        },
+        {
+          "url": "https://portaljuridicandorra.ad/L2026002_F",
+          "title": "Law2/2026 status",
+          "access_result": "opened publication12Feb/effective13Feb2026"
+        },
+        {
+          "url": "https://www.govern.ad/ca/w/el-govern-acorda-reduir-les-quotes-d-immigracio-per-afavorir-el-creixement-sostenible-i-controlat-de-la-poblacio",
+          "title": "2026 quota announcement",
+          "access_result": "opened full announcement"
+        },
+        {
+          "url": "https://www.portaljuridicandorra.ad/L19951005A",
+          "title": "Nationality law consolidation",
+          "access_result": "opened Articles7,11,28; official-hosted consolidated text"
+        },
+        {
+          "url": "https://www.e-tramits.ad/tramits/impostos/irpf",
+          "title": "IRPF",
+          "access_result": "opened residence criteria"
+        }
+      ],
+      "changes": [
+        "政策变化：一般600k→1m、旧押金改50k/12k不可退还；补400k住房基金例外和资金限制",
+        "补2026配额、法律生效及2026-01-22之前递交过渡",
+        "更正国籍规则为20年且前5年实际居住及原籍丧失程序"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/brazil/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "门槛/状态/资金",
+          "conclusion": "RN36现行公开办理：1m城市房产，北/东北可低30%，自有境外资金，多套可加，共有人分别门槛",
+          "source_urls": [
+            "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/portal-de-imigracao-laboral/navegacao-guiada-1/possui-autorizacao-de-residencia/o-que-deseja/qual-a-finalidade-desejada-1/investidor-pessoa-fisica/rn-36-2018"
+          ]
+        },
+        {
+          "field": "首期/续签/长期",
+          "conclusion": "4年→满足投资条件可转无期限，每2年14天，维持投资基础",
+          "source_urls": [
+            "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/portal-de-imigracao-laboral/navegacao-guiada-1/possui-autorizacao-de-residencia/o-que-deseja/qual-a-finalidade-desejada-1/investidor-pessoa-fisica/rn-36-2018"
+          ]
+        },
+        {
+          "field": "工作",
+          "conclusion": "劳动部明确移民身份正规化后可依法正式工作",
+          "source_urls": [
+            "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/proteja/duvidas-frequentes"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "司法部家庭团聚涵盖配偶伴侣、子女等且须证明关系和担保人居住",
+          "source_urls": [
+            "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/autorizacao-de-residencia"
+          ]
+        },
+        {
+          "field": "税務",
+          "conclusion": "税务局区分临时/永久及184天/受雇入境等居民触发，不保证低停留免税",
+          "source_urls": [
+            "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/dsdp/nao-residente"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/portal-de-imigracao-laboral/navegacao-guiada-1/possui-autorizacao-de-residencia/o-que-deseja/qual-a-finalidade-desejada-1/investidor-pessoa-fisica/rn-36-2018",
+          "title": "RN36 consolidated",
+          "access_result": "read full operative articles1-6C from same-turn official HTTP200 cache"
+        },
+        {
+          "url": "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/autorizacao-de-residencia",
+          "title": "Residence authorization",
+          "access_result": "opened family-reunion core text"
+        },
+        {
+          "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/proteja/duvidas-frequentes",
+          "title": "Labour Ministry FAQ",
+          "access_result": "opened migration regularization and formal-work paragraph"
+        },
+        {
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/dsdp/nao-residente",
+          "title": "Tax resident/nonresident",
+          "access_result": "opened 184-day and status/employment provisions"
+        }
+      ],
+      "changes": [
+        "资料补全：境外自有资金、共有人最低额、跨境汇款证明、超额融资及维持投资",
+        "删除RN36未列的独立估值硬性要求，保留产权及资金证明",
+        "补税籍触发与工作/家庭一手依据"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/colombia/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛/资金/首期",
+          "conclusion": "房地产≥350，FDI严格>650SMLMV，最长3年，维持投资、本人登记、保险",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/node/26979"
+          ]
+        },
+        {
+          "field": "离境/续签/长期",
+          "conclusion": "连续离境>180日自动失效，M投资者至少5年到R、前后有效签证连续非自动",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/node/26933",
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "Article93未满25岁经济依赖子女、残疾依赖成年、配偶伴侣；不准工作",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "DIAN境内>183/365规则且跨年从第二年起",
+          "source_urls": [
+            "https://micrositios.dian.gov.co/renta-personas-naturales-ag-2025/todo-lo-que-usted-debe-saber-sobre-renta/"
+          ]
+        },
+        {
+          "field": "工作",
+          "conclusion": "Article79没有开放工作权条款，已将含糊肯定改为需要主管机关确认",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.cancilleria.gov.co/node/26979",
+          "title": "M Investor",
+          "access_result": "opened current body; prior HTTP TLS failure bypassed using web"
+        },
+        {
+          "url": "https://www.cancilleria.gov.co/node/26933",
+          "title": "M visa",
+          "access_result": "opened absence limit"
+        },
+        {
+          "url": "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm",
+          "title": "Resolution5477 compilation",
+          "access_result": "opened Articles79,90,93 and work-related clauses"
+        },
+        {
+          "url": "https://micrositios.dian.gov.co/renta-personas-naturales-ag-2025/todo-lo-que-usted-debe-saber-sobre-renta/",
+          "title": "DIAN2025 tax return guidance",
+          "access_result": "opened tax-residence rules"
+        }
+      ],
+      "changes": [
+        "FDI从≥650更正为>650",
+        "补180日离境自动失效、续签投资保持、家属年龄和不得工作",
+        "明确工作权限尚缺主管机关明确解释，不推定开放就业"
+      ],
+      "unresolved": [
+        "M投资者签证的具体受雇/经商许可范围在已打开官方项目及现行Article79中未明列，仍需签证附注或主管机关正式解释"
+      ]
+    },
+    {
+      "path": "investment-residence/georgia/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "短期房产/资金/期限/家属",
+          "conclusion": "非农业房地产>150k，配偶子女；1年可续，产权终止导致失效，页面未列通用年度天数",
+          "source_urls": [
+            "https://sda.gov.ge/en/products/migration-residence-permits/",
+            "https://www.matsne.gov.ge/en/document/view/2278806"
+          ]
+        },
+        {
+          "field": "投资/资金/期限",
+          "conclusion": "企业≥300k而房产>300k，5年；营业额50k/100k/120k×3年，合规后可申无限期",
+          "source_urls": [
+            "https://sda.gov.ge/en/products/migration-residence-permits/",
+            "https://www.matsne.gov.ge/en/document/view/2278806"
+          ]
+        },
+        {
+          "field": "工作",
+          "conclusion": "现行格鲁吉亚语Article1(4)仍豁免有效投资居留；短期房产不等同该例外",
+          "source_urls": [
+            "https://matsne.gov.ge/ka/document/view/2806732"
+          ]
+        },
+        {
+          "field": "家属/国籍",
+          "conclusion": "投资家属配偶未成年及法定依赖；普通归化10连续合法年及考试/经济联系",
+          "source_urls": [
+            "https://sda.gov.ge/en/products/migration-residence-permits/",
+            "https://sda.gov.ge/en/products/citizenship/"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "Article34境内183天/滚动12月终止税年",
+          "source_urls": [
+            "https://matsne.gov.ge/en/document/view/1043717"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://sda.gov.ge/en/products/migration-residence-permits/",
+          "title": "SDA migration/residence permits",
+          "access_result": "opened official full core text; also read same-turn HTTP cache"
+        },
+        {
+          "url": "https://www.matsne.gov.ge/en/document/view/2278806",
+          "title": "Aliens legal status",
+          "access_result": "opened Articles15/16/21"
+        },
+        {
+          "url": "https://matsne.gov.ge/en/document/view/2806732",
+          "title": "Labour migration English",
+          "access_result": "opened; warns not final edition"
+        },
+        {
+          "url": "https://matsne.gov.ge/ka/document/view/2806732",
+          "title": "Labour migration Georgian current",
+          "access_result": "opened final consolidated Article1(4) and June2026 amendment history"
+        },
+        {
+          "url": "https://sda.gov.ge/en/products/citizenship/",
+          "title": "SDA citizenship",
+          "access_result": "opened regular-naturalization requirements"
+        },
+        {
+          "url": "https://matsne.gov.ge/en/document/view/1043717",
+          "title": "Tax code",
+          "access_result": "opened Article34"
+        }
+      ],
+      "changes": [
+        "资料更正企业300k为≥、房产仍>；补逐年营业额及房产替换条件",
+        "区分短期房产与投资居留劳动法豁免，并以现行格鲁吉亚语复核",
+        "补归化和税务具体规则"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/greece/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "状态/门槛/资金",
+          "conclusion": "当前Mitos商改住250k/单套/no120/after5Apr2024；2024及2026通知800k/400k及单套120主空间，特殊250k不受120",
+          "source_urls": [
+            "https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance",
+            "https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf",
+            "https://diavgeia.gov.gr/doc/%CE%A8%CE%A3%CE%99746%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A7%CE%9C"
+          ]
+        },
+        {
+          "field": "期限/续签/工作",
+          "conclusion": "5yr续5yr，投资存续、缺席不阻续签；Mitos无任何就业权；上市建筑修复、置换先购后卖",
+          "source_urls": [
+            "https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance",
+            "https://api.et.gr/apiLAW/1/2023/5038/pdf",
+            "https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf",
+            "https://diavgeia.gov.gr/doc/%CE%A8%CE%A3%CE%99746%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A7%CE%9C"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "2026LawArticle29替换95(2)：配偶伴侣未满21未婚子女双方尊亲属及共同生活受养失行为能力成人；21岁独立3yr",
+          "source_urls": [
+            "https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=CELEX:72004L0038GRC_202604740",
+            "https://diavgeia.gov.gr/doc/%CE%A8%CE%A3%CE%99746%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A7%CE%9C"
+          ]
+        },
+        {
+          "field": "归化",
+          "conclusion": "当前Mitos明确列投资、房产业主、永久投资许可为可用居留类型；7年合法永久实际居住加语言/经济社会条件；旧YPES汇编缺部分许可，采用Mitos现行程序",
+          "source_urls": [
+            "https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%B7%CF%83%CE%B7_%CE%91%CE%BB%CE%BB%CE%BF%CE%B3%CE%B5%CE%BD%CF%8E%CE%BD_%CE%91%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CF%8E%CE%BD"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "AADE主要住所/惯常居所/生活利益中心或12个月>183天",
+          "source_urls": [
+            "https://www.aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance",
+          "title": "Mitos change-of-use",
+          "access_result": "opened official body and read same-turn cached operative criteria; updated4Aug2026"
+        },
+        {
+          "url": "https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf",
+          "title": "2024 circular9",
+          "access_result": "downloaded cached PDF; extracted seven pages and read operative sections plus transitions"
+        },
+        {
+          "url": "https://diavgeia.gov.gr/doc/%CE%A8%CE%A3%CE%99746%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A7%CE%9C",
+          "title": "2026 circular1 21April",
+          "access_result": "opened ministry-linked official DiavgeiaPDF; read core thresholds, shared title, short lets, clarification8-11 and family"
+        },
+        {
+          "url": "https://api.et.gr/apiLAW/1/2023/5038/pdf",
+          "title": "Law5038/2023 official gazette",
+          "access_result": "downloaded116-pagePDF; readArticle95 actualp64, not obsolete monetary thresholds"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=CELEX:72004L0038GRC_202604740",
+          "title": "Law5275/2026 official gazette via EUR-Lex",
+          "access_result": "opened operativeArticle29 atp33; family amendment confirmed"
+        },
+        {
+          "url": "https://migration.gov.gr/egkyklioi-yma/",
+          "title": "Ministry circular catalogue",
+          "access_result": "opened official21April2026 date and Diavgeia link"
+        },
+        {
+          "url": "https://www.ypes.gr/kodikas-ellinikis-ithageneias/",
+          "title": "Citizenship code ministry compilation",
+          "access_result": "openedArticles5/5A; incomplete permit list, superseded for current procedure by Mitos"
+        },
+        {
+          "url": "https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%B7%CF%83%CE%B7_%CE%91%CE%BB%CE%BB%CE%BF%CE%B3%CE%B5%CE%BD%CF%8E%CE%BD_%CE%91%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CF%8E%CE%BD",
+          "title": "Mitos naturalisation",
+          "access_result": "opened currentpermit list,7/12year distinction, language and integration"
+        },
+        {
+          "url": "https://www.aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc",
+          "title": "AADE residence",
+          "access_result": "opened core residence criteria; initialHTTP403 resolved withweb"
+        }
+      ],
+      "changes": [
+        "补2026年第1号官方通知的250k优惠再售边界与先购后卖置换顺序",
+        "明确短租/短期转租限制不等于禁止所有长期租赁",
+        "家庭失行为能力成年条款和7年归化均通过2026一手正文复核，补来源"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/hong-kong/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "门槛、资金与限制",
+          "conclusion": "净资产30m持续6个月、27m+3m；现行44页规则确认房地产15m合计及住宅10m计入上限，住宅成交价30m和合资格公司修订日期。",
+          "source_urls": [
+            "https://www.newcies.gov.hk/en/eligibility-criteria/",
+            "https://www.newcies.gov.hk/media/jvkfl4uq/scheme-rule-en.pdf"
+          ]
+        },
+        {
+          "field": "期限、续签、工作与家属",
+          "conclusion": "入境处确认初次≤24个月、续签≤3年；FAQ正向确认就业、任职、自雇、经商；受养人关系及年龄有直接规则。",
+          "source_urls": [
+            "https://www.immd.gov.hk/eng/services/visas/newcies.html",
+            "https://www.newcies.gov.hk/en/resources/faqs/",
+            "https://www.newcies.gov.hk/en/eligibility-criteria/"
+          ]
+        },
+        {
+          "field": "长期路径、税务",
+          "conclusion": "7年通常居住申请PR与7年维持投资申请unconditional stay分开；IRD确认来源地事实决定营业利润税负。",
+          "source_urls": [
+            "https://www.newcies.gov.hk/media/jvkfl4uq/scheme-rule-en.pdf",
+            "https://www.immd.gov.hk/eng/services/visas/newcies.html",
+            "https://www.ird.gov.hk/eng/tax/bus_pft.htm"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.newcies.gov.hk/en/eligibility-criteria/",
+          "title": "Eligibility Criteria",
+          "access_result": "HTTP200正文已读"
+        },
+        {
+          "url": "https://www.newcies.gov.hk/media/jvkfl4uq/scheme-rule-en.pdf",
+          "title": "Scheme Rules amended 1 March 2026",
+          "access_result": "web超时；curl下载成功，pypdf读取44页关键条款"
+        },
+        {
+          "url": "https://www.newcies.gov.hk/en/resources/faqs/",
+          "title": "New CIES FAQs",
+          "access_result": "web失败；curl HTTP200正文已读"
+        },
+        {
+          "url": "https://www.immd.gov.hk/eng/services/visas/newcies.html",
+          "title": "Immigration Department New CIES",
+          "access_result": "web及HTTP200正文已读"
+        },
+        {
+          "url": "https://www.ird.gov.hk/eng/tax/bus_pft.htm",
+          "title": "IRD Profits Tax",
+          "access_result": "web正文已读范围条款"
+        }
+      ],
+      "changes": [
+        "资料补全：资产回溯期、受养伴侣定义、无条件逗留与PR区别、地域资格及已生效房产/公司规则；不推定为今日新政策",
+        "Added source-dated policy event timeline for material rule update."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/hungary/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "状态、门槛、资金",
+          "conclusion": "NDGAP现行两路线为25万欧基金和100万欧教育公益捐赠，未列直接购房。",
+          "source_urls": [
+            "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor"
+          ]
+        },
+        {
+          "field": "首次身份、续期",
+          "conclusion": "最长十年，可再延十年；基金锁定五年，延续需投资合规，捐赠路线不重复捐赠。",
+          "source_urls": [
+            "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor"
+          ]
+        },
+        {
+          "field": "工作、家属",
+          "conclusion": "主申及相关团聚许可允许受雇，主申可独立经营。",
+          "source_urls": [
+            "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor"
+          ]
+        },
+        {
+          "field": "永久身份、税务",
+          "conclusion": "十年许可与长期居民/国籍不混同；保留需另审实际居住等要求及税籍独立判定提醒。",
+          "source_urls": [
+            "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor"
+          ]
+        },
+        {
+          "field": "关键限制",
+          "conclusion": "补列基金住宅净资产40%和管理人资格；申请、转资证明和续期有法定期限。",
+          "source_urls": [
+            "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor",
+          "title": "NDGAP Residence permit for guest investor",
+          "access_result": "web首开成功；后续web失败，由本轮HTTP200官方正文补充阅读全文"
+        }
+      ],
+      "changes": [
+        "资料补全，非政策新变化：基金配置和续期要求；删除未由当前页直接陈述的无停留保证。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/indonesia/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛、身份、期限",
+          "conclusion": "Bontang移民局E28B及E28C完整段落确认2.5m/5m及350k/700k、5/10年有限居留，可依法延期/转换。",
+          "source_urls": [
+            "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia"
+          ]
+        },
+        {
+          "field": "资金与履约",
+          "conclusion": "90日履行、E28B境外公司股权审计证据；E28C政府债和上市股票有明确条文，但现行第三项重复股票，未正向重建存款选项。",
+          "source_urls": [
+            "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia"
+          ]
+        },
+        {
+          "field": "工作、家属与长期路径",
+          "conclusion": "E28B获批公司管理权限、E28C相关投资活动，家属依移民法另办；禁止不符许可的工作；有限居留不是自动PR/国籍。",
+          "source_urls": [
+            "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "保留个案税务另判提示，未推导居留即免税。",
+          "source_urls": [
+            "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.imigrasi.go.id/wna/daftar-visa-indonesia",
+          "title": "National visa list",
+          "access_result": "HTTP403官方拒绝访问"
+        },
+        {
+          "url": "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia",
+          "title": "Informasi Visa Republik Indonesia",
+          "access_result": "web及HTTP200；实际读取E28B和E28C完整正文"
+        }
+      ],
+      "changes": [
+        "补全90日履约及工作范围、境外公司材料；显式保留存款条目现行证据缺口，未据失联推定关闭",
+        "Aligned evidence label/date display: site editorial dates retained in Git/review ledger rather than policy timeline."
+      ],
+      "unresolved": [
+        "全国目录HTTP403；当前存款资产选项与详细家属年龄、经济依赖条件未完整确认"
+      ]
+    },
+    {
+      "path": "investment-residence/italy/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放/国籍限制",
+          "conclusion": "官方门户俄罗斯白俄罗斯暂停及2024非EU双重国籍限制仍显示",
+          "source_urls": [
+            "https://investorvisa.mise.gov.it/index.php/en/"
+          ]
+        },
+        {
+          "field": "门槛/资金",
+          "conclusion": "现行Article26bis公司/VC500k、startup250k、gov2m、donation1m；2年持有合法资金、3月落地",
+          "source_urls": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art26bis!vig=",
+            "https://www.gazzettaufficiale.it/eli/gu/2024/12/17/295/sg/pdf"
+          ]
+        },
+        {
+          "field": "首期/续签/停留/工作",
+          "conclusion": "Article5八工作日、初期2yr续3yr；26bis5bis前5yr连续居住豁免及同自雇权限；门户6月NullaOsta及60天前renew",
+          "source_urls": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art26bis!vig=",
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art5!vig=",
+            "https://investorvisa.mise.gov.it/index.php/en/investor-visa-how-it-works"
+          ]
+        },
+        {
+          "field": "家庭",
+          "conclusion": "26bis8引用29(4)，已读现行29婚配18+、未成年子女、完全失能成年依赖、特定父母以及住所收入",
+          "source_urls": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art26bis!vig=",
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art29!vig="
+          ]
+        },
+        {
+          "field": "长期/国籍",
+          "conclusion": "现行9五年足够收入语言、家属才另需住房、<6连续月≤10累计月离境；普通非EU10年",
+          "source_urls": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art9!vig=",
+            "https://libertaciviliimmigrazione.dlci.interno.gov.it/temi/concessione-della-cittadinanza-italiana-residenza-sul-territorio-italiano-ai-sensi-dellart-9"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "现行TUIR2多数年/部分日/家庭个人中心/居民登记推定；Article3全球所得",
+          "source_urls": [
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917~art2!vig=",
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917~art3!vig="
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://investorvisa.mise.gov.it/index.php/en/",
+          "title": "Investor Visa portal",
+          "access_result": "opened primary options and Russia/Belarus suspension notices"
+        },
+        {
+          "url": "https://investorvisa.mise.gov.it/index.php/en/investor-visa-how-it-works",
+          "title": "Investor Visa how it works",
+          "access_result": "opened process,6months,8days,3months,2+3yr and60dayrenewal"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn%3Anir%3Astato%3Adecreto.legislativo%3A1998-07-25%3B286~art26bis-com1-letb=",
+          "title": "Original Normattiva deep link",
+          "access_result": "opened HTTP200 error body and web errors; replaced with working current-article URN"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art26bis!vig=",
+          "title": "Normattiva current26bis",
+          "access_result": "direct official HTTP200 full text downloaded and read; header current9September2026 latestact1July2026; web fetch failed"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art5!vig=",
+          "title": "Normattiva currentArticle5",
+          "access_result": "direct official HTTP200 read8workingdays"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art29!vig=",
+          "title": "Normattiva currentArticle29",
+          "access_result": "direct official HTTP200 readfamily scope and requirements"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art9!vig=",
+          "title": "Normattiva currentArticle9",
+          "access_result": "direct official HTTP200 readincome,language,housing and absences"
+        },
+        {
+          "url": "https://www.gazzettaufficiale.it/eli/id/2024/12/17/24G00215/SG",
+          "title": "Law193/2024 gazette entry",
+          "access_result": "opened publication/effective record"
+        },
+        {
+          "url": "https://www.gazzettaufficiale.it/eli/gu/2024/12/17/295/sg/pdf",
+          "title": "Official gazette295/2024 PDF",
+          "access_result": "downloaded104-pagePDF and readArticle35 notesatp42 forVCamendment"
+        },
+        {
+          "url": "https://libertaciviliimmigrazione.dlci.interno.gov.it/temi/concessione-della-cittadinanza-italiana-residenza-sul-territorio-italiano-ai-sensi-dellart-9",
+          "title": "Interior Ministry naturalisation",
+          "access_result": "opened general10year and conditions"
+        },
+        {
+          "url": "https://www.integrazionemigranti.gov.it/it-it/Altre-info/e/4/o/5///id/2/Il-permesso-di-soggiorno-UE-per-lungo-soggiornanti",
+          "title": "Government long-term residence guide",
+          "access_result": "opened conditions/absence/A2; old annualamount not copied"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917~art2!vig=",
+          "title": "TUIR Article2 current",
+          "access_result": "direct official HTTP200 readresidence tests andeffective2024"
+        },
+        {
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917~art3!vig=",
+          "title": "TUIR Article3 current",
+          "access_result": "direct official HTTP200 readresidentworldwide/nonresidentdomesticincome"
+        },
+        {
+          "url": "https://www.fiscooggi.it/sites/default/files/file/2024/11/045_Com.%20st.%20Circolare%20residenza%20fiscale%2004.11.24.pdf",
+          "title": "Tax agency press release",
+          "access_result": "attempted web internalerror anddirect403; replaced byprimarytaxstatute"
+        }
+      ],
+      "changes": [
+        "更正长期居民住房要求适用家属申请，并细化连续离境少于6月",
+        "补税籍居民登记推定及部分天数，修复失效Normattiva锚点、扩充一手证据",
+        "移除旧本站资料更正日期时间线，保留2024-12-18法律生效事件"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/jordan/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛与期限",
+          "conclusion": "已实际读首相府阿文及Petra英文：200k开发商/300k其他/150k首都省外、5年不出售不抵押，5年居留或续签不论此前停留。",
+          "source_urls": [
+            "https://www.pm.gov.jo/AR/NewsDetails/am0847",
+            "https://petra.gov.jo/candid/htdocs/index.php/en/news/government-revamps-investor-citizenship-rules-to-funnel-capital-into-provinces"
+          ]
+        },
+        {
+          "field": "工作、家属及长期路径",
+          "conclusion": "房产居留公告未给出独立工作及家属权细则；与同篇公民投资路径分开，不套用公民家属年龄。",
+          "source_urls": [
+            "https://www.pm.gov.jo/AR/NewsDetails/am0847",
+            "https://petra.gov.jo/candid/htdocs/index.php/en/news/government-revamps-investor-citizenship-rules-to-funnel-capital-into-provinces"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "保留身份不等于税务身份的提示，不据投资公告增加税收优惠。",
+          "source_urls": [
+            "https://www.pm.gov.jo/AR/NewsDetails/am0847"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://petra.gov.jo/candid/htdocs/index.php/en/news/government-revamps-investor-citizenship-rules-to-funnel-capital-into-provinces",
+          "title": "Government Revamps Investor Citizenship Rules",
+          "access_result": "同轮HTTP200缓存实质正文已读"
+        },
+        {
+          "url": "https://www.pm.gov.jo/AR/NewsDetails/am0847",
+          "title": "Cabinet decisions 15 July 2026",
+          "access_result": "web超时，curl HTTP200阿文正文已读"
+        }
+      ],
+      "changes": [
+        "细化首都省而非仅城市边界及估值、续签原停留天数规则；将家属泛称改为明确证据缺口",
+        "Added source-dated policy event timeline for material rule update."
+      ],
+      "unresolved": [
+        "房产居留工作权、家属年龄和依赖范围及完整实施细则未取得直接现行官方证据；不能计完整核验"
+      ]
+    },
+    {
+      "path": "investment-residence/latvia/README.md",
+      "outcome": "future-change-announced",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "当前门槛/期限/资金",
+          "conclusion": "公司50k/100k+10k，房产250k+5%，银行280k/5yr+25k，最长5yr；公司40k/100k纳税；国债第31项已删除",
+          "source_urls": [
+            "https://likumi.lv/ta/id/68522-imigracijas-likums",
+            "https://likumi.lv/ta/id/368122-grozijumi-imigracijas-likuma",
+            "https://www.pmlp.gov.lv/en/how-long-may-residence-permit-be-issued-0"
+          ]
+        },
+        {
+          "field": "未来/过渡",
+          "conclusion": "新法2026-09-15生效；公司第27(1)(10)2yr，房产银行只余旧案过渡第10；生效前申请旧法第4",
+          "source_urls": [
+            "https://likumi.lv/ta/id/370622-imigracijas-likums"
+          ]
+        },
+        {
+          "field": "工作/家属/限制",
+          "conclusion": "现行Article9(5)13-15及23(4)、23.1：投资及家属无限制就业，配偶未成年监护，俄白限定例外；新法旧房产/银行续期明确工作权",
+          "source_urls": [
+            "https://likumi.lv/ta/id/68522-imigracijas-likums",
+            "https://likumi.lv/ta/id/370622-imigracijas-likums"
+          ]
+        },
+        {
+          "field": "长期",
+          "conclusion": "PMLP5年实际连续、6月连续/10月累计离境、稳定来源、A2",
+          "source_urls": [
+            "https://www.pmlp.gov.lv/en/long-term-resident-status-european-community-latvia"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "VID申报住所或≥183天/12月，协定tie-breaker",
+          "source_urls": [
+            "https://www.vid.gov.lv/lv/latvijas-rezidenti-arvalstis"
+          ]
+        },
+        {
+          "field": "未来工作",
+          "conclusion": "新法Article44(23)公司投资者不受限制工作权；已读完整列举尾项",
+          "source_urls": [
+            "https://likumi.lv/ta/id/370622-imigracijas-likums"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://likumi.lv/ta/id/68522-imigracijas-likums",
+          "title": "Immigration Law Latvian current",
+          "access_result": "opened operative Articles9,23,23.1 and current/future status; downloaded complete official text"
+        },
+        {
+          "url": "https://likumi.lv/ta/id/368122-grozijumi-imigracijas-likuma",
+          "title": "2026 April amendment",
+          "access_result": "opened deletion Article23(1)(31) and effective20May2026"
+        },
+        {
+          "url": "https://likumi.lv/ta/id/370622-imigracijas-likums",
+          "title": "New Immigration Law 20August2026",
+          "access_result": "opened Articles27-31,42-44 and transition4-10; official body downloaded and read; effective15September2026"
+        },
+        {
+          "url": "https://www.pmlp.gov.lv/en/how-long-may-residence-permit-be-issued-0",
+          "title": "PMLP duration guide",
+          "access_result": "opened and read all investor options; 2022 English guide retains repealed bonds"
+        },
+        {
+          "url": "https://www.pmlp.gov.lv/en/share-capital-investor-0",
+          "title": "PMLP company investor",
+          "access_result": "opened; ancillary navigation, not relied on instead of legislation"
+        },
+        {
+          "url": "https://likumi.lv/ta/en/en/id/68522-immigration-law",
+          "title": "English law translation",
+          "access_result": "opened; investment bond provision outdated vs Latvian authoritative body"
+        },
+        {
+          "url": "https://www.pmlp.gov.lv/en/long-term-resident-status-european-community-latvia",
+          "title": "EU long-term resident",
+          "access_result": "opened actual criteria and conditions"
+        },
+        {
+          "url": "https://www.vid.gov.lv/lv/latvijas-rezidenti-arvalstis",
+          "title": "VID tax residents abroad",
+          "access_result": "opened domestic residence tests and treaty criteria"
+        }
+      ],
+      "changes": [
+        "删除2026-05-20已失效国债新申请选项",
+        "新增09-15未来生效公司2年及房产/银行新申请关闭、旧申请和持证人续期过渡",
+        "补公司持续纳税、工作权限、家属和税务证据"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/luxembourg/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "门槛/资金/状态",
+          "conclusion": "500k现有维持5yr、500k新公司3年5岗ADEM、3m实质、20m5yr；不含直接间接房产",
+          "source_urls": [
+            "https://guichet.public.lu/en/entreprises/creation-developpement/projet-entreprise/definition/investisseur-pays-tiers.html"
+          ]
+        },
+        {
+          "field": "首期/复核/续签/工作",
+          "conclusion": "卡≤3yr、入境前批准、到达3日/3月；12个月复核，经营许可另申，>6个月离境需交卡",
+          "source_urls": [
+            "https://guichet.public.lu/en/entreprises/creation-developpement/projet-entreprise/definition/investisseur-pays-tiers.html"
+          ]
+        },
+        {
+          "field": "家属",
+          "conclusion": "普通团聚配偶登记伴侣未成年子女，收入住房保险；扩展亲属另有条件",
+          "source_urls": [
+            "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/regroupement-familial.html"
+          ]
+        },
+        {
+          "field": "长期/国籍",
+          "conclusion": "投资页长期5真实连续；归化5年末1年连续+语言、公民课程或测试品行",
+          "source_urls": [
+            "https://guichet.public.lu/en/entreprises/creation-developpement/projet-entreprise/definition/investisseur-pays-tiers.html",
+            "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/citoyen-UE/sejour-5-ans/naturalisation.html"
+          ]
+        },
+        {
+          "field": "税务",
+          "conclusion": "ACD明确居留卡不自动税籍，税务住所/惯常居所/境外生活利益中心",
+          "source_urls": [
+            "https://impotsdirects.public.lu/fr/az/r/resid_nonresid.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://guichet.public.lu/en/entreprises/creation-developpement/projet-entreprise/definition/investisseur-pays-tiers.html",
+          "title": "Investor residence conditions",
+          "access_result": "opened and read core body; additionally read same-turn cached full text"
+        },
+        {
+          "url": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/regroupement-familial.html",
+          "title": "Family reunification",
+          "access_result": "opened actual eligibility and sponsor prerequisites"
+        },
+        {
+          "url": "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/citoyen-UE/sejour-5-ans/naturalisation.html",
+          "title": "Naturalisation",
+          "access_result": "opened all eligibility conditions"
+        },
+        {
+          "url": "https://impotsdirects.public.lu/fr/az/r/resid_nonresid.html",
+          "title": "ACD Resident/nonresident",
+          "access_result": "opened complete substantive body"
+        }
+      ],
+      "changes": [
+        "补12个月投资复核、续期及超过6个月离境交卡规则",
+        "把工作表述改为经营许可须另申",
+        "补资产实际受益人、实质、ADEM和家庭/税务/归化一手证据"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/malaysia/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "门槛、资金、身份",
+          "conclusion": "三档FD、购房及5/15/20年可续社交访问准证与现行官方页面一致，补全年龄25和护照有效期限制。",
+          "source_urls": [
+            "https://www.mm2h.gov.my/category/overview",
+            "https://www.mm2h.gov.my/category/platinum",
+            "https://www.mm2h.gov.my/category/gold",
+            "https://www.mm2h.gov.my/category/silver",
+            "https://www.mm2h.gov.my/"
+          ]
+        },
+        {
+          "field": "居住与续签",
+          "conclusion": "总表明确25–49岁家庭90天，50+无最低天数；分类页确认10年禁售但可升级、FD最多50%特定用途、续签材料。",
+          "source_urls": [
+            "https://www.mm2h.gov.my/category/overview",
+            "https://www.mm2h.gov.my/category/platinum",
+            "https://www.mm2h.gov.my/category/gold",
+            "https://www.mm2h.gov.my/category/silver"
+          ]
+        },
+        {
+          "field": "工作、家属、长期路径与税务",
+          "conclusion": "分类页直接区分Silver/Gold商业投资就业不允许和Platinum允许，并列子女21/34界限；社交访问准证无PR承诺；保留个案税务另判的非优惠提示。",
+          "source_urls": [
+            "https://www.mm2h.gov.my/",
+            "https://www.mm2h.gov.my/category/platinum",
+            "https://www.mm2h.gov.my/category/gold",
+            "https://www.mm2h.gov.my/category/silver"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.mm2h.gov.my/",
+          "title": "MM2H Home",
+          "access_result": "web及官方正文已读"
+        },
+        {
+          "url": "https://www.mm2h.gov.my/category/overview",
+          "title": "Category Overview",
+          "access_result": "web及官方正文已读"
+        },
+        {
+          "url": "https://www.mm2h.gov.my/category/platinum",
+          "title": "Category Platinum",
+          "access_result": "web及官方正文已读"
+        },
+        {
+          "url": "https://www.mm2h.gov.my/category/gold",
+          "title": "Category Gold",
+          "access_result": "web及官方正文已读"
+        },
+        {
+          "url": "https://www.mm2h.gov.my/category/silver",
+          "title": "Category Silver",
+          "access_result": "web及官方正文已读"
+        }
+      ],
+      "changes": [
+        "资料补全/更正：明确Silver/Gold工作及商业限制、50岁以上停留规则、10年房产禁售、FD提取及家属细则；非今日政策变化"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/mauritius/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛、资金、期限与续签",
+          "conclusion": "EDB逐类确认375k房产居留及持产期间有效；2026年8月Smart City指南§8.4明确不少于375k及空地须建成住宅。",
+          "source_urls": [
+            "https://edbmauritius.org/real-estate-hospitality",
+            "https://residency.mu/wp-content/uploads/2024/05/Guidelines-smartcity.pdf"
+          ]
+        },
+        {
+          "field": "工作与家属",
+          "conclusion": "IRS/RES/PDS持RP明确免OP/Work Permit；Smart City指南家属范围更宽但未找到同等工作豁免实质条款。",
+          "source_urls": [
+            "https://edbmauritius.org/real-estate-hospitality",
+            "https://residency.mu/acquire/real-estate-scheme/",
+            "https://residency.mu/acquire/property-development-scheme/",
+            "https://residency.mu/wp-content/uploads/2024/05/Guidelines-smartcity.pdf"
+          ]
+        },
+        {
+          "field": "长期路径及税务",
+          "conclusion": "房产持有型RP无直接国籍承诺，不能混同5m企业投资和2年居住的Smart City单独入籍资格；税务保留个案判断。",
+          "source_urls": [
+            "https://edbmauritius.org/real-estate-hospitality",
+            "https://residency.mu/wp-content/uploads/2024/05/Guidelines-smartcity.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://edbmauritius.org/real-estate-hospitality",
+          "title": "EDB Real Estate and Hospitality",
+          "access_result": "共享HTTP200缓存实读全文"
+        },
+        {
+          "url": "https://residency.mu/acquire/real-estate-scheme/",
+          "title": "Real Estate Scheme",
+          "access_result": "web正文实读"
+        },
+        {
+          "url": "https://residency.mu/acquire/property-development-scheme/",
+          "title": "Property Development Scheme",
+          "access_result": "web正文实读"
+        },
+        {
+          "url": "https://residency.mu/wp-content/uploads/2024/05/Guidelines-smartcity.pdf",
+          "title": "Smart City Scheme Guidelines August 2026",
+          "access_result": "web读取首次正文；curl成功下载58页并pypdf实读§8.4、8.5、10.6、10.7"
+        }
+      ],
+      "changes": [
+        "更正IRS/RES/PDS工作许可豁免；补全各计划家属区别、375k边界措辞及Smart City空地限制"
+      ],
+      "unresolved": [
+        "Smart City房产居留持有人的工作豁免范围未找到直接现行条文；375k正好临界值与部分介绍页exceed措辞须主管机关确认"
+      ]
+    },
+    {
+      "path": "investment-residence/new-zealand/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "capital/duration/renewal",
+          "conclusion": "Growth5m3years21days; Balanced10m5years105days with14/28/42day reduction for nominated extra1/2/3m non-philanthropy Growth investments;24/36 or24/60 checks; Resident indefinite stay and4/6year travel.",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/active-investor-plus-visa/",
+            "https://www.immigration.govt.nz/opsmanual/78345.htm"
+          ]
+        },
+        {
+          "field": "funds/family",
+          "conclusion": "Lawful tracked funds,unconditional gifts,same-jurisdiction secured loans; partner and dependent children<=24,21-24financial dependency; postgrant born children require own dependent resident visa/entry before subsequent parent PR applications.",
+          "source_urls": [
+            "https://www.immigration.govt.nz/visas/active-investor-plus-visa/",
+            "https://www.immigration.govt.nz/about-us/news-centre/active-investor-plus-improvements-provide-greater-certainty-for-investors/",
+            "https://www.immigration.govt.nz/opsmanual/90550.htm",
+            "https://www.immigration.govt.nz/opsmanual/90553.htm"
+          ]
+        },
+        {
+          "field": "citizenship/tax",
+          "conclusion": "General citizenship1350days5years and240eachyear; AIP days insufficient; tax183days/permanent abode,qualified new tax residents ~4year exemption. PUB00548 Sep1-Oct13 consultation not enacted law.",
+          "source_urls": [
+            "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/",
+            "https://www.ird.govt.nz/international-tax/individuals/tax-residency-status-for-individuals",
+            "https://www.ird.govt.nz/roles/nz-tax-residents",
+            "https://www.taxtechnical.ird.govt.nz/consultations/2026/pub00548"
+          ]
+        },
+        {
+          "field": "philanthropy",
+          "conclusion": "June1 Growth20%maximum effective,excluded from Balanced additional-investment stay discount.",
+          "source_urls": [
+            "https://www.immigration.govt.nz/opsmanual/78345.htm",
+            "https://www.beehive.govt.nz/release/aip-visa-growth-category-expands-philanthropy"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.immigration.govt.nz/visas/active-investor-plus-visa/",
+          "title": "INZ AIP visa",
+          "access_result": "HTTP200 full cache plus web opened/read"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/opsmanual/78345.htm",
+          "title": "BN7.1",
+          "access_result": "HTTP200 body read"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/about-us/news-centre/active-investor-plus-improvements-provide-greater-certainty-for-investors/",
+          "title": "INZ August13 reform",
+          "access_result": "HTTP200 full body read"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/opsmanual/90550.htm",
+          "title": "BN6.5 effective12Aug",
+          "access_result": "HTTP200 full body read"
+        },
+        {
+          "url": "https://www.immigration.govt.nz/opsmanual/90553.htm",
+          "title": "BN8.10 effective12Aug",
+          "access_result": "HTTP200 full body read"
+        },
+        {
+          "url": "https://www.beehive.govt.nz/release/aip-visa-growth-category-expands-philanthropy",
+          "title": "Beehive May25 philanthropy",
+          "access_result": "Web opened/read"
+        },
+        {
+          "url": "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/",
+          "title": "Government citizenship presence",
+          "access_result": "Web opened/read"
+        },
+        {
+          "url": "https://www.ird.govt.nz/international-tax/individuals/tax-residency-status-for-individuals",
+          "title": "IRD tax residency",
+          "access_result": "Web opened/read"
+        },
+        {
+          "url": "https://www.ird.govt.nz/roles/nz-tax-residents",
+          "title": "IRD NZ tax residents",
+          "access_result": "Web opened/read"
+        },
+        {
+          "url": "https://www.taxtechnical.ird.govt.nz/consultations/2026/pub00548",
+          "title": "IRD PUB00548",
+          "access_result": "HTTP200 full consultation landing body read"
+        }
+      ],
+      "changes": [
+        "Added direct general citizenship and tax sources; substantive policy unchanged.",
+        "Aligned evidence label/date display: site editorial dates retained in Git/review ledger rather than policy timeline."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/oman/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "状态、门槛、投资类型和身份期限",
+          "conclusion": "官方门户与商务部正文确认现行200k起、多投资路径、10年可续以及旅游综合区已建成房产。",
+          "source_urls": [
+            "https://omanresidence.gov.om/en-us/",
+            "https://tejarah.gov.om/en/media/news/m4peoqcsjjn94obkfvjym0mg"
+          ]
+        },
+        {
+          "field": "工作及家属",
+          "conclusion": "商务部直接支持全资企业及管理、家属不设人数年龄上限；无完整受雇权和亲属证明细则。",
+          "source_urls": [
+            "https://tejarah.gov.om/en/media/news/m4peoqcsjjn94obkfvjym0mg"
+          ]
+        },
+        {
+          "field": "续签、长期身份及税务",
+          "conclusion": "10年可续项目不承诺国籍，离境/最低停留未公开完整；税务不作项目优惠承诺。",
+          "source_urls": [
+            "https://omanresidence.gov.om/en-us/",
+            "https://tejarah.gov.om/en/media/news/m4peoqcsjjn94obkfvjym0mg"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://omanresidence.gov.om/en-us/",
+          "title": "Golden Residency Program",
+          "access_result": "共享HTTP200全文已读"
+        },
+        {
+          "url": "https://tejarah.gov.om/en/media/news/m4peoqcsjjn94obkfvjym0mg",
+          "title": "Golden Residency Program: A Strategic Tool to Attract Investors and Strengthen Oman’s Economy",
+          "access_result": "web及curl正文实读，来源日期2025-09-13"
+        }
+      ],
+      "changes": [
+        "用官方200k最低额替换约数；明确已建成ITC物业、全资管理及家属说明边界"
+      ],
+      "unresolved": [
+        "续签、离境期限、受雇许可、具体家属证明边界未获完整规则"
+      ]
+    },
+    {
+      "path": "investment-residence/philippines/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛、资金及期限",
+          "conclusion": "DFA表格实读确认75000经指定银行定存转股权；司法规则明确6个月试用转无限期及180日投资、到期前30日举证。",
+          "source_urls": [
+            "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/41709",
+            "https://newyorkpcg.dfa.gov.ph/images/2023uploads/FORMS/VISA/SIRV-Checklist-Application-Forms.pdf"
+          ]
+        },
+        {
+          "field": "续签、家属及资格保持",
+          "conclusion": "司法规则XXII/XXIII要求持续投资、年度报告；配偶未婚<21子女，结婚或21岁终止。",
+          "source_urls": [
+            "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/41709",
+            "https://newyorkpcg.dfa.gov.ph/images/2023uploads/FORMS/VISA/SIRV-Checklist-Application-Forms.pdf"
+          ]
+        },
+        {
+          "field": "工作、长期身份及税务",
+          "conclusion": "司法2014令序言明确SIRV执行顾问监督技术职位AEP，较新DOLE规则尚未取得正文；条件型无限期并非国籍保证，税务保留个案判断。",
+          "source_urls": [
+            "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/78484",
+            "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/41709"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://boi.gov.ph/resources/faqs/",
+          "title": "BOI FAQs",
+          "access_result": "反复web403及curl TLS失败，未将片段作完成"
+        },
+        {
+          "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/41709",
+          "title": "BOI Revised Rules and Regulations for SIRV 23 November 2000",
+          "access_result": "web失败，curl HTTP200全文已读XXII/XXIII等"
+        },
+        {
+          "url": "https://newyorkpcg.dfa.gov.ph/images/2023uploads/FORMS/VISA/SIRV-Checklist-Application-Forms.pdf",
+          "title": "DFA New York SIRV Checklist and Application Forms",
+          "access_result": "web首次成功11页PDF实读P0-P7，后续重开403；首次正文可用"
+        },
+        {
+          "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/78484",
+          "title": "BI SBM-2014-040",
+          "access_result": "web失败；curl HTTP200正文实读"
+        },
+        {
+          "url": "https://boi.gov.ph/wp-content/uploads/2026/06/IS_Probationary-Special-Investors-Resident-Visa.pdf",
+          "title": "2026 BOI Probationary SIRV service document",
+          "access_result": "官方搜索定位后open失败，未读全文"
+        }
+      ],
+      "changes": [
+        "更正首次身份需经6个月试用；补全转投资及年度报告；限制工作权表述避免误称管理自动许可"
+      ],
+      "unresolved": [
+        "2026 BOI办理文件与现行DOLE完整工作例外条文访问未成功；不据2000/2014规则独立断言全部现行实施细则已核实"
+      ]
+    },
+    {
+      "path": "investment-residence/portugal/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "状态、标准投资、资金",
+          "conclusion": "本轮AIMA官方HTTP正文支持五类路线及禁止直接/间接房地产投资；基金须至少五年到期且60%投资葡萄牙公司。",
+          "source_urls": [
+            "https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a"
+          ]
+        },
+        {
+          "field": "工作、家属、长期身份",
+          "conclusion": "AIMA actual full body confirms residence/work, family reunification,2year initial permit and Article80 permanent residence route.",
+          "source_urls": [
+            "https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a"
+          ]
+        },
+        {
+          "field": "入籍",
+          "conclusion": "已打开司法部2026-05-19生效说明：EU/CPLP七年、其他十年；在审旧案适用旧法。补上日期和来源。",
+          "source_urls": [
+            "https://justica.gov.pt/en-gb/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio"
+          ]
+        },
+        {
+          "field": "居住与税务",
+          "conclusion": "AIMA FAQ subsequently opened in Chrome and actual answers23-29 read; seven days firstyear and fourteen days each following2year period confirmed.",
+          "source_urls": [
+            "https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a"
+          ]
+        },
+        {
+          "field": "Residence and renewal supplemental check",
+          "conclusion": "Actual FAQ confirms7days firstyear and14days each following2years, investment continuation, tax/social compliance, health/subsistence/housing; autonomous PR subject to its own terms. Family residence requirements depend on title and individual file.",
+          "source_urls": [
+            "https://aima.gov.pt/pt/a-aima/perguntas-frequentes-faqs/autorizacao-de-residencia-para-investimento-ari"
+          ]
+        },
+        {
+          "field": "Initial validity supplemental",
+          "conclusion": "Current AIMA actual HTTP body final eligibility paragraph explicitly states2years from issue; opened/read cache line156, independently corroborated by Europe reviewer. Low-density arithmetic typo not used as a claimed threshold.",
+          "source_urls": [
+            "https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a",
+          "title": "AIMA ARI Article 90-A",
+          "access_result": "web502/超时；本轮HTTP200缓存正文已读取"
+        },
+        {
+          "url": "https://justica.gov.pt/en-gb/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio",
+          "title": "司法部2026国籍法说明",
+          "access_result": "web正文成功"
+        },
+        {
+          "url": "https://aima.gov.pt/pt/a-aima/perguntas-frequentes-faqs/autorizacao-de-residencia-para-investimento-ari",
+          "title": "AIMA ARI FAQ",
+          "access_result": "Chrome actual accordion body read:23,24,25,26,28,29; web failed earlier"
+        }
+      ],
+      "changes": [
+        "资料补全：国籍法生效日、七/十年区分及官方来源。",
+        "Added actual AIMA FAQ source and renewal conditions; specified fund5year maturity and60percent Portuguese company allocation.",
+        "Added source-dated policy event timeline for material rule update."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/qatar/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "金额、投资范围、停留及高档福利",
+          "conclusion": "司法部完整正文明确730k/3.65m、每年90天，两档区分RP与PR卡特定福利；区外单元有例外条件。",
+          "source_urls": [
+            "https://www.moj.gov.qa/en/departments/non-qatari-ownership-and-use-real-estate"
+          ]
+        },
+        {
+          "field": "期限、续签与家属",
+          "conclusion": "NHRC正式指南印刷70页确认房产所有人/用益权人5年可续及配偶子女父母；未把一般受雇担保家庭的<25规则自动套到房产路线。",
+          "source_urls": [
+            "https://www.nhrc-qa.org/storage/publications/file_6666d6f57f82d_1718015733.pdf"
+          ]
+        },
+        {
+          "field": "工作、长期身份及税务",
+          "conclusion": "RP福利不等于工作许可或PR身份；工作领域实施规则仍缺；税务仅保留个案另判提示。",
+          "source_urls": [
+            "https://www.moj.gov.qa/en/departments/non-qatari-ownership-and-use-real-estate",
+            "https://www.nhrc-qa.org/storage/publications/file_6666d6f57f82d_1718015733.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.moj.gov.qa/en/departments/non-qatari-ownership-and-use-real-estate",
+          "title": "Non-Qatari ownership and use of real estate",
+          "access_result": "共享HTTP200缓存完整正文实读"
+        },
+        {
+          "url": "https://www.nhrc-qa.org/storage/publications/file_6666d6f57f82d_1718015733.pdf",
+          "title": "NHRC Workers Rights Booklet chapter11",
+          "access_result": "curl90页PDF读取；pypdf部分字符编码异常，另渲染并目读PDF第71页/印刷70页核实5年及家属条款"
+        },
+        {
+          "url": "https://www.moj.gov.qa/en/faq",
+          "title": "Ministry of Justice FAQs",
+          "access_result": "web超时，搜索片段不算完成"
+        }
+      ],
+      "changes": [
+        "将高档永久居民待遇改为指定福利；补5年可续、两档90天强制条件、家属范围"
+      ],
+      "unresolved": [
+        "当前房产路线工作许可和家属年龄/受养证明实施细节未完整公开或取得"
+      ]
+    },
+    {
+      "path": "investment-residence/saudi-arabia/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "投资、资金、期限与费用",
+          "conclusion": "浏览器现行产品及详细条件实际读取：4m现房/单一期房、期房已付max(1m,10%)、无抵押、5年内产权转移、4000一次费。",
+          "source_urls": [
+            "https://pr.gov.sa/pr?id=pr_product_details_real_estate_owner",
+            "https://pr.gov.sa/pr?id=conditions_controls"
+          ]
+        },
+        {
+          "field": "续签、工作及家属",
+          "conclusion": "工作/经营遵守私营职位和投资法；配偶<25子女及不工作的父母；出售90日替换。FAQ10/5天与详细条件缺失存在口径未解。",
+          "source_urls": [
+            "https://pr.gov.sa/pr?id=pr_product_details_real_estate_owner",
+            "https://pr.gov.sa/pr?id=faqs",
+            "https://pr.gov.sa/pr?id=conditions_controls"
+          ]
+        },
+        {
+          "field": "长期身份及税务",
+          "conclusion": "房产非permanent产品；FAQ明确不能因PR入籍、无单独Premium Residency税制。",
+          "source_urls": [
+            "https://pr.gov.sa/pr?id=faqs",
+            "https://pr.gov.sa/pr?id=conditions_controls"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://pr.gov.sa/pr?id=pr_product_details_real_estate_owner",
+          "title": "Real Estate Owner Residency",
+          "access_result": "CUA浏览器成功加载现行门户并实读资格、期限、费用、全部general benefits"
+        },
+        {
+          "url": "https://pr.gov.sa/pr?id=faqs",
+          "title": "Premium Residency FAQs",
+          "access_result": "CUA逐项打开general和real estate FAQ实读"
+        },
+        {
+          "url": "https://pr.gov.sa/pr?id=conditions_controls",
+          "title": "Detailed Terms and Conditions - Real Estate Owner",
+          "access_result": "CUA选择房产业主，展开资格/持有期/出让/撤销/家属定义全文实读"
+        },
+        {
+          "url": "https://pr.gov.sa/product-details-real-estate-residency",
+          "title": "旧产品URL",
+          "access_result": "直接HTTP与web只到logout/JS壳，不作正文证据"
+        }
+      ],
+      "changes": [
+        "补全期房付款和5年过户、无抵押、家属年龄/父母限制及90天替换；公开停留规则冲突，证据降B"
+      ],
+      "unresolved": [
+        "现行FAQ有第一年10天、之后5天的最低停留，而详细条件无此条；必须由中心厘清适用版本"
+      ]
+    },
+    {
+      "path": "investment-residence/sri-lanka/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛、投资、费用与期限",
+          "conclusion": "移民项目页及完整指南逐条确认100k/200k、IIA至VPFCA、五类合资格投资、5年初次及200k额外5年函、200/人年。",
+          "source_urls": [
+            "https://www.immigration.gov.lk/pages_t.php?id=67",
+            "https://www.immigration.gov.lk/content/files/visa/Guideline%20Investor%20Visa%20Category%20doc%202.pdf"
+          ]
+        },
+        {
+          "field": "复核、终止、工作和家属",
+          "conclusion": "指南2年复核、2个月重大变化报告；仅正向支持管理投资；配偶受养人但年龄依赖定义缺失。",
+          "source_urls": [
+            "https://www.immigration.gov.lk/content/files/visa/Guideline%20Investor%20Visa%20Category%20doc%202.pdf"
+          ]
+        },
+        {
+          "field": "税务与长期路径",
+          "conclusion": "Act11/2026认证3June，§1生效表与§9新增69(1A)核实Investor Visa非居民特殊规则追溯1Apr2025；未承诺PR或国籍。8June通知URL当前404，仅法律可实读。",
+          "source_urls": [
+            "https://www.ird.gov.lk/en/publications/Acts_Income%20Tax_2017/IR_Act_No_11-2026_E.pdf",
+            "https://www.immigration.gov.lk/content/files/visa/Guideline%20Investor%20Visa%20Category%20doc%202.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.immigration.gov.lk/pages_t.php?id=67",
+          "title": "Investor Visa Category",
+          "access_result": "共享HTTP200项目页全文实读"
+        },
+        {
+          "url": "https://www.immigration.gov.lk/content/files/visa/Guideline%20Investor%20Visa%20Category%20doc%202.pdf",
+          "title": "Investor Visa Category Guidelines",
+          "access_result": "共享官方PDF下载成功，pypdf全文实读含附录I/II"
+        },
+        {
+          "url": "https://www.ird.gov.lk/en/publications/Acts_Income%20Tax_2017/IR_Act_No_11-2026_E.pdf",
+          "title": "Inland Revenue Amendment Act No11 of2026",
+          "access_result": "共享官方PDF成功，读取生效表及§9正文"
+        },
+        {
+          "url": "https://www.ird.gov.lk/en/Lists/Latest%20News%20%20Notices/Attachments/793/SEC_PN_IT_2026-02_E.pdf",
+          "title": "SEC PN IT 2026 02 dated08June2026",
+          "access_result": "web失败、curl404，搜索可定位但不计入已核实正文"
+        }
+      ],
+      "changes": [
+        "更正VPFCA英文全称Purpose为Programme；保留5+5和投资签证专门税务非居民规则",
+        "Aligned evidence label/date display: site editorial dates retained in Git/review ledger rather than policy timeline."
+      ],
+      "unresolved": [
+        "自由受雇与无关业务工作权、受养人完整定义仍缺；8June税务通知正文当前无法取得"
+      ]
+    },
+    {
+      "path": "investment-residence/thailand/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "门槛、资金和生效日",
+          "conclusion": "Por3/2568§3.1实读1m总资产含泰国投资、500k四类、债剩余5年、保险/社保/12月存款；2025-02-04即日生效，无最低收入。",
+          "source_urls": [
+            "https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_(EN).pdf",
+            "https://ltr.boi.go.th/documents/BOI-brochure%202025-LTR.pdf"
+          ]
+        },
+        {
+          "field": "期限、维持资格、报到和工作",
+          "conclusion": "现行门户与新版手册确认初次5年、另5年、护照期限上限，持续资格及年度报到，工作另办许可。",
+          "source_urls": [
+            "https://ltr.boi.go.th/",
+            "https://ltr.boi.go.th/documents/BOI-brochure%202025-LTR.pdf"
+          ]
+        },
+        {
+          "field": "家属、长期身份及税务",
+          "conclusion": "正式公告§2.2/3.5与2025手册明确父母、合法配偶、<20子女、法定受养人且无限人数；首页旧4人表述被后生效正式公告和手册取代。法律为temporary stay，税务保留非自动税籍提示。",
+          "source_urls": [
+            "https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_(EN).pdf",
+            "https://ltr.boi.go.th/documents/BOI-brochure%202025-LTR.pdf",
+            "https://ltr.boi.go.th/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://ltr.boi.go.th/",
+          "title": "LTR Visa Thailand",
+          "access_result": "共享HTTP200正文全文实读，注意家属旧4人段仍留"
+        },
+        {
+          "url": "https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_(EN).pdf",
+          "title": "BOI Announcement Por3/2568 official English translation",
+          "access_result": "web及curl6页PDF全文实际读取，来源日期4February2025"
+        },
+        {
+          "url": "https://ltr.boi.go.th/documents/BOI-brochure%202025-LTR.pdf",
+          "title": "BOI 2025 LTR brochure",
+          "access_result": "web两页PDF全文实读含最新家属、资格、5+5"
+        },
+        {
+          "url": "https://osos.boi.go.th/EN/news/2158/Thailand-Approves-Update-of-Long-Term-Resident-LTR-Visa%E2%80%99s/",
+          "title": "Thailand Approves Update of LTR Criteria",
+          "access_result": "web公告实读，发布日期15January2025"
+        }
+      ],
+      "changes": [
+        "删除财富类旧收入要求；依正式2025-02-04公告补父母与法定受养人、无人数上限、保险/存款及5+5条件",
+        "Added source-dated policy event timeline for material rule update."
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "investment-residence/united-arab-emirates/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛、资金及身份期限",
+          "conclusion": "ICP正文确认2m基金/公司/房产、年税250k及公共投资10年；总指南房产5年，与ICP自身房产办理页10年、Dubai Land10年冲突。",
+          "source_urls": [
+            "https://icp.gov.ae/en/services/uae-golden-residency/",
+            "https://icp.gov.ae/en/services-details/?serviceid=68e34eea5ae59b00117383d5",
+            "https://dubailand.gov.ae/en/eservices/request-for-golden-visa-investor/"
+          ]
+        },
+        {
+          "field": "融资、工作与家属",
+          "conclusion": "ICP指南无贷款，DLD允许银行证实已付2m的抵押房产；ICP指南支持工作投资和配偶子女，DLD再列父母。具体工作许可最新办理页未成功取得。",
+          "source_urls": [
+            "https://icp.gov.ae/en/services/uae-golden-residency/",
+            "https://icp.gov.ae/en/services-details/?serviceid=68e34eea5ae59b00117383d5",
+            "https://dubailand.gov.ae/en/eservices/request-for-golden-visa-investor/"
+          ]
+        },
+        {
+          "field": "税務、停留与长期路径",
+          "conclusion": "财政部49/2023正文确认自然人营业额>1m触发企业税、工资和合资格个人投资不征CT；原>6个月境外停留豁免在u.ae空正文、浏览器超时，无法以本轮实质正文复证。黄金居留有期限，不承诺自动入籍。",
+          "source_urls": [
+            "https://mof.gov.ae/en/news/ministry-of-finance-announces-issuance-of-uae-cabinet-decision-on-treatment-of-natural-persons-undertaking-a-business-or-business-activity/",
+            "https://icp.gov.ae/en/services/uae-golden-residency/",
+            "https://dubailand.gov.ae/en/eservices/request-for-golden-visa-investor/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://icp.gov.ae/en/services/uae-golden-residency/",
+          "title": "ICP Golden Residency Guide",
+          "access_result": "web正文实读，页注20August2026，房产5年/无贷款"
+        },
+        {
+          "url": "https://icp.gov.ae/en/services-details/?serviceid=68e34eea5ae59b00117383d5",
+          "title": "ICP Entry Permit Issuance for Real Estate Investor Residency",
+          "access_result": "web实读全部资格及10年，页注11December2024"
+        },
+        {
+          "url": "https://dubailand.gov.ae/en/eservices/request-for-golden-visa-investor/",
+          "title": "Dubai Land Department Golden Visa Investor",
+          "access_result": "web实读10年、2m、抵押银行证明及配偶子女父母"
+        },
+        {
+          "url": "https://mof.gov.ae/en/news/ministry-of-finance-announces-issuance-of-uae-cabinet-decision-on-treatment-of-natural-persons-undertaking-a-business-or-business-activity/",
+          "title": "MOF Cabinet Decision49of2023 treatment of natural persons",
+          "access_result": "web正文实读，17May2023"
+        },
+        {
+          "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa",
+          "title": "UAE Government Golden Visa",
+          "access_result": "HTTP超时；web空正文；CUA浏览器导航亦超时，未作为实读完成"
+        },
+        {
+          "url": "https://uaelegislation.gov.ae/en/legislations/1601/regulations/836/download",
+          "title": "Cabinet Resolution65of2022 implementing regulations",
+          "access_result": "web失败及curl连接失败，未取得正文"
+        },
+        {
+          "url": "https://www.mohre.gov.ae/en/services/work-permits-of-golden-visa-holders-2022",
+          "title": "Work permits of Golden Visa holders",
+          "access_result": "web失败，未取得正文"
+        }
+      ],
+      "changes": [
+        "纠正全国房产统一5年说法，披露ICP总指南和本局办理页/Dubai10年矛盾；补抵押规则、父母及自然人营业税条件"
+      ],
+      "unresolved": [
+        "官方5年/10年及房产融资冲突需主管机关澄清；境外停留>6个月豁免及具体工作许可正文未成功复证"
+      ]
+    }
+  ]
+}

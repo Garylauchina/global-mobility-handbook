@@ -23,9 +23,9 @@ region: "南美"
 - **家属：** 无统一家庭包
 - **永居或入籍路径：** 不直接通PR
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
-- **关键限制与变化：** 短期身份；不得与待细则的投资入籍混淆
+- **关键限制与变化：** 仅限凭国籍可免旅游签证进入阿根廷的外国人；持其他国家签证获得的便利不能直接替代国籍条件。短期身份不得与投资入籍混淆
 - **证据等级：** A
-- **主要来源：** [官方或主要依据](https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital)
+- **主要来源：** [移民局现行申请说明](https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital)；[DNM第758/2022号规定全文](https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto)
 
 ## 纠错与更新
 

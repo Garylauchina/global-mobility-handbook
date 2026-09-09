@@ -27,11 +27,9 @@ region: "大洋洲"
 - **税务提示：** 移民身份与税籍分开；任意12个月超过183天或在新西兰形成永久住所均可能成为税务居民。合资格新移民的约4年境外收入临时豁免须另行满足条件
 - **关键限制与变化：** 原则批准后通常有6个月转资，可在合理情况下再延6个月；2026-08-12起已细化赠与、借款、基金协议、银行路径和后出生/新增子女规则
 - **证据等级：** A
-- **主要来源：** [INZ签证页](https://www.immigration.govt.nz/visas/active-investor-plus-visa/)；[操作手册BN7.1](https://www.immigration.govt.nz/opsmanual/78345.htm)；[2026-08改革公告](https://www.immigration.govt.nz/about-us/news-centre/active-investor-plus-improvements-provide-greater-certainty-for-investors/)
+- **主要来源：** [INZ签证页](https://www.immigration.govt.nz/visas/active-investor-plus-visa/)；[操作手册BN7.1](https://www.immigration.govt.nz/opsmanual/78345.htm)；[2026-08改革公告](https://www.immigration.govt.nz/about-us/news-centre/active-investor-plus-improvements-provide-greater-certainty-for-investors/)；[一般入籍居住要求](https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/)；[IRD税籍规则](https://www.ird.govt.nz/international-tax/individuals/tax-residency-status-for-individuals)；[IRD新税务居民豁免](https://www.ird.govt.nz/roles/nz-tax-residents)
 
 ## 政策时间线
-
-> 本时间线自2026-09-02起前向记录；仅在有官方一手证据时选择性补录此前事件，不保证覆盖完整历史。
 
 ### 2026-06-01 — Growth类别加入有限慈善投资
 

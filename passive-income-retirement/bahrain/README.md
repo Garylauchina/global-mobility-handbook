@@ -2,7 +2,7 @@
 title: "巴林"
 category: "被动收入与退休居留"
 status: "current"
-evidence: "A"
+evidence: "B"
 region: "中东"
 ---
 
@@ -11,6 +11,8 @@ region: "中东"
 [返回“被动收入与退休居留”目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本页只记录公开可核验的专项方案，不构成法律、税务、投资、房产或国籍意见。所有门槛均须在递件前向主管机关再次确认。
+
+> **待补证事项：** 家属具体资格、劳动许可和税务具体陈述仍需直接材料补齐。
 
 ## Self-Sponsorship Residence — Retired Foreigner
 
@@ -24,7 +26,7 @@ region: "中东"
 - **永居或入籍路径：** 非自动PR/国籍
 - **税务提示：** 巴林无个人所得税；经营和原税籍另核。
 - **关键限制与变化：** 须有巴林医保和银行流水
-- **证据等级：** A
+- **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/rps/self-sponsorship-residence-permit-and-return-visa-foreign-investor-0/)
 
 ## Golden Residency — Retired Non-Resident
@@ -32,14 +34,14 @@ region: "中东"
 - **当前状态：** 开放
 - **最低门槛或收入：** 境外退休人士养老金/退休工资≥BHD4,000/月
 - **资金或收入性质：** 境外退休收入
-- **首次身份与期限：** 10年，可续
-- **居住与续签：** 按资格续签
+- **首次身份与期限：** 官方现定义为永久居留；每10年缴BHD300标准行政费
+- **居住与续签：** 维持适用资格，按官方要求办理证件及行政手续
 - **当地工作：** 不替代职业/劳动许可
 - **家属：** 可为符合规则家属申办
-- **永居或入籍路径：** 长期可续居留，不是自动入籍
+- **永居或入籍路径：** 黄金居留本身为永久居留，不自动取得国籍
 - **税务提示：** 巴林无个人所得税；经营和原税籍另核。
 - **关键限制与变化：** 与BHD500自担保退休居留为不同产品
-- **证据等级：** A
+- **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/)
 
 ## 纠错与更新

@@ -34,5 +34,4 @@
 - [塞舌尔](./seychelles/README.md)
 - [西班牙](./spain/README.md)
 - [匈牙利](./hungary/README.md)
-- [印度尼西亚](./indonesia/README.md)
 - [英国](./united-kingdom/README.md)

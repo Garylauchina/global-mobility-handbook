@@ -1,6 +1,6 @@
 # AI benchmark and policy timeline
 
-Read the benchmark section only for a user-requested benchmark or quality audit. For a material policy change, read the timeline section. Ordinary monthly maintenance does not require full cross-review or timing measurements.
+Read the benchmark section only for a user-requested benchmark or quality audit. For a material policy change, read the timeline section. Ordinary 30-day maintenance does not require full cross-review or timing measurements.
 
 ## Benchmark design
 

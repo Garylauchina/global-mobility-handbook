@@ -10,10 +10,12 @@ status: "archived-or-unverified"
 
 > 本目录用于阻止停办、暂停、被替代或只有营销材料的项目被误列为当前可办方案。有限公开检索不能证明法律上的绝对不存在。
 
+> **待补证事项：** 主管机关当前独立项目续办/结束的正式状态公告未取得。
+
 ## Remotely from Georgia
 
 - **当前状态：** 历史项目/未确认继续
-- **关键变化：** 疫情时期品牌项目；当前官方体系未见独立DNV入口
+- **关键变化：** 国家旅游署将其描述为疫情时期曾实施的品牌项目；尚未取得当前专项收件确认
 - **为什么不能按有效项目处理：** 免签或普通居留不等于数字游民签证
 - **证据等级：** B
-- **主要来源：** [官方或主要依据](https://www.geoconsul.gov.ge/en/visaInformation)
+- **主要来源：** [国家旅游署：项目历史背景](https://georgia.travel/why-is-georgia-attractive-to-digital-nomads)；[现行电子签证入口](https://www.evisa.gov.ge/GeoVisa/)

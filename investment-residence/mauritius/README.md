@@ -2,7 +2,7 @@
 title: "毛里求斯"
 category: "投资居留"
 status: "current"
-evidence: "A"
+evidence: "B"
 region: "非洲"
 ---
 
@@ -12,20 +12,22 @@ region: "非洲"
 
 > 本页只记录公开可核验的专项方案，不构成法律、税务、投资、房产或国籍意见。所有门槛均须在递件前向主管机关再次确认。
 
+> **待补证事项：** Smart City房产居留持有人的工作豁免范围未找到直接现行条文；375k正好临界值与部分介绍页exceed措辞须主管机关确认
+
 ## Approved Property Scheme Residence
 
 - **当前状态：** 开放
-- **最低门槛或收入：** IRS/RES/PDS/Smart City等获批项目房产≥US$375,000
+- **最低门槛或收入：** IRS/RES/PDS及Smart City获批项目房产门槛US$375,000；Smart City指南§8.4为不少于该金额，部分计划介绍使用超过该金额，临界金额递件前应确认
 - **资金或收入性质：** 获批房产
 - **首次身份与期限：** 与房产持有挂钩的居留
 - **居住与续签：** 持续持有房产
-- **当地工作：** 可投资；就业/经营另需许可
-- **家属：** 配偶及受养人
+- **当地工作：** EDB明确IRS/RES/PDS项下房产居留持有人可免Occupation Permit及Work Permit而投资和工作；Smart City项下适用范围须另核实
+- **家属：** 各计划按规则随行；PDS列配偶及未满24岁子女。2026年8月Smart City指南另列配偶或同居伴侣、未满24岁子女／继子女／依法收养子女，以及未婚申请人的完全依赖近亲（该项最多3人）
 - **永居或入籍路径：** 非CBI；出售通常导致资格终止
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
-- **关键限制与变化：** 只能购买获批计划内物业；非保本
-- **证据等级：** A
-- **主要来源：** [官方或主要依据](https://edbmauritius.org/real-estate-hospitality)
+- **关键限制与变化：** 本段限上述获批开发计划；Smart City仅购入空地不能取得居留，须完成住宅建设；另有合资格G+2公寓路线，不应将购买任何房产等同取得居留
+- **证据等级：** B
+- **主要来源：** [EDB房产计划](https://edbmauritius.org/real-estate-hospitality)；[RES工作权](https://residency.mu/acquire/real-estate-scheme/)；[PDS资格及工作权](https://residency.mu/acquire/property-development-scheme/)；[2026年8月Smart City指南](https://residency.mu/wp-content/uploads/2024/05/Guidelines-smartcity.pdf)
 
 ## 纠错与更新
 

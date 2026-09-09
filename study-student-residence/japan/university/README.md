@@ -27,15 +27,23 @@ region: "亚洲"
 - **学习期间工作：** “留学”本身没有普通工作权。在不妨碍学业的前提下先取得资格外活动包括许可后，通常才可在所有工作合计每周 28 小时内工作；学校规则所定长假期间上限为每日 8 小时。不得在风俗营业等场所从事工作，即使工作本身不直接涉及该业务也不例外。超过 28 小时的实习或特定活动须另行取得个别许可，不能把未来打工收入当作必然财力。
 - **家属：** 受“留学”持有人扶养的配偶和子女可分别申请“家族滞在”，但须证明真实家庭关系、扶养和资金，且家属的 COE、签证和在留申请均须单独审查。“家族滞在”定义不包括留学生的父母；配偶也没有自动全职工作权，另获资格外活动许可后通常为每周 28 小时以内。
 - **毕业后或升学路径：** 毕业后不再从事在校学习时，不能仅因在留卡尚未到期而继续以“留学”身份全职工作。就职须在开始相应工作前获批“技术・人文知识・国际业务”、“研究”或其他与实际职务和学历相符的在留资格。在毕业前已持续求职、在留状况良好并获毕业大学推荐等条件者，可申请为继续求职设立的“特定活动” 6 个月，并通常可更新一次，最长 1 年；这不是无条件的毕业后开放工签，其间有报酬活动仍须另行获准。
-- **永居或入籍边界：** “留学”、日本学位或校招都不直接产生永住许可或日本国籍。一般永住指南原则要求连续在日 10 年，其中至少 5 年须以规则所列工作资格或居住资格连续在留，因此学生时间可能进入总年限判断，但不能替代这 5 年要求；高度人才等另有例外。永住指南还要求申请人持有相应身份的最长在留期间；截至 2027-03-31，持 3 年期间通常仍视同满足，自 2027-04-01 起及过渡个案见下方时间线。普通归化的法定最低条件之一是持有合法在留资格并在日本连续有住所 5 年，同时还有年龄、品行、生计、国籍和裁量审查；达到最低条件也不保证获批。
+- **永居或入籍边界：** “留学”、日本学位或校招都不直接产生永住许可或日本国籍。一般永住指南原则要求连续在日 10 年，其中至少 5 年须以规则所列工作资格或居住资格连续在留，因此学生时间可能进入总年限判断，但不能替代这 5 年要求；高度人才等另有例外。永住指南还要求申请人持有相应身份的最长在留期间；截至 2027-03-31，持 3 年期间通常仍视同满足，自 2027-04-01 起及过渡个案见下方时间线。普通归化的国籍法第 5 条最低住所条件仍为合法连续在日 5 年；但自 2026-04-01 起，法务省在社会融入的裁量审查中原则要求在留 10 年以上，并延长税金与社会保险缴纳记录的核查期间。两者是法定最低条件与现行审查运用的区别，不能仅据学生居住满 5 年预计获批；还须满足年龄、品行、生计、国籍与日语等要求。
 - **税务提示：** 留学生身份不自动等于日本税务居民或非居民。国税厅按在日是否有“住所”（生活本拠），或是否连续有“居所”满 1 年等事实判断；居民中的非永久居民和非居民又有不同课税范围。奖学金、助研报酬、打工工资、境外收入、汇入日本的款项和税收协定待遇须分别判断。
 - **关键限制与变化：** COE 是日本入管机关对拟从事活动及上陆条件的预审证明，不是签证或入境保证。院校是否属入管厅的适正校类别会影响申请文件，但不是院校排名或学位就业保证。资金、院校名单、语言与入学条件、签证领区文件、在留期间和资格外活动都须在申请时根据个人情况刷新；本页所列 JASSO 生活费是调查平均值，不能被写成签证“最低存款”。2026-10-01 费用改革和 2027-04-01 永住最长期间变化均为已确定的未来规则，不应提前写成当前门槛，也不应忽略其申请受理日与过渡安排。
 - **证据等级：** A
-- **主要来源：** [出入国在留管理厅“留学”在留资格](https://www.moj.go.jp/isa/applications/status/student.html)；[外务省留学签证与 COE](https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html)；[大学留学 COE 当前材料示例](https://www.moj.go.jp/isa/content/001463586.pdf)；[文部科学省大学入学资格](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/1373912.html)；[JASSO 官方本科与短大学信息](https://www.studyinjapan.go.jp/en/planning/learn-about-schools/universities/)；[JASSO 学费规划](https://www.studyinjapan.go.jp/en/planning/academic-fees/)；[JASSO 生活费调查](https://www.studyinjapan.go.jp/en/life/cost-of-living/)；[在留期间更新](https://www.moj.go.jp/isa/applications/procedures/16-3.html)；[转学与毕业后身份问答](https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html)；[留学资格的资格外活动许可](https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html)；[“家族滞在”在留资格](https://www.moj.go.jp/isa/applications/status/dependent.html)；[毕业后继续求职“特定活动”](https://www.moj.go.jp/isa/applications/status/designatedactivities14.html)；[留学生就业手续](https://www.moj.go.jp/isa/publications/materials/10_00015.html)；[在留许可费用改革](https://www.moj.go.jp/isa/01_00644.html)；[线上费用与支付方式](https://www.moj.go.jp/isa/11_00107.html)；[永住许可指南](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html)；[永住最长期间变化公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)；[法务省国籍问答](https://www.moj.go.jp/MINJI/minji78)；[国税厅居民与非居民区分](https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm)
+- **主要来源：** [出入国在留管理厅“留学”在留资格](https://www.moj.go.jp/isa/applications/status/student.html)；[外务省留学签证与 COE](https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html)；[大学留学 COE 当前材料示例](https://www.moj.go.jp/isa/content/001463586.pdf)；[文部科学省大学入学资格](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/1373912.html)；[JASSO 官方本科与短大学信息](https://www.studyinjapan.go.jp/en/planning/learn-about-schools/universities/)；[JASSO 学费规划](https://www.studyinjapan.go.jp/en/planning/academic-fees/)；[JASSO 生活费调查](https://www.studyinjapan.go.jp/en/life/cost-of-living/)；[在留期间更新](https://www.moj.go.jp/isa/applications/procedures/16-3.html)；[转学与毕业后身份问答](https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html)；[留学资格的资格外活动许可](https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html)；[“家族滞在”在留资格](https://www.moj.go.jp/isa/applications/status/dependent.html)；[毕业后继续求职“特定活动”](https://www.moj.go.jp/isa/applications/status/designatedactivities14.html)；[留学生就业手续](https://www.moj.go.jp/isa/publications/materials/10_00015.html)；[在留许可费用改革](https://www.moj.go.jp/isa/01_00644.html)；[线上费用与支付方式](https://www.moj.go.jp/isa/11_00107.html)；[永住许可指南](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html)；[永住最长期间变化公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)；[法务省国籍问答](https://www.moj.go.jp/MINJI/minji78)；[归化审查运用调整公告](https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html)；[国税厅居民与非居民区分](https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm)
 
 ## 政策时间线
 
 > 本时间线自 2026-09-02 起前向记录；仅在有官方一手证据时选择性补录此前事件，不保证覆盖完整历史。
+
+### 2026-04-01 — 归化社会融入审查原则采用十年在留
+
+- **公布与生效：** 2026-03-27 公布，2026-04-01 起实施新审查运用。
+- **变化摘要：** 在国籍法第 5 条仍规定五年最低住所条件的前提下，法务省对社会融入原则要求十年以上在留，并延长税金、社会保险缴纳记录的审查期间；属于法务大臣裁量运用，不是把法律条文改成十年。
+- **过渡安排：** 公告未列统一旧申请豁免，仍按个案审查；留学年限不产生归化承诺。
+- **官方依据：** [法务大臣记者会](https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html)；[当前国籍问答](https://www.moj.go.jp/MINJI/minji78)
+- **事件证据：** A
 
 ### 2026-10-01 — 在留许可费用按获准期间分档
 

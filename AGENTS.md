@@ -4,7 +4,7 @@ These instructions apply to the entire repository. This is a public, Chinese-fir
 
 ## Canonical boundaries
 
-Use `METHODOLOGY.md` for evidence/scope questions, `UPDATE_POLICY.md` as the source of truth for monthly reviews, status and date handling, and `MAINTENANCE.md` for execution and publication checks. Read `INDEPENDENCE.md` or `DISCLAIMER.md` when those boundaries are in scope. For policy maintenance, use `.agents/skills/global-mobility-maintenance/SKILL.md`; load only relevant references.
+Use `METHODOLOGY.md` for evidence/scope questions, `UPDATE_POLICY.md` as the source of truth for 30-day reviews, status and date handling, and `MAINTENANCE.md` for execution and publication checks. Read `INDEPENDENCE.md` or `DISCLAIMER.md` when those boundaries are in scope. For policy maintenance, use `.agents/skills/global-mobility-maintenance/SKILL.md`; load only relevant references.
 
 - Preserve the route-type-first, country-or-territory-second directory structure. A category may define a third-level route leaf when materially different subroutes need independent evidence and central review records; structural index pages do not carry policy metadata.
 - The same country may have distinct pages in several route categories, and a historical route may coexist with a current route. Do not deduplicate by country name.

@@ -15,17 +15,23 @@ region: "欧洲"
 ## VLS-TS / carte de séjour — visiteur
 
 - **当前状态：** 开放
-- **最低门槛或收入：** 单人净资源至少约€1,426.30/月；家属另评
+- **最低门槛或收入：** 单人净资源至少€1,477.93/月（2026-06-01起的单人净额标准）；家属另评
 - **资金或收入性质：** 养老金、租金、储蓄或担保
 - **首次身份与期限：** VLS-TS最长1年；访客卡1年续
 - **居住与续签：** 长期身份需实际居住
 - **当地工作：** 承诺不从事任何职业活动
 - **家属：** 家庭成员各自申请
-- **永居或入籍路径：** 连续合法居住5年可评EU长期居民；归化一般5年实际惯常居住但非自动
+- **永居或入籍路径：** 连续合法居住5年可申请评估EU长期居民，另需稳定资源、保险及适用的B1法语/公民考试等条件；归化一般要求5年实际惯常居住，均非自动
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 资源金额和住房/保险逐案审查
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.service-public.fr/particuliers/vosdroits/F302)
+
+- **补充来源：** [EU长期居民卡](https://www.service-public.gouv.fr/particuliers/vosdroits/F17359)、[法国归化](https://www.service-public.gouv.fr/particuliers/vosdroits/F2213)
+
+## 关键变化时间线
+
+- **2026-06-01（生效）：** SMIC调整后，官方访客居留页面所列单人最低净资源为€1,477.93/月。来源：[政府SMIC调整公告](https://entreprendre.service-public.gouv.fr/actualites/A18916)、[访客居留条件](https://www.service-public.gouv.fr/particuliers/vosdroits/F302)。
 
 ## 纠错与更新
 

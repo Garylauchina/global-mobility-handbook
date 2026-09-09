@@ -16,16 +16,16 @@ region: "北美"
 
 - **当前状态：** 访客规则
 - **最低门槛或收入：** 无专门收入门槛；须满足访客和资金要求
-- **资金或收入性质：** 境外雇主/客户收入
+- **资金或收入性质：** 收入须全部来自加拿大境外雇主；自雇者只向境外客户提供服务，并以合同、雇主信、工资单、发票、境外企业登记、税单或银行流水证明
 - **首次身份与期限：** 通常最多6个月
-- **居住与续签：** 按访客身份延期
-- **当地工作：** 只为境外雇主/客户；不得进入加拿大劳动力市场
-- **家属：** 家属各自需要入境身份
-- **永居或入籍路径：** 不计加拿大工作经验，不直接通PR
-- **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
-- **关键限制与变化：** 不是独立数字游民签证；访问目的仍须真实
+- **居住与续签：** 拟超过原获准停留期须申请visitor record；仍须证明财力、临时访问目的及届满离境意图
+- **当地工作：** 只为境外雇主或境外客户远程工作；为加拿大雇主工作前须先取得工作许可或符合明确豁免，不能凭访客身份进入本地劳动力市场
+- **家属：** 家属各自申请访客、学生或工作等临时身份，不自动取得工作或学习授权
+- **永居或入籍路径：** 这类境外远程工作不构成CEC所需的加拿大工作经验；CEC远程工作须实际身处加拿大并为加拿大雇主工作。访客身份不直接通PR或入籍
+- **税务提示：** CRA按加拿大居住联系、停留期间及意图等判断税籍；访客身份或境外付薪不自动免除加拿大纳税义务，适用税收协定及收入来源仍须另判
+- **关键限制与变化：** 不是独立数字游民签证；须满足全部普通访客条件，入境和延期均须个案审查
 - **证据等级：** A
-- **主要来源：** [官方或主要依据](https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/tech-talent.html)
+- **主要来源：** [IRCC数字游民现行操作指引](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/digital-nomads.html)；[CEC工作经验要求](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/canadian-experience-class.html)；[CRA税务居民判断](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html)；[Tech Talent计划入口](https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/tech-talent.html)
 
 ## 纠错与更新
 

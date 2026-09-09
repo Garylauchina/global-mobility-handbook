@@ -15,7 +15,7 @@ region: "非洲"
 ## Class K — Ordinary Residents
 
 - **当前状态：** 开放
-- **最低门槛或收入：** 年满35；境外稳定年收入≥US$24,000
+- **最低门槛或收入：** 年满35；有权支配至少US$24,000/年的稳定收入：境外来源并汇入，或在肯尼亚支付的养老金/年金
 - **资金或收入性质：** 养老金/年金/境外收入
 - **首次身份与期限：** 按批文期限，通常年度收费可续
 - **居住与续签：** PR衔接未明确
@@ -23,9 +23,11 @@ region: "非洲"
 - **家属：** 可办Dependent Pass
 - **永居或入籍路径：** Class K是否计入PR须书面确认
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
-- **关键限制与变化：** 税务居民常见183日或三年平均122日规则
+- **关键限制与变化：** 税务居民还包括在肯尼亚有永久住所且当年曾停留者；无永久住所者适用当年合计183天，或连续3年每年均停留且平均超过122天等规则
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://immigration.go.ke/class-k-ordinary-residents/)
+
+- **补充来源：** [eFNS Class K资格](https://fns.immigration.go.ke/infopack/permits/classK/)、[家属通行证](https://immigration.go.ke/dependants-pass/)、[KRA税务居民定义](https://www.kra.go.ke/helping-tax-payers/glossary)
 
 ## 纠错与更新
 

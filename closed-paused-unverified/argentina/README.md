@@ -10,10 +10,12 @@ status: "archived-or-unverified"
 
 > 本目录用于阻止停办、暂停、被替代或只有营销材料的项目被误列为当前可办方案。有限公开检索不能证明法律上的绝对不存在。
 
+> **待补证事项：** 未取得合格投资金额、完整申请细则和可验证的现行收件入口；保留已立法待细则，不称法律不存在。
+
 ## Citizenship by Investment
 
 - **当前状态：** 已立法/待细则
-- **关键变化：** 2025法令建立重大投资入籍框架；截至核验日未找到合格投资金额及完整申请规程
+- **关键变化：** 2025法令建立重大投资入籍框架；尚缺可核验的合格投资金额及完整申请规程
 - **为什么不能按有效项目处理：** 不能当作已可递交产品
 - **证据等级：** B
-- **主要来源：** [官方或主要依据](https://www.boletinoficial.gob.ar/detalleAviso/primera/329061/20250731)
+- **主要来源：** [第524/2025号法令](https://www.boletinoficial.gob.ar/detalleAviso/primera/329061/20250731)；[2026年机构负责人任命（不等于投资细则已齐）](https://www.argentina.gob.ar/normativa/nacional/norma-425223)

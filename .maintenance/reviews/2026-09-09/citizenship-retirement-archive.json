@@ -1,0 +1,2822 @@
+{
+  "review_date": "2026-09-09",
+  "scope": [
+    "citizenship-by-investment/antigua-and-barbuda/README.md",
+    "citizenship-by-investment/cambodia/README.md",
+    "citizenship-by-investment/dominica/README.md",
+    "citizenship-by-investment/egypt/README.md",
+    "citizenship-by-investment/grenada/README.md",
+    "citizenship-by-investment/jordan/README.md",
+    "citizenship-by-investment/nauru/README.md",
+    "citizenship-by-investment/saint-kitts-and-nevis/README.md",
+    "citizenship-by-investment/saint-lucia/README.md",
+    "citizenship-by-investment/sao-tome-and-principe/README.md",
+    "citizenship-by-investment/turkey/README.md",
+    "citizenship-by-investment/vanuatu/README.md",
+    "closed-paused-unverified/antigua-and-barbuda/README.md",
+    "closed-paused-unverified/argentina/README.md",
+    "closed-paused-unverified/australia/README.md",
+    "closed-paused-unverified/austria/README.md",
+    "closed-paused-unverified/bahamas/README.md",
+    "closed-paused-unverified/bahrain/README.md",
+    "closed-paused-unverified/cabo-verde/README.md",
+    "closed-paused-unverified/canada/README.md",
+    "closed-paused-unverified/cyprus/README.md",
+    "closed-paused-unverified/georgia/README.md",
+    "closed-paused-unverified/grenada/README.md",
+    "closed-paused-unverified/hungary/README.md",
+    "closed-paused-unverified/iceland/README.md",
+    "digital-nomad-remote-work/indonesia/README.md",
+    "closed-paused-unverified/ireland/README.md",
+    "closed-paused-unverified/malta/README.md",
+    "closed-paused-unverified/montenegro/README.md",
+    "closed-paused-unverified/namibia/README.md",
+    "closed-paused-unverified/netherlands/README.md",
+    "closed-paused-unverified/nigeria/README.md",
+    "closed-paused-unverified/north-macedonia/README.md",
+    "closed-paused-unverified/oman/README.md",
+    "closed-paused-unverified/philippines/README.md",
+    "closed-paused-unverified/portugal/README.md",
+    "closed-paused-unverified/rwanda/README.md",
+    "closed-paused-unverified/serbia/README.md",
+    "closed-paused-unverified/seychelles/README.md",
+    "closed-paused-unverified/sierra-leone/README.md",
+    "closed-paused-unverified/spain/README.md",
+    "closed-paused-unverified/united-kingdom/README.md",
+    "passive-income-retirement/albania/README.md",
+    "passive-income-retirement/austria/README.md",
+    "passive-income-retirement/bahrain/README.md",
+    "passive-income-retirement/belize/README.md",
+    "passive-income-retirement/brazil/README.md",
+    "passive-income-retirement/colombia/README.md",
+    "passive-income-retirement/costa-rica/README.md",
+    "passive-income-retirement/fiji/README.md",
+    "passive-income-retirement/france/README.md",
+    "passive-income-retirement/greece/README.md",
+    "passive-income-retirement/ireland/README.md",
+    "passive-income-retirement/italy/README.md",
+    "passive-income-retirement/kenya/README.md",
+    "passive-income-retirement/mauritius/README.md",
+    "passive-income-retirement/panama/README.md",
+    "passive-income-retirement/philippines/README.md",
+    "passive-income-retirement/portugal/README.md",
+    "passive-income-retirement/rwanda/README.md",
+    "passive-income-retirement/south-africa/README.md",
+    "passive-income-retirement/spain/README.md",
+    "passive-income-retirement/thailand/README.md",
+    "passive-income-retirement/united-arab-emirates/README.md"
+  ],
+  "pages": [
+    {
+      "path": "citizenship-by-investment/antigua-and-barbuda/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "名称、开放、门槛与资金",
+          "conclusion": "主管机关现行计划入口支持 NDF 23 万美元、获批房产 30 万/5 年及企业 150 万或联合 500 万/每人40万。",
+          "source_urls": [
+            "https://cip.gov.ag/citizenship/"
+          ]
+        },
+        {
+          "field": "身份、居住及家属",
+          "conclusion": "批准入籍；首五年须累计五天；配偶、受养子女及满55岁受养父母祖父母。",
+          "source_urls": [
+            "https://cip.gov.ag/citizenship/",
+            "https://cip.gov.ag/citizenship/dependants/"
+          ]
+        },
+        {
+          "field": "工作、税务与程序限制",
+          "conclusion": "公民权按本国法；不承诺免税；申请经持牌代理并接受尽调，保持原通用税务边界。",
+          "source_urls": [
+            "https://cip.gov.ag/citizenship/",
+            "https://cip.gov.ag/how-to-apply/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://cip.gov.ag/citizenship/",
+          "title": "CIU Citizenship",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://cip.gov.ag/citizenship/dependants/",
+          "title": "CIU Dependants",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://cip.gov.ag/how-to-apply/",
+          "title": "CIU How to Apply",
+          "access_result": "opened-current-official"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "citizenship-by-investment/dominica/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放、门槛与资金",
+          "conclusion": "EDF 单人20万、主申加最多三名家属25万美元；房地产20万、持有3年，转售CBI买家须5年。",
+          "source_urls": [
+            "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+            "https://www.cbiu.gov.dm/investment-options/real-estate/"
+          ]
+        },
+        {
+          "field": "身份、居住、家属及工作",
+          "conclusion": "公民身份包含居住工作权；不要求入籍前后居住；配偶、受养子女父母祖父母可纳入。",
+          "source_urls": [
+            "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+            "https://www.cbiu.gov.dm/investment-options/real-estate/",
+            "https://www.cbiu.gov.dm/faqs/"
+          ]
+        },
+        {
+          "field": "尽调与税务边界",
+          "conclusion": "16岁及以上须面试，代理递交；另列房地产政府费用，保留税务需单独判断。",
+          "source_urls": [
+            "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+            "https://www.cbiu.gov.dm/investment-options/real-estate/",
+            "https://www.cbiu.gov.dm/faqs/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/",
+          "title": "CBIU EDF",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://www.cbiu.gov.dm/investment-options/real-estate/",
+          "title": "CBIU Real Estate",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://www.cbiu.gov.dm/faqs/",
+          "title": "CBIU FAQ",
+          "access_result": "opened-current-official"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "citizenship-by-investment/egypt/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛、资金及申请费",
+          "conclusion": "官方四选项确认捐款25万、房产30万、项目35万加10万捐款、50万美元三年存款；申请费1万。",
+          "source_urls": [
+            "https://egyptcitizenship.gov.eg/",
+            "https://egyptcitizenship.gov.eg/ECI/InvestmentProgram/List.aspx"
+          ]
+        },
+        {
+          "field": "退出与汇率",
+          "conclusion": "房产及企业五年内退出须另捐25万美元保籍；定存以到期官方汇率埃镑无息返还。",
+          "source_urls": [
+            "https://egyptcitizenship.gov.eg/ECI/InvestmentProgram/List.aspx"
+          ]
+        },
+        {
+          "field": "子女与身份",
+          "conclusion": "官方FAQ确认未成年子女及后代国籍；配偶途径继续保留个案限制。",
+          "source_urls": [
+            "https://egyptcitizenship.gov.eg/ECI/FQA/List.aspx"
+          ]
+        },
+        {
+          "field": "未补齐核心字段",
+          "conclusion": "已打开官网及FAQ，但无语言/居住要求豁免的现行法条未重建；工作权与税务仅保留按当地法的边界。",
+          "source_urls": [
+            "https://egyptcitizenship.gov.eg/",
+            "https://egyptcitizenship.gov.eg/ECI/FQA/List.aspx"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://egyptcitizenship.gov.eg/",
+          "title": "Egyptian Citizenship by Investment",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://egyptcitizenship.gov.eg/ECI/InvestmentProgram/List.aspx",
+          "title": "Investment Programmes",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://egyptcitizenship.gov.eg/ECI/FQA/List.aspx",
+          "title": "Official FAQ",
+          "access_result": "opened-current-official"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "尚缺现行法律条款直接重建无语言及无居住要求豁免；不能以程序主页未列该要求推定豁免。"
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/grenada/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "开放及门槛",
+          "conclusion": "现行费用表支持NTF23.5万美元、认可项目27万加5万政府款；四人基础额对兄弟姐妹及55岁以下/含55岁父母祖父母有额外费用例外。",
+          "source_urls": [
+            "https://imagrenada.gd/becoming-a-citizen/",
+            "https://imagrenada.gd/enquiries/"
+          ]
+        },
+        {
+          "field": "身份、家属与居住",
+          "conclusion": "FAQ确认直接公民身份、配偶与受养家属范围、不要求赴格林纳达和线上面试。",
+          "source_urls": [
+            "https://imagrenada.gd/enquiries/"
+          ]
+        },
+        {
+          "field": "费用冲突与边界",
+          "conclusion": "费用表尽调费5000美元与FAQ6000美元冲突；旧页未列精确尽调费，补充冲突提示。E-2和税务保持另行判断。",
+          "source_urls": [
+            "https://imagrenada.gd/becoming-a-citizen/",
+            "https://imagrenada.gd/enquiries/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://imagrenada.gd/citizenship-by-investment/",
+          "title": "Legacy citizenship URL",
+          "access_result": "opened-redirects-to-approved-projects"
+        },
+        {
+          "url": "https://imagrenada.gd/becoming-a-citizen/",
+          "title": "IMA Becoming a Citizen",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://imagrenada.gd/enquiries/",
+          "title": "IMA Enquiries and FAQ",
+          "access_result": "opened-current-official"
+        }
+      ],
+      "changes": [
+        "补明基础四人费用适用范围，替换转向目录的核心来源并补充官方费用冲突。"
+      ],
+      "unresolved": [
+        "官方现行费用页与FAQ尽调费分别列5000与6000美元，需主管机关明确适用版本。"
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/jordan/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "法律决定与门槛",
+          "conclusion": "2026-07-15内阁决定确认股票150万约旦第纳尔锁5年；新项目安曼70万/外省50万；新购既有企业股份100万。",
+          "source_urls": [
+            "https://www.pm.gov.jo/AR/NewsDetails/am0847"
+          ]
+        },
+        {
+          "field": "身份与家属",
+          "conclusion": "指定企业路线满足条件后先发3年临时护照，持续履约才提请国籍；妻子、受养女儿、未满25岁未婚儿子及受养父母。",
+          "source_urls": [
+            "https://www.pm.gov.jo/AR/NewsDetails/am0847"
+          ]
+        },
+        {
+          "field": "执行限制",
+          "conclusion": "公告把就业数引用至另行细则，当前未取得具体就业数量表；因此不把内阁摘要当完整收件细则。",
+          "source_urls": [
+            "https://www.pm.gov.jo/AR/NewsDetails/am0847"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.pm.gov.jo/AR/NewsDetails/am0847",
+          "title": "Jordan Cabinet decisions 15 July 2026",
+          "access_result": "opened-current-official"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "当前实施细则中的具体就业数量与收件操作清单尚未建立完整直接证据。"
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/nauru/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放、贡献与截止",
+          "conclusion": "官方当前贡献9万美元，注明2026-02-03起优惠2.5万美元、2026-12-31前提交；由此标准11.5万与原文一致。",
+          "source_urls": [
+            "https://www.ecrcp.gov.nr/",
+            "https://www.ecrcp.gov.nr/contribution"
+          ]
+        },
+        {
+          "field": "身份、居住、家属",
+          "conclusion": "FAQ确认贡献取得国籍，无实体居住，配偶子女父母兄弟姐妹可按资格加入。",
+          "source_urls": [
+            "https://www.ecrcp.gov.nr/frequently-asked-questions"
+          ]
+        },
+        {
+          "field": "申请和护照限制",
+          "conclusion": "代理递交、主申面试及宣誓；官方护照有效10年。公民权和税务保留单独适用本国法边界。",
+          "source_urls": [
+            "https://www.ecrcp.gov.nr/frequently-asked-questions"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.ecrcp.gov.nr/",
+          "title": "Naoero ECRCP",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://www.ecrcp.gov.nr/contribution",
+          "title": "Contribution and fees",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://www.ecrcp.gov.nr/frequently-asked-questions",
+          "title": "Official FAQ",
+          "access_result": "opened-current-official"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "citizenship-by-investment/saint-kitts-and-nevis/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放、费用及投资期限",
+          "conclusion": "SISC/公共利益25万、开发房地产32.5万、私人房产60万美元，房地产七年；公民身份无居住最低要求。",
+          "source_urls": [
+            "https://ciu.gov.kn/cbi-options/",
+            "https://ciu.gov.kn/real-estate-investment/"
+          ]
+        },
+        {
+          "field": "家属与程序",
+          "conclusion": "配偶、未成年/符合条件受养子女、满55岁受养父母；主申请人面试并经代理申请。",
+          "source_urls": [
+            "https://ciu.gov.kn/eligibility-criteria/",
+            "https://ciu.gov.kn/real-estate-investment/"
+          ]
+        },
+        {
+          "field": "已实施与未来截止",
+          "conclusion": "生物信息制度2026-04-14生效，新申请必须办理；此前CBI护照国际旅行过渡截至2027-07-31，国籍本身不因护照升级受影响。",
+          "source_urls": [
+            "https://ciu.gov.kn/biometrics/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://ciu.gov.kn/cbi-options/",
+          "title": "CIU investment options",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://ciu.gov.kn/eligibility-criteria/",
+          "title": "CIU Eligibility Criteria",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://ciu.gov.kn/real-estate-investment/",
+          "title": "Developer Real Estate",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://ciu.gov.kn/biometrics/",
+          "title": "National Biometric Enrolment",
+          "access_result": "opened-current-official"
+        }
+      ],
+      "changes": [
+        "补入2026-04-14起新申请生物信息要求与2027-07-31旧护照过渡截止，并追加政策时间线。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "citizenship-by-investment/saint-lucia/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛与资金",
+          "conclusion": "现行项目页确认NEF24万含最多三名受养人；不计息国债30万加5万美元费用且持5年；房产30万美元。",
+          "source_urls": [
+            "https://www.cipsaintlucia.com/citizenship-by-investment"
+          ]
+        },
+        {
+          "field": "身份、家属与居住",
+          "conclusion": "现行页面确认终身国籍及家属；官网仍提供2022年无居住/旅行要求说明，未拿历史说明视作新法。",
+          "source_urls": [
+            "https://www.cipsaintlucia.com/citizenship-by-investment",
+            "https://www.cipsaintlucia.com/citizenship-news-stlucia"
+          ]
+        },
+        {
+          "field": "审查与风险",
+          "conclusion": "政府可批准、拒绝或延后，须使用获批房产/企业；保留工作按当地法与税务另核边界。",
+          "source_urls": [
+            "https://www.cipsaintlucia.com/citizenship-by-investment"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.cipsaintlucia.com/citizenship-by-investment",
+          "title": "CIP investment options",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://www.cipsaintlucia.com/citizenship-news-stlucia",
+          "title": "Official programme news archive",
+          "access_result": "opened-official-historical"
+        },
+        {
+          "url": "https://www.cipsaintlucia.com/frequently-asked-questions",
+          "title": "Attempted FAQ replacement",
+          "access_result": "open-failed"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "无实体居住依据仅成功打开官网2022年说明，未获得当前有效法规/FAQ完整重建该字段。"
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/sao-tome-and-principe/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "开放与门槛",
+          "conclusion": "现行官网应用入口、国家基金单人9万/2至4人9.5万/额外家属5000美元及费用表均可打开。",
+          "source_urls": [
+            "https://cip.gov.st/",
+            "https://cip.gov.st/investment-structure"
+          ]
+        },
+        {
+          "field": "国籍与居住",
+          "conclusion": "官网列国籍法07/2022及法令07/2025，确认不要求实体居住及依法传承国籍。",
+          "source_urls": [
+            "https://cip.gov.st/",
+            "https://cip.gov.st/eligibility-criteria"
+          ]
+        },
+        {
+          "field": "家属冲突",
+          "conclusion": "资格卡片把父母祖父母写为18岁以上，同页FAQ写55岁以上，存在官方内部不一致；保留较保守55岁并标待确认。",
+          "source_urls": [
+            "https://cip.gov.st/eligibility-criteria"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://cip.gov.st/about-the-program",
+          "title": "About the Program",
+          "access_result": "opened-on-retry"
+        },
+        {
+          "url": "https://cip.gov.st/",
+          "title": "STP programme homepage",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://cip.gov.st/investment-structure",
+          "title": "Investment structure",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://cip.gov.st/eligibility-criteria",
+          "title": "Eligibility and criteria",
+          "access_result": "opened-current-official"
+        }
+      ],
+      "changes": [
+        "补充父母祖父母年龄条件的同页官方冲突，不能无条件宣称全部资格已核实。"
+      ],
+      "unresolved": [
+        "官方资格卡片与FAQ父母祖父母年龄分别18岁和55岁，需法律文本或主管机关确认。"
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/turkey/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "开放、门槛与资金",
+          "conclusion": "投资署当前页确认房产40万、资本/金融50万美元或50个岗位；金融及房产路线列明三年限制。",
+          "source_urls": [
+            "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+          ]
+        },
+        {
+          "field": "国籍、居住、语言及家属",
+          "conclusion": "NVI第12条例外取得国籍排除一般归化其他条件，并列投资居留者及外籍配偶、未成年或受养子女；仍须国家安全审查与总统决定。",
+          "source_urls": [
+            "https://www.nvi.gov.tr/turk-vatandasliginin-kazanilmasi"
+          ]
+        },
+        {
+          "field": "工作、税务及财产风险",
+          "conclusion": "国籍权利按本国法；原文无免税或自动批准保证；估价产权和资金来源警示继续保留。",
+          "source_urls": [
+            "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx",
+            "https://www.nvi.gov.tr/turk-vatandasliginin-kazanilmasi"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx",
+          "title": "Invest Türkiye Property and Citizenship",
+          "access_result": "opened-current-official"
+        },
+        {
+          "url": "https://www.nvi.gov.tr/turk-vatandasliginin-kazanilmasi",
+          "title": "NVI acquisition of citizenship",
+          "access_result": "opened-current-official"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "citizenship-by-investment/cambodia/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "来源与法律版本",
+          "conclusion": "内政部法规目录可打开并确认2026-01-22发布国籍实施次法令；扫描PDF无法形成完整可读官方文本。",
+          "source_urls": [
+            "https://interior.gov.kh/law_and_regulation/8ROVZv2jy23R",
+            "https://web-storage.interior.gov.kh/storage/doc/1597337540.pdf",
+            "https://web-storage.interior.gov.kh/document/moi-20260122041042uumTBuZBOOfq.pdf"
+          ]
+        },
+        {
+          "field": "门槛与资格",
+          "conclusion": "投资40亿/捐款120亿瑞尔、12/6个月居住及联名家属细节未在本轮重新从PDF逐条核实；不推进已完成核验日期。",
+          "source_urls": [
+            "https://web-storage.interior.gov.kh/storage/doc/1597337540.pdf",
+            "https://web-storage.interior.gov.kh/document/moi-20260122041042uumTBuZBOOfq.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://web-storage.interior.gov.kh/storage/doc/1597337540.pdf",
+          "title": "Nationality Law 2018",
+          "access_result": "web-timeout; direct-fetch-scanned-PDF-no-readable-text"
+        },
+        {
+          "url": "https://web-storage.interior.gov.kh/document/moi-20260122041042uumTBuZBOOfq.pdf",
+          "title": "Subdecree 225",
+          "access_result": "web-unsupported-binary; direct-full-PDF-downloaded-19-scanned-pages-no-readable-text"
+        },
+        {
+          "url": "https://interior.gov.kh/law_and_regulation/8ROVZv2jy23R",
+          "title": "Interior Ministry legislation catalogue",
+          "access_result": "opened-current-official"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "须读出高棉文扫描法及次法令的具体投资、捐赠、居住和家属条款；当前统一收件入口仍不明。"
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/vanuatu/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "DSP收费",
+          "conclusion": "web访问失败，但同日直连下载官方费用页成功；人工读取表格确认单人13万/夫妻15万/加一子16.5万/加二子18万美元。",
+          "source_urls": [
+            "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges"
+          ]
+        },
+        {
+          "field": "项目状态、REO与居住",
+          "conclusion": "费用页同时有历史Form D条目；当前REO细则、无最低居住和近期护照操作规定尚未从其他成功打开的官方页完整重建。",
+          "source_urls": [
+            "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges",
+          "title": "Citizenship Fees and Charges",
+          "access_result": "web-502; direct-fetch-200-content-read"
+        },
+        {
+          "url": "https://vancitizenship.gov.vu/",
+          "title": "Citizenship office home",
+          "access_result": "web-502"
+        },
+        {
+          "url": "https://vancitizenship.gov.vu/images/DSP_Prescribed_Fees.pdf",
+          "title": "DSP prescribed fees",
+          "access_result": "web-502"
+        },
+        {
+          "url": "https://vancitizenship.gov.vu/index.php/citizenship/types-of-citizenship",
+          "title": "Citizenship types",
+          "access_result": "web-502"
+        },
+        {
+          "url": "https://vancitizenship.gov.vu/index.php/news-and-updates",
+          "title": "News and updates",
+          "access_result": "web-502"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "当前REO条件、居住豁免与近期护照程序待官网可读资料补齐；不能仅凭费用页通过全项。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/australia/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/biip-closure-and-refunds"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "Home Affairs当前BIIP关闭页明确2024-07-31永久停止新BIIP申请；合格既有188持有人仍可申请888，未完成申请处理及退款另有分流，不等于重开。",
+          "source_urls": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/biip-closure-and-refunds"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/biip-closure-and-refunds",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/austria/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.wien.gv.at/amtswege/verleihung-staatsbuergerschaft-ausserordentliche-leistungen"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "当前维也纳主管部门仍明确特殊成就需既往与未来重大贡献且由联邦政府逐案确认；无定价CBI。原RIS链接是1999–2006历史版，不宜作为现行唯一依据。",
+          "source_urls": [
+            "https://www.wien.gv.at/amtswege/verleihung-staatsbuergerschaft-ausserordentliche-leistungen"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.wien.gv.at/amtswege/verleihung-staatsbuergerschaft-ausserordentliche-leistungen",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.ris.bka.gv.at/eli/bgbl/1985/311/P10/NOR12066929",
+          "title": "Original or alternate official source",
+          "access_result": "web-failed; direct-read-historical-version-1999-2006"
+        },
+        {
+          "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005579&Paragraf=10",
+          "title": "Original or alternate official source",
+          "access_result": "web-timeout; direct-200-current-2026-06-12-version-read-section-10(6)"
+        }
+      ],
+      "changes": [
+        "替换过时RIS历史版链接为现行政府办事依据及动态现行第10条。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/canada/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/notice-update-returns-applications-affected-termination-immigrant-investor-program-federal-entrepreneur-program.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/about.html"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "IRCC2015终止项目通知确认2014-06-19联邦IIP与Entrepreneur终止；当前SUV页明确2026-06-30后不收新申请，之前已接受的申请继续处理。",
+          "source_urls": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/notice-update-returns-applications-affected-termination-immigrant-investor-program-federal-entrepreneur-program.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/about.html"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/notice-update-returns-applications-affected-termination-immigrant-investor-program-federal-entrepreneur-program.html",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/about.html",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.canada.ca/en/news/archive/2014/06/termination-federal-immigrant-investor-entrepreneur-programs.html",
+          "title": "Original or alternate official source",
+          "access_result": "404"
+        }
+      ],
+      "changes": [
+        "修复失效联邦终止URL，明确SUV已接受申请继续处理，不暗示2025承诺现在仍可新递交。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/cyprus/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://cipregistry.mof.gov.cy/en/"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "财政部当前CBI登记入口直接声明2020-10-13内阁终止，2020-11-01起停止新入籍申请；存量代理登记页面不是重新开放。",
+          "source_urls": [
+            "https://cipregistry.mof.gov.cy/en/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://cipregistry.mof.gov.cy/en/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/hungary/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "主管移民局当前Guest Investor规则穷尽列25万欧元基金或100万欧元教育捐款，不包含旧50万欧元直接购房选项；保留只排除购房旧路线的档案范围。",
+          "source_urls": [
+            "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/ireland/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.irishimmigration.ie/faqs-closure-of-the-immigrant-investor-programme-iip/"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "ISD当前Closure FAQ确认2023-02-15关闭新增申请；既有获批项目与身份不因关闭失效、依旧规合格可续签，存量处理不表示重新开放。",
+          "source_urls": [
+            "https://www.irishimmigration.ie/faqs-closure-of-the-immigrant-investor-programme-iip/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.irishimmigration.ie/faqs-closure-of-the-immigrant-investor-programme-iip/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/press-releases/minister-harris-announces-closure-of-the-immigrant-investor-programme/",
+          "title": "Original or alternate official source",
+          "access_result": "403"
+        }
+      ],
+      "changes": [
+        "以可读的主管机关关闭与存量FAQ替换原被拒访问新闻页。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/malta/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf",
+            "https://komunita.gov.mt/2025/09/02/amendments-to-the-maltese-citizenship-act-and-subsidiary-legislation/",
+            "https://komunita.gov.mt/2026/02/05/malta-citizenship-by-merit/"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "欧盟法院判决原PDF与主管机关2025-09-02法律修正说明、2026-02-05Merit说明交叉确认旧CBI已废止；Merit不是其延续或替代定价项目。",
+          "source_urls": [
+            "https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf",
+            "https://komunita.gov.mt/2025/09/02/amendments-to-the-maltese-citizenship-act-and-subsidiary-legislation/",
+            "https://komunita.gov.mt/2026/02/05/malta-citizenship-by-merit/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://komunita.gov.mt/2025/09/02/amendments-to-the-maltese-citizenship-act-and-subsidiary-legislation/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://komunita.gov.mt/2026/02/05/malta-citizenship-by-merit/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "补入马耳他主管机关对法律废止与Merit不能作为CBI替代的现行明确说明。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/netherlands/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://ind.nl/en/documents/06-2024/business-newsletter-21-may-2024.pdf",
+            "https://zoek.officielebekendmakingen.nl/stcrt-2024-13488.html",
+            "https://ind.nl/en/news?page=24"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "IND原始2024-05-21官方通讯与Staatscourant2024/13488明确终止日2024-04-17，原页2024-01-01错误；旧许可合格可按旧规续签。",
+          "source_urls": [
+            "https://ind.nl/en/documents/06-2024/business-newsletter-21-may-2024.pdf",
+            "https://zoek.officielebekendmakingen.nl/stcrt-2024-13488.html",
+            "https://ind.nl/en/news?page=24"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://ind.nl/en/documents/06-2024/business-newsletter-21-may-2024.pdf",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2024-13488.html",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://ind.nl/en/news?page=24",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "将终止日由2024-01-01更正为2024-04-17，补政策时间线与官报。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/spain/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "BOE组织法1/2025最终条款21置空63–67条，2025-04-03起终止新增投资申请；过渡条款保留先前递交、仍有效许可及按初次签发时规则续签。",
+          "source_urls": [
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/united-kingdom/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.gov.uk/tier-1-investor",
+            "https://www.gov.uk/government/publications/tier-1-investor-caseworker-guidance/tier-1-investor-caseworker-guidance-accessible"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "Home Office现行v20办理指南明确2022-02-17下午4时关闭新申请，延签必须在2026-02-17之前，永居须2028-02-17之前；overview旧措辞不应覆盖明确过渡截止。",
+          "source_urls": [
+            "https://www.gov.uk/tier-1-investor",
+            "https://www.gov.uk/government/publications/tier-1-investor-caseworker-guidance/tier-1-investor-caseworker-guidance-accessible"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.uk/tier-1-investor",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.gov.uk/government/publications/tier-1-investor-caseworker-guidance/tier-1-investor-caseworker-guidance-accessible",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "补准确before截止边界与官员办理指南来源。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/antigua-and-barbuda/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://ab.gov.ag/pdf/Discontinuation_of_the_NDR_prg.pdf"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "政府终止通知PDF已读明文2025-11-15结束NDR；旧项目不列当前方案。当前移民站另试失败，不能据此认为重开或普通访客签允许远程工作。",
+          "source_urls": [
+            "https://ab.gov.ag/pdf/Discontinuation_of_the_NDR_prg.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://ab.gov.ag/pdf/Discontinuation_of_the_NDR_prg.pdf",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://immigration.gov.ag/",
+          "title": "Original or alternate official source",
+          "access_result": "open-failed"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/argentina/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.boletinoficial.gob.ar/detalleAviso/primera/329061/20250731",
+            "https://www.argentina.gob.ar/normativa/nacional/norma-425223"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "已读2025-07-31第524/2025法令：重大投资由经济部定义、机构评估、移民局决策，补充细则由主管机关另定；2026-04-28第285/2026号任命新机构执行主任。任命并不等于具体金额与公开收件已落地。",
+          "source_urls": [
+            "https://www.boletinoficial.gob.ar/detalleAviso/primera/329061/20250731",
+            "https://www.argentina.gob.ar/normativa/nacional/norma-425223"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/329061/20250731",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.argentina.gob.ar/normativa/nacional/norma-425223",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "未取得合格投资金额、完整申请细则和可验证的现行收件入口；保留已立法待细则，不称法律不存在。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/bahamas/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.immigration.gov.bs/wp-content/uploads/2023/09/Annual-Report-2022.pdf",
+            "https://www.immigration.gov.bs/"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "原2022年报已下载14MB并读到BEATS暂停直至另行通知，既有持有人可申请permit to reside；同日主管机关首页与服务及近期公告已检查，仍以历史明确暂停为档案依据，不将旧项目宣传作开放凭据。",
+          "source_urls": [
+            "https://www.immigration.gov.bs/wp-content/uploads/2023/09/Annual-Report-2022.pdf",
+            "https://www.immigration.gov.bs/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.immigration.gov.bs/wp-content/uploads/2023/09/Annual-Report-2022.pdf",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.immigration.gov.bs/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/bahrain/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "历史门槛与当前状态",
+          "conclusion": "本轮实读NPRA当前总入口，房产购置时总值至少BHD130000；旧200000不再作为有效冲突；仅核验此档案纠错边界，当前项目完整条款见投资页核验。",
+          "source_urls": [
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://services.bahrain.bh/wps/portal/GoldenResidency_en",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "403"
+        },
+        {
+          "url": "https://goldenresidency.gov.bh/news/bahrain-lowers-minimum-real-estate-investment-for-golden-residency-to-usd-345000/",
+          "title": "Original or alternate official source",
+          "access_result": "403; direct-202-empty"
+        },
+        {
+          "url": "https://goldenresidency.gov.bh/",
+          "title": "Original or alternate official source",
+          "access_result": "open-failed"
+        },
+        {
+          "url": "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/",
+          "title": "NPRA Golden Residency current programme",
+          "access_result": "direct-200-read; web-open-then-timeout; current property threshold 130000 read"
+        }
+      ],
+      "changes": [
+        "清除20万/13万的伪现行冲突；此页仅归档旧门槛并链接现行投资永居页。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/cabo-verde/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.governo.cv/cabo-verde-lanca-programa-remote-working-e-nomadas-digitais-para-diversificar-e-desconcentrar-a-oferta-turistica/",
+            "https://boe.incv.cv/Bulletins/View/85465"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "2020政府发布稿只证明旧Remote Working项目启动；2025-05-15第13/2025法令元数据确认修改外国人法律，但尚未读完整法文以证明新旧制度法律替代关系。",
+          "source_urls": [
+            "https://www.governo.cv/cabo-verde-lanca-programa-remote-working-e-nomadas-digitais-para-diversificar-e-desconcentrar-a-oferta-turistica/",
+            "https://boe.incv.cv/Bulletins/View/85465"
+          ]
+        },
+        {
+          "field": "现行框架及档案边界",
+          "conclusion": "实读完整公报第35/37条及第7条生效：2025-05-16现行远程居留框架成立，旧2020旅游计划金额/期限不适用于新框架；未将新法存在误写为明文废止旧项目。",
+          "source_urls": [
+            "https://boe.incv.cv/Bulletins/DownloadAct?id=85465"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.governo.cv/cabo-verde-lanca-programa-remote-working-e-nomadas-digitais-para-diversificar-e-desconcentrar-a-oferta-turistica/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://boe.incv.cv/Bulletins/View/85465",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://boe.incv.cv/Bulletins/DownloadAct?id=85465",
+          "title": "Decreto-Lei 13/2025 full official gazette",
+          "access_result": "downloaded-official-PDF-extracted-full-art35-art37-and-effective-clause-read"
+        }
+      ],
+      "changes": [
+        "补2025完整官方公报、准确生效日及旧版/现行不同制度边界。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/georgia/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://georgia.travel/why-is-georgia-attractive-to-digital-nomads",
+            "https://www.evisa.gov.ge/GeoVisa/"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "国家旅游署当前可读页面明确把Remotely from Georgia称为疫情时期曾实施项目，指向一般免签与签证规则；不能把历史品牌或免签当独立DNV开放证明。",
+          "source_urls": [
+            "https://georgia.travel/why-is-georgia-attractive-to-digital-nomads",
+            "https://www.evisa.gov.ge/GeoVisa/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://georgia.travel/why-is-georgia-attractive-to-digital-nomads",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.evisa.gov.ge/GeoVisa/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.geoconsul.gov.ge/en/visaInformation",
+          "title": "Original or alternate official source",
+          "access_result": "404"
+        }
+      ],
+      "changes": [
+        "以国家旅游署对历史项目的描述替换失效领事目录，并收紧未确认边界。"
+      ],
+      "unresolved": [
+        "主管机关当前独立项目续办/结束的正式状态公告未取得。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/grenada/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "已读2021 Remote Employment Act第3号完整14页，存在一年可续一年、收入EC10万及附表申请表/费用；尚未获取当前线上或线下收件确认，不能写法律缺申请表。",
+          "source_urls": [
+            "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://immigration.gov.gd/",
+          "title": "Original or alternate official source",
+          "access_result": "TLS-error"
+        }
+      ],
+      "changes": [
+        "明确法律本身已有资格与附表；缺口限定到当前受理渠道和实施状态。"
+      ],
+      "unresolved": [
+        "当前政府受理渠道和实际开放状态未确证。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/iceland/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://island.is/en/o/directorate-of-immigration/news/visa-services-transferred-to-the-ministry-for-foreign-affairs",
+            "https://island.is/en/short-term-residence-permit"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "2026-05-13主管移民机关公告明确Visa Act37/2026生效同时废止长期签证条款；当前short-term residence类别不等于旧90–180天远程签证。",
+          "source_urls": [
+            "https://island.is/en/o/directorate-of-immigration/news/visa-services-transferred-to-the-ministry-for-foreign-affairs",
+            "https://island.is/en/short-term-residence-permit"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://island.is/en/o/directorate-of-immigration/news/visa-services-transferred-to-the-ministry-for-foreign-affairs",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://island.is/en/short-term-residence-permit",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "补入直接证明废止的移民局2026-05-13公告，保留短居新制度入口。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/montenegro/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.gov.me/en/article/195254--development-programme-for-acquisition-of-montenegrin-citizenship-by-admission-for-investment-purposes-launched",
+            "https://www.gov.me/en/article/the-21st-cabinet-session-29-september-2022"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "已读2019启动公告与2022-09-29内阁明示2022-12-31终止决定意向；另查2023欧盟报告官方镜像及当前国籍页未成功，不能把2019启动页作为已结束的唯一证明。",
+          "source_urls": [
+            "https://www.gov.me/en/article/195254--development-programme-for-acquisition-of-montenegrin-citizenship-by-admission-for-investment-purposes-launched",
+            "https://www.gov.me/en/article/the-21st-cabinet-session-29-september-2022"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.me/en/article/195254--development-programme-for-acquisition-of-montenegrin-citizenship-by-admission-for-investment-purposes-launched",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.gov.me/en/article/the-21st-cabinet-session-29-september-2022",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://wapi.gov.me/download-preview/4441000a-7e5c-4b2c-b3f3-661bac4e8736?version=1.0",
+          "title": "Original or alternate official source",
+          "access_result": "open-failed"
+        },
+        {
+          "url": "https://www.gov.me/en/article/citizenship",
+          "title": "Original or alternate official source",
+          "access_result": "open-failed"
+        }
+      ],
+      "changes": [
+        "补充直接指向2022-12-31终止的内阁说明。"
+      ],
+      "unresolved": [
+        "本轮尚缺可读的终止后实施确认/现行国籍主管机关状态页。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/namibia/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.nipdb.com/_files/ugd/77942a_58003f78a3204033bc0385a8cd4b97f4.pdf",
+            "https://www.nipdb.com/"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "已读原NIPDB所托管145页NAMPPF工作组策略文本与官网；文件是2025政策建议汇编，未定位足以支持原句的RBI实施条款。无可读统一项目法源和受理证据，保持待核。",
+          "source_urls": [
+            "https://www.nipdb.com/_files/ugd/77942a_58003f78a3204033bc0385a8cd4b97f4.pdf",
+            "https://www.nipdb.com/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.nipdb.com/_files/ugd/77942a_58003f78a3204033bc0385a8cd4b97f4.pdf",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.nipdb.com/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "删除原来源未支持的“官方仍拟制定”肯定陈述，改为证据不足边界。"
+      ],
+      "unresolved": [
+        "需现行内政法律、统一投资条件和主管机关办理入口；不以私人地产营销补齐。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/nigeria/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://immigration.gov.ng/"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "移民局当前主页及其visa/evisa服务目录可打开，但未拿到标名Digital Nomad的资格、门槛及受理细则；仅保留未确认边界，不宣称法律上不存在。",
+          "source_urls": [
+            "https://immigration.gov.ng/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://immigration.gov.ng/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "缺独立DNV主管机关正面开放/资格证据。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/north-macedonia/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://mvr.gov.mk/en-GB/prijavi-stranci"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "原MVR来源实际是外国访客住宿登记，不能证明DNV法案或受理状态；保留未确认，不把登记页面当项目证据。",
+          "source_urls": [
+            "https://mvr.gov.mk/en-GB/prijavi-stranci"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://mvr.gov.mk/en-GB/prijavi-stranci",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "欠缺专门DNV法源、收入与受理入口；原一般外国人登记来源覆盖不足。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/oman/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://omanresidence.gov.om/en-us/"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "现行商务投资部Golden Residency门户列企业/旅游区房产/金融/雇用50名阿曼人等投资条件，页面无养老金类；不能由这一非穷尽入口证明全国无退休项目。",
+          "source_urls": [
+            "https://omanresidence.gov.om/en-us/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://omanresidence.gov.om/en-us/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "需移民主管机关对纯养老金退休路径的直接说明；当前仅能保留未确认。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/philippines/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/98965"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "Supreme Court E-Library全文确认EO86于2025-04-24签署，境外远程收入、互惠国籍、保险、无犯罪，一年可续；第7节明确另需DFA实施指南。DFA当前门户本轮403，未取得实际受理细则。",
+          "source_urls": [
+            "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/98965"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/98965",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://pco.gov.ph/news_releases/pbbm-allows-issuance-of-dnvs-to-non-immigrant-aliens/",
+          "title": "Original or alternate official source",
+          "access_result": "TLS/open-failed"
+        },
+        {
+          "url": "https://dfa.gov.ph/",
+          "title": "Original or alternate official source",
+          "access_result": "403"
+        }
+      ],
+      "changes": [
+        "替换不可达PCO新闻为司法机关托管EO86全文，明确法令与操作细则分界。"
+      ],
+      "unresolved": [
+        "现行DFA实施指南、完整收件入口及数额仍缺直接材料。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/portugal/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "AIMA当前ARI完整投资清单只列10岗位、科研50万、文化25万、非房地产基金50万与企业就业路线，且反复明确投资不可直接或间接用于房地产；旧房地产和单纯资本转移不构成现行ARI资格。",
+          "source_urls": [
+            "https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "closed-paused-unverified/rwanda/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://www.migration.gov.rw/visa/visitors-visa"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "DGIE现行Visitor Visa各子类明确不准工作；该证据足以警示不可把旅游签当远程工作许可，但不能单凭访客列表排除独立DNV制度。",
+          "source_urls": [
+            "https://www.migration.gov.rw/visa/visitors-visa"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.migration.gov.rw/visa/visitors-visa",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "专门DNV开放或未开放的主管机关说明未取得；维持未确认边界。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/serbia/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://welcometoserbia.gov.rs/home",
+            "https://welcometoserbia.gov.rs/дигитални-номади-у-србији"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "当前政府Welcome to Serbia门户及digital nomads介绍已读，存在数字游民生活与税务便利描述，实际办事入口为C/D签证和普通临居/工作统一许可；未获得独立DNV资格条款。",
+          "source_urls": [
+            "https://welcometoserbia.gov.rs/home",
+            "https://welcometoserbia.gov.rs/дигитални-номади-у-србији"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://welcometoserbia.gov.rs/home",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://welcometoserbia.gov.rs/дигитални-номади-у-србији",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://mup.gov.rs/wps/portal/en/information/temporary%2Bresidence/temporary%2Bresidence",
+          "title": "Original or alternate official source",
+          "access_result": "empty-content"
+        }
+      ],
+      "changes": [
+        "以当前官方门户替换无正文旧MUP链接，并把无独立项目改为未确认独立项目。"
+      ],
+      "unresolved": [
+        "不能从一般门户无项目条目推出法律上绝对不存在。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/seychelles/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://seychelles.govtas.com/en/workcation"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "原workcation URL当前只显示通用Seychelles电子入境许可入口，未展示Workcation专门表单或资格，原“可申请”过强；不能自填第三方收入数字。",
+          "source_urls": [
+            "https://seychelles.govtas.com/en/workcation"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://seychelles.govtas.com/en/workcation",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "收紧为旧workcation链接仍可达通用边境门户，当前专项受理及细则待确认。"
+      ],
+      "unresolved": [
+        "专项Workcation收件、资格、续期和身份衔接未重建。"
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/sierra-leone/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "档案核验范围",
+          "conclusion": "仅核验停止新申请、替代关系或未确认边界；不把已废止项目金额与资格当现行申请规则。",
+          "source_urls": [
+            "https://citizenshiprightsafrica.org/wp-content/uploads/Sierra-Leone-Immigration-Department-Press-Release-January-2-2025.pdf",
+            "https://questions-statements.parliament.uk/written-questions/detail/2026-06-22/11681/",
+            "https://slid.gov.sl/",
+            "https://slid.gov.sl/notices",
+            "https://slid.gov.sl/fees"
+          ]
+        },
+        {
+          "field": "状态与证据",
+          "conclusion": "已读2025-01-02移民局公告原PDF镜像；2026-06-30英国内政部议会答复确认将其列为CBI国。SLID当前官网、公告、费用页仅明确护照/签证及普通居留服务，缺完整CBI法律费用及统一收件。",
+          "source_urls": [
+            "https://citizenshiprightsafrica.org/wp-content/uploads/Sierra-Leone-Immigration-Department-Press-Release-January-2-2025.pdf",
+            "https://questions-statements.parliament.uk/written-questions/detail/2026-06-22/11681/",
+            "https://slid.gov.sl/",
+            "https://slid.gov.sl/notices",
+            "https://slid.gov.sl/fees"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://citizenshiprightsafrica.org/wp-content/uploads/Sierra-Leone-Immigration-Department-Press-Release-January-2-2025.pdf",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://questions-statements.parliament.uk/written-questions/detail/2026-06-22/11681/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://slid.gov.sl/",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://slid.gov.sl/notices",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://slid.gov.sl/fees",
+          "title": "Official status / legislation / authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "补英国内政部实际CBI清单及本国主管机关入口；保持证据不足不列可递交。"
+      ],
+      "unresolved": [
+        "本国当前CBI生效法源、统一费用与稳定受理入口仍需补齐。"
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/indonesia/README.md",
+      "previous_path": "closed-paused-unverified/indonesia/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "开放、门槛与身份",
+          "conclusion": "Bontang移民局完整E33G段确认一年有限居留、可续、不需担保人，境外雇主合同加6万美元年收入、2千美元流水和700万印尼盾费用。",
+          "source_urls": [
+            "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia",
+            "https://evisa.imigrasi.go.id/"
+          ]
+        },
+        {
+          "field": "工作、家庭与长期身份边界",
+          "conclusion": "用途限境外公司远程职责；家属不自动获签，专项适用细则未完整重建；不承诺PR或入籍。",
+          "source_urls": [
+            "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia",
+          "title": "Bontang official visa information — E33G",
+          "access_result": "opened-and-read-complete-E33G-section"
+        },
+        {
+          "url": "https://evisa.imigrasi.go.id/",
+          "title": "Official eVisa application portal",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.imigrasi.go.id/wna/daftar-visa-indonesia/E33G",
+          "title": "Legacy main-site E33G detail",
+          "access_result": "403"
+        }
+      ],
+      "changes": [
+        "将过时的官方无金额/无细则档案迁移至数字游民主表，并按现行官方信息重写。"
+      ],
+      "unresolved": [
+        "家属签证具体适用和续签总年限尚未取得统一当前说明；开放及本人资格已有官方证据，但不把全项核验标为完成。"
+      ]
+    },
+    {
+      "path": "passive-income-retirement/albania/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "门槛、身份与续签",
+          "conclusion": "法律79/2021第85条：养老金年120万ALL、本地银行定收、住房、保险、首次1年年度续。第87条连续合法5年且满足收入保险住址纳税条件可PR。",
+          "source_urls": [
+            "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf",
+            "https://mb.gov.al/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        },
+        {
+          "field": "工作、家属与状态",
+          "conclusion": "第85(4)(5)支持非退休配偶/伴侣团聚及完全不得经济/职业活动；现行内政部办事清单仍列退休申请程序。",
+          "source_urls": [
+            "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf",
+            "https://mb.gov.al/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://mb.gov.al/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/austria/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "门槛及资格",
+          "conclusion": "当前官方2026表确认2616.78/4128.24/每子403.76欧元，年度配额、住房与保险、首次A1及法定例外。",
+          "source_urls": [
+            "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/other-forms-of-settlement/",
+            "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005579&Paragraf=10"
+          ]
+        },
+        {
+          "field": "身份、工作与长期",
+          "conclusion": "一般1年；连续住2年且完成Module1可3年卡；无劳动力市场准入；5年且Module2可EU长期居民；现行国籍第10条一般10年。家属各自申请，税务独立。",
+          "source_urls": [
+            "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/other-forms-of-settlement/",
+            "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005579&Paragraf=10"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/other-forms-of-settlement/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005579&Paragraf=10",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/bahrain/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "两类门槛与身份",
+          "conclusion": "NPRA当前自担保退休页确认15年年资、500第纳尔月收入、2/5/10年；黄金退休页确认非居民退休4000月，并明确永久居留、每10年300第纳尔行政费。",
+          "source_urls": [
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/rps/self-sponsorship-residence-permit-and-return-visa-foreign-investor-0/",
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/"
+          ]
+        },
+        {
+          "field": "边界与待补",
+          "conclusion": "维持医疗保险，家属和劳动许可另按相应制度；无个人所得税和家庭细则未本轮重建全部法源，故保留完整性缺口。",
+          "source_urls": [
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/rps/self-sponsorship-residence-permit-and-return-visa-foreign-investor-0/",
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/rps/self-sponsorship-residence-permit-and-return-visa-foreign-investor-0/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "纠正黄金退休居留是永久身份、10年为行政收费周期。"
+      ],
+      "unresolved": [
+        "家属具体资格、劳动许可和税务具体陈述仍需直接材料补齐。"
+      ]
+    },
+    {
+      "path": "passive-income-retirement/belize/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "资格、金额与续签",
+          "conclusion": "BTB现行页确认40岁、月2000/年24000美元境外收入、年连续30天、卡年续、配偶未满18子女，获批国籍名单包含中国。",
+          "source_urls": [
+            "https://www.belizetourismboard.org/programs-events/retirement-program/"
+          ]
+        },
+        {
+          "field": "工作与资金边界",
+          "conclusion": "QRP境外退休收入含养老金年金投资和储蓄；需承诺汇入本地金融机构；获批QRP Investor方可经营，要求100万BZD资金、5名本国雇员和先居住90天。不把QRP卡当普通PR。",
+          "source_urls": [
+            "https://www.belizetourismboard.org/programs-events/retirement-program/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.belizetourismboard.org/programs-events/retirement-program/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/brazil/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛与身份",
+          "conclusion": "巴西使馆当前页面确认退休或遗属养老金转入每月2000美元，可用其他稳定来源补足；签证最长1年与入境后2年居留须区分，90天内联警登记。",
+          "source_urls": [
+            "https://www.gov.br/mre/pt-br/embaixada-camberra/English/consular-section/visas/long-term-visas-for-stays-longer-than-90-days/vitem-xiv-immigration-policy"
+          ]
+        },
+        {
+          "field": "尚缺具体范围",
+          "conclusion": "开放及入境居留条件证据已读；当前退休类别长期转换、家庭与工作细则没有全部重建，不把通用居留介绍当全项完成。",
+          "source_urls": [
+            "https://www.gov.br/mre/pt-br/embaixada-camberra/English/consular-section/visas/long-term-visas-for-stays-longer-than-90-days/vitem-xiv-immigration-policy"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.br/mre/pt-br/embaixada-camberra/English/consular-section/visas/long-term-visas-for-stays-longer-than-90-days/vitem-xiv-immigration-policy",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "补明退休身份允许其他经常收入补足2000美元，并区别入境签证与居留期限。"
+      ],
+      "unresolved": [
+        "退休类别工作、家庭及长期转换条款需补直接材料。"
+      ]
+    },
+    {
+      "path": "passive-income-retirement/colombia/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "门槛、期限与家属",
+          "conclusion": "Cancillería当前M Pensionado页确认终身养老金3倍SMLMV、最长3年、配偶/伴侣和经济依赖子女至25岁/残疾子女；5年合格持证可累计R。",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/node/26976"
+          ]
+        },
+        {
+          "field": "工作与限制",
+          "conclusion": "官方明文不允许在本国工作，通常不能加入哥伦比亚社保，须有效全面医疗保险；补掉“依M权限”含糊表达。",
+          "source_urls": [
+            "https://www.cancilleria.gov.co/node/26976"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.cancilleria.gov.co/node/26976",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "明确M Pensionado不得工作及医疗保险/社保限制。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/costa-rica/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "来源失效",
+          "conclusion": "原国家旅游局退休页404；主管移民法8764 PDF访问TLS失败，PGR现行法律入口重定向到JS壳无法读取条款。",
+          "source_urls": []
+        },
+        {
+          "field": "核验不足",
+          "conclusion": "1000美元养老金、2500美元Rentista和3年PR等未凭本轮成功打开的正文全部重建，不用搜索摘要标记通过。",
+          "source_urls": []
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.visitcostarica.com/retirement",
+          "title": "Original/alternate source",
+          "access_result": "404"
+        },
+        {
+          "url": "https://www.migracion.go.cr/Documentos%20compartidos/Leyes/Ley%20General%20de%20Migraci%C3%B3n%20y%20Extranjer%C3%ADa%208764.pdf",
+          "title": "Original/alternate source",
+          "access_result": "web-open-failed; direct-TLS-failed"
+        },
+        {
+          "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=66139",
+          "title": "Original/alternate source",
+          "access_result": "opened-redirect-JS-shell-no-law-text"
+        }
+      ],
+      "changes": [],
+      "unresolved": [
+        "现行门槛、家属、居留期限/工作和PR条款尚需可读完整法源。"
+      ]
+    },
+    {
+      "path": "passive-income-retirement/fiji/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "状态、财力与家属",
+          "conclusion": "移民部现行Assured Income页确认新申请45岁以上、足额境外资产、不列固定额、配偶及受养子女，同一表可含家属，续签按个案。",
+          "source_urls": [
+            "https://www.immigration.gov.fj/residence-on-assured-income-permit-application/"
+          ]
+        },
+        {
+          "field": "工作与长期边界",
+          "conclusion": "不把收入居留扩为本地就业；身份按批文、无自动PR或入籍。当前页未给统一居留期限，原页没有擅造数值。",
+          "source_urls": [
+            "https://www.immigration.gov.fj/residence-on-assured-income-permit-application/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.immigration.gov.fj/residence-on-assured-income-permit-application/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/france/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "门槛、身份与工作",
+          "conclusion": "Service Public当前访客页确认1477.93欧元净/月、最长1年可续、保险住址及禁止受雇自雇等职业活动。2026-06-01SMIC上涨公告直接支持新金额。",
+          "source_urls": [
+            "https://www.service-public.fr/particuliers/vosdroits/F302",
+            "https://entreprendre.service-public.gouv.fr/actualites/A18916",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F17359",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2213"
+          ]
+        },
+        {
+          "field": "长期与资格",
+          "conclusion": "EU长期居民页明确访客和VLS-TS可累计合法连续5年，仍有收入、保险、B1/公民考试等条件；归化通常5年惯常居住，另有条件。",
+          "source_urls": [
+            "https://www.service-public.fr/particuliers/vosdroits/F302",
+            "https://entreprendre.service-public.gouv.fr/actualites/A18916",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F17359",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2213"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F302",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://entreprendre.service-public.gouv.fr/actualites/A18916",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F17359",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2213",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "将访客资源从1426.30改1477.93欧元净/月，补2026-06-01生效时间线；补长期条件。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/ireland/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛、程序与工作",
+          "conclusion": "ISD退休页2026-06-25版本确认每人5万欧元年收入加住宅规模应急资金、爱尔兰会计师核证、入境前Stamp0审批、全私立医院保险；Stamp0页禁止未经许可工作/经营。",
+          "source_urls": [
+            "https://www.irishimmigration.ie/coming-to-live-in-ireland/i-want-to-retire-to-ireland/",
+            "https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/",
+            "https://www.irishimmigration.ie/how-to-become-an-irish-citizen-guide/"
+          ]
+        },
+        {
+          "field": "入籍计时冲突",
+          "conclusion": "现行Citizen Guide在Time that Counts标题下列Stamp0；历史政策曾排除，不应无条件继续写不计入，也不能仅凭指南保证计时。",
+          "source_urls": [
+            "https://www.irishimmigration.ie/coming-to-live-in-ireland/i-want-to-retire-to-ireland/",
+            "https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/",
+            "https://www.irishimmigration.ie/how-to-become-an-irish-citizen-guide/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.irishimmigration.ie/coming-to-live-in-ireland/i-want-to-retire-to-ireland/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.irishimmigration.ie/registering-your-immigration-permission/information-on-registering/immigration-permission-stamps/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.irishimmigration.ie/how-to-become-an-irish-citizen-guide/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.irishimmigration.ie/wp-content/uploads/2019/11/Family-Reunification-Policy-Document.pdf",
+          "title": "Original/alternate source",
+          "access_result": "404"
+        }
+      ],
+      "changes": [
+        "取消Stamp0一概不计入入籍的无条件判断，明确官方指南冲突需书面确认。"
+      ],
+      "unresolved": [
+        "Stamp0是否可计入个人入籍时段存在官方展示与历史口径矛盾，未获适用法规/主管机关明确说明。"
+      ]
+    },
+    {
+      "path": "passive-income-retirement/kenya/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "资格、财力、工作与家属",
+          "conclusion": "移民部/eFNS现行页确认35岁、年24000美元；可为境外汇入收入或本地支付养老金/年金。禁止任何有薪无薪就业和创收活动，须另获许可。家属可申请Dependent Pass。",
+          "source_urls": [
+            "https://immigration.go.ke/class-k-ordinary-residents/",
+            "https://fns.immigration.go.ke/infopack/permits/classK/",
+            "https://immigration.go.ke/dependants-pass/",
+            "https://www.kra.go.ke/helping-tax-payers/glossary"
+          ]
+        },
+        {
+          "field": "身份与税务边界",
+          "conclusion": "许可按批文收费年度计，不保证PR计时；KRA现行定义确认永久住所加停留、183天或连续三年每年停留且平均超过122天。",
+          "source_urls": [
+            "https://immigration.go.ke/class-k-ordinary-residents/",
+            "https://fns.immigration.go.ke/infopack/permits/classK/",
+            "https://immigration.go.ke/dependants-pass/",
+            "https://www.kra.go.ke/helping-tax-payers/glossary"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://immigration.go.ke/class-k-ordinary-residents/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://fns.immigration.go.ke/infopack/permits/classK/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://immigration.go.ke/dependants-pass/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.kra.go.ke/helping-tax-payers/glossary",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "补本地养老金/年金可接受及完整税务居民边界。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/mauritius/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "资格、财力与身份",
+          "conclusion": "EDB现行页确认50岁、10年可续；Finance Act 2025最终第10(6)也是10年，未把预算5年建议当法律。最终法确认60天首汇2000、以后年24000或月2000。",
+          "source_urls": [
+            "https://president.govmu.org/president/wp-content/uploads/2025/08/18_The-Finance-Act-2025.pdf",
+            "https://residency.mu/retire/retired-non-citizen-50-years/"
+          ]
+        },
+        {
+          "field": "家属、工作、永久居留",
+          "conclusion": "最终法与EDB确认不得就业/从投资企业领薪福利，可投资；家属含配偶父母及不超过24岁的受养未婚无收益活动子女；持退休卡5年且此前5年合计200000可申请20年PR。",
+          "source_urls": [
+            "https://president.govmu.org/president/wp-content/uploads/2025/08/18_The-Finance-Act-2025.pdf",
+            "https://residency.mu/retire/retired-non-citizen-50-years/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://president.govmu.org/president/wp-content/uploads/2025/08/18_The-Finance-Act-2025.pdf",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://residency.mu/retire/retired-non-citizen-50-years/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "补首汇60天期限，子女年龄改不超过24岁，工作限制对齐最终法。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/panama/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "资格、金额与身份",
+          "conclusion": "SNM当前退休清单引用200-203条确认终身养老金1000，家属250；个人房产超过100000可降750；主申无限期无须延长。",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/02-JUBILADO-PENSIONADO-1.pdf"
+          ]
+        },
+        {
+          "field": "家属与边界",
+          "conclusion": "夫妻可合并养老金；子女全日制在学时临时身份至25岁且不享永久或退休身份，严重残疾有例外。普通劳动和归化不作特殊保证。",
+          "source_urls": [
+            "https://www.migracion.gob.pa/wp-content/uploads/02-JUBILADO-PENSIONADO-1.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.migracion.gob.pa/wp-content/uploads/02-JUBILADO-PENSIONADO-1.pdf",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "补清受养子女只得临时身份的关键例外，避免全家直接PR误导。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/philippines/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "资格与资金",
+          "conclusion": "PRA当前官方全文确认40岁起；50+有/无养老金存款15000/30000，40-49为25000/50000；终身养老金800单人1000带家属。",
+          "source_urls": [
+            "https://www.pra.gov.ph/srrvisa"
+          ]
+        },
+        {
+          "field": "身份、家属、费用与工作",
+          "conclusion": "无限期多次入境并维持存款年费；合法配偶及申请时未满21岁未婚子女；超过2名后每名多存15000（前菲律宾公民例外）。官网列无需另办工作签证/许可，但具体受雇义务仍按主管机关核对，未承诺入籍。",
+          "source_urls": [
+            "https://www.pra.gov.ph/srrvisa"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.pra.gov.ph/srrvisa",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "将年龄边界改年满40，明确养老金为终身及家属额外存款。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/rwanda/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "资格、财力、期限与续签",
+          "conclusion": "DGIE现行Other Permits的K栏目确认保证收入且无本地就业意图、最长2年、新续签均有材料列表，150000RWF；退休证明、本地银行和医保，续签前6个月流水。",
+          "source_urls": [
+            "https://www.migration.gov.rw/index.php?L=2&id=66"
+          ]
+        },
+        {
+          "field": "其他字段边界",
+          "conclusion": "官方未列统一最低额；家庭需另申请，原页不承诺PR/国籍具体时间，保留税务另核边界。",
+          "source_urls": [
+            "https://www.migration.gov.rw/index.php?L=2&id=66"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.migration.gov.rw/index.php?L=2&id=66",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "用实际公开材料列表替换“先取清单”笼统描述。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/thailand/README.md",
+      "outcome": "verified-no-change",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "资格、收入与投资",
+          "conclusion": "BOI当前页面确认50岁、被动非劳动年收入80000或40000-80000+250000泰国投资，实际完成并持续持有，5+5年。",
+          "source_urls": [
+            "https://ltr.boi.go.th/"
+          ]
+        },
+        {
+          "field": "家属、保险、报告与工作",
+          "conclusion": "当前条件仍列最多4名配偶和未满20子女（含同性合法婚姻，未婚伴侣不适用）；主申医疗50000或社保或银行100000持12月；年报告；在泰工作另办Digital Work Permit，非自动PR。",
+          "source_urls": [
+            "https://ltr.boi.go.th/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://ltr.boi.go.th/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/united-arab-emirates/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "迪拜资格、财力与期限",
+          "conclusion": "GDRFA当前办事正文确认15年年资且55岁，房产100万加存款100万或年收入24万AED，5年无担保可同条件续签。",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/8ea80db0-f43e-11eb-0320-0050569629e8"
+          ]
+        },
+        {
+          "field": "未完成的联邦及其他字段",
+          "conclusion": "u.ae原联邦页web空正文、直连TLS超时，搜索摘要不替代打开；18万联邦金额、家属和税务细则本轮未完整打开重建。",
+          "source_urls": [
+            "https://gdrfad.gov.ae/en/services/8ea80db0-f43e-11eb-0320-0050569629e8"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://gdrfad.gov.ae/en/services/8ea80db0-f43e-11eb-0320-0050569629e8",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/residence-visa-for-the-retired",
+          "title": "Original/alternate source",
+          "access_result": "web-open-empty-body; direct-TLS-timeout"
+        }
+      ],
+      "changes": [
+        "增加可读GDRFA递交机关来源并确认迪拜24万口径。"
+      ],
+      "unresolved": [
+        "联邦18万收入、家属及税务具体依据尚缺可读官方正文。"
+      ]
+    },
+    {
+      "path": "passive-income-retirement/spain/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "资格、金额与家属",
+          "conclusion": "新德里使馆2026正文确认主申400%IPREM=2400/月，每家属100%=600，12个月资源和全面医保；不从事工作/职业活动；配偶伴侣受养子女尊亲可申请。",
+          "source_urls": [
+            "https://www.exteriores.gob.es/Embajadas/nuevadelhi/en/ServiciosConsulares/Paginas/Consular/Visado-de-residencia-no-lucrativa.aspx",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2024-24099"
+          ]
+        },
+        {
+          "field": "续签实质遗漏",
+          "conclusion": "BOE1155/2024现行第64条确认每自然年真实有效居住超过183天、维持保险足额资源，续签一般2年。",
+          "source_urls": [
+            "https://www.exteriores.gob.es/Embajadas/nuevadelhi/en/ServiciosConsulares/Paginas/Consular/Visado-de-residencia-no-lucrativa.aspx",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2024-24099"
+          ]
+        },
+        {
+          "field": "长期居留与归化",
+          "conclusion": "现行LO4/2000第32条临居连续5年并满足条例；民法典22条一般10年，居留合法连续且紧接申请，良好行为和融入，特定国籍/身份年限例外；不保证自动身份。",
+          "source_urls": [
+            "https://boe.es/buscar/act.php?id=BOE-A-2000-544#a32",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#art22"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.exteriores.gob.es/Embajadas/nuevadelhi/en/ServiciosConsulares/Paginas/Consular/Visado-de-residencia-no-lucrativa.aspx",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-24099",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.inclusion.gob.es/web/migraciones/w/renovacion-de-la-autorizacion-de-residencia-temporal-no-lucrativa",
+          "title": "Original/alternate source",
+          "access_result": "web/direct-timeout; used-BOE-current-regulation"
+        },
+        {
+          "url": "https://boe.es/buscar/act.php?id=BOE-A-2000-544#a32",
+          "title": "BOE current consolidated law",
+          "access_result": "web-opened-and-read-relevant-article"
+        },
+        {
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#art22",
+          "title": "BOE current consolidated law",
+          "access_result": "web-opened-and-read-relevant-article"
+        }
+      ],
+      "changes": [
+        "补超过183天的实际续签要求和2025-05-20时间线；长期路径补非自动条件。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/italy/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "财力、工作与领区",
+          "conclusion": "塔什干使馆2026年3月完整6页清单确认每位申请人包括配偶31000欧元稳定被动收入，员工和自雇收入不能计入，D签91-365天、不准工作。",
+          "source_urls": [
+            "https://ambtashkent.esteri.it/wp-content/uploads/2026/03/Residenza-elettiva_IT.pdf"
+          ]
+        },
+        {
+          "field": "未完成的长居路径",
+          "conclusion": "内政部罗马省现行可读页面确认5年合法居留加收入/安全等条件，外交部当前2.6段确认非EU一般10年归化；年度临时居留续签期限仍需更直接依据。",
+          "source_urls": [
+            "https://ambtashkent.esteri.it/wp-content/uploads/2026/03/Residenza-elettiva_IT.pdf",
+            "https://prefettura.interno.gov.it/it/prefetture/roma/permesso-soggiorno-lungo-periodo",
+            "https://www.esteri.it/en/servizi-opportunita/italiani-all-estero/cittadinanza/"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://ambtashkent.esteri.it/wp-content/uploads/2026/03/Residenza-elettiva_IT.pdf",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://prefettura.interno.gov.it/it/prefetture/roma/permesso-soggiorno-lungo-periodo",
+          "title": "Ministry of Interior Rome long-term residence",
+          "access_result": "web-failed; direct-200-read; includes-old-fee-examples-not-used"
+        },
+        {
+          "url": "https://www.esteri.it/en/servizi-opportunita/italiani-all-estero/cittadinanza/",
+          "title": "MAECI current citizenship guidance section2.6",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://consedimburgo.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/cittadinanza/per-residenza-in-italia/",
+          "title": "Edinburgh previous guidance",
+          "access_result": "web-failed; direct-404"
+        }
+      ],
+      "changes": [
+        "将模糊家属加成改为该馆每名包括配偶31000，明确领区边界。"
+      ],
+      "unresolved": [
+        "年度临时居留续签及本类别当前长期居民完整条件仍需直接法规核对；罗马官方页面夹有2007费用旧值，未照抄。"
+      ]
+    },
+    {
+      "path": "passive-income-retirement/south-africa/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "门槛冲突",
+          "conclusion": "实读政府2014年第37716号公报451 PDF确认退休临时和27(e)PR规定37000兰特；实读哥本哈根使馆2025年11月5页退休清单确认38000，冲突仍存在不能二选一宣布解决。",
+          "source_urls": [
+            "https://www.gov.za/sites/default/files/gcis_document/201409/37716gon451.pdf",
+            "https://dirco.gov.za/copenhagen/wp-content/uploads/sites/10/2025/11/Retired-Persons-Visa.pdf"
+          ]
+        },
+        {
+          "field": "资格、期限与家属",
+          "conclusion": "使馆当前清单确认终身养老金/年金或资产收益、可季节性或连续居住、每次最长4年可多次续，列配偶和受养子女材料。",
+          "source_urls": [
+            "https://www.gov.za/sites/default/files/gcis_document/201409/37716gon451.pdf",
+            "https://dirco.gov.za/copenhagen/wp-content/uploads/sites/10/2025/11/Retired-Persons-Visa.pdf"
+          ]
+        },
+        {
+          "field": "未完成边界",
+          "conclusion": "临时退休工作特批条件及现行27(e)具体PR条文仍未全部补齐；保持无自动工作和PR的提示。",
+          "source_urls": [
+            "https://www.gov.za/sites/default/files/gcis_document/201409/37716gon451.pdf",
+            "https://dirco.gov.za/copenhagen/wp-content/uploads/sites/10/2025/11/Retired-Persons-Visa.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.za/sites/default/files/gcis_document/201409/37716gon451.pdf",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://dirco.gov.za/copenhagen/wp-content/uploads/sites/10/2025/11/Retired-Persons-Visa.pdf",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.gov.za/documents/notices/immigration-act-minimum-amounts-payment-month-pension-or-irrevocable-annuity-or",
+          "title": "Original/alternate source",
+          "access_result": "web-failed; direct-current-index-read-and-PDF-downloaded"
+        },
+        {
+          "url": "https://www.bma.gov.za/wp-content/uploads/2025/08/VISAS-1.pdf",
+          "title": "Original/alternate source",
+          "access_result": "web-failed; direct-404"
+        }
+      ],
+      "changes": [
+        "补明确R38000来源为哥本哈根使馆清单，并保留与政府公报冲突。"
+      ],
+      "unresolved": [
+        "退休申请金额37000/38000官方冲突待书面确认；工作背书和具体PR条文仍需补现行直接法源。"
+      ]
+    },
+    {
+      "path": "passive-income-retirement/portugal/README.md",
+      "outcome": "material-change-detected",
+      "fully_verified": true,
+      "core_claims": [
+        {
+          "field": "资格、收入与期限",
+          "conclusion": "gov.pt现行D7服务、Portaria1563/2007第2/5条实读确认稳定自有收入及至少12月；法条含扣除社保文字，页面以2026RMMG920名义额折算为参考。AIMA确认2+3年卡；现行第58条2次入境4月。",
+          "source_urls": [
+            "https://www.gov.pt/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios",
+            "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1",
+            "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o",
+            "https://dre.pt/application/conteudo/628798",
+            "https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2025-992879809",
+            "https://diariodarepublica.pt/dr/detalhe/lei/61-2025-941547426",
+            "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?nid=920&tabela=leis",
+            "https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio",
+            "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx",
+            "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx"
+          ]
+        },
+        {
+          "field": "工作、离境与家庭",
+          "conclusion": "实读当前PGDL合并法律第83条工作权、85条无正当理由离境6连续/8累计；61/2025第98条2年/15月及18月先共同居住/豁免。第58(5)仍允许家属同时提出随行居留签证，与获卡后团聚分开。",
+          "source_urls": [
+            "https://www.gov.pt/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios",
+            "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1",
+            "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o",
+            "https://dre.pt/application/conteudo/628798",
+            "https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2025-992879809",
+            "https://diariodarepublica.pt/dr/detalhe/lei/61-2025-941547426",
+            "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?nid=920&tabela=leis",
+            "https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio",
+            "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx",
+            "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx"
+          ]
+        },
+        {
+          "field": "永久居留、国籍及税务",
+          "conclusion": "AIMA第80条5年PR有财力住房葡语和刑事税务要求；司法部19May2026说明EU/CPLP7年其他10年、新申请新法；CIRS16条>183/住房、旧NHR过渡及EBF58A限定IFICI活动均已读。",
+          "source_urls": [
+            "https://www.gov.pt/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios",
+            "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1",
+            "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o",
+            "https://dre.pt/application/conteudo/628798",
+            "https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2025-992879809",
+            "https://diariodarepublica.pt/dr/detalhe/lei/61-2025-941547426",
+            "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?nid=920&tabela=leis",
+            "https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio",
+            "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx",
+            "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://www.gov.pt/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://dre.pt/application/conteudo/628798",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2025-992879809",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://diariodarepublica.pt/dr/detalhe/lei/61-2025-941547426",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?nid=920&tabela=leis",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "明确D7公式中社保净额文字与920名义额折算区别，补初始随行签证与后续家庭团聚的区别，追加工作/离境及税务直接法源。"
+      ],
+      "unresolved": []
+    },
+    {
+      "path": "passive-income-retirement/greece/README.md",
+      "outcome": "evidence-incomplete",
+      "fully_verified": false,
+      "core_claims": [
+        {
+          "field": "金额、家属与工作",
+          "conclusion": "实读2024年9月17日官方公报225679/2024（雅典大学官方托管副本）第1(1)(i)确认净额3500/月、配偶20%子女15%，境外养老金/合法资产可证明，不能在希腊受雇或自营。",
+          "source_urls": [
+            "https://migration.gov.gr/en/adeia-diamonis-gia-oikonomika-anexartita-atoma/",
+            "https://issu.uoa.gr/fileadmin/depts/uoa.gr/issu/uploads/yp-apofasi_225679_2024_GIA_YPSOS_KOSTOYS_DIABIOSIS_FEK_5223.pdf"
+          ]
+        },
+        {
+          "field": "主管机关当前入口与缺口",
+          "conclusion": "原移民部页面目前仅链接2022年旧通函；现行5038/2023三年居留期限和5年长居/7年归化条款仍待完整直接法源。不能仅凭金额公报视作全字段完成。",
+          "source_urls": [
+            "https://migration.gov.gr/en/adeia-diamonis-gia-oikonomika-anexartita-atoma/",
+            "https://issu.uoa.gr/fileadmin/depts/uoa.gr/issu/uploads/yp-apofasi_225679_2024_GIA_YPSOS_KOSTOYS_DIABIOSIS_FEK_5223.pdf"
+          ]
+        }
+      ],
+      "sources_opened": [
+        {
+          "url": "https://migration.gov.gr/en/adeia-diamonis-gia-oikonomika-anexartita-atoma/",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        },
+        {
+          "url": "https://issu.uoa.gr/fileadmin/depts/uoa.gr/issu/uploads/yp-apofasi_225679_2024_GIA_YPSOS_KOSTOYS_DIABIOSIS_FEK_5223.pdf",
+          "title": "Official current programme, legislation or authority guidance",
+          "access_result": "opened-and-read"
+        }
+      ],
+      "changes": [
+        "补3500门槛完整官方公报及净额性质。"
+      ],
+      "unresolved": [
+        "现行居留期限、长期居民及归化适用条件需补完整法源。"
+      ]
+    }
+  ]
+}

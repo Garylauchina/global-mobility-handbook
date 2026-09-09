@@ -2,7 +2,7 @@
 title: "塞舌尔"
 category: "投资永居"
 status: "current"
-evidence: "A"
+evidence: "B"
 region: "非洲"
 ---
 
@@ -11,6 +11,8 @@ region: "非洲"
 [返回“投资永居”目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本页只记录公开可核验的专项方案，不构成法律、税务、投资、房产或国籍意见。所有门槛均须在递件前向主管机关再次确认。
+
+> **待补证事项：** 家属附属许可的具体条件尚未完整确认。
 
 ## Permanent Residence by Investment
 
@@ -24,7 +26,7 @@ region: "非洲"
 - **永居或入籍路径：** 不是付费即PR或CBI；国籍另有要求
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 成功费和审查严格；不适合追求零居住身份者
-- **证据等级：** A
+- **证据等级：** B
 - **主要来源：** [官方或主要依据](https://investinseychelles.com/investors-guide/investor-resources/residency-by-investment/permanent-residence-permit)
 
 ## 纠错与更新

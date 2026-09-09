@@ -25,7 +25,7 @@ region: "欧洲"
 - **税务提示：** 家庭住所/主要停留地、主要职业活动或经济利益中心任一因素均可能形成法国税务住所；税务居民原则上申报全球所得，双重居民按税收协定处理
 - **关键限制与变化：** 不是零居住黄金签证；续签和长期身份均取决于项目落地、就业证明、实际居住和整体合规，不保证因投入€300k自动续签或归化
 - **证据等级：** A
-- **主要来源：** [Service-Public项目页](https://www.service-public.gouv.fr/particuliers/vosdroits/F16922)；[CESEDA L421-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049052499/)；[CESEDA R421-35至R421-36](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801016/)
+- **主要来源：** [Service-Public项目页](https://www.service-public.gouv.fr/particuliers/vosdroits/F16922)；[CESEDA L421-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049052499/)；[CESEDA R421-35至R421-36](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801016/)；[Talent-famille工作及家属条件](https://www.service-public.gouv.fr/particuliers/vosdroits/F35792)；[欧盟长期居民](https://www.service-public.gouv.fr/particuliers/vosdroits/F17359?lang=fr)；[普通归化](https://www.service-public.gouv.fr/particuliers/vosdroits/F2213)；[法国税务住所](https://www.impots.gouv.fr/resident-de-france)
 
 ## 纠错与更新
 

@@ -22,23 +22,21 @@ region: "非洲"
 - **首次身份与期限：** 直接永久居留
 - **居住与续签：** 没有普通定期续签，但须在签发后1年内实际取得/启用居留；未经事先基于正当理由延长期限而连续离开南非超过3年，永久居留可能被撤销，法定例外另行适用
 - **当地工作：** 永久居民原则上享有公民专属权利以外的公民权利、特权和义务，可受雇或经营；受监管职业和行业许可另行适用
-- **家属：** 配偶和子女可与主申请人同时递交，但每人均为独立申请和审理，主申请获批不使家属自动取得PR
+- **家属：** 配偶和子女须依相应亲属资格分别申请和接受审理，主申请获批不使家属自动取得PR；可用类别及递件顺序应依DHA现行程序确认
 - **永居或入籍路径：** 本路径本身即为PR；普通归化通常还要求申请前至少5年通常且连续居住、良好品行、继续居住意图、官方语言及公民责任知识，并非自动取得
 - **税务提示：** ordinarily resident测试，或同时满足本税年超过91天、此前连续5个税年每年超过91天且此前5年累计超过915天的实际停留测试，均可能形成税务居民，并原则上对全球所得纳税；仅依实际停留成为居民者，连续完整离境330天的规则和税收协定须个案判断
 - **关键限制与变化：** 2026-07-08起未来及待审签证/PR申请免交medical report；2026-08-17起PR政府申请费为ZAR1,520，VFS服务费另计。改革落地前不得把现行ZAR12m财富证明误写成已要求在南非投资
 - **证据等级：** B
-- **主要来源：** [南非政府PR服务页](https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit)；[门槛公告Notice 454](https://www.gov.za/sites/default/files/gcis_document/201409/37716gon454.pdf)；[VFS/DHA受理页](https://visa.vfsglobal.com/one-pager/dha/southafrica/english/index.html)
+- **主要来源：** [南非政府PR服务页](https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit)；[门槛公告Notice 454](https://www.gov.za/sites/default/files/gcis_document/201409/37716gon454.pdf)；[VFS/DHA受理页](https://visa.vfsglobal.com/zaf/en/dha/visa-type/)；[DHA移民法汇编第25–28条](https://www.dha.gov.za/images/PDFs/IMMIGRATION-ACT-2002---UPDATED-2015.pdf)；[归化规章2023年7月修正第6页](https://www.dha.gov.za/images/gazettes/48924_7-7_HomeAffairs.pdf)；[SARS税务居民规则](https://www.sars.gov.za/individuals/tax-during-all-life-stages-and-events/tax-and-non-residents/)
 
 ## 政策时间线
-
-> 本时间线自2026-09-02起前向记录；仅在有官方一手证据时选择性补录此前事件，不保证覆盖完整历史。
 
 ### 2026-04-02 — 内阁确认批准Revised White Paper
 
 - **公布与生效：** 内阁声明于2026-04-02公布；这是改革政策获批，不是第27(f)条法定废止日
 - **变化摘要：** 政策拟以investment-based financially independent residence visa替代现行财务独立PR，并要求将规定比例的净资产投资于南非并维持规定期限
-- **过渡安排：** 截至2026-09-02尚无落实法案、确切金额、生效日或存量申请安排；现行路径继续受理
-- **官方依据：** [南非内阁声明](https://www.gov.za/news/cabinet-statements/statement-cabinet-meeting-25-march-2026-and-special-cabinet-meeting-1-april)
+- **过渡安排：** 政策仍需落实为立法；具体金额、生效日和存量安排须以正式法律及实施文件为准，不能把白皮书批准视为现行路径已经关闭
+- **官方依据：** [南非内阁声明](https://www.gov.za/news/cabinet-statements/statement-cabinet-meeting-25-march-2026-and-special-cabinet-meeting-1-april)；[内政部长确认仍须起草并提交立法](https://www.gov.za/news/media-statements/minister-leon-schreiber-welcomes-cabinet-approval-revised-white-paper)；[DHA最终白皮书第31–32页（CRAI保存的原文镜像）](https://citizenshiprightsafrica.org/wp-content/uploads/White-Paper-on-CIRP-26March2026.pdf)
 - **事件证据：** B
 ### 2026-07-08 — Medical report要求豁免
 

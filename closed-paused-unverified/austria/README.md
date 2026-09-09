@@ -16,4 +16,4 @@ status: "archived-or-unverified"
 - **关键变化：** 国籍法仅允许因共和国特殊利益和杰出成就个案例外
 - **为什么不能按有效项目处理：** 无官方价目、时限或保证；营销固定金额不可信
 - **证据等级：** A
-- **主要来源：** [官方或主要依据](https://www.ris.bka.gv.at/eli/bgbl/1985/311/P10/NOR12066929)
+- **主要来源：** [维也纳政府：杰出成就入籍的个案条件](https://www.wien.gv.at/amtswege/verleihung-staatsbuergerschaft-ausserordentliche-leistungen)；[RIS国籍法第10条现行入口](https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005579&Paragraf=10)

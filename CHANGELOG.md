@@ -2,9 +2,12 @@
 
 ## 2026-09-09
 
-- Centralized the public content-review statement on the project homepage and removed repeated review dates from policy pages and timeline entries; official publication and effective dates remain in place.
-- Replaced the 30/90/180-day review tiers with one monthly review cycle for every route category, including candidate and archived programs.
-- Moved existing per-page review dates into a central maintenance record and simplified the maintenance instructions and repository Skill. This editorial and workflow update does not advance the full-content review baseline or certify new policy facts.
+- Reviewed all 173 policy pages against route-specific official sources, including candidate and archived programs: 100 pages have verified core claims; 73 retain explicit evidence gaps or official-source conflicts. Published page-level evidence records and current audit coverage on the homepage; advanced only completed page records, leaving the inherited full-content baseline unchanged.
+- Corrected income, eligibility, family, work, renewal, and long-term-route details across the handbook, including Korea digital nomads, Japan business/naturalization, Portugal nationality, Panama investment, Bahrain permanent residence, and Canada/Mexico visitor routes. Kept announced future rules separate from currently effective conditions.
+- Corrected US public-high-school F-1 fixed I-94 and extension exceptions, graduate cap-gap work limits, and student/family conditions; repaired legal-source references and narrowed unsupported claims in other study destinations.
+- Moved Indonesia E33G from the warning archive to the digital-nomad category using official eligibility evidence; retained explicit family and renewal gaps.
+- Added specific unresolved items to incomplete pages and adjusted evidence grades where core support is insufficient. Detailed findings and sources are in the [audit record](https://github.com/Garylauchina/global-mobility-handbook/blob/main/.maintenance/reviews/2026-09-09/README.md).
+- Centralized review dates on the project homepage and internal registry; retained official policy publication and effective dates on subpages. Simplified old maintenance rules and the repository Skill around one fixed 30-day review cycle for every route category.
 
 ## 2026-09-02
 

@@ -16,4 +16,4 @@ status: "archived-or-unverified"
 - **关键变化：** Visa Act No.37/2026自2026-05-13生效，原远程工作长期签被废止
 - **为什么不能按有效项目处理：** 不要继续引用旧ISK1m/月、90–180日方案
 - **证据等级：** A
-- **主要来源：** [官方或主要依据](https://island.is/en/short-term-residence-permit)
+- **主要来源：** [移民局2026-05-13长期签证废止公告](https://island.is/en/o/directorate-of-immigration/news/visa-services-transferred-to-the-ministry-for-foreign-affairs)；[新短期居留许可](https://island.is/en/short-term-residence-permit)
