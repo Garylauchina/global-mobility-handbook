@@ -17,6 +17,7 @@ region: "加勒比"
 ## Citizenship by Investment
 
 - **当前状态：** 开放
+- **申请者身份限制：** 2024-04-01生效的通告限制居住在伊朗、朝鲜、俄罗斯、白俄罗斯、苏丹、也门、阿富汗的相关国民。仅伊朗、苏丹、也门、阿富汗列有“成年前迁离／在指定国家持永居或有效签证至少10年、无经济联系”等受条件限制的例外，且须能够开展增强尽调；不能把该例外扩展到俄白或朝鲜。须按[2024-03-25修订通告](https://imagrenada.gd/wp-content/uploads/2024/03/CIRCULAR-INELIGIBLE-COUNTRIES-NATIONALISTIES-TO-APPLY-IN-THE-GCBI-PROGRAM-March-25-2024-amended.pdf)逐项判断。
 - **最低门槛或收入：** NTF US$235,000（单人或适用基础费率的最多4人家庭）；认可项目最低US$270,000并另付政府款US$50,000；兄弟姐妹及55岁及以下父母/祖父母等不适用简单的四人基础费率，须按官方费表另算
 - **资金或收入性质：** 捐款不可退；认可项目投资按项目规则持有
 - **首次身份与期限：** 批准后直接公民身份
@@ -27,7 +28,7 @@ region: "加勒比"
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 不得折扣；须核验获批项目、面试和资金来源。官方费用表与FAQ对部分成年申请人的尽调费分别列US$5,000和US$6,000，存在版本冲突，递件前须取得主管机关的适用费表，不自行选用较低数额
 - **证据等级：** B
-- **主要来源：** [IMA申请资格与费用表](https://imagrenada.gd/becoming-a-citizen/)；[IMA官方FAQ](https://imagrenada.gd/enquiries/)
+- **主要来源：** [IMA申请资格与费用表](https://imagrenada.gd/becoming-a-citizen/)；[IMA官方FAQ](https://imagrenada.gd/enquiries/)；[2024-03-25修订通告](https://imagrenada.gd/wp-content/uploads/2024/03/CIRCULAR-INELIGIBLE-COUNTRIES-NATIONALISTIES-TO-APPLY-IN-THE-GCBI-PROGRAM-March-25-2024-amended.pdf)
 
 ## 纠错与更新
 

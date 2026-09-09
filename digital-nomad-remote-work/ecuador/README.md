@@ -19,6 +19,7 @@ region: "南美"
 ## Rentista for remote work
 
 - **当前状态：** 待复核（原记录：开放）
+- **申请者身份限制：** 【部分待核实】2024官方办事说明将对象写为拟在厄瓜多尔远程工作的外国自然人，须拥有境外企业或为境外自然人／法人工作；不能把仅为法人工作的规则从其他国家移植过来。本次当前在线正文复取不完整，仍须核对有无后续特别国籍及现有身份限制。见[官方办事说明存档](https://www.gob.ec/sites/default/files/sign/procedure-14306-20240808131313-17407102-signed.pdf)。
 - **最低门槛或收入：** 过去3个月每月境外收入至少3倍SBU，或每年合计36倍SBU；每名随行受养人另加US$250/月
 - **资金或收入性质：** 境外雇主或自然人/法人客户的远程收入，或本人持有境外注册公司
 - **首次身份与期限：** 临时居留最长2年，官方所引第60条允许续期一次
@@ -29,7 +30,7 @@ region: "南美"
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 主管机关专项页现有完整线上e-VISAS流程；须全期覆盖厄瓜多尔医疗保险、5年居住地无犯罪及合法资金证据，SBU按年度变化
 - **证据等级：** B
-- **主要来源：** [外交与人员流动部专项操作页](https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada)；[原EY索引，仅作线索](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-03-2026.pdf)
+- **主要来源：** [外交与人员流动部专项操作页](https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada)；[原EY索引，仅作线索](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-03-2026.pdf)；[官方办事说明存档](https://www.gob.ec/sites/default/files/sign/procedure-14306-20240808131313-17407102-signed.pdf)
 
 ## 纠错与更新
 

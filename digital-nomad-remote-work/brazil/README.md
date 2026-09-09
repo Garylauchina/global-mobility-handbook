@@ -17,6 +17,7 @@ region: "南美"
 ## Digital Nomad Residence
 
 - **当前状态：** 开放
+- **申请者身份限制：** 须为没有巴西本地雇佣关系、以境外雇主或客户工作为基础的外国远程工作者；驻外签证须在本人合法居住地所属巴西领区申请。合法居住与永久居民不同，不能把领区要求加写成必须先有外国永居。见[外交部VITEM XIV现行说明](https://www.gov.br/mre/pt-br/embaixada-windhoek/english/consular-services/visas-1/vitem-xiv-digital-nomad)。
 - **最低门槛或收入：** US$1,500/月，或银行资金US$18,000
 - **资金或收入性质：** 境外远程收入或存款
 - **首次身份与期限：** 1年，可续1年
@@ -27,7 +28,7 @@ region: "南美"
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 须维持境外收入和保险
 - **证据等级：** B
-- **主要来源：** [官方或主要依据](https://portaldeimigracao.mj.gov.br/pt/midia-e-atualidades/1700-sem-categoria/noticias-obmigra/401615-oficina-36e45)
+- **主要来源：** [官方或主要依据](https://portaldeimigracao.mj.gov.br/pt/midia-e-atualidades/1700-sem-categoria/noticias-obmigra/401615-oficina-36e45)；[外交部VITEM XIV现行说明](https://www.gov.br/mre/pt-br/embaixada-windhoek/english/consular-services/visas-1/vitem-xiv-digital-nomad)
 
 ## 纠错与更新
 

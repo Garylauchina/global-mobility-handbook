@@ -15,6 +15,7 @@ region: "加勒比"
 ## Qualified Retirement Program
 
 - **当前状态：** 开放
+- **申请者身份限制：** BTB要求主申请人年满40岁，合资格国家包括除伯利兹外的英联邦国家、美国、EU成员国、列明的亚太国家以及全部南美国家；亚太名单明确包含中国。外国永居不能未经依据替代这里的国家范围。须有合资格境外退休收入并通过安全审查，完整名单见[Who Qualifies](https://www.belizetourismboard.org/programs-events/retirement-program/)。
 - **最低门槛或收入：** 年满40；境外退休/投资等收入US$2,000/月或US$24,000/年
 - **资金或收入性质：** 境外退休/投资收入
 - **首次身份与期限：** QRP卡每年续

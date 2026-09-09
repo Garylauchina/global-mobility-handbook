@@ -15,6 +15,7 @@ region: "加勒比"
 ## Citizenship by Investment Programme
 
 - **当前状态：** 开放
+- **申请者身份限制：** CBIU现行名单禁止白俄罗斯、俄罗斯、也门及伊拉克北部指定地区申请；不能扩大成整个伊拉克。朝鲜、苏丹、伊朗申请人仅在至少10年未居住当地、无重大资产且无商业活动等全部例外条件成立时才可能考虑。限制不只是看递交时使用哪本护照，详见[受限国籍及地区](https://www.cbiu.gov.dm/dominica-citizenship/banned-nationalities/)。
 - **最低门槛或收入：** EDF US$200,000单人；US$250,000主申+最多3名家属；获批房产US$200,000
 - **资金或收入性质：** 捐款不可退；房产通常持有3年（转售给下一名CBI申请人常需5年）
 - **首次身份与期限：** 批准后直接公民身份
@@ -25,7 +26,7 @@ region: "加勒比"
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 16岁以上通常需面试；房产、代理及资金来源必须核验
 - **证据等级：** A
-- **主要来源：** [官方或主要依据](https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/)
+- **主要来源：** [官方或主要依据](https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/)；[受限国籍及地区](https://www.cbiu.gov.dm/dominica-citizenship/banned-nationalities/)
 
 ## 纠错与更新
 

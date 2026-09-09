@@ -1,0 +1,3136 @@
+{
+  "review_date": "2026-09-09",
+  "scope": "applicant-identity-only",
+  "baseline_commit": "0884d56",
+  "changes_global_review_baseline": false,
+  "page_count": 173,
+  "program_count": 181,
+  "finding_counts": {
+    "partial": 80,
+    "gap": 7,
+    "documented": 64,
+    "historical-or-not-actionable": 30
+  },
+  "definitions": {
+    "documented": "所写身份条件有对应官方依据；不表示完成全部国籍、一般拒签事由或个案审查。",
+    "partial": "已有对应条件或程序依据，但完整特别国籍、既有身份或其他列明细节仍有缺口。",
+    "gap": "尚未取得足以确认该方案申请者身份范围的当前官方正文。",
+    "historical-or-not-actionable": "历史、停办、暂停或未具备可确认当前收件资格的项目；不据旧规则判断可新申请。"
+  },
+  "evidence_downgrades": [
+    "investment-permanent-residence/cyprus/README.md",
+    "digital-nomad-remote-work/colombia/README.md"
+  ],
+  "pages": [
+    {
+      "path": "citizenship-by-investment/antigua-and-barbuda/README.md",
+      "programs": [
+        {
+          "program": "Citizenship by Investment Programme",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】CIU FAQ所示2020年版本将阿富汗、伊朗、朝鲜、索马里、也门、苏丹列为受限国家，并列未成年前迁离、在非受限国家永久居留至少10年及无经济联系等例外条件。该旧版名单不能当作截至核查日的完整现行名单；俄罗斯／白俄罗斯等后续受理限制仍须补最新CIU书面依据，不能因旧FAQ未列就判断可办。",
+          "references": [
+            "https://cip.gov.ag/citizenship/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/cambodia/README.md",
+      "programs": [
+        {
+          "program": "Investment / donation naturalisation（2018 Nationality Law Arts. 21–22）",
+          "finding": "gap",
+          "identity_statement": "【核心证据缺口】待核实：所引2018国籍法扫描件尚不足以确认完整国籍、既有居留及投资／捐赠入籍的身份适用条件；不能把存在投资相关法条当作任何外国人均可办理的证明。",
+          "references": [
+            "https://web-storage.interior.gov.kh/storage/doc/1597337540.pdf",
+            "https://web-storage.interior.gov.kh/document/moi-20260122041042uumTBuZBOOfq.pdf",
+            "https://interior.gov.kh/law_and_regulation/8ROVZv2jy23R"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/dominica/README.md",
+      "programs": [
+        {
+          "program": "Citizenship by Investment Programme",
+          "finding": "documented",
+          "identity_statement": "CBIU现行名单禁止白俄罗斯、俄罗斯、也门及伊拉克北部指定地区申请；不能扩大成整个伊拉克。朝鲜、苏丹、伊朗申请人仅在至少10年未居住当地、无重大资产且无商业活动等全部例外条件成立时才可能考虑。限制不只是看递交时使用哪本护照，详见[受限国籍及地区](https://www.cbiu.gov.dm/dominica-citizenship/banned-nationalities/)。",
+          "references": [
+            "https://www.cbiu.gov.dm/dominica-citizenship/banned-nationalities/",
+            "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/egypt/README.md",
+      "programs": [
+        {
+          "program": "Egyptian Citizenship by Investment",
+          "finding": "gap",
+          "identity_statement": "【核心证据缺口】待核实：当前官方入口与项目简介未提供足以确认完整国籍、出生地及既有身份排除范围的条款。境外汇款和投资合格不等于本人身份一定合格，递交前须补主管机关申请资格原文。",
+          "references": [
+            "https://egyptcitizenship.gov.eg/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/grenada/README.md",
+      "programs": [
+        {
+          "program": "Citizenship by Investment",
+          "finding": "documented",
+          "identity_statement": "2024-04-01生效的通告限制居住在伊朗、朝鲜、俄罗斯、白俄罗斯、苏丹、也门、阿富汗的相关国民。仅伊朗、苏丹、也门、阿富汗列有“成年前迁离／在指定国家持永居或有效签证至少10年、无经济联系”等受条件限制的例外，且须能够开展增强尽调；不能把该例外扩展到俄白或朝鲜。须按[2024-03-25修订通告](https://imagrenada.gd/wp-content/uploads/2024/03/CIRCULAR-INELIGIBLE-COUNTRIES-NATIONALISTIES-TO-APPLY-IN-THE-GCBI-PROGRAM-March-25-2024-amended.pdf)逐项判断。",
+          "references": [
+            "https://imagrenada.gd/wp-content/uploads/2024/03/CIRCULAR-INELIGIBLE-COUNTRIES-NATIONALISTIES-TO-APPLY-IN-THE-GCBI-PROGRAM-March-25-2024-amended.pdf",
+            "https://imagrenada.gd/becoming-a-citizen/",
+            "https://imagrenada.gd/enquiries/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/jordan/README.md",
+      "programs": [
+        {
+          "program": "Investor Citizenship（2026新规）",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】政府及通讯社所引新规说明涉及外国投资者，但不足以确认完整受限国籍、现有居留或特殊身份规则。不能仅据2026投资金额公告判断所有外国人均可申请，须补主管机关完整操作资格。",
+          "references": [
+            "https://www.pm.gov.jo/AR/NewsDetails/am0847"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/nauru/README.md",
+      "programs": [
+        {
+          "program": "Economic and Climate Resilience Citizenship Program",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须满足项目年龄及尽调资格；官方申请说明排除涉及联合国安理会相关高风险／制裁范围、指定受制裁个人，以及与受制裁实体有关的持股或受益关系等情形。公开说明未给出可直接套用的完整国家清单，不能自行拼出国籍黑名单，也不能只查护照而不查关联。",
+          "references": [
+            "https://www.ecrcp.gov.nr/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/saint-kitts-and-nevis/README.md",
+      "programs": [
+        {
+          "program": "Citizenship by Investment",
+          "finding": "documented",
+          "identity_statement": "主申请人须年满18岁。CIU现行资格页列阿富汗、白俄罗斯、伊朗、伊拉克、朝鲜、俄罗斯为禁止申请的国籍；另有犯罪、既往拒签等准入条件。不能仅凭资金到位或另持外国居留就视为解除国籍限制。见[官方资格页](https://ciu.gov.kn/eligibility-criteria/)。",
+          "references": [
+            "https://ciu.gov.kn/eligibility-criteria/",
+            "https://ciu.gov.kn/cbi-options/",
+            "https://ciu.gov.kn/real-estate-investment/",
+            "https://ciu.gov.kn/biometrics/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/saint-lucia/README.md",
+      "programs": [
+        {
+          "program": "Citizenship by Investment",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】官方公告确认自2022-03-18起暂停俄罗斯及白俄罗斯申请且暂停继续有效；至少这两类不能按一般投资条件认定可新办。本次未确认完整的其他国籍、双重国籍及居住地例外清单，须另取得CIU现行依据。见[俄白申请公告](https://www.cipsaintlucia.com/news-blog/russianapplications)。",
+          "references": [
+            "https://www.cipsaintlucia.com/news-blog/russianapplications",
+            "https://www.cipsaintlucia.com/citizenship-by-investment"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/sao-tome-and-principe/README.md",
+      "programs": [
+        {
+          "program": "Citizenship by Investment Programme",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】官方资格页要求主申请人至少18岁、无犯罪记录及通过身份和背景审查；同时提示可能有司法辖区、法律或政策限制，却未列完整受限国籍名单。因此不能认定“所有国籍均可”或自行写成“仅朝鲜不收”。见[官方资格页](https://cip.gov.st/eligibility-criteria)。",
+          "references": [
+            "https://cip.gov.st/eligibility-criteria",
+            "https://cip.gov.st/about-the-program",
+            "https://cip.gov.st/investment-structure"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/turkey/README.md",
+      "programs": [
+        {
+          "program": "Exceptional Acquisition of Turkish Citizenship",
+          "finding": "documented",
+          "identity_statement": "须为符合例外入籍条件的外国人。房地产路线还受总统确定的可购房国籍及土地登记限制约束，不能把“外国人可投资”解释为任何国籍均可买房入籍；购房资格应向土地登记机关核验，也不能将购房国籍限制未经依据套用到所有非房地产投资分支。",
+          "references": [
+            "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "citizenship-by-investment/vanuatu/README.md",
+      "programs": [
+        {
+          "program": "Development Support Programme / REO",
+          "finding": "gap",
+          "identity_statement": "【核心证据缺口】待核实：现有官方费表和项目入口不足以确认完整受限国籍、出生地、第三国永居例外及其适用年限；不能照搬中介常见名单或把DSP与REO的身份条件合并。",
+          "references": [
+            "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/antigua-and-barbuda/README.md",
+      "programs": [
+        {
+          "program": "Nomad Digital Residence",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前不作为可新递交方案判断身份资格；旧国籍、永居或居住条件即使满足，也不能恢复新申请入口。存量案件如有过渡安排，须核对本人原申请／许可。",
+          "references": [
+            "https://ab.gov.ag/pdf/Discontinuation_of_the_NDR_prg.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/argentina/README.md",
+      "programs": [
+        {
+          "program": "Citizenship by Investment",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://www.boletinoficial.gob.ar/detalleAviso/primera/329061/20250731",
+            "https://www.argentina.gob.ar/normativa/nacional/norma-425223"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/australia/README.md",
+      "programs": [
+        {
+          "program": "Business Innovation and Investment Program",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "新申请已关闭；已有188持有人能否转888取决于本人原有签证及过渡条件，不能从旧项目国籍资格推断现在仍可新申请。",
+          "references": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/biip-closure-and-refunds"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/austria/README.md",
+      "programs": [
+        {
+          "program": "所谓固定价“投资入籍”",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://www.wien.gv.at/amtswege/verleihung-staatsbuergerschaft-ausserordentliche-leistungen",
+            "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005579&Paragraf=10"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/bahamas/README.md",
+      "programs": [
+        {
+          "program": "BEATS",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前不作为可新递交方案判断身份资格；旧国籍、永居或居住条件即使满足，也不能恢复新申请入口。存量案件如有过渡安排，须核对本人原申请／许可。",
+          "references": [
+            "https://www.immigration.gov.bs/wp-content/uploads/2023/09/Annual-Report-2022.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/bahrain/README.md",
+      "programs": [
+        {
+          "program": "Golden Residency 旧房产门槛（历史纠错）",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "本块只归档过时房产金额，不表示现行项目停止受理任何国籍；身份条件须看投资永居目录的现行巴林方案。",
+          "references": [
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/",
+            "https://goldenresidency.gov.bh/eligibility-criteria/",
+            "https://goldenresidency.gov.bh/news/bahrain-lowers-minimum-real-estate-investment-for-golden-residency-to-usd-345000/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/cabo-verde/README.md",
+      "programs": [
+        {
+          "program": "旧 Remote Working Cabo Verde",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "旧旅游推广项目的地域／国籍营销范围不能作为2025新法下申请资格；须转到现行远程活动居留页核对。",
+          "references": [
+            "https://www.governo.cv/cabo-verde-lanca-programa-remote-working-e-nomadas-digitais-para-diversificar-e-desconcentrar-a-oferta-turistica/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/canada/README.md",
+      "programs": [
+        {
+          "program": "Federal Immigrant Investor / Entrepreneur Programs",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前不作为可新递交方案判断身份资格；旧国籍、永居或居住条件即使满足，也不能恢复新申请入口。存量案件如有过渡安排，须核对本人原申请／许可。",
+          "references": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/notice-update-returns-applications-affected-termination-immigrant-investor-program-federal-entrepreneur-program.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        },
+        {
+          "program": "Start-up Visa",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "暂停新申请期间，旧承诺或原有加拿大临时身份不自动赋予新递交资格；此前已获接收的申请须按本人存量档案及过渡规则审理。",
+          "references": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/about.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/cyprus/README.md",
+      "programs": [
+        {
+          "program": "Cyprus Investment Programme (CBI)",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前不作为可新递交方案判断身份资格；旧国籍、永居或居住条件即使满足，也不能恢复新申请入口。存量案件如有过渡安排，须核对本人原申请／许可。",
+          "references": [
+            "https://cipregistry.mof.gov.cy/en/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/georgia/README.md",
+      "programs": [
+        {
+          "program": "Remotely from Georgia",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://georgia.travel/why-is-georgia-attractive-to-digital-nomads",
+            "https://www.evisa.gov.ge/GeoVisa/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/grenada/README.md",
+      "programs": [
+        {
+          "program": "Remote Employment Permit",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://grenadaparliament.gd/wp-content/uploads/2021/07/Act-No.-3-of-2021-Remote-Employment.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/hungary/README.md",
+      "programs": [
+        {
+          "program": "Guest Investor €500k直接购房路线",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前不作为可新递交方案判断身份资格；旧国籍、永居或居住条件即使满足，也不能恢复新申请入口。存量案件如有过渡安排，须核对本人原申请／许可。",
+          "references": [
+            "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/iceland/README.md",
+      "programs": [
+        {
+          "program": "Long-term visa for remote workers",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前不作为可新递交方案判断身份资格；旧国籍、永居或居住条件即使满足，也不能恢复新申请入口。存量案件如有过渡安排，须核对本人原申请／许可。",
+          "references": [
+            "https://island.is/en/o/directorate-of-immigration/news/visa-services-transferred-to-the-ministry-for-foreign-affairs",
+            "https://island.is/en/short-term-residence-permit"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/ireland/README.md",
+      "programs": [
+        {
+          "program": "Immigrant Investor Programme",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前不作为可新递交方案判断身份资格；旧国籍、永居或居住条件即使满足，也不能恢复新申请入口。存量案件如有过渡安排，须核对本人原申请／许可。",
+          "references": [
+            "https://www.irishimmigration.ie/faqs-closure-of-the-immigrant-investor-programme-iip/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/malta/README.md",
+      "programs": [
+        {
+          "program": "MEIN / Exceptional Investor Naturalisation",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前不作为可新递交方案判断身份资格；旧国籍、永居或居住条件即使满足，也不能恢复新申请入口。存量案件如有过渡安排，须核对本人原申请／许可。",
+          "references": [
+            "https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf",
+            "https://komunita.gov.mt/2025/09/02/amendments-to-the-maltese-citizenship-act-and-subsidiary-legislation/",
+            "https://komunita.gov.mt/2026/02/05/malta-citizenship-by-merit/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/montenegro/README.md",
+      "programs": [
+        {
+          "program": "Citizenship by Investment",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前不作为可新递交方案判断身份资格；旧国籍、永居或居住条件即使满足，也不能恢复新申请入口。存量案件如有过渡安排，须核对本人原申请／许可。",
+          "references": [
+            "https://www.gov.me/en/article/195254--development-programme-for-acquisition-of-montenegrin-citizenship-by-admission-for-investment-purposes-launched",
+            "https://www.gov.me/en/article/the-21st-cabinet-session-29-september-2022"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/namibia/README.md",
+      "programs": [
+        {
+          "program": "Golden Visa",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://www.nipdb.com/_files/ugd/77942a_58003f78a3204033bc0385a8cd4b97f4.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/netherlands/README.md",
+      "programs": [
+        {
+          "program": "Foreign Investor Residence Scheme",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "不再接收新申请；存量续签取决于本人原投资者许可和过渡条件，不能以符合旧国籍／投资条件作为新申请依据。",
+          "references": [
+            "https://ind.nl/en/documents/06-2024/business-newsletter-21-may-2024.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/nigeria/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Visa",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://immigration.gov.ng/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/north-macedonia/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Visa",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://mvr.gov.mk/en-GB/prijavi-stranci"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/oman/README.md",
+      "programs": [
+        {
+          "program": "Retirement / Passive-income Visa",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://omanresidence.gov.om/en-us/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/philippines/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Visa",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "EO86第2条要求申请人年满18岁，且其国籍国向菲律宾人提供数字游民签证，形成互惠条件；没有菲律宾驻外机构的合资格国家国民可按细则向邻近机构办理。外国永居不自动替代该国籍互惠条件；完整执行名单及当前收件仍待确认。",
+          "references": [
+            "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/98965"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/portugal/README.md",
+      "programs": [
+        {
+          "program": "ARI房地产/单纯资本转移路线",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "旧购房及单纯资本转移分支取消，不等于所有国籍被禁止申请其他ARI分支；存量资格与现行分支须分别核对。",
+          "references": [
+            "https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/rwanda/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Visa",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://www.migration.gov.rw/visa/visitors-visa"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/serbia/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad facilitation",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://welcometoserbia.gov.rs/home"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/seychelles/README.md",
+      "programs": [
+        {
+          "program": "Workcation公开细节",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://seychelles.govtas.com/en/workcation"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/sierra-leone/README.md",
+      "programs": [
+        {
+          "program": "Go-for-Gold / Fast Track Naturalisation",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "当前缺少可据以判断新申请资格的有效专项入口或完整执行规则；国籍、外国永居、居住地及职业身份范围仍待核实，不因一般入境或其他居留资格成立就认定此项目可办。",
+          "references": [
+            "https://citizenshiprightsafrica.org/wp-content/uploads/Sierra-Leone-Immigration-Department-Press-Release-January-2-2025.pdf",
+            "https://questions-statements.parliament.uk/written-questions/detail/2026-06-22/11681/",
+            "https://slid.gov.sl/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/spain/README.md",
+      "programs": [
+        {
+          "program": "Golden Visa",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "不接收新黄金签证申请；原申请递交日、原许可有效性及续签过渡资格才是存量身份判断依据，符合旧投资或国籍条件不能重新取得新申请入口。",
+          "references": [
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "closed-paused-unverified/united-kingdom/README.md",
+      "programs": [
+        {
+          "program": "Tier 1 Investor",
+          "finding": "historical-or-not-actionable",
+          "identity_statement": "新申请及旧案延期窗口均已结束；仅合资格既有Tier 1 Investor持有人可能按过渡规则申请永居，不能凭第三国永居或资金重新进入该路线。",
+          "references": [
+            "https://www.gov.uk/tier-1-investor",
+            "https://www.gov.uk/government/publications/tier-1-investor-caseworker-guidance/tier-1-investor-caseworker-guidance-accessible"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/albania/README.md",
+      "programs": [
+        {
+          "program": "Single Permit for digital mobile workers",
+          "finding": "documented",
+          "identity_statement": "第68条要求外国申请人在阿尔巴尼亚合法停留，并持有境外雇佣合同或与境外委托人／客户的服务合同；须证明本人居所及身份背景。免签入境不等于自动获批Single Permit，非法或逾期停留不能据远程合同直接补正。见[内政部第68条及材料说明](https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/)。",
+          "references": [
+            "https://mb.gov.al/en/procedura-dhe-dokumentacioni-per-pajisjen-me-leje-qendrimi-dhe-leje-unike-residence-unique-permit-al-en/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/andorra/README.md",
+      "programs": [
+        {
+          "program": "Residence for digital nomad",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须获主管部门对数字游民活动的认可；普通境外远程雇佣关系不自动满足该认可。官方材料允许EU／EEA国民以有效身份证替代护照，并要求来源国、国籍国及居住国犯罪记录；这反映材料差异，不是完整国籍白名单。",
+          "references": [
+            "https://www.govern.ad/ca/tematiques/immigracio/residencia/residencia-per-a-nomada-digital"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/argentina/README.md",
+      "programs": [
+        {
+          "program": "Residencia transitoria — Nómada digital",
+          "finding": "documented",
+          "identity_statement": "只适用于其国籍所属国家获免旅游签证待遇的外国人，依据Disposición 758/2022第1条；须向境外个人或法人远程提供服务。持第三国签证而获入境便利，不应直接解释为满足“免签国家国民”条件。",
+          "references": [
+            "https://www.argentina.gob.ar/servicio/obtener-una-residencia-transitoria-como-nomada-digital",
+            "https://www.argentina.gob.ar/normativa/nacional/disposici%C3%B3n-758-2022-364601/texto"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/barbados/README.md",
+      "programs": [
+        {
+          "program": "Welcome Stamp",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须属于境外收入支持的远程工作者。申请表收集现有及曾有国籍、出生地等资料，但下拉选项不能作为所有国籍均合资格的证据；本次未从公开条款确认完整国籍或特殊身份排除范围。",
+          "references": [
+            "https://barbadoswelcomestamp.bb/applynow/",
+            "https://www.visitbarbados.org/barbados-welcome-stamp"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/belize/README.md",
+      "programs": [
+        {
+          "program": "Long Stay Visitor Permit（推广名：Work Where You Vacation）",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】2021年修法第13A条及附表要求申请人为加拿大、美国、英国或欧盟成员国的公民或永久居民，并符合境外远程工作条件。因此中国籍申请人可能凭上述合资格永久居民身份满足这一项，仅有中国护照或临时签证不足。此为已核实的法条条件；当前收件及有无后续附表修订仍待主管机关确认。",
+          "references": [
+            "https://immigration.gov.bz/permits/long-stay-permit/",
+            "https://www.agm.gov.bz/uploads/laws/639771269b486_Act_No-20_of_2021_____Immigration__Amendment__Act_2021.pdf",
+            "https://www.travelbelize.org/work-where-you-vacation/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/brazil/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Residence",
+          "finding": "documented",
+          "identity_statement": "须为没有巴西本地雇佣关系、以境外雇主或客户工作为基础的外国远程工作者；驻外签证须在本人合法居住地所属巴西领区申请。合法居住与永久居民不同，不能把领区要求加写成必须先有外国永居。见[外交部VITEM XIV现行说明](https://www.gov.br/mre/pt-br/embaixada-windhoek/english/consular-services/visas-1/vitem-xiv-digital-nomad)。",
+          "references": [
+            "https://www.gov.br/mre/pt-br/embaixada-windhoek/english/consular-services/visas-1/vitem-xiv-digital-nomad",
+            "https://portaldeimigracao.mj.gov.br/pt/midia-e-atualidades/1700-sem-categoria/noticias-obmigra/401615-oficina-36e45"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/bulgaria/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad residence permit",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须符合新增法条对境外受雇、经营或独立远程服务活动的具体定义；并非所有自称数字游民者均可申请。现有法条不足以确认完整特别国籍限制及当前身份转换细则，须由递交领馆和移民局补证。",
+          "references": [
+            "https://dv.parliament.bg/DVWeb/showMaterialDV.jsp?idMat=235575"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/cabo-verde/README.md",
+      "programs": [
+        {
+          "program": "Remote professional activity residence",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】2025实施条例第35条要求境外劳动合同或服务／经营关系，并提交税务居所证明；税务居所不等于国籍或永久居民身份。新法条不能沿用2020旅游推广项目的地域营销范围作为国籍白名单；完整特别国籍入境限制仍须另核。",
+          "references": [
+            "https://boe.incv.cv/Bulletins/View/85465",
+            "https://boe.incv.cv/Bulletins/DownloadAct?id=85465"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/colombia/README.md",
+      "programs": [
+        {
+          "program": "Visitor Visa — Digital Nomad",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】第5477/2022号决议第46条要求短期免签国家／地区签发的护照，并符合境外远程工作或数字创业条件。但所引用的第5488/2022号决议还包含中国等国的附条件免签，以及按特定第三国永久居留取得的短停免签；不能把所有情况压缩成单一国籍白名单。这些附条件情形是否满足第46条的数字游民护照要求，尚需主管机关确认，不作一律可办或不可办的结论。见[现行免签决议第3–5条](https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5488_2022.htm)。",
+          "references": [
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm",
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5488_2022.htm"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。",
+          "followup_record": "taiwan-linked-list-followup.json"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/costa-rica/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomads",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】面向向境外个人或法人提供远程服务并获境外报酬的外国人，不能用哥斯达黎加本地工作替代。所引官方项目页未列完整国籍排除清单；是否需先办入境签证仍须按护照对应规则核对。",
+          "references": [
+            "https://www.visitcostarica.com/digital-nomads",
+            "https://www.visitcostarica.com/digital-nomads/requirements",
+            "https://www.visitcostarica.com/digital-nomads/renewal",
+            "https://www.visitcostarica.com/digital-nomads/requirements-for-dependents",
+            "https://www.visitcostarica.com/digital-nomads/benefits",
+            "https://www.pgrweb.go.cr/DOCS/NORMAS/1/VIGENTE/L/2020-2029/2020-2024/2022/17A12/14E170.HTML"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/croatia/README.md",
+      "programs": [
+        {
+          "program": "Temporary stay of digital nomads",
+          "finding": "documented",
+          "identity_statement": "限非EU／EEA／瑞士的第三国国民，为境外注册公司工作或通过自己在境外注册的企业远程工作，不得向克罗地亚雇主提供劳动或服务。是否须先办入境签证取决于本人护照及适用入境规则，不能从居留许可类别推定免签。",
+          "references": [
+            "https://mup.gov.hr/aliens-281621/stay-and-work/temporary-stay-of-digital-nomads/286833?impaired=1",
+            "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_40_545.html",
+            "https://investcroatia.gov.hr/en/5th-round-of-tax-reform-enters-into-force-on-1-january-2021/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/curacao/README.md",
+      "programs": [
+        {
+          "program": "@HOME in Curaçao — Remote Worker",
+          "finding": "documented",
+          "identity_statement": "项目FAQ明确称所有国籍可申请，并要求境外雇主、境外企业或境外客户关系；荷兰、美国国民另有不同的居留声明办理路径。该国籍表述不消除本页的时效警示，也不替代入境及背景审查。",
+          "references": [
+            "https://athomeincuracao.com/faq/",
+            "https://athomeincuracao.com/remote-workers/",
+            "https://athomeincuracao.com/remote-workers/application-remote-workers/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/cyprus/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Residence Permit",
+          "finding": "documented",
+          "identity_statement": "限非EU／EEA国民，须受雇于境外注册公司，或自雇并为境外客户提供服务；已持其他身份在塞浦路斯合法居住者可按规定境内申请，不能把该便利扩展到逾期停留。见[移民部门现行资格与程序](https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/)。",
+          "references": [
+            "https://www.gov.cy/mip-md/en/documents/digital-nomads-and-family-members/",
+            "https://www.moi.gov.cy/dmmip/md.nsf/All/AAEAEA2695E7E270C2258921002C2FB4/%24file/Accompanying%20Documents_VIS%20Digital%20Nomad_19032025.pdf?OpenElement="
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/czech-republic/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Programme",
+          "finding": "documented",
+          "identity_statement": "限澳大利亚、巴西、印度、以色列、日本、加拿大、韩国、墨西哥、新西兰、新加坡、英国、美国和台湾的合资格IT或市场营销专业人员；中国大陆普通护照不在名单。申请时及此前一年不得持有过捷克超过90日的长期签证或长期居留许可；外国永居不能替代国籍白名单。见[项目规则第4.1节](https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf)。",
+          "references": [
+            "https://mpo.gov.cz/assets/en/foreign-trade/economic-migration/programs-and-projects/2025/7/Digital-Nomad-EN.pdf",
+            "https://mpo.gov.cz/en/foreign-trade/economic-migration/digital-nomad-program--275799/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/dominica/README.md",
+      "programs": [
+        {
+          "program": "Work in Nature Visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】主申请人须年满18岁并符合远程工作、收入与良好品格要求；WIN与投资入籍是不同项目，不能直接套用CBI的受限国籍名单。当前WIN公开来源未确认完整的特别国籍限制。",
+          "references": [
+            "https://windominica.gov.dm/component/content/category/8-program-details"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/ecuador/README.md",
+      "programs": [
+        {
+          "program": "Rentista for remote work",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】2024官方办事说明将对象写为拟在厄瓜多尔远程工作的外国自然人，须拥有境外企业或为境外自然人／法人工作；不能把仅为法人工作的规则从其他国家移植过来。本次当前在线正文复取不完整，仍须核对有无后续特别国籍及现有身份限制。见[官方办事说明存档](https://www.gob.ec/sites/default/files/sign/procedure-14306-20240808131313-17407102-signed.pdf)。",
+          "references": [
+            "https://www.gob.ec/sites/default/files/sign/procedure-14306-20240808131313-17407102-signed.pdf",
+            "https://www.gob.ec/mremh/tramites/concesion-visa-residencia-temporal-rentista-trabajo-remoto-visa-nomada",
+            "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-03-2026.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/estonia/README.md",
+      "programs": [
+        {
+          "program": "Teleworking / Digital Nomad D visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须以外国公司雇员、外国公司经营者或主要向境外客户提供服务的自由职业者身份申请；e-Residency电子居民不是国籍、实体居留或签证。外交部D签页另设俄白申请限制入口，须按本人国籍和例外核对，不能把电子居民身份当作解除限制的依据。",
+          "references": [
+            "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa",
+            "https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/",
+            "https://www.emta.ee/en/private-client/foreigner-non-resident/tax-residency"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/greece/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Visa / Residence Permit Z.1",
+          "finding": "documented",
+          "identity_statement": "面向非EU／EEA／瑞士的第三国远程工作者；EU／EEA／瑞士人士应区分其自由迁徙规则。须证明境外雇主、客户或企业关系，不得以本地雇佣关系满足本路线；完整特别国籍限制仍须结合领馆与入境规定判断。",
+          "references": [
+            "https://www.mfa.gr/services/working-in-greece-as-a-digital-nomad/",
+            "https://workfromgreece.gr/",
+            "https://migration.gov.gr/wp-content/uploads/2024/10/6%CE%95%CE%B3%CE%BA%CF%8D%CE%BB%CE%B9%CE%BF%CF%82-3JUN2024-%CE%BD_5038_2023-%CE%B7-1%CE%B7-%CE%BC%CE%B5%CE%B3%CE%B1%CE%BB%CE%B7-%CE%9D%CF%8C%CE%BC%CE%BF%CF%85.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/guatemala/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad residence",
+          "finding": "gap",
+          "identity_statement": "【核心证据缺口】待核实：目前主要依据专业机构索引发现项目，仍缺主管机关国籍、合法入境及既有身份资格条款；不能仅凭收入数字判断中国籍或其他特定身份申请人可递交。",
+          "references": [
+            "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/insights/workforce/documents/ey-gl-global-immigration-index-remote-work-and-digital-nomads-03-2026.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/hungary/README.md",
+      "programs": [
+        {
+          "program": "White Card",
+          "finding": "documented",
+          "identity_statement": "适用于不享有EEA自由迁徙权的第三国国民，官方定义包括无国籍人；须为境外公司工作或管理合资格境外企业。不得在匈牙利从事有报酬活动，也不得持有匈牙利公司的股份；既有匈牙利身份和境内转换限制须按OIF规则分别判断。",
+          "references": [
+            "https://www.oif.gov.hu/factsheets/white-card-residency-for-digital-nomads"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/indonesia/README.md",
+      "programs": [
+        {
+          "program": "E33G — Remote Worker",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】E33G要求国家护照和境外公司雇佣合同；不能将所有自由职业者、印尼本地雇员或仅有远程收入者都视为适用。当前所引条款未确认完整的特别国籍／Calling Visa限制清单，需按本人护照核对移民局受理规则。",
+          "references": [
+            "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia",
+            "https://evisa.imigrasi.go.id/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/italy/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad / Remote Worker Visa",
+          "finding": "documented",
+          "identity_statement": "针对非欧盟的高技能远程工作者，须符合雇员或自雇相应条件。驻美领馆要求非美国公民提供美国永久居留或其他合资格长期身份／再入境文件，是该馆受理辖区的证明，不能写成全球申请人都须先有美国绿卡。投资签证的俄白暂停规则不能未经依据直接套用到本签证。",
+          "references": [
+            "https://ambwashingtondc.esteri.it/wp-content/uploads/2026/02/Digital-nomad-Remote-Worker-Visa-2026.pdf",
+            "https://ambchisinau.esteri.it/wp-content/uploads/2026/03/Visto-per-nomadi-digitali-agg.-18.03.26.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/japan/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad",
+          "finding": "documented",
+          "identity_statement": "限入管厅名单中的国籍／地区，主申请人与同行配偶、子女使用不同名单；中国大陆普通护照不在主申请人名单，外国永久居留不能替代国籍条件。主申请人名单含香港、台湾，不能据此把澳门或家属名单自动套用于主申请人。须为境外机构远程工作或向境外客户提供服务。见[官方资格名单](https://www.moj.go.jp/isa/content/001416932.pdf)。",
+          "references": [
+            "https://www.moj.go.jp/isa/content/001416932.pdf",
+            "https://www.mofa.go.jp/ca/fna/pagewe_000001_00046.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/kazakhstan/README.md",
+      "programs": [
+        {
+          "program": "Neo Nomad Visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】Neo Nomad B12-1的国籍／邀请函材料应按递件馆名单核对；免邀请函的国家范围不能自动理解为只有这些国籍能申请。当前来源尚不足以完整确认名单和其他国籍替代程序，且不得与ICT人才Digital Nomad Residency的身份条件混用。",
+          "references": [
+            "https://www.gov.kz/memleket/entities/mfa-london/press/article/details/188964?lang=en",
+            "https://www.gov.kz/memleket/entities/mfa-bern/press/article/details/6521?lang=en"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/kenya/README.md",
+      "programs": [
+        {
+          "program": "Permit Class N — Digital Nomad",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】Class N面向为境外雇主工作、经营境外企业或服务境外客户的外国远程工作者，并要求不属于被禁止入境者。公开资格页未列项目专属国籍白名单；这只说明所引页的证据范围，不构成对所有国籍的受理保证。",
+          "references": [
+            "https://fns.immigration.go.ke/infopack/permits/classN/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/kyrgyzstan/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad status",
+          "finding": "documented",
+          "identity_statement": "限阿塞拜疆、亚美尼亚、白俄罗斯、哈萨克斯坦、摩尔多瓦、俄罗斯、美国、英国、德国、日本、韩国的ICT、软件及相关领域专业人员；中国大陆不在现行规则第3条名单。外国永居不能直接替代所列国家资格；另受第6条犯罪及安全事由限制。",
+          "references": [
+            "https://www.gov.kg/storage/media/npa/4648/6823297d9a4df.pdf",
+            "https://mlsp.gov.kg/ru/2025/12/16/v-kyrgyzskoj-respublike-zapushhena-elektronnaya-platforma-dlya-podachi-hodatajstv-inostrannymi-grazhdanami-na-prisvoenie-statusa-czifrovoj-kochevnik-digital-nomad/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/latvia/README.md",
+      "programs": [
+        {
+          "program": "Long-term visa for remote work",
+          "finding": "documented",
+          "identity_statement": "属于第三国国民远程工作路线。OECD条件针对雇主注册国或自雇登记国，不是要求申请人具有OECD国籍；受雇者还须证明此前至少6个月的雇佣关系。普通签证及特别国籍限制仍须单独核对，不能因雇主在OECD国家便认定签证必可获批。",
+          "references": [
+            "https://www.pmlp.gov.lv/en/receiving-long-term-visa-remote-work"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/malaysia/README.md",
+      "programs": [
+        {
+          "program": "DE Rantau Nomad Pass",
+          "finding": "documented",
+          "identity_statement": "MDEC外国申请人FAQ称向所有国籍开放，但以色列申请人入境须另获内政部批准。中国、孟加拉国申请人的银行担保旧要求，已被MDEC于2024-08-26宣布改为security bond或personal bond；不能继续把银行担保当作现行唯一方式。见[后续官方公告](https://www.mdec.my/media-release/news-press-release/349/de-rantau-unveils-terengganu-as-the-coastal-paradise-for-digital-nomads-seeking-tranquility-and-cultural-richness)。",
+          "references": [
+            "https://www.mdec.my/media-release/news-press-release/349/de-rantau-unveils-terengganu-as-the-coastal-paradise-for-digital-nomads-seeking-tranquility-and-cultural-richness",
+            "https://mdec.my/static/pdf/derantau/DE%20Rantau%20Pass%20FAQ-Foreign.pdf",
+            "https://www.mdec.my/press-releases/mdec-expands-de-rantau-programme-new-opportunities-for-global-digital-nomads-and-exciting-partnerships"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/malta/README.md",
+      "programs": [
+        {
+          "program": "Nomad Residence Permit",
+          "finding": "documented",
+          "identity_statement": "须年满18岁，属非EU／EEA／瑞士的第三国国民。2026-04-17版FAQ排除阿富汗、朝鲜、伊朗、刚果民主共和国、索马里、南苏丹、苏丹、也门、委内瑞拉国民或与这些国家有紧密联系者，另不接收俄罗斯、白俄罗斯申请；“紧密联系”不能只靠换一本护照排除。不能同时保留两种马耳他居留身份，现有许可如何撤销须按FAQ办理。",
+          "references": [
+            "https://nomad.residencymalta.gov.mt/new-faqs/",
+            "https://legislation.mt/getpdf/65815fd48a3ed618b0827fe2"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/mauritius/README.md",
+      "programs": [
+        {
+          "program": "Premium Visa",
+          "finding": "documented",
+          "identity_statement": "官方FAQ附件国家的国民可以入境前申请；未列入附件者可按FAQ先以旅游身份入境，再在境内申请Premium Visa。因此附件不是一张绝对排除其他国籍的名单。实际入境许可仍须另行取得，且主要收入与业务须在毛里求斯境外。",
+          "references": [
+            "https://passport.govmu.org/passport/?page_id=595",
+            "https://edbmauritius.org/wp-content/uploads/2023/12/FAQs-Premium-Visa.pdf",
+            "https://www.mra.mu/download/FAQsPremiumVISA.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/moldova/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad temporary residence",
+          "finding": "documented",
+          "identity_statement": "须为远程服务境外法人的外国雇员、合同服务者或境外企业股东／管理者，不能把所有个人客户自由职业都自动包含。曾在原籍国以外国家居住至少2年者，还须提交该居住国犯罪记录及居留权证明；这是既有居住经历引起的材料要求，不是人人须先有外国永居。见[投资署现行资格问答](https://invest.gov.md/en/qa-2/digital-nomads/)。",
+          "references": [
+            "https://invest.gov.md/en/qa-2/digital-nomads/",
+            "https://cnas.gov.md/ro/node/568",
+            "https://invest.gov.md/wp-content/uploads/2026/01/Profile_BPO_2025.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/montenegro/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad temporary residence",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须属于受雇于境外公司或经营境外公司的外国远程工作者；在黑山合法入境、停留与递交期限另须满足。所引专项说明未列完整国籍白名单，不据此保证任意国籍均可入境申请。",
+          "references": [
+            "https://digitalnomads.gov.me/article/legal-status-for-nomads"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/montserrat/README.md",
+      "programs": [
+        {
+          "program": "Remote Workers Stamp",
+          "finding": "documented",
+          "identity_statement": "官方FAQ针对非本地国民，须属于境外企业雇员、境外企业合伙人／股东或主要向境外客户提供服务的自由职业／咨询者。境外雇主可属公营或私营，不能擅自加上只接受私企雇员的限制；本地普通入境身份并不等于获批Remote Workers Stamp。见[官方FAQ](https://montserratremoteworker.com/faqs/)。",
+          "references": [
+            "https://montserratremoteworker.com/faqs/",
+            "https://www.gov.ms/wp-content/uploads/2026/02/15.20-Remote-Employment-Act.pdf",
+            "https://www.gov.ms/2021/01/29/applications-are-now-open-for-the-12-month-montserrat-remote-workers-stamp/",
+            "https://montserratremoteworker.com/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/namibia/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须证明境外雇主、企业或客户关系。所引NIPDB公开要求未列完整国籍限制；护照与背景材料要求不能解释为任何国籍均获准，原有在纳米比亚身份及是否可境内转换仍须由移民机关确认。",
+          "references": [
+            "https://www.nipdb.com/digital-nomad-visa"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/panama/README.md",
+      "programs": [
+        {
+          "program": "Short Stay Visa as Remote Worker",
+          "finding": "documented",
+          "identity_statement": "第198号行政令第1条面向与境外跨国企业有合同的外国远程雇员或自主工作者，工作效果及收入须来自境外；属于No Residente下的专项签证，不等于已获巴拿马居民身份。不得把Friendly Nations等另一项目的国籍名单套用到本签证。见[第198号行政令](https://www.migracion.gob.pa/wp-content/uploads/DECRETO_EJECUTIVO_198.pdf)。",
+          "references": [
+            "https://www.migracion.gob.pa/wp-content/uploads/DECRETO_EJECUTIVO_198.pdf",
+            "https://www.migracion.gob.pa/wp-content/uploads/18.REQUISITOS-PARA-SOLICITAR-VISA-DE-CORTA-ESTANCIA-COMO-TRABAJADOR-REMOTO.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/portugal/README.md",
+      "programs": [
+        {
+          "program": "D8 Remote Work Residence",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须证明与葡萄牙境外实体的雇佣或服务关系；税务居所证明与国籍、永久居留是不同材料。所引D8专门条款未列国籍白名单，但这不等于所有国籍都免于一般入境及受理辖区限制。",
+          "references": [
+            "https://aima.gov.pt/pt/trabalhar/autorizacao-de-residencia-para-o-exercicio-de-atividade-profissional-prestada-de-forma-remota-com-visto-de-residencia-para-o-exe",
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=940A0031A&ficha=1&nid=940&nversao=&pagina=1&so_miolo=&tabela=leis",
+            "https://files.diariodarepublica.pt/2s/2026/01/003000001/0000200010.pdf",
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis",
+            "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=&ficha=101&nid=920&nversao=&pagina=2&so_miolo=&tabela=leis",
+            "https://justica.gov.pt/en-gb/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/romania/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad long-stay visa / residence",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须证明境外公司雇佣或符合条件的境外公司经营身份及远程工作性质；本页所引移民机关条款未列出完整国籍排除名单。公司所在国、本人国籍与目前合法居留地须分别核对，不能据海外收入认定任意身份均可办理。",
+          "references": [
+            "https://igi.mai.gov.ro/alte-scopuri/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/seychelles/README.md",
+      "programs": [
+        {
+          "program": "Seychelles Workcation Retreat",
+          "finding": "gap",
+          "identity_statement": "【核心证据缺口】待核实：原Workcation入口现为通用电子边境系统，不能从普通入境授权的国籍选择项推断专项许可向所有国籍开放；须先补当前项目收件及申请人身份范围。",
+          "references": [
+            "https://seychelles.govtas.com/en/workcation"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/slovenia/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad temporary residence permit",
+          "finding": "documented",
+          "identity_statement": "适用于非EU／EEA的外国远程工作者，境外雇佣、民事服务合同或境外自雇须符合官方定义；可在驻外机构申请，已合法停留者可按规定在境内提出申请。境内递交资格取决于合法停留事实，不能仅凭境外远程收入推定可转换身份。",
+          "references": [
+            "https://www.gov.si/en/news/2025-11-21-temporary-residence-permit-for-digital-nomads/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/south-africa/README.md",
+      "programs": [
+        {
+          "program": "Remote Work Visitor’s Visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须有境外雇主合同并符合远程工作签证要求，不能仅凭被动收入替代受雇条件。所引官方材料未明确完整国籍排除范围；是否可境内转签须另按本人当前签证和一般移民法判断。",
+          "references": [
+            "https://www.dha.gov.za/images/notices/8october24/Remote_Work_Visa_-_requirements_-_9_Oct_2024.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/south-korea/README.md",
+      "programs": [
+        {
+          "program": "Workcation / Digital Nomad Visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须按Workcation的境外经营／工作及同行业经历条件判断；青年和地区优惠中的年龄、住所与携家属条件会改变适用档位。本次未完整取得当前特别国籍及境内转换条款，不能将优惠年龄分档或免签入境名单当作申请国籍白名单。",
+          "references": [
+            "https://www.moj.go.kr/bbs/immigration_eng/229/464290/download.do",
+            "https://overseas.mofa.go.kr/de-de/wpge/m_7236/contents.do",
+            "https://overseas.mofa.go.kr/ru-stpetersburg-ru/brd/m_7886/view.do?page=1&seq=759308"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/spain/README.md",
+      "programs": [
+        {
+          "program": "International Teleworker",
+          "finding": "documented",
+          "identity_statement": "针对第三国国际远程工作者，须满足学历／专业经验及境外雇佣或服务关系；境内居留申请要求本人合法在西班牙。法条的第三国国籍与雇主所在地不同，领馆对公司性质和递交辖区的要求也不能转写成申请人须先有第三国永居。",
+          "references": [
+            "https://boe.es/buscar/act.php?id=BOE-A-2013-10074",
+            "https://boe.es/buscar/act.php?id=BOE-A-2026-3815",
+            "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/Telework-visa.aspx",
+            "https://www.exteriores.gob.es/Consulados/buenosaires/es/ServiciosConsulares/Paginas/index.aspx?scca=Visados&scco=Argentina&scd=40&scs=Visado+de+residencia+para+teletrabajo+%28n%C3%B3mada+digital%29",
+            "https://boe.es/buscar/act.php?id=BOE-A-2000-544#a32",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763#art22",
+            "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/residencia-habitual-territorio-espanol.html",
+            "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/regimen-fiscal-especial-aplicable-trabajadores-desplazados.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/sri-lanka/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Visa",
+          "finding": "documented",
+          "identity_statement": "官方类别说明面向年满18岁的外国远程工作者、自由职业者或服务境外客户的企业经营者，可携合资格配偶和受养人；所引说明未列国籍白名单，不能据此豁免一般入境审查。",
+          "references": [
+            "https://www.immigration.gov.lk/content/files/visa/digital_nomad/Digital%20Nomad%20Visa%20Category.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/taiwan/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Visitor Visa",
+          "finding": "documented",
+          "identity_statement": "主申请人须为实际适用台湾免签待遇的外国人，并持合资格外国护照；不能只看签发国家是否出现在名单，还须核对护照类别、出生地及公民身份脚注。中国大陆普通护照不符合，外国永居或其他国家数字游民签证不能替代免签资格。另持外国护照者仍须分别核对免签排除条件及大陆地区人民／外国人身份适用。依据[2026资格公告](https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032005/ch01/type1/gov84/num1/Eg.htm)及[完整免签名单与限制](https://www.boca.gov.tw/cp-149-4486-7785a-2.html)，具体边界见下文。",
+          "references": [
+            "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032005/ch01/type1/gov84/num1/Eg.htm",
+            "https://gazette.nat.gov.tw/EG_FileManager/eguploadpub/eg032067/ch01/type2/gov84/num2/Eg.pdf",
+            "https://www.boca.gov.tw/cp-149-4486-7785a-2.html",
+            "https://www.boca.gov.tw/fp-158-7718-c0382-2.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。",
+          "followup_record": "taiwan-linked-list-followup.json"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/thailand/README.md",
+      "programs": [
+        {
+          "program": "Destination Thailand Visa (DTV)",
+          "finding": "documented",
+          "identity_statement": "适用远程工作者／自由职业者、规定泰国活动参加者及合资格家属等不同类别，须分别提供证明。驻华盛顿馆对非美国公民要求美国永久居留卡或至少6个月有效美国签证，属于该馆递交材料，不能推导为所有DTV申请人须先有美国身份。",
+          "references": [
+            "https://washingtondc.thaiembassy.org/en/page/page/dtv-visa",
+            "https://image.mfa.go.th/mfa/0/4a5AsMHake/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B2/New_Visa_to_Thailand_-_Infographic.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/turkey/README.md",
+      "programs": [
+        {
+          "program": "Digital Nomad Visa + short-term residence",
+          "finding": "documented",
+          "identity_statement": "有国籍白名单，并要求21–55岁及大学学历；名单包括指定欧洲国家、美国、加拿大、俄罗斯、乌克兰、白俄罗斯等，中国大陆不在名单。须持护照并证明为境外雇主／客户远程工作；持第三国永居不能替代国籍。完整范围见[官方资格页](https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence)。",
+          "references": [
+            "https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence",
+            "https://goturkiye.com/tr/digitalnomads/dijital-gocebe-vize-ve-kisa-donem-ikamet-icin-basvuru-sartlari",
+            "https://en.goc.gov.tr/residence-permit-types"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/united-arab-emirates/README.md",
+      "programs": [
+        {
+          "program": "Virtual Work Residence Visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】面向为阿联酋境外机构远程工作的外国申请人，采用无本地担保人的虚拟工作居留；“无担保人”不等于不审查国籍和入境资格。GDRFA所引公开条件未提供完整国籍排除清单。",
+          "references": [
+            "https://gdrfad.gov.ae/en/services/f52024e3-b812-11ed-5210-4cd98f768936",
+            "https://gdrfad.gov.ae/en/services/64154a31-ec6d-11ec-140b-0050569629e8",
+            "https://tax.gov.ae/en/taxes/corporate.tax/corporate.tax.topics/basis.of.taxation.natural.person.aspx"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "digital-nomad-remote-work/uruguay/README.md",
+      "programs": [
+        {
+          "program": "Permiso especial para nómadas digitales",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】政府公告面向为境外企业工作或境外自雇的外国远程工作者；没有在所引公告中找到完整国籍限制条款。电子身份或入境后的申请步骤不能替代合法入境与本人护照资格审查。",
+          "references": [
+            "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/permiso-especial-residencia-legal"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "entrepreneur-business-residence/fiji/README.md",
+      "programs": [
+        {
+          "program": "Investor Permit",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】投资许可针对年满18岁的外国投资者，并须提交相应身份、背景及经营材料；已核实的公开条件未列项目专属国籍白名单。是否能够入境、在境内申请以及经营受限行业仍须分别确认。",
+          "references": [
+            "https://www.immigration.gov.fj/investor-permit-application/",
+            "https://www.investmentfiji.org.fj/article/investment-fiji-sets-focus-to-be-a-leading-ipa",
+            "https://www.businessnow.gov.fj/starting-a-business/investor-reporting-portal/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "entrepreneur-business-residence/france/README.md",
+      "programs": [
+        {
+          "program": "Talent-porteur de projet — investissement économique",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须由外国申请人直接投资，或通过本人管理／持股达到规定比例的公司投资并满足就业承诺；不是任意被动持有人均适用。EU自由迁徙对象、其他法国居留及特别双边制度应另判；所引条款未确认完整特别国籍限制。",
+          "references": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F16922",
+            "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049052499/",
+            "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801016/",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F35792",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F17359?lang=fr",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2213",
+            "https://www.impots.gouv.fr/resident-de-france"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "entrepreneur-business-residence/japan/README.md",
+      "programs": [
+        {
+          "program": "在留资格「经营・管理」",
+          "finding": "documented",
+          "identity_statement": "面向实际经营或管理企业的外国申请人，须符合该在留资格的学历／经验等条件。新规对合资格常勤雇员的日本人、特别永住者或特定在留身份要求，是雇员条件，不是要求主申请人先取得日本永住；不能移植日本数字游民国籍名单。",
+          "references": [
+            "https://www.moj.go.jp/isa/applications/resources/10_00237.html",
+            "https://www.moj.go.jp/isa/applications/status/businessmanager.html",
+            "https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html",
+            "https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html",
+            "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jigyounushi/seido/anteikyoku/gairou/980908gai01.htm",
+            "https://www.nta.go.jp/english/taxes/individual/12006.htm"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "entrepreneur-business-residence/new-zealand/README.md",
+      "programs": [
+        {
+          "program": "Business Investor Work Visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须符合官方商业投资工作签证对年龄、商业经验、英语及品格等要求；不是纯被动投资资格。公开资格页未列国籍白名单或事先持外国永居要求，证明英语的国籍／教育替代条件不应误写成申请国籍名单。",
+          "references": [
+            "https://www.immigration.govt.nz/visas/business-investor-work-visa/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/bahrain/README.md",
+      "programs": [
+        {
+          "program": "Golden Residency — Property Owner",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须以外国房产所有人及本人合资格产权份额申请；不是只要家属或所投资企业持房就当然符合本人身份条件。当前入口本次未完整返回可读的国籍／既有居留条款，完整身份排除范围仍须NPRA确认。",
+          "references": [
+            "https://goldenresidency.gov.bh/eligibility-criteria/",
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/",
+            "https://goldenresidency.gov.bh/faqs/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/canada-quebec/README.md",
+      "programs": [
+        {
+          "program": "Québec Investor Program",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须符合商业管理经历、教育及法语等投资者资格，并按魁北克定居及工作许可阶段要求办理；并非只需持有资产。所引现行资格页未列国籍白名单或事先取得外国永居的门槛；加拿大联邦可入境性审查仍须满足。",
+          "references": [
+            "https://www.quebec.ca/immigration/permanente/immigrer-affaires/investisseurs/conditions",
+            "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/cyprus/README.md",
+      "programs": [
+        {
+          "program": "Immigration Permit for Investors",
+          "finding": "gap",
+          "identity_statement": "【核心证据缺口】待核实：现行移民部门投资永居页本次返回访问阻断，尚未完整确认当前特别国籍／关联限制及现有居留适用规则。不能据€300k门槛判断任何护照均可申请，也不能套用已关闭投资入籍项目的名单。",
+          "references": [
+            "https://www.gov.cy/mip-md/en/documents/companies-investors-permanent-residence-3/immigration-permits-for-investors/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/malta/README.md",
+      "programs": [
+        {
+          "program": "Malta Permanent Residence Programme (MPRP)",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】限非EU／EEA／瑞士的第三国国民，并排除受主管机关制裁国家范围及其他不相容计划受益人。已取得或正在申请马耳他EU长期居民身份者也须核对法规排除条款。旧FAQ中的国籍及“紧密联系”名单不能与数字游民项目共用；本次尚未取得可确认截至核查日完整有效的新版MPRP国别清单。",
+          "references": [
+            "https://residencymalta.gov.mt/legal-framework-mprp-2/",
+            "https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf",
+            "https://residencymalta.gov.mt/wp-content/uploads/2024/08/MPRP-FAQs-V2.6.4.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/mauritius/README.md",
+      "programs": [
+        {
+          "program": "Investor Permanent Residence Permit",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】本块为外国投资者在合资格商业活动直接投资的路线，不应把另一路Occupation Permit持有人的多年经营转换条件自动套入，也不能只凭已有外国永居替代商业投资资格。所引官方资料未列完整国籍排除范围。",
+          "references": [
+            "https://passport.govmu.org/passport/?page_id=626"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/panama/README.md",
+      "programs": [
+        {
+          "program": "Qualified Investor",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须由外国合格投资者按相应分支证明本人投资及境外资金来源；不能以公司、家属或第三国永居身份直接替代主申请人资格。现有资料未确认完整受限国籍及原有巴拿马身份转换规则。",
+          "references": [
+            "https://www.migracion.gob.pa/wp-content/uploads/DECRETO_EJECUTIVO_722.pdf",
+            "https://www.migracion.gob.pa/wp-content/uploads/DECRETO-EJECUTIVO-193-DE-15-DE-OCTUBRE-DE-2024-QUE-MODIIFICA-Y-ADICIONA-AL-DECRETO-172-DE-15-DE-OCTUBRE-DE-2020.pdf",
+            "https://www.mitradel.gob.pa/empleo/migracion-laboral/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/saudi-arabia/README.md",
+      "programs": [
+        {
+          "program": "Premium Residency — Business Investor",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须符合Business Investor本人持股份额、投资登记及经营证明条件，不能只看公司总投资额。项目门户本次未完整返回可读的一般身份规则，国籍限制、年龄及现有沙特身份的合法性要求仍须主管机关确认。",
+          "references": [
+            "https://pr.gov.sa/pr?id=pr_product_details_investor_residency",
+            "https://pr.gov.sa/pr?id=faqs",
+            "https://pr.gov.sa/pr?id=conditions_controls"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/seychelles/README.md",
+      "programs": [
+        {
+          "program": "Permanent Residence by Investment",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须有与直接投资有关的至少5年商业关联／经营联系等官方条件，并非任何外国人单纯一次付款即可取得永居。所引资格页未列完整国籍白名单；外国永居不替代本项目的既有商业经历。",
+          "references": [
+            "https://investinseychelles.com/investors-guide/investor-resources/residency-by-investment/permanent-residence-permit"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/singapore/README.md",
+      "programs": [
+        {
+          "program": "Global Investor Programme",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】EDB按成熟企业主、下一代企业主、高增长企业创始人、家族办公室负责人四类背景设资格，须符合对应商业履历及资产／营业额条件；仅有资金或第三国永居不足。所引资格表未列国籍白名单，也未要求申请前已是新加坡永久居民。",
+          "references": [
+            "https://www.edb.gov.sg/en/how-we-help/global-investor-programme",
+            "https://assets.app.optical.gov.sg/edb/production/published/collections/pages/%252Fhow-we-help%252Fglobal-investor-programme/5d1d8faa-729b-463d-ac13-9d2c9b5a6abd.pdf",
+            "https://www.ica.gov.sg/reside/citizenship",
+            "https://www.mom.gov.sg/faq/work-pass-general/how-can-an-employer-hire-a-stateless-person-who-holds-a-special-pass-issued-by-ica",
+            "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/south-africa/README.md",
+      "programs": [
+        {
+          "program": "Financially Independent Permanent Residence",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须按财务独立永久居留而非投资签证资格申请；净资产证明不能替代一般可入境性和本人身份审查。所引金额公告不提供完整国籍／既有签证排除范围，本次不据此推断所有外国身份均适用。",
+          "references": [
+            "https://www.gov.za/services/services-foreign-nationals/permanent-residence/apply-permanent-residency-permit",
+            "https://www.gov.za/sites/default/files/gcis_document/201409/37716gon454.pdf",
+            "https://visa.vfsglobal.com/zaf/en/dha/visa-type/",
+            "https://www.dha.gov.za/images/PDFs/IMMIGRATION-ACT-2002---UPDATED-2015.pdf",
+            "https://www.dha.gov.za/images/gazettes/48924_7-7_HomeAffairs.pdf",
+            "https://www.sars.gov.za/individuals/tax-during-all-life-stages-and-events/tax-and-non-residents/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/south-korea/README.md",
+      "programs": [
+        {
+          "program": "Immigrant Investor Scheme for Public Business",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须分别核对公共事业投资移民的一般及高额分支；已废止退休优惠不能再按年龄或退休身份认定资格。韩英页面版本不同，本次未取得完整现行特别国籍和原有在韩身份转换条款。",
+          "references": [
+            "https://www.moj.go.kr/moj/189/subview.do",
+            "https://www.moj.go.kr/immigration/1515/subview.do",
+            "https://taxlaw.nts.go.kr/qt/USEQTA002P.do?ntstDcmId=200000000000021872"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-permanent-residence/united-states/README.md",
+      "programs": [
+        {
+          "program": "EB-5 Immigrant Investor Program",
+          "finding": "documented",
+          "identity_statement": "EB-5申请仍受一般移民签证准入规则约束。现有或曾有共产党／其他极权党派成员或关联可能触发INA 212(a)(3)(D)，但有非自愿、历史成员等法定例外及有限家庭豁免，不能概括成“党员一律不得申请”，也不能以投资消除该审查。另须核对PP10998按国籍／旅行证件、2026-01-01时所在地及有效签证设置的限制和例外，双重国籍例外不等于第三国永居例外。见[现行9 FAM 302.5-6](https://fam.state.gov/fam/09FAM/09FAM030205.html)及[国务院PP10998说明](https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html)。",
+          "references": [
+            "https://fam.state.gov/fam/09FAM/09FAM030205.html",
+            "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+            "https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1153",
+            "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html",
+            "https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-process",
+            "https://www.uscis.gov/i-829",
+            "https://content.govdelivery.com/accounts/USDHSCIS/bulletins/3447266",
+            "https://www.uscis.gov/green-card/after-we-grant-your-green-card/rights-and-responsibilities-of-a-green-card-holder-permanent-resident",
+            "https://www.uscis.gov/green-card/after-we-grant-your-green-card/maintaining-permanent-residence",
+            "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization/i-am-a-lawful-permanent-resident-of-5-years",
+            "https://www.irs.gov/individuals/international-taxpayers/us-tax-residency-green-card-test"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/andorra/README.md",
+      "programs": [
+        {
+          "program": "Residència sense treball",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】2026修法可确认非工作居留的投资变化，但不能单独证明完整国籍与现有身份适用范围；外国居留、国籍及此前已递交安道尔申请的过渡资格须分开判断。递交时间决定的旧制资格不是某一国籍的永久优惠。",
+          "references": [
+            "https://www.portaljuridicandorra.ad/L2026002",
+            "https://portaljuridicandorra.ad/L2026002_F",
+            "https://www.govern.ad/ca/w/el-govern-acorda-reduir-les-quotes-d-immigracio-per-afavorir-el-creixement-sostenible-i-controlat-de-la-poblacio",
+            "https://www.e-tramits.ad/tramits/ca/d1-residencia-sense-treball-autoritzacio-inicial/p/GV001309",
+            "https://www.portaljuridicandorra.ad/L19951005A",
+            "https://www.e-tramits.ad/tramits/impostos/irpf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/brazil/README.md",
+      "programs": [
+        {
+          "program": "RN 36 Real Estate Investment Residence",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】RN36针对以自有境外资金投资房地产的外国自然人；须证明本人投资和国际资金汇入。所引专项法条未列项目国籍白名单；企业持有房产、外国永居或一般免签入境均不自动等于本人获批投资居留。",
+          "references": [
+            "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/portal-de-imigracao-laboral/navegacao-guiada-1/possui-autorizacao-de-residencia/o-que-deseja/qual-a-finalidade-desejada-1/investidor-pessoa-fisica/rn-36-2018",
+            "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/autorizacao-de-residencia",
+            "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/proteja/duvidas-frequentes",
+            "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/dsdp/nao-residente"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/colombia/README.md",
+      "programs": [
+        {
+          "program": "Migrant Visa — Investor",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须为符合M类投资者要求的外国申请人并证明本人投资登记；该类别不能直接套用V类数字游民的免签护照白名单。所引M类页面未列完整国籍排除清单，普通签证拒签事由仍独立适用。",
+          "references": [
+            "https://www.cancilleria.gov.co/node/26979",
+            "https://www.cancilleria.gov.co/node/26933",
+            "https://www.cancilleria.gov.co/normograma/compilacion/docs/resolucion_minrelaciones_5477_2022.htm",
+            "https://micrositios.dian.gov.co/renta-personas-naturales-ag-2025/todo-lo-que-usted-debe-saber-sobre-renta/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/georgia/README.md",
+      "programs": [
+        {
+          "program": "Short-Term Residence Permit (property)",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须由外国申请人持有合资格不动产并满足居留申请条件；合法停留及是否可从当前入境身份递交须另核，不能把第三国签证、永居带来的入境便利等同于居留申请资格。现有来源未确认完整特别国籍限制。",
+          "references": [
+            "https://sda.gov.ge/en/products/migration-residence-permits/",
+            "https://www.matsne.gov.ge/en/document/view/2278806",
+            "https://matsne.gov.ge/ka/document/view/2806732",
+            "https://sda.gov.ge/en/products/citizenship/",
+            "https://matsne.gov.ge/en/document/view/1043717"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        },
+        {
+          "program": "Investment Residence Permit",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须以外国投资者身份满足投资及登记条件；不能仅因拥有其他国家居留或已免签入境便认定可在境内获批投资居留。特别国籍限制及当前入境身份的转换规则仍待补齐。",
+          "references": [
+            "https://sda.gov.ge/en/products/migration-residence-permits/",
+            "https://www.matsne.gov.ge/en/document/view/2278806",
+            "https://matsne.gov.ge/ka/document/view/2806732",
+            "https://sda.gov.ge/en/products/citizenship/",
+            "https://matsne.gov.ge/en/document/view/1043717"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/greece/README.md",
+      "programs": [
+        {
+          "program": "Real-estate Golden Visa（Migration Code Art. 100 B.5）",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】本块仅为第100条B.5外国房地产投资者路线；须核对本人产权及合法入境条件。现有法条与通知未完整解决特别国籍、双重国籍和受制裁关联的当前受理限制，不能仅据持有合资格物业认定身份可办。",
+          "references": [
+            "https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance",
+            "https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf",
+            "https://diavgeia.gov.gr/doc/%CE%A8%CE%A3%CE%99746%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A7%CE%9C",
+            "https://api.et.gr/apiLAW/1/2023/5038/pdf",
+            "https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=CELEX:72004L0038GRC_202604740",
+            "https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%B7%CF%83%CE%B7_%CE%91%CE%BB%CE%BB%CE%BF%CE%B3%CE%B5%CE%BD%CF%8E%CE%BD_%CE%91%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CF%8E%CE%BD",
+            "https://www.aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/hong-kong/README.md",
+      "programs": [
+        {
+          "program": "New Capital Investment Entrant Scheme",
+          "finding": "documented",
+          "identity_statement": "须年满18岁，并属于外国国民、中国籍且已取得外国永久居民资格者、澳门居民或台湾华籍居民。外国国民范围排除阿富汗、古巴、朝鲜；无国籍人须有外国永居及可返回该国的证明。中国内地申请人仅有外国临时签证／居留不满足“外国永久居民”条件；不能将所有中国籍申请人均套入同一分支。",
+          "references": [
+            "https://www.newcies.gov.hk/en/eligibility-criteria/",
+            "https://www.newcies.gov.hk/media/jvkfl4uq/scheme-rule-en.pdf",
+            "https://www.immd.gov.hk/eng/services/visas/newcies.html",
+            "https://www.newcies.gov.hk/en/resources/faqs/",
+            "https://www.ird.gov.hk/eng/tax/bus_pft.htm"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/hungary/README.md",
+      "programs": [
+        {
+          "program": "Guest Investor Residence Permit",
+          "finding": "documented",
+          "identity_statement": "面向不享有EEA自由迁徙权的第三国国民，官方定义包括无国籍人。当前持匈牙利其他居留、且本人国籍不享免签者，不能直接在境内按一般规则改办投资者居留，须先按OIF说明在境外办理投资者签证；现有居留不自动替代该前置程序。",
+          "references": [
+            "https://oif.gov.hu/factsheets/residence-permit-for-guest-investor"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/indonesia/README.md",
+      "programs": [
+        {
+          "program": "Golden Visa — Investors",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】E28B企业投资者与E28C不设公司个人投资者须分开；E28B的境外公司持股、营业额等要求属于申请人商业背景条件，不能只看存款额。国家护照、特别国籍／Calling Visa及原有在印尼身份的适用限制仍须补现行移民局条款。",
+          "references": [
+            "https://www.imigrasi.go.id/wna/daftar-visa-indonesia",
+            "https://bontang.imigrasi.go.id/public/layanan-publik/kategori/wna/sub/informasi-visa-republik-indonesia"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/italy/README.md",
+      "programs": [
+        {
+          "program": "Investor Visa for Italy",
+          "finding": "documented",
+          "identity_statement": "面向非欧盟国民。主管部门自2023-07-14暂停俄罗斯、白俄罗斯国民的新申请；2024-03-20进一步明确，持有俄白国籍之一的非欧盟双重国籍申请人也暂停，不能仅以另一本非欧盟护照规避。见[主管部门现行提示](https://investorvisa.mise.gov.it/index.php/en/)。",
+          "references": [
+            "https://investorvisa.mise.gov.it/index.php/en/",
+            "https://investorvisa.mise.gov.it/index.php/en/investor-visa-how-it-works",
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art26bis!vig=",
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art29!vig=",
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286~art9!vig=",
+            "https://libertaciviliimmigrazione.dlci.interno.gov.it/temi/concessione-della-cittadinanza-italiana-residenza-sul-territorio-italiano-ai-sensi-dellart-9",
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917~art2!vig=",
+            "https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917~art3!vig=",
+            "https://www.gazzettaufficiale.it/eli/id/2024/12/17/24G00215/SG"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/jordan/README.md",
+      "programs": [
+        {
+          "program": "Investor Property Residence",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】2026政府公告适用于外国购房投资者，但未完整说明受限国籍、已有约旦居留及家属身份条件；房产所在地区和卖方类别合格，不等于主申请人的身份资格已经确定。",
+          "references": [
+            "https://www.pm.gov.jo/AR/NewsDetails/am0847",
+            "https://petra.gov.jo/candid/htdocs/index.php/en/news/government-revamps-investor-citizenship-rules-to-funnel-capital-into-provinces"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/latvia/README.md",
+      "programs": [
+        {
+          "program": "Investor Temporary Residence",
+          "finding": "documented",
+          "identity_statement": "一般投资条款还受《移民法》第23¹条俄白国民专项限制约束，不能仅按第23条投资金额判断俄罗斯、白俄罗斯申请人可办；须逐一核对其既有居留、家庭等法定例外。国籍与资金来源国、现居国应分别审查。",
+          "references": [
+            "https://likumi.lv/ta/id/68522-imigracijas-likums",
+            "https://likumi.lv/ta/id/368122-grozijumi-imigracijas-likuma",
+            "https://likumi.lv/ta/id/370622-imigracijas-likums",
+            "https://www.pmlp.gov.lv/en/how-long-may-residence-permit-be-issued-0",
+            "https://www.pmlp.gov.lv/en/long-term-resident-status-european-community-latvia",
+            "https://www.vid.gov.lv/lv/latvijas-rezidenti-arvalstis"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/luxembourg/README.md",
+      "programs": [
+        {
+          "program": "Residence permit for third-country investors",
+          "finding": "documented",
+          "identity_statement": "针对第三国投资者。通常须在入境前申请并取得临时停留批准，已持卢森堡居留等例外另论；其他EU成员国有效居留可能免去D签证，但不能免去卢森堡的临时停留批准。外国永久居民身份与投资者居留本身不能互相替代。",
+          "references": [
+            "https://guichet.public.lu/en/entreprises/creation-developpement/projet-entreprise/definition/investisseur-pays-tiers.html",
+            "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/regroupement-familial.html",
+            "https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/citoyen-UE/sejour-5-ans/naturalisation.html",
+            "https://impotsdirects.public.lu/fr/az/r/resid_nonresid.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/malaysia/README.md",
+      "programs": [
+        {
+          "program": "Malaysia My Second Home (MM2H)",
+          "finding": "documented",
+          "identity_statement": "联邦MM2H限来自与马来西亚建交主权国家的合资格外国人；Silver／Gold／Platinum主申请人须25岁以上，SEZ／SFZ须21岁以上。不同类别及州级计划不能互相套用资格；外国永久居留不是此处“来自建交国家”的当然替代。见[现行官方总规则](https://www.mm2h.gov.my/apply/guidelines)。",
+          "references": [
+            "https://www.mm2h.gov.my/apply/guidelines",
+            "https://www.mm2h.gov.my/category/overview",
+            "https://www.mm2h.gov.my/category/silver",
+            "https://www.mm2h.gov.my/category/gold",
+            "https://www.mm2h.gov.my/category/platinum",
+            "https://www.mm2h.gov.my/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/mauritius/README.md",
+      "programs": [
+        {
+          "program": "Approved Property Scheme Residence",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】面向按获批房地产计划购房的非公民；持有房产及合资格投资主体的要求须按所用计划核对。所引条件未把事先持有第三国永居列为门槛，也未提供完整国籍排除名单。",
+          "references": [
+            "https://edbmauritius.org/real-estate-hospitality",
+            "https://residency.mu/acquire/real-estate-scheme/",
+            "https://residency.mu/acquire/property-development-scheme/",
+            "https://residency.mu/wp-content/uploads/2024/05/Guidelines-smartcity.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/new-zealand/README.md",
+      "programs": [
+        {
+          "program": "Active Investor Plus Visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须以合资格投资申请人身份满足品格、健康和合法资金要求；本页所引AIP资格未列国籍白名单，也未要求先持其他国家永久居留。资金能否合法汇入与本人国籍、居留资格是独立问题，不能据有资金即判可办。",
+          "references": [
+            "https://www.immigration.govt.nz/visas/active-investor-plus-visa/",
+            "https://www.immigration.govt.nz/opsmanual/78345.htm",
+            "https://www.immigration.govt.nz/about-us/news-centre/active-investor-plus-improvements-provide-greater-certainty-for-investors/",
+            "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/",
+            "https://www.ird.govt.nz/international-tax/individuals/tax-residency-status-for-individuals",
+            "https://www.ird.govt.nz/roles/nz-tax-residents"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/oman/README.md",
+      "programs": [
+        {
+          "program": "Golden Residency",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须按个人投资、创造就业或企业提名等具体分支证明资格；企业获提名不等于其所有股东及员工都自动有资格。当前门户及政府新闻未充分列明完整国籍、年龄及现有阿曼身份限制，须取得所选分支书面规则。",
+          "references": [
+            "https://omanresidence.gov.om/en-us/",
+            "https://tejarah.gov.om/en/media/news/m4peoqcsjjn94obkfvjym0mg"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/philippines/README.md",
+      "programs": [
+        {
+          "program": "Special Investor’s Resident Visa (SIRV)",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】SIRV实施规则允许年满21岁的外国人申请，但明确排除外交部认定不得获发签证国家的国民，并有犯罪、健康等准入条件。本次未取得外交部完整现行排除名单，不能简写成“任何国籍均可申请”。",
+          "references": [
+            "https://boi.gov.ph/resources/faqs/",
+            "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/41709",
+            "https://newyorkpcg.dfa.gov.ph/images/2023uploads/FORMS/VISA/SIRV-Checklist-Application-Forms.pdf",
+            "https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/10/78484"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/portugal/README.md",
+      "programs": [
+        {
+          "program": "ARI 投资居留",
+          "finding": "documented",
+          "identity_statement": "AIMA明确本制度不适用于葡萄牙、EU／EEA、安道尔及瑞士国民；符合条件的其他外国申请人仍须满足合法入境和一般居留要求。其他国家永久居留与这些国家国籍不同；多本护照须按官方材料要求披露。",
+          "references": [
+            "https://aima.gov.pt/en/viver/autorizacao-de-residencia-para-investimento-art-90-o-a",
+            "https://aima.gov.pt/pt/a-aima/perguntas-frequentes-faqs/autorizacao-de-residencia-para-investimento-ari",
+            "https://justica.gov.pt/en-gb/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/qatar/README.md",
+      "programs": [
+        {
+          "program": "Real Estate Residency",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】属于非卡塔尔人的指定区域购房及相应居留权益制度；外国人可购范围不是全境房产。所引官方说明未确认完整国籍排除名单，购房资格、居留权益和永久居民身份须分别判断。",
+          "references": [
+            "https://www.moj.gov.qa/en/departments/non-qatari-ownership-and-use-real-estate",
+            "https://www.nhrc-qa.org/storage/publications/file_6666d6f57f82d_1718015733.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/saudi-arabia/README.md",
+      "programs": [
+        {
+          "program": "Premium Residency — Real Estate Owner",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】房地产所有权／用益权与合资格期房为不同分支，须核对申请人本人持有权益。现行门户本次未完整返回一般身份规则，特别国籍、年龄及现有沙特居留合法性要求仍待主管机关确认。",
+          "references": [
+            "https://pr.gov.sa/pr?id=pr_product_details_real_estate_owner",
+            "https://pr.gov.sa/pr?id=faqs",
+            "https://pr.gov.sa/pr?id=conditions_controls"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/sri-lanka/README.md",
+      "programs": [
+        {
+          "program": "Investor Visa Category",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】官方Investor Visa类别面向外国投资者及合资格配偶、受养人；须符合允许的投资活动。公开类别说明未列完整国籍排除名单；行业投资限制不能与本人国籍资格混为一谈。",
+          "references": [
+            "https://www.immigration.gov.lk/pages_t.php?id=67",
+            "https://www.immigration.gov.lk/content/files/visa/Guideline%20Investor%20Visa%20Category%20doc%202.pdf",
+            "https://www.ird.gov.lk/en/publications/Acts_Income%20Tax_2017/IR_Act_No_11-2026_E.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/thailand/README.md",
+      "programs": [
+        {
+          "program": "LTR — Wealthy Global Citizen",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】本页为LTR Wealthy Global Citizen分支，申请人须证明本人资产及合资格泰国投资；不能把Wealthy Pensioner的50岁年龄条件套用于这一分支。所引BOI条件未列国籍白名单或事先取得第三国永居要求。",
+          "references": [
+            "https://ltr.boi.go.th/",
+            "https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_(EN",
+            "https://ltr.boi.go.th/documents/BOI-brochure%202025-LTR.pdf",
+            "https://osos.boi.go.th/EN/news/2158/Thailand-Approves-Update-of-Long-Term-Resident-LTR-Visa%E2%80%99s/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "investment-residence/united-arab-emirates/README.md",
+      "programs": [
+        {
+          "program": "Golden Visa — Investors",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须按公共投资者、企业出资人或房地产所有人对应资格申请；“无需担保人”不代表不审查本人身份。所引ICP／迪拜资料未列完整国籍排除清单，原有居留、实际持有权益及受理酋长国规则须分别核对。",
+          "references": [
+            "https://icp.gov.ae/en/services/uae-golden-residency/",
+            "https://icp.gov.ae/en/services-details/?serviceid=68e34eea5ae59b00117383d5",
+            "https://dubailand.gov.ae/en/eservices/request-for-golden-visa-investor/",
+            "https://mof.gov.ae/en/news/ministry-of-finance-announces-issuance-of-uae-cabinet-decision-on-treatment-of-natural-persons-undertaking-a-business-or-business-activity/",
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/golden-visa"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/albania/README.md",
+      "programs": [
+        {
+          "program": "Residence permit for pensioners",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须证明境外退休金及相应领取身份；退休金路线不能仅以一般存款或投资收益替代。所引条款未确认完整国籍排除和已有阿尔巴尼亚居留转换规则，须补主管机关当前操作资格。",
+          "references": [
+            "https://mb.gov.al/wp-content/uploads/2024/10/Ligj-per-te-Huajt-%E2%80%93-nr.-79.2021_English.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/austria/README.md",
+      "programs": [
+        {
+          "program": "Settlement Permit — Gainful Employment Excepted",
+          "finding": "documented",
+          "identity_statement": "针对不适用EU／EEA／瑞士自由迁徙规则的第三国申请人；须具备无需当地就业的生活保障并符合一般定居条件。名称含“非就业”并不代表只对已正式退休者开放，语言和配额条件另须满足。",
+          "references": [
+            "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration/other-forms-of-settlement/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/bahrain/README.md",
+      "programs": [
+        {
+          "program": "Self-Sponsorship Residence — Retired Foreigner",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】针对退休外国人；NPRA要求至少15年的政府／私营部门或GCC相关退休与年资证明。该英文表述对工作地区范围仍需书面澄清，不能直接写成任何国家任意15年工龄都满足。完整国籍排除亦未确认。",
+          "references": [
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/rps/self-sponsorship-residence-permit-and-return-visa-foreign-investor-0/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        },
+        {
+          "program": "Golden Residency — Retired Non-Resident",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】本分支针对不居住巴林的境外退休人士，所引NPRA说明覆盖从巴林或其他国家退休者；不能套用另一条“在巴林工作15年”的退休居民分支，也不能与BHD500自担保退休居留混用。完整特别国籍限制仍待确认。",
+          "references": [
+            "https://www.npra.gov.bh/en/services/visas-residence-permit/residence-permits-services/golden-residency/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/belize/README.md",
+      "programs": [
+        {
+          "program": "Qualified Retirement Program",
+          "finding": "documented",
+          "identity_statement": "BTB要求主申请人年满40岁，合资格国家包括除伯利兹外的英联邦国家、美国、EU成员国、列明的亚太国家以及全部南美国家；亚太名单明确包含中国。外国永居不能未经依据替代这里的国家范围。须有合资格境外退休收入并通过安全审查，完整名单见[Who Qualifies](https://www.belizetourismboard.org/programs-events/retirement-program/)。",
+          "references": [
+            "https://www.belizetourismboard.org/programs-events/retirement-program/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/brazil/README.md",
+      "programs": [
+        {
+          "program": "Retiree Residence",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须有本人退休或遗属养老金领取资格，合资格其他稳定收入可按规定补足金额；不是只要持有存款的任何外国人都符合。现有领馆材料未确认完整国籍与既有巴西身份限制，须按递交地点补证。",
+          "references": [
+            "https://www.gov.br/mre/pt-br/embaixada-camberra/English/consular-section/visas/long-term-visas-for-stays-longer-than-90-days/vitem-xiv-immigration-policy"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/colombia/README.md",
+      "programs": [
+        {
+          "program": "M Visa — Pensionado",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须为获得终身养老金的外国申请人并符合M Pensionado要求；不应套用V类数字游民的免签护照白名单。养老金资格不能只靠第三国永居或一般投资收益替代，完整特别国籍排除仍须另核。",
+          "references": [
+            "https://www.cancilleria.gov.co/node/26976"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/costa-rica/README.md",
+      "programs": [
+        {
+          "program": "Pensionado / Rentista Residence",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】Pensionado依赖合资格终身养老金身份，Rentista依赖规定持续收入，两者不能都写成必须正式退休。当前官方办理链接存在缺口，完整国籍排除及境内转换身份条件本次未确认。",
+          "references": [
+            "https://www.visitcostarica.com/retirement"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/fiji/README.md",
+      "programs": [
+        {
+          "program": "Residence on Assured Income",
+          "finding": "documented",
+          "identity_statement": "官方要求非公民申请人年满45岁，并有足够境外资产或稳定收入供养本人及家属；不是只凭“退休”称谓即可申请。公开要求未列完整项目国籍白名单，普通入境及背景条件仍独立适用。",
+          "references": [
+            "https://www.immigration.gov.fj/residence-on-assured-income-permit-application/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/france/README.md",
+      "programs": [
+        {
+          "program": "VLS-TS / carte de séjour — visiteur",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须以无需在法国工作即可生活的外国访客身份符合要求；已有其他法国居留者、享自由迁徙权者及适用双边特别制度者，不能自动套用同一VLS-TS／居留卡程序。所引访客条件未提供完整国籍特别规则，本次不据此作“所有国籍无限制”的判断。",
+          "references": [
+            "https://www.service-public.fr/particuliers/vosdroits/F302"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/greece/README.md",
+      "programs": [
+        {
+          "program": "Financially Independent Person Permit",
+          "finding": "gap",
+          "identity_statement": "【核心证据缺口】待核实：当前所引主管机关分类入口不足以确认本许可完整国籍、已有希腊居留及转换条件。不能把达到收入门槛解释为任何外国身份均可申请，也不能套用房地产投资者的居留条件。",
+          "references": [
+            "https://migration.gov.gr/en/adeia-diamonis-gia-oikonomika-anexartita-atoma/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/ireland/README.md",
+      "programs": [
+        {
+          "program": "Stamp 0 — retire / independent means",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】Stamp 0的独立财力／退休安排应先取得入境前批准，不能将访客入境自动当作境内转为退休居留的资格。当前官方页面复取不完整，国籍分组及其他现有身份例外仍须补主管机关现行条款。",
+          "references": [
+            "https://www.irishimmigration.ie/coming-to-live-in-ireland/i-want-to-retire-to-ireland/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/italy/README.md",
+      "programs": [
+        {
+          "program": "Elective Residence Visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】适用于以稳定、持续非劳动收入生活的外国申请人，并非只向领取退休金者开放。驻外领馆清单须结合合法居住地和受理辖区使用，不能将某馆要求的当地居留解释为全体申请人的外国永久居民门槛；完整特殊国籍限制仍须另核。",
+          "references": [
+            "https://ambtashkent.esteri.it/wp-content/uploads/2026/03/Residenza-elettiva_IT.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/kenya/README.md",
+      "programs": [
+        {
+          "program": "Class K — Ordinary Residents",
+          "finding": "documented",
+          "identity_statement": "Class K要求至少35岁并拥有可保障生活的境外收入，不以在肯尼亚就业为来源；不能将其当作所有年龄均可申请的被动收入签证。所引资格页未列完整国籍排除名单。",
+          "references": [
+            "https://immigration.go.ke/class-k-ordinary-residents/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/mauritius/README.md",
+      "programs": [
+        {
+          "program": "Residence Permit as Retired Non-Citizen",
+          "finding": "documented",
+          "identity_statement": "须为年满50岁的非毛里求斯公民，并符合退休非公民许可及境外资金条件；不能把商业投资者永居的既有经营要求套用于这一初次退休许可。是否已有其他毛里求斯许可须按转换规则处理。",
+          "references": [
+            "https://president.govmu.org/president/wp-content/uploads/2025/08/18_The-Finance-Act-2025.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/panama/README.md",
+      "programs": [
+        {
+          "program": "Pensionado",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须有政府、国际组织或合资格私人机构支付的终身养老金；一般租金／投资收益不能自动替代养老金身份。现有官方法令本次未完整复取，特别国籍及其他现有居留转换限制仍待核实。",
+          "references": [
+            "https://www.migracion.gob.pa/wp-content/uploads/02-JUBILADO-PENSIONADO-1.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/philippines/README.md",
+      "programs": [
+        {
+          "program": "Special Resident Retiree’s Visa (SRRV)",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】PRA现行SRRV面向年满40岁的外国国民及前菲律宾公民，并要求有效旅游身份等材料；Courtesy等分支另针对未重新取得菲律宾国籍的前菲律宾人、合资格退休外交／国际组织／特定军职背景，不能推广成所有申请人都适用优惠。完整限制国家及特别批准范围本次仍未确认。",
+          "references": [
+            "https://www.pra.gov.ph/srrvisa"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/portugal/README.md",
+      "programs": [
+        {
+          "program": "Retirement / own-income residence visa（常称D7）",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】政府所列对象包括退休人士、宗教人士及依靠本人收入生活的外国人，不能把所有D7申请人都限定为已经退休。EU／EEA／瑞士人士与第三国签证申请分属不同规则；所引D7条件未列完整特别国籍排除名单。",
+          "references": [
+            "https://www.gov.pt/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios",
+            "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1",
+            "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/rwanda/README.md",
+      "programs": [
+        {
+          "program": "Permit Class K — Assured Income",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】Class K针对有足以保障生活收入且不拟在卢旺达就业的外国申请人；须按所用K类细分条件证明退休或相应收入身份。公开分类页未列完整国籍白名单，不能只凭存款而跳过身份与活动目的审查。",
+          "references": [
+            "https://www.migration.gov.rw/index.php?L=2&id=66"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/south-africa/README.md",
+      "programs": [
+        {
+          "program": "Retired Person’s Visa / retired PR",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须按退休人士签证／退休永居的对应条件证明养老金、年金或规定资产收入；两种身份的递交条件不能合并。金额公告及领馆清单未充分确认完整国籍、年龄及境内转换限制，本次保留身份证据缺口。",
+          "references": [
+            "https://www.gov.za/documents/notices/immigration-act-minimum-amounts-payment-month-pension-or-irrevocable-annuity-or"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/spain/README.md",
+      "programs": [
+        {
+          "program": "Non-lucrative Residence Visa",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】面向符合非盈利居留条件的外国申请人；EU自由迁徙及其家属身份应另行判断。领馆要求在辖区合法居住，是递交地点条件，不等于必须先持某国永久居民身份；本次未确认完整特殊国籍限制。",
+          "references": [
+            "https://www.exteriores.gob.es/Embajadas/nuevadelhi/en/ServiciosConsulares/Paginas/Consular/Visado-de-residencia-no-lucrativa.aspx"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/thailand/README.md",
+      "programs": [
+        {
+          "program": "LTR — Wealthy Pensioner",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】本页仅为LTR Wealthy Pensioner分支，主申请人须年满50岁，并以养老金或规定的被动收入满足要求；工资不能当然按退休收入计算。所引BOI条件未列国籍白名单，不能把其他LTR分支的年龄及职业条件移植过来。",
+          "references": [
+            "https://ltr.boi.go.th/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "passive-income-retirement/united-arab-emirates/README.md",
+      "programs": [
+        {
+          "program": "Residence visa for the retired",
+          "finding": "documented",
+          "identity_statement": "联邦政府页针对退休外国人，要求退休时至少55岁且在阿联酋境内或境外工作至少15年；海外工作经历可以计算，不能擅自加上必须曾在阿联酋居住的条件。具体酋长国收入及文件规则另判。",
+          "references": [
+            "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/residence-visa-for-the-retired"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/australia/primary-secondary/README.md",
+      "programs": [
+        {
+          "program": "中小学学生路线（Student visa subclass 500）",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】儿童按Student 500及未满18岁福利安排判断；合资格监护安排中澳大利亚公民、永久签证或Student Guardian 590等条件针对监护人，不是要求儿童先有澳大利亚PR。完整国籍差异及境内转换限制仍须补当前动态资格页确认。",
+          "references": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+            "https://immi.homeaffairs.gov.au/visa-subsite/pages/processing-times/student-visa-processing-priorities.aspx",
+            "https://cricos.education.gov.au/",
+            "https://www.education.gov.au/esos-framework/registration-cricos",
+            "https://www.education.gov.au/esos-framework/esos-agencies",
+            "https://www.studyaustralia.gov.au/en/plan-your-studies/schools.html",
+            "https://www.education.gov.au/download/11459/standard-7-overseas-student-transfers/30165/document/pdf",
+            "https://www.education.gov.au/download/19803/factsheet-transitioning-school-students-exempted-national-planning-level/42852/document/pdf",
+            "https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html",
+            "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/australian-resident-for-tax-purposes",
+            "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/foreign-and-temporary-residents",
+            "https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        },
+        {
+          "program": "学生监护人路线（Student Guardian visa subclass 590）",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须按590的父母、监护权人或合资格亲属身份及年龄条件申请；不能把任何陪同成年人都视为合格。已有澳大利亚身份能否改办590及附加限制，本次未能完整复取官网动态条件，须单独确认。",
+          "references": [
+            "https://immi.homeaffairs.gov.au/visa-subsite/pages/student/590-student-guardian.aspx",
+            "https://www.legislation.gov.au/F2019L01366/latest/text",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/welfare-arrangements-students-under-18",
+            "https://immi.homeaffairs.gov.au/form-listing/forms/157n.pdf",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+            "https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html",
+            "https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/conditions-list",
+            "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/australian-resident-for-tax-purposes",
+            "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/foreign-and-temporary-residents",
+            "https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/australia/university/README.md",
+      "programs": [
+        {
+          "program": "大学学位路线（Student visa subclass 500）",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须符合Student 500的真实学生及现有身份要求；境内递交能否成立取决于当前签证类别及附加条件。当前官网动态资格页未能完整复取，因此本次不确认完整国籍差异及境内禁止转换名单，不能据录取或资金证明判断任何身份均可境内办理。",
+          "references": [
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/length-of-stay",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement",
+            "https://immi.homeaffairs.gov.au/visa-subsite/pages/processing-times/student-visa-processing-priorities.aspx",
+            "https://immi.homeaffairs.gov.au/support-subsite/files/ministerial-direction-115.pdf",
+            "https://cricos.education.gov.au/",
+            "https://www.education.gov.au/esos-framework/registration-cricos",
+            "https://www.education.gov.au/download/11459/standard-7-overseas-student-transfers/30165/document/pdf",
+            "https://immi.homeaffairs.gov.au/visas/already-have-a-visa/check-visa-details-and-conditions/conditions-list",
+            "https://www.homeaffairs.gov.au/nat-security/Pages/critical-technology.aspx",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485",
+            "https://www.legislation.gov.au/F1996B03551/latest/text",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/second-post-higher-education-work",
+            "https://www.legislation.gov.au/F2026L00874/asmade/2026-06-30/es/original/epub/OEBPS/document_1/document_1.html",
+            "https://www.education.gov.au/managed-system-international-education",
+            "https://immi.homeaffairs.gov.au/visas/permanent-resident/overview",
+            "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/foreign-and-temporary-residents",
+            "https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/permanent-resident",
+            "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency/australian-resident-for-tax-purposes",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/post-higher-education-work",
+            "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-graduate-485/meeting-the-temporary-graduate-visa-subclass-485-study-requirement"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/canada/primary-secondary/README.md",
+      "programs": [
+        {
+          "program": "中小学路线",
+          "finding": "documented",
+          "identity_statement": "外国儿童是否需要学习许可，须区分境外赴加与已在加拿大、父母或儿童持有的实际身份。需设custodian时，该照管人须是成年加拿大公民或永久居民，这不是要求儿童或其父母先取得加拿大PR。境内特定免学签情形不能直接套用于境外新申请。",
+          "references": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5269-applying-study-permit-outside-canada.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/change-schools.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels/supplementary-immigration-levels-2026-2028.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html",
+            "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/international-students-studying-canada.html",
+            "https://www.quebec.ca/en/education/study-quebec/required-conditions/costs-studies",
+            "https://www.quebec.ca/en/education/study-quebec/documents/children",
+            "https://www.quebec.ca/en/education/study-quebec/temporary-selection-studies"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/canada/university/README.md",
+      "programs": [
+        {
+          "program": "大学学位路线",
+          "finding": "documented",
+          "identity_statement": "学习许可针对需要该许可的外国学生；须获DLI录取并满足临时停留及可入境性要求。现行资格页未把第三国永久居留列为前置条件；境内递交或免学签资格取决于本人现有身份，不能把录取信视为任何现有身份都能转换的保证。见[IRCC资格说明](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/eligibility.html)。",
+          "references": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/eligibility.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/2026-provincial-territorial-allocations-under-international-student-cap.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels/supplementary-immigration-levels-2026-2028.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/educational-institutions/loa-verification/how-to-validate.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/extend-study-permit/when-to-apply.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/change-schools.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-on-campus.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html",
+            "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=503",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/graduate-student/faster-processing.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/canadian-experience-class.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/adult-minor/who.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/end-student-direct-stream-nigeria-student-express.html",
+            "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/international-students-studying-canada.html",
+            "https://www.quebec.ca/en/education/study-quebec/required-conditions/costs-studies",
+            "https://www.quebec.ca/en/education/study-quebec/temporary-selection-studies"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/france/primary-secondary/README.md",
+      "programs": [
+        {
+          "program": "父母不居住法国的“mineur scolarisé”长期签证",
+          "finding": "documented",
+          "identity_statement": "mineur scolarisé针对未满18岁、父母不居住法国的外国儿童；“父母不居住法国”是本路线的身份／居住条件，不可与已随父母在法的儿童入学混用。当地接待、照管及父母同意须另满足。",
+          "references": [
+            "https://www.france-visas.gouv.fr/web/france-visas/mineur-scolarise",
+            "https://www.france-visas.gouv.fr/web/france-visas/visa-de-long-sejour",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2687",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2736",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2216",
+            "https://france-visas.gouv.fr/web/france-visas/tourisme-et-sejour-prive",
+            "https://www.impots.gouv.fr/resident-de-france"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        },
+        {
+          "program": "已随父母在法国居住的儿童入学（非签证路线）",
+          "finding": "documented",
+          "identity_statement": "以儿童已经在法国居住及当地入学安排为基础；登记学校不授予父母或儿童新的签证／居留。不得因学校接收儿童便推断其父母符合家庭团聚、学生家属或其他居留资格。",
+          "references": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F1898",
+            "https://www.education.gouv.fr/botexte/bo020328/MENE0200681C.htm",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F1866",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F21304",
+            "https://www.education.gouv.fr/les-grands-principes-du-systeme-educatif-9842",
+            "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038901897",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2687",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2718",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2736",
+            "https://www.impots.gouv.fr/resident-de-france"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/france/university/README.md",
+      "programs": [
+        {
+          "program": "高等教育学生路线",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】须区分需办学生长期签证／居留的外国人、EU自由迁徙对象及已持允许学习的其他居留者。Études en France适用国家或居住地名单主要决定办理渠道，不能等同于只允许这些国籍留学；完整特别国籍／双边制度适用仍须另核。",
+          "references": [
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2231?lang=fr",
+            "https://www.france-visas.gouv.fr/etudiant",
+            "https://www.legifrance.gouv.fr/eli/decret/2026/6/22/INTV2605727D/jo/texte",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F2713",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F11166",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F17319",
+            "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771678/",
+            "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049052504",
+            "https://www.service-public.gouv.fr/particuliers/vosdroits/F17359",
+            "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136075/",
+            "https://www.immigration.interieur.gouv.fr/devenir-francais/procedures-dacces-a-nationalite-francaise",
+            "https://www.impots.gouv.fr/resident-de-france",
+            "https://www.impots.gouv.fr/international-particulier/imposition-des-revenus-de-source-etrangere"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/germany/primary-secondary/README.md",
+      "programs": [
+        {
+          "program": "§ 16f 学校就读与学生交换居留",
+          "finding": "documented",
+          "identity_statement": "§16f针对符合条件的外国学生；法条对学校班级中不同国籍学生构成的要求是学校条件，不是只接收那些国籍的申请人。学生交换、普通学校居留及家属居留应分别适用，不能把学校录取当作家长可获居留的依据。",
+          "references": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16f.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
+            "https://www.auswaertiges-amt.de/resource/blob/207816/233c961bb5ba9b03a44d87af0b4814bc/visumhandbuch-data.pdf",
+            "https://jakarta.diplo.de/id-de/service/visa-und-einreise/2685866-2685866",
+            "https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/nationale-visa/visa-schule-studium-sprachkurs",
+            "https://www.auswaertiges-amt.de/en/visa-service/215870-215870",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__36.html",
+            "https://www.gesetze-im-internet.de/jarbschg/__2.html",
+            "https://www.gesetze-im-internet.de/jarbschg/__5.html",
+            "https://www.gesetze-im-internet.de/stag/__10.html",
+            "https://www.gesetze-im-internet.de/estg/__1.html",
+            "https://www.gesetze-im-internet.de/ao_1977/__8.html",
+            "https://www.gesetze-im-internet.de/ao_1977/__9.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        },
+        {
+          "program": "随父母合法居留儿童的州义务教育",
+          "finding": "documented",
+          "identity_statement": "本块记录儿童在当地的受教育安排，不是独立移民资格。若依父母身份办理家庭团聚，须按§32等规则核对儿童年龄、婚姻状况及父母居留类型；父母的合法居留不是凭儿童获学校名额自动取得。",
+          "references": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__32.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__2.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__27.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__29.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__34.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__35.html",
+            "https://www.make-it-in-germany.com/en/visa-residence/family-reunification/children-join",
+            "https://www.make-it-in-germany.com/en/living-in-germany/family-life/school-system",
+            "https://www.kmk.org/bildungsministerkonferenz/bildungsthemen/bildungswege-und-abschluesse.html",
+            "https://www.kmk.org/downloads-dokumente/rechtsvorschriften-/-lehrplaene/uebersicht-schulgesetze.html",
+            "https://www.gesetze-im-internet.de/jarbschg/__2.html",
+            "https://www.gesetze-im-internet.de/jarbschg/__5.html",
+            "https://www.gesetze-im-internet.de/stag/__10.html",
+            "https://www.gesetze-im-internet.de/estg/__1.html",
+            "https://www.gesetze-im-internet.de/ao_1977/__8.html",
+            "https://www.gesetze-im-internet.de/ao_1977/__9.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/germany/university/README.md",
+      "programs": [
+        {
+          "program": "§ 16b 高等教育居留",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】§16b属于外国学生居留路径，须与EU自由迁徙及已有其他允许学习的居留身份区分。录取与财力条件未形成一张所有国籍通用的免签名单；是否需先申请签证、能否境内申请取决于本人国籍和既有身份。",
+          "references": [
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__16b.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__17.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__20.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html",
+            "https://www.make-it-in-germany.com/en/visa-residence/types/studying",
+            "https://www.make-it-in-germany.com/en/study-vocational-training/studies-in-germany/work",
+            "https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/nationale-visa/visa-schule-studium-sprachkurs",
+            "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/08-finanzierung/606696",
+            "https://www.auswaertiges-amt.de/en/visa-service/215870-215870",
+            "https://www.auswaertiges-amt.de/en/2716462-2716462",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__29.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__30.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__32.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__18c.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__9a.html",
+            "https://www.gesetze-im-internet.de/aufenthg_2004/__9b.html",
+            "https://www.gesetze-im-internet.de/stag/__10.html",
+            "https://www.gesetze-im-internet.de/estg/__1.html",
+            "https://www.gesetze-im-internet.de/ao_1977/__8.html",
+            "https://www.gesetze-im-internet.de/ao_1977/__9.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/japan/primary-secondary/README.md",
+      "programs": [
+        {
+          "program": "以中小学就读为主活动的“留学”在留资格",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】针对以中小学就读为主活动的外国儿童，须符合该在留资格的年龄及接待条件；与已随家庭在日儿童的公校入学不同。不能把日本数字游民护照名单套用到“留学”，也不能因儿童录取而认定父母当然取得陪读身份。",
+          "references": [
+            "https://www.moj.go.jp/isa/applications/status/student.html",
+            "https://laws.e-gov.go.jp/law/402M50000010016",
+            "https://www.moj.go.jp/isa/content/001463593.pdf",
+            "https://www.moj.go.jp/isa/content/001463625.pdf",
+            "https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html",
+            "https://www.moj.go.jp/isa/applications/procedures/16-3.html",
+            "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html",
+            "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html",
+            "https://www.moj.go.jp/isa/applications/status/dependent.html",
+            "https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00122",
+            "https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_7.html",
+            "https://www.mhlw.go.jp/web/t_doc?dataId=73022000",
+            "https://www.moj.go.jp/isa/01_00644.html",
+            "https://www.moj.go.jp/isa/11_00107.html",
+            "https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html",
+            "https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html",
+            "https://www.moj.go.jp/MINJI/minji78",
+            "https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html",
+            "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        },
+        {
+          "program": "已在日外国儿童公立义务教育入学（非签证路线）",
+          "finding": "documented",
+          "identity_statement": "本块面向在当地生活的外国儿童，记录公立义务教育入学安排；并非一项凭学校名额签发在留资格的方案。儿童及父母的在留身份应另行判断，公校接收不等于获得居留或家长工作权。",
+          "references": [
+            "https://www.mext.go.jp/a_menu/shotou/shugaku/detail/1422256.htm",
+            "https://www.mext.go.jp/a_menu/shotou/clarinet/004/005.htm",
+            "https://www.mext.go.jp/a_menu/shotou/clarinet/004/1415154_00018.html",
+            "https://www.mext.go.jp/content/20220506-mxt_kouhou02-000022321_1.pdf",
+            "https://laws.e-gov.go.jp/law/322AC0000000026",
+            "https://www.mext.go.jp/a_menu/shotou/kaikaku/sikaku/1311004.htm",
+            "https://www.moj.go.jp/isa/applications/status/dependent.html",
+            "https://www.moj.go.jp/isa/applications/resources/nyuukokukanri07_00122",
+            "https://www.moj.go.jp/isa/applications/guide/nyuukokukanri07_00045",
+            "https://www.moj.go.jp/isa/08_00045.html",
+            "https://www.moj.go.jp/isa/08_00050.html",
+            "https://www.mhlw.go.jp/bunya/roudoukijun/faq_kijyunhou_7.html",
+            "https://www.mhlw.go.jp/web/t_doc?dataId=73022000",
+            "https://www.moj.go.jp/isa/01_00644.html",
+            "https://www.moj.go.jp/isa/11_00107.html",
+            "https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html",
+            "https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html",
+            "https://www.moj.go.jp/MINJI/minji78",
+            "https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html",
+            "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/japan/university/README.md",
+      "programs": [
+        {
+          "program": "在留资格“留学”（大学学位路线）",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】面向以合资格教育机构学习为主活动的外国人；日本数字游民国籍白名单不适用于“留学”在留资格。本人现有在留类别、在留资格变更及学历等条件须分别核对，学校录取不保证任何现有身份均可转换。",
+          "references": [
+            "https://www.moj.go.jp/isa/applications/status/student.html",
+            "https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html",
+            "https://www.moj.go.jp/isa/content/001463586.pdf",
+            "https://www.mext.go.jp/en/policy/education/highered/title02/detail02/1373912.html",
+            "https://www.studyinjapan.go.jp/en/planning/learn-about-schools/universities/",
+            "https://www.studyinjapan.go.jp/en/planning/academic-fees/",
+            "https://www.studyinjapan.go.jp/en/life/cost-of-living/",
+            "https://www.moj.go.jp/isa/applications/procedures/16-3.html",
+            "https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html",
+            "https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html",
+            "https://www.moj.go.jp/isa/applications/status/dependent.html",
+            "https://www.moj.go.jp/isa/applications/status/designatedactivities14.html",
+            "https://www.moj.go.jp/isa/publications/materials/10_00015.html",
+            "https://www.moj.go.jp/isa/01_00644.html",
+            "https://www.moj.go.jp/isa/11_00107.html",
+            "https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html",
+            "https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html",
+            "https://www.moj.go.jp/MINJI/minji78",
+            "https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html",
+            "https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/new-zealand/primary-secondary/README.md",
+      "programs": [
+        {
+          "program": "Fee Paying Student Visa（中小学路线）",
+          "finding": "documented",
+          "identity_statement": "须按外国学生及年龄要求申请；未满10岁儿童通常须由父母／法定监护人陪同，获批学校宿舍等例外另论。国籍和递交地区可影响资金证明程序，陪同家长身份要求不等于儿童须先有外国永居。",
+          "references": [
+            "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+            "https://www.immigration.govt.nz/study/for-education-providers/offering-a-place-to-a-student/",
+            "https://www.education.govt.nz/education-professionals/schools-year-0-13/enrolment/enrolling-students-overseas",
+            "https://www2.nzqa.govt.nz/tertiary/the-code/",
+            "https://www2.nzqa.govt.nz/tertiary/the-code/the-code-for-education-providers/code-resources-for-school-signatories/",
+            "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+            "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/check-or-change-your-student-visa-conditions/",
+            "https://www.immigration.govt.nz/visas/guardian-visitor-visa/",
+            "https://www.immigration.govt.nz/visas/dependent-child-student-visa/",
+            "https://www.ird.govt.nz/topics/tax-residency/tax-residency-status",
+            "https://www.ird.govt.nz/international/individuals/tax-for-new-zealand-tax-residents",
+            "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/new-zealand/university/README.md",
+      "programs": [
+        {
+          "program": "Fee Paying Student Visa（大学路线）",
+          "finding": "documented",
+          "identity_statement": "须符合付费外国学生及临时停留条件；国籍可影响资金证明程序，而非必然构成准入白名单。例如INZ资金转移机制只针对列明国家申请人，南亚特定国籍在南亚递交另受财务担保人范围限制；不得据这些程序名单推断其他国籍不能申请学生签证。",
+          "references": [
+            "https://www.immigration.govt.nz/visas/fee-paying-student-visa/",
+            "https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/genuine-intentions-to-study-in-new-zealand/",
+            "https://www.immigration.govt.nz/study/for-education-providers/offering-a-place-to-a-student/",
+            "https://www2.nzqa.govt.nz/tertiary/the-code/",
+            "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/working-on-a-student-visa/",
+            "https://www.immigration.govt.nz/study/once-you-have-a-student-visa/check-or-change-your-student-visa-conditions/",
+            "https://www.immigration.govt.nz/process-to-apply/once-you-have-a-visa/bringing-family-to-new-zealand/bringing-family-on-a-student-visa/",
+            "https://www.immigration.govt.nz/visas/partner-of-a-student-work-visa/",
+            "https://www.immigration.govt.nz/visas/post-study-work-visa/",
+            "https://www.immigration.govt.nz/work/requirements-for-work-visas/how-long-you-can-work-on-work-visas/how-long-you-can-stay-on-a-post-study-work-visa/",
+            "https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/",
+            "https://www.ird.govt.nz/topics/tax-residency/tax-residency-status",
+            "https://www.ird.govt.nz/international/individuals/tax-for-new-zealand-tax-residents",
+            "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/singapore/primary-secondary/README.md",
+      "programs": [
+        {
+          "program": "中小学 Student’s Pass 路线",
+          "finding": "documented",
+          "identity_statement": "学生是外国人；政府／政府资助／独立学校路线要求的本地担保人须为至少21岁的新加坡公民或永久居民，要求针对担保人，不是学生须先有PR。有效DP、LTVP或IEO等身份的免另办Student’s Pass条件须按ICA规定另判。",
+          "references": [
+            "https://www.ica.gov.sg/reside/STP/apply?pageid=325&secid=182",
+            "https://www.ica.gov.sg/reside/STP/apply/gov",
+            "https://www.ica.gov.sg/reside/STP/apply/fss",
+            "https://www.ica.gov.sg/reside/STP/sponsor",
+            "https://www.ica.gov.sg/reside/STP/collect",
+            "https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf",
+            "https://www.ica.gov.sg/reside/STP/cancel",
+            "https://www.moe.gov.sg/international-students/aeis",
+            "https://www.moe.gov.sg/international-students/aeis/eligibility-criteria",
+            "https://www.moe.gov.sg/international-students/aeis/apply",
+            "https://www.moe.gov.sg/international-students/s-aeis",
+            "https://www.moe.gov.sg/primary/p1-registration/international-students",
+            "https://www.moe.gov.sg/financial-matters/fees",
+            "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students",
+            "https://www.ica.gov.sg/reside/LTVP/apply/parent-or-grandparent-of-a-child-or-grandchild-studying-in-singapore-on-a-students-pass",
+            "https://www.mom.gov.sg/passes-and-permits/work-passes-for-holders-of-long-term-visit-passes-issued-by-ica",
+            "https://www.mom.gov.sg/passes-and-permits/loc-for-ica-issued-ltvp-holders/eligibility",
+            "https://www.ica.gov.sg/reside/PR/",
+            "https://www.ica.gov.sg/reside/citizenship",
+            "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/singapore/university/README.md",
+      "programs": [
+        {
+          "program": "IHL Student’s Pass 路线",
+          "finding": "documented",
+          "identity_statement": "一般为获准就读合资格全日制课程的外国学生。持有效Dependant’s Pass、Long-Term Visit Pass或Immigration Exemption Order者，ICA对合资格非宗教全日制学习列有免另办Student’s Pass情形；须在原身份有效及满足例外条件时使用，不能把所有外国学生都列为必需新办。",
+          "references": [
+            "https://www.ica.gov.sg/reside/STP/apply?pageid=325&secid=182",
+            "https://www.ica.gov.sg/reside/STP/apply/ihl",
+            "https://www.ica.gov.sg/reside/STP/collect",
+            "https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf",
+            "https://www.ica.gov.sg/reside/STP/cancel",
+            "https://ask.gov.sg/ica/questions/clos83fvp01ht5k0w2hqby2ji",
+            "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students",
+            "https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore",
+            "https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore/list_ihl",
+            "https://www.mom.gov.sg/passes-and-permits/dependants-pass/eligibility",
+            "https://www.ica.gov.sg/reside/PR/",
+            "https://www.ica.gov.sg/reside/citizenship",
+            "https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/switzerland/primary-secondary/README.md",
+      "programs": [
+        {
+          "program": "已有居留基础的公立义务教育路线（不是学习居留路线）",
+          "finding": "documented",
+          "identity_statement": "公立基础教育面向实际居住当地的儿童，受教育权不能简单以有无合法移民身份排除；本块不授予新的学习或家庭居留。学区登记和父母移民资格须分开判断，不能把入学权解释为可凭此申请全家居留。",
+          "references": [
+            "https://edk.ch/en/education-system-ch/compulsory?set_language=en",
+            "https://www.zh.ch/de/bildung/informationen-fuer-schulen/informationen-volksschule/schulinfo-schule-migration/schulinfo-einschulung-neuzugezogene.html",
+            "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/",
+            "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/",
+            "https://www.bag.admin.ch/en/health-insurance-requirement-to-obtain-insurance-for-persons-resident-in-switzerland",
+            "https://www.seco.admin.ch/de/jugendarbeitsschutz",
+            "https://www.seco.admin.ch/de/faq-jugendarbeitsschutz",
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html",
+            "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_3",
+            "https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        },
+        {
+          "program": "以私立或寄宿学校为主的独立学生居留路线",
+          "finding": "documented",
+          "identity_statement": "独立学习居留须区分EU／EFTA与第三国申请人，并按州审核学校、住宿和未成年人照管安排；单纯获私校／寄宿学校录取不免除国籍对应的入境与居留程序，也不当然给父母陪读权。",
+          "references": [
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-familiennachzug-e.pdf.download.pdf/fs-familiennachzug-e.pdf",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf",
+            "https://www.eda.admin.ch/en/visa-requirements-for-entry-into-switzerland",
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.migration.sid.be.ch/de/start/einreise/buerger-drittstaaten.html",
+            "https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html",
+            "https://www.vd.ch/population/population-etrangere/entree-et-sejour/etats-tiers/sejour-pour-etudes",
+            "https://www.zh.ch/de/bildung/schulen/spezielle-schulen.html",
+            "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/",
+            "https://www.bag.admin.ch/en/health-insurance-foreign-students-in-switzerland",
+            "https://www.seco.admin.ch/de/jugendarbeitsschutz",
+            "https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.0006.html",
+            "https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html",
+            "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_3",
+            "https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/switzerland/university/README.md",
+      "programs": [
+        {
+          "program": "大学学位路线（EU/EFTA 与第三国分别适用）",
+          "finding": "documented",
+          "identity_statement": "EU／EFTA国民与第三国国民分别适用自由迁徙及外国人法下的学习居留条件；第三国永久居留并不改变国籍分组。州级审批、学习资格及离境保证仍须按对应身份核对。",
+          "references": [
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aug-d.pdf.download.pdf/weisungen-aig-d.pdf",
+            "https://www.sem.admin.ch/dam/sem/de/data/rechtsgrundlagen/weisungen/auslaender/weisungen-aig-kap4.pdf.download.pdf/weisungen-aig-kap4-d.pdf",
+            "https://www.sem.admin.ch/sem/en/home/themen/fza_schweiz-eu-efta/eu-efta_buerger_schweiz/faq.html",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-nichterwerbstaetige-e.pdf.download.pdf/fs-nichterwerbstaetige-e.pdf",
+            "https://www.sem.admin.ch/dam/sem/en/data/eu/fza/personenfreizuegigkeit/factsheets/fs-familiennachzug-e.pdf.download.pdf/fs-familiennachzug-e.pdf",
+            "https://www.eda.admin.ch/en/visa-requirements-for-entry-into-switzerland",
+            "https://www.fedlex.admin.ch/eli/cc/2007/758/de",
+            "https://www.fedlex.admin.ch/eli/cc/2007/759/de",
+            "https://www.sem.admin.ch/sem/en/home/themen/einreise/faq.html",
+            "https://www.sem.admin.ch/sem/en/home/themen/arbeit/faq.0006.html",
+            "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/",
+            "https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/",
+            "https://www.bag.admin.ch/en/health-insurance-foreign-students-in-switzerland",
+            "https://www.sbfi.admin.ch/en/faq-recognition-procedure-for-professional-qualifications",
+            "https://www.sbfi.admin.ch/en/the-institutes-of-higher-education",
+            "https://www.migration.sid.be.ch/de/start/einreise/buerger-drittstaaten.html",
+            "https://www.zh.ch/de/migration-integration/aufenthalt/aufenthalt-ohne-erwerbstaetigkeit-fuer-drittstaatsangehoerige.html",
+            "https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html",
+            "https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html",
+            "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_3",
+            "https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf",
+            "https://www.estv.admin.ch/de/quellensteuer"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/united-kingdom/primary-secondary/README.md",
+      "programs": [
+        {
+          "program": "中小学路线",
+          "finding": "documented",
+          "identity_statement": "Child Student针对4–17岁就读合资格私立学校的儿童；担保安排中英国公民／settled身份等要求可能针对照管人，不是要求儿童先有英国永居。16–17岁如使用Student路线须核对该路线的国籍限制，不能与Child Student资格互换。",
+          "references": [
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-child-student",
+            "https://www.gov.uk/child-study-visa/overview",
+            "https://www.gov.uk/child-study-visa/money",
+            "https://www.gov.uk/child-study-visa/extend-your-visa",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-children",
+            "https://www.gov.uk/parent-of-a-child-at-school-visa",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-finance",
+            "https://www.gov.uk/government/publications/student-route-caseworker-guidance/student-and-child-student-accessible",
+            "https://www.gov.uk/government/publications/register-of-licensed-sponsors-students",
+            "https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system",
+            "https://www.gov.uk/healthcare-immigration-application/how-much-pay",
+            "https://explore-education-statistics.service.gov.uk/methodology/education-and-training-statistics-for-the-uk",
+            "https://www.gov.uk/national-curriculum/overview",
+            "https://www.gov.wales/curriculum-wales-statutory-guidance",
+            "https://education.gov.scot/parentzone/curriculum-in-scotland/curriculum-levels/",
+            "https://www.nidirect.gov.uk/articles/applying-school-place",
+            "https://www.gov.uk/long-residence/eligibility",
+            "https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain",
+            "https://www.gov.uk/tax-foreign-income/residence"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/united-kingdom/university/README.md",
+      "programs": [
+        {
+          "program": "大学学位路线",
+          "finding": "documented",
+          "identity_statement": "Student路线须年满16岁；现行Appendix Student ST 3.3对阿富汗、喀麦隆、缅甸、苏丹国民的境外入境许可申请设拒签规定，不能忽略该国籍限制。境内转换另排除Visitor、短期学生及其他列明身份；不能把ST 3.3未经依据扩大到所有境内续签或Child Student。",
+          "references": [
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-student",
+            "https://www.gov.uk/student-visa",
+            "https://www.gov.uk/student-visa/money",
+            "https://www.gov.uk/student-visa/family-members",
+            "https://www.gov.uk/student-visa/extend-your-visa",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-finance",
+            "https://www.gov.uk/government/publications/register-of-licensed-sponsors-students",
+            "https://www.gov.uk/government/publications/student-route-caseworker-guidance/student-and-child-student-accessible",
+            "https://www.gov.uk/guidance/visa-brake-changes-to-the-uk-visa-system",
+            "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-graduate",
+            "https://www.gov.uk/graduate-visa",
+            "https://www.gov.uk/healthcare-immigration-application/how-much-pay",
+            "https://www.gov.uk/long-residence/eligibility",
+            "https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain",
+            "https://www.gov.uk/tax-foreign-income/residence",
+            "https://explore-education-statistics.service.gov.uk/methodology/education-and-training-statistics-for-the-uk"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/united-states/primary-secondary/README.md",
+      "programs": [
+        {
+          "program": "中小学路线",
+          "finding": "documented",
+          "identity_statement": "须满足F-1学生的非移民身份条件；现有访客身份不能直接当作学习许可。PP10998对指定国籍／旅行证件的F签证设置暂停及例外，须同时核对2026-01-01时所在地、当时有效签证和双重国籍等条件，不能只看是否取得I-20。INA 212(a)(3)(D)的党派成员拒签条款针对移民签证，不应直接写成F-1的同一禁止条件。见[国务院PP10998说明](https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html)及[9 FAM 302.5-6(B)(1)](https://fam.state.gov/fam/09FAM/09FAM030205.html)。",
+          "references": [
+            "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+            "https://fam.state.gov/fam/09FAM/09FAM030205.html",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-3",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-4",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-8",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-9",
+            "https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1184",
+            "https://travel.state.gov/content/travel/en/us-visas/study/student-visa/foreign-students-in-public-schools.html",
+            "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+            "https://studyinthestates.dhs.gov/assets/sevp_publicprivatek12student_infographic_v4.pdf",
+            "https://studyinthestates.dhs.gov/school-search",
+            "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/section-214.2",
+            "https://www.ice.gov/doclib/sevis/pdf/i901.pdf",
+            "https://www.ice.gov/sevis/employment",
+            "https://www.dol.gov/agencies/whd/fact-sheets/43-child-labor-non-agriculture",
+            "https://www.ice.gov/doclib/sevis/pdf/Nonimmigrant%20Class%20Who%20Can%20Study.pdf",
+            "https://www.irs.gov/individuals/international-taxpayers/foreign-students-scholars-teachers-researchers-and-exchange-visitors",
+            "https://www.irs.gov/individuals/international-taxpayers/exempt-individual-who-is-a-student",
+            "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization",
+            "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
+            "https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-niv-applicants-in-their-country-of-residence.html",
+            "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant",
+            "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14439.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "study-student-residence/united-states/university/README.md",
+      "programs": [
+        {
+          "program": "大学学位路线",
+          "finding": "documented",
+          "identity_statement": "须满足F-1学生的非移民身份条件；现有访客身份不能直接当作学习许可。PP10998对指定国籍／旅行证件的F签证设置暂停及例外，须同时核对2026-01-01时所在地、当时有效签证和双重国籍等条件，不能只看是否取得I-20。INA 212(a)(3)(D)的党派成员拒签条款针对移民签证，不应直接写成F-1的同一禁止条件。见[国务院PP10998说明](https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html)及[9 FAM 302.5-6(B)(1)](https://fam.state.gov/fam/09FAM/09FAM030205.html)。",
+          "references": [
+            "https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html",
+            "https://fam.state.gov/fam/09FAM/09FAM030205.html",
+            "https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/extension-of-post-completion-optional-practical-training-opt-and-f-1-status-for-eligible-students",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-3",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-4",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-8",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-9",
+            "https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html",
+            "https://fam.state.gov/fam/09FAM/09FAM040205.html",
+            "https://www.uscis.gov/policy-manual/volume-2-part-f",
+            "https://studyinthestates.dhs.gov/school-search",
+            "https://ope.ed.gov/dapip/#/home",
+            "https://www.ice.gov/doclib/sevis/pdf/i901.pdf",
+            "https://www.ice.gov/sevis/employment",
+            "https://www.ice.gov/sevis/practical-training",
+            "https://www.ice.gov/doclib/sevis/pdf/Nonimmigrant%20Class%20Who%20Can%20Study.pdf",
+            "https://www.ice.gov/sevis/travel",
+            "https://www.federalregister.gov/documents/2024/12/18/2024-29354/modernizing-h-1b-requirements-providing-flexibility-in-the-f-1-program-and-program-improvements",
+            "https://www.irs.gov/individuals/international-taxpayers/foreign-students-scholars-teachers-researchers-and-exchange-visitors",
+            "https://www.irs.gov/individuals/international-taxpayers/exempt-individual-who-is-a-student",
+            "https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization",
+            "https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-visa-applicants.html",
+            "https://travel.state.gov/content/travel/en/News/visas-news/adjudicating-niv-applicants-in-their-country-of-residence.html",
+            "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant",
+            "https://www.govinfo.gov/content/pkg/FR-2026-07-17/pdf/2026-14439.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "visitor-financial-remote/canada/README.md",
+      "programs": [
+        {
+          "program": "Visitor status — remote work for foreign employer",
+          "finding": "documented",
+          "identity_statement": "须先符合本人护照对应的访客入境及停留规则，再按IRCC所述仅为境外雇主等远程工作。第三国永久居留、加拿大访客身份与加拿大永久居民身份不同；远程工作政策不新设一张所有国籍通用的“数字游民签证”，也不自动允许境内转换身份。",
+          "references": [
+            "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/digital-nomads.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/canadian-experience-class.html",
+            "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/determining-your-residency-status.html",
+            "https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/tech-talent.html"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "visitor-financial-remote/mexico/README.md",
+      "programs": [
+        {
+          "program": "Temporary Resident Visa — economic solvency",
+          "finding": "partial",
+          "identity_statement": "【部分待核实】这是外国申请人的经济能力临时居民签证，须使用受理领馆的现行财力及辖区规则；领馆要求在第三国合法居住时，该要求不等于项目统一要求先获第三国永久居留。现有来源未确认完整国籍及境内身份转换例外。",
+          "references": [
+            "https://www.miconsulado.sre.gob.mx/visasmexicanas/visa/visa-de-residencia-temporal/",
+            "https://consulmex.sre.gob.mx/sandiego/images/visasespanol2026/5a_Temporal_-_Solvencia_economica.pdf",
+            "https://www.inm.gob.mx/static/Tramites/cambio_residente_temporal-residente_permanente.pdf",
+            "https://sre.gob.mx/carta-de-naturalizacion-por-residencia",
+            "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    },
+    {
+      "path": "visitor-financial-remote/new-zealand/README.md",
+      "programs": [
+        {
+          "program": "Visitor Visa / NZeTA remote-work rule",
+          "finding": "documented",
+          "identity_statement": "仅在本人已满足Visitor Visa／NZeTA等相应入境资格时，适用规定的境外远程工作权限；NZeTA及免签范围按护照和特定身份判断，不是所有国籍均可直接申请NZeTA。不得以远程收入代替访客签证资格或转向新西兰雇主工作。",
+          "references": [
+            "https://www.immigration.govt.nz/visit/checking-or-changing-the-conditions-of-your-visitor-visa-or-nzeta/working-remotely-in-new-zealand-on-a-visitor-visa/"
+          ],
+          "reference_scope": "身份字段直接链接及原方案主要来源；链接保留不代表本次逐一复核了其中全部内容。正面结论范围及未决事项以identity_statement为准。"
+        }
+      ]
+    }
+  ],
+  "public_gap_labels": {
+    "partial": "【部分待核实】：已有部分官方依据，但所列身份细节尚待补证或确认。",
+    "gap": "【核心证据缺口】：尚未取得足以确认当前申请者身份范围的官方正文。",
+    "scope": "标记表示身份证据的完整程度，不等于项目关闭、拒签或个人资格结论；没有标记也不表示全部政策字段或所有个案资格均已核实。"
+  }
+}

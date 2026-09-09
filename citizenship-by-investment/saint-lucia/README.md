@@ -17,6 +17,7 @@ region: "加勒比"
 ## Citizenship by Investment
 
 - **当前状态：** 开放
+- **申请者身份限制：** 【部分待核实】官方公告确认自2022-03-18起暂停俄罗斯及白俄罗斯申请且暂停继续有效；至少这两类不能按一般投资条件认定可新办。本次未确认完整的其他国籍、双重国籍及居住地例外清单，须另取得CIU现行依据。见[俄白申请公告](https://www.cipsaintlucia.com/news-blog/russianapplications)。
 - **最低门槛或收入：** NEF US$240,000（主申+最多3家属）；国债US$300,000+US$50,000管理费并持有5年；房产US$300,000
 - **资金或收入性质：** 捐款不可退；国债/房产有锁定期
 - **首次身份与期限：** 批准后直接公民身份
@@ -27,7 +28,7 @@ region: "加勒比"
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 房地产/企业必须为获批项目；另有尽调及申请费用
 - **证据等级：** B
-- **主要来源：** [官方或主要依据](https://www.cipsaintlucia.com/citizenship-by-investment)
+- **主要来源：** [官方或主要依据](https://www.cipsaintlucia.com/citizenship-by-investment)；[俄白申请公告](https://www.cipsaintlucia.com/news-blog/russianapplications)
 
 ## 纠错与更新
 

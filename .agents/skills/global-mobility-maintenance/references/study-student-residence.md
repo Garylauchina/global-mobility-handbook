@@ -24,19 +24,22 @@ In addition to the standard active-page frontmatter, require `country` and a sta
 Each program block uses this order:
 
 1. `当前状态`
-2. `适用对象与核心资格`
-3. `录取与院校要求`
-4. `资金证明`
-5. `首次许可与期限`
-6. `续签与学籍变化`
-7. `学习期间工作`
-8. `家属`
-9. `毕业后或升学路径`
-10. `永居或入籍边界`
-11. `税务提示`
-12. `关键限制与变化`
-13. `证据等级`
-14. `主要来源`
+2. `申请者身份限制`
+3. `适用对象与核心资格`
+4. `录取与院校要求`
+5. `资金证明`
+6. `首次许可与期限`
+7. `续签与学籍变化`
+8. `学习期间工作`
+9. `家属`
+10. `毕业后或升学路径`
+11. `永居或入籍边界`
+12. `税务提示`
+13. `关键限制与变化`
+14. `证据等级`
+15. `主要来源`
+
+In the identity field, separate the student's nationality/current permission from citizenship or permanent-residence requirements imposed on a custodian, sponsor, guardian, or parent. A country list for an application channel or funding procedure is not automatically an eligibility whitelist. Disclose missing identity evidence rather than claiming unrestricted eligibility.
 
 Use “不适用” or a precise negative boundary when a field does not confer a benefit; never leave it blank. Keep material changes in the route page's policy timeline under the repository timeline rules.
 

@@ -15,6 +15,7 @@ region: "欧洲/西亚"
 ## Digital Nomad Visa + short-term residence
 
 - **当前状态：** 开放/国籍白名单
+- **申请者身份限制：** 有国籍白名单，并要求21–55岁及大学学历；名单包括指定欧洲国家、美国、加拿大、俄罗斯、乌克兰、白俄罗斯等，中国大陆不在名单。须持护照并证明为境外雇主／客户远程工作；持第三国永居不能替代国籍。完整范围见[官方资格页](https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence)。
 - **最低门槛或收入：** US$3,000/月或US$36,000/年；21–55岁、大学学历
 - **资金或收入性质：** 境外公司雇佣合同，或自雇者与境外公司的商业合同；月入US$3,000或年入US$36,000
 - **首次身份与期限：** 短期居留通常每次最长2年

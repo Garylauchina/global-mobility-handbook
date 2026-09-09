@@ -13,6 +13,7 @@ status: "archived-or-unverified"
 ## MEIN / Exceptional Investor Naturalisation
 
 - **当前状态：** 已关闭
+- **申请者身份限制：** 当前不作为可新递交方案判断身份资格；旧国籍、永居或居住条件即使满足，也不能恢复新申请入口。存量案件如有过渡安排，须核对本人原申请／许可。
 - **关键变化：** 欧盟法院2025-04-29判决后停止并从法律中删除；现行MPRP仅为永居
 - **为什么不能按有效项目处理：** Citizenship by Merit是个案特殊贡献制度，不是定价CBI替代品
 - **证据等级：** A

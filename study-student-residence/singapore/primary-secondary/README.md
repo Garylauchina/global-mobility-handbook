@@ -17,6 +17,7 @@ region: "亚洲"
 ## 中小学 Student’s Pass 路线
 
 - **当前状态：** 开放；获政府、政府资助或独立学校，或符合 ICA 当前条件的 Foreign System School／Privately-Funded School 全日制录取后，可按实际学校类别申请 Student’s Pass。持有效 Dependant’s Pass、LTVP 或 Immigration Exemption Order 的学生，通常可在现有身份有效期内就读全日制非宗教课程而免办 Student’s Pass；获准宗教学校适用 ICA 明列的不同例外，不能从普通学校规则推定。
+- **申请者身份限制：** 学生是外国人；政府／政府资助／独立学校路线要求的本地担保人须为至少21岁的新加坡公民或永久居民，要求针对担保人，不是学生须先有PR。有效DP、LTVP或IEO等身份的免另办Student’s Pass条件须按ICA规定另判。
 - **适用对象与核心资格：** 已取得相应学校全日制录取、能提交 Registration Acknowledgement Letter 和真实完整资料，并持续满足学校及 ICA 条件的外国中小学生。政府体系录取与外国体系／私立学校录取入口不同；“国际学校”或“私立学校”的宣传名称不能代替 ICA 对 Government、FSS、Privately-Funded School 或 PEI 的实际分类。非全日制、晚间或周末课程不适用普通 Student’s Pass。
 - **录取与院校要求：** 新加坡公立主流学校的小一国际学生须按 MOE 当年的独立流程先提交入学意向，获配学校后再注册；小二至小五、中一至中三通常通过年度 Admissions Exercise for International Students（AEIS），补充轮次 S-AEIS 的开放年级和时间以当年页面为准。申请人须按年龄选择对应测试；小学申请人在递交 AEIS／S-AEIS 前还须参加规定的 Cambridge English Qualifications（CEQ）测试、达到当届最低成绩并上传成绩单，中学申请不适用该项前置成绩。AEIS 成绩不保证学额，分配还受学校空位和申报住址影响。FSS／Privately-Funded School 由学校自行录取；ICA 当前说明，向外国学生提供入学名额的受监管 FSS 必须具备适用的 EduTrust 认证。任何学校录取都不等于 ICA 必须签发 Student’s Pass。
 - **资金证明：** ICA 申请要求提供 financial support 资料，但政府学校与 FSS 页面未公布统一的全国最低生活费或存款数字。MOE 政府体系月费按学生国籍和学校类型变化，独立学校、FSS、住宿、保险、校服、交通和其他费用另按学校规则；应使用 MOE 当前费用工具和正式录取文件分别核对。2026 AEIS 的不可退费用为小学 S$340、中学 S$630，另加现行 GST；S-AEIS 也收取不可退费用，金额须按当届页面刷新。Student’s Pass 当前处理费为 S$45，获批后签发费 S$60，适用时另收 S$30 Multiple Journey Visa 费；这些考试和行政费不是完整就读成本或财力标准。
