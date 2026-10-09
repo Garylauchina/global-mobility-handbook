@@ -180,4 +180,4 @@
 
 本地检查已通过：17项日期／状态回归测试；173页结构与链接检查；中央记录与本轮清单一一对应（45页推进、128页保留、全库基准不变）；0个逾期页面仍标current；生成导航一致；现有虚拟环境的严格MkDocs构建；718条索引上的11组中英文搜索断言，执行5个真实搜索worker脚本。构建目录位于仓库外。
 
-本轮未修改Skill或维护周期，因此未重复创建Skill或定时任务。推送main后由仓库[验证与部署工作流](https://github.com/Garylauchina/global-mobility-handbook/actions)记录提交对应的发布结果；线上首页、代表页、导航及实际下载搜索产物还须在部署成功后确认。
+本轮未修改Skill或维护周期，因此未重复创建Skill或定时任务。内容提交 [981db7b](https://github.com/Garylauchina/global-mobility-handbook/commit/981db7bec3cee053398bd8bb7ce32e30ea69fc21) 的[验证工作流](https://github.com/Garylauchina/global-mobility-handbook/actions/runs/37869345327)及[Pages部署工作流](https://github.com/Garylauchina/global-mobility-handbook/actions/runs/37869345420)均已成功。部署后实际下载21个首页／分类／国家／政策HTML和38个搜索及脚本产物，与本地严格构建逐文件一致；首页日期与45／128统计、9类导航及新加坡国家／叶页链接已确认。对线上下载产物重新执行11组中英文搜索，718条索引及5个搜索worker脚本全部通过。以上为HTTP内容和实际搜索执行检查，未另做可视化浏览器截图。

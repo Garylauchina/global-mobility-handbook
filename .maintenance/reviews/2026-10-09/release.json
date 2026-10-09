@@ -1,0 +1,23 @@
+{
+  "review_date": "2026-10-09",
+  "content_commit": "981db7bec3cee053398bd8bb7ce32e30ea69fc21",
+  "validation_workflow": {
+    "url": "https://github.com/Garylauchina/global-mobility-handbook/actions/runs/37869345327",
+    "conclusion": "success"
+  },
+  "pages_workflow": {
+    "url": "https://github.com/Garylauchina/global-mobility-handbook/actions/runs/37869345420",
+    "conclusion": "success"
+  },
+  "online_verification": {
+    "html_pages": 21,
+    "search_and_script_assets": 38,
+    "all_match_strict_local_build": true,
+    "navigation": "9category links plus country-to-leaf navigation checked",
+    "search_queries": 11,
+    "indexed_documents": 718,
+    "worker_scripts_executed": 5,
+    "result": "passed"
+  },
+  "source_of_claims": "HTTPS response bodies and actual search worker execution; policy evidence is in the separate page ledgers"
+}
