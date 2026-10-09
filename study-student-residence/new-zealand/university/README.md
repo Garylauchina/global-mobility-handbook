@@ -14,7 +14,7 @@ region: "大洋洲"
 
 > 本页只覆盖通过 Fee Paying Student Visa 在新西兰大学全日制就读学士、硕士或博士等课程的全国性移民规则，不覆盖语言班、预科、学校排名、录取概率或奖学金。录取、学生签证、在读工作权、毕业后工作签证和居民签证是不同判断。
 
-> **未来规则提示：** 截至 2026-09-02，新的 Short-term Graduate Work Visa 与部分 Post Study Work Visa 扩围尚未生效。INZ 已宣布预定自 2026-11-16 开放；本页将现行规则与尚未生效的变化分开记录。
+> **未来规则提示：** 新的 Short-term Graduate Work Visa 与部分 Post Study Work Visa 扩围尚未生效。INZ 已宣布预定自 2026-11-16 开放；本页将现行规则与尚未生效的变化分开记录。
 
 ## Fee Paying Student Visa（大学路线）
 
@@ -47,7 +47,7 @@ region: "大洋洲"
 - **事件证据：** A
 ### 2026-11-16（预定）— 毕业后工签扩围与新短期签证
 
-- **公布与生效：** INZ 于 2026-05-29 公布，预定自 2026-11-16 开放申请；截至本站核验日尚未生效。
+- **公布与生效：** INZ 于 2026-05-29 公布，预定自 2026-11-16 开放申请；属于预定生效安排。
 - **变化摘要：** 新增 6 个月 Short-term Graduate Work Visa，面向在新西兰全日制至少 24 周完成部分 NZQCF 5–7 级且不合资格现行 PSWV 的毕业生；同时把在新西兰全日制完成 7 级 Graduate Diploma 且已持有境内外学士学位者纳入 PSWV，该类 PSWV 最长一年。
 - **过渡安排：** 已持有 PSWV 者不得再获 PSWV 或新短期签证；新短期签证持有人不得支持伴侣工签或子女 Dependent Child Student Visa。INZ 说明更多执行细节将在开放前发布，因此开放时必须重新核对。
 - **官方依据：** [INZ 新增与更新毕业后工签公告](https://www.immigration.govt.nz/about-us/news-centre/new-and-updated-post-study-work-visa-options/)

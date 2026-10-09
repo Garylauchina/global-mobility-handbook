@@ -1,12 +1,16 @@
 ---
 title: "土耳其"
 category: "数字游民与远程工作"
-status: "current"
-evidence: "A"
+status: "stale"
+evidence: "B"
 region: "欧洲/西亚"
 ---
 
 # 土耳其
+
+> **待补证事项：** 土耳其境内履行远程工作所得的税务居民、收入来源及申报规则尚缺税务机关依据
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
 
 [返回“数字游民与远程工作”目录](../README.md) · [返回仓库首页](../../README.md)
 
@@ -14,7 +18,8 @@ region: "欧洲/西亚"
 
 ## Digital Nomad Visa + short-term residence
 
-- **当前状态：** 开放/国籍白名单
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放/国籍白名单
 - **申请者身份限制：** 有国籍白名单，并要求21–55岁及大学学历；名单包括指定欧洲国家、美国、加拿大、俄罗斯、乌克兰、白俄罗斯等，中国大陆不在名单。须持护照并证明为境外雇主／客户远程工作；持第三国永居不能替代国籍。完整范围见[官方资格页](https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence)。
 - **最低门槛或收入：** US$3,000/月或US$36,000/年；21–55岁、大学学历
 - **资金或收入性质：** 境外公司雇佣合同，或自雇者与境外公司的商业合同；月入US$3,000或年入US$36,000
@@ -23,9 +28,9 @@ region: "欧洲/西亚"
 - **当地工作：** 仅非土耳其雇主
 - **家属：** 专项识别证不自动授予家属许可；普通家庭居留另审，通常要求担保人持居留满1年、足够收入及全家保险
 - **永居或入籍路径：** 普通长期居留通常须持许可连续居住至少8年，另有稳定收入、保险、近3年未领社会救助等条件；专项识别证本身不保证长期居留
-- **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
+- **税务提示：** 【待核实】专项居留不自动决定税务身份；该国对在境内履行远程工作的税务居民判定、收入来源及申报义务尚缺当前税务机关依据，不能据本页认定免税或无需登记。
 - **关键限制与变化：** 21–55岁、大学毕业、护照入境时至少6个月有效；限官方36国名单，中国大陆不在名单。先获识别证，再另办签证及短期居留
-- **证据等级：** A
+- **证据等级：** B
 - **主要来源：** [GoTürkiye原土耳其语要求](https://goturkiye.com/tr/digitalnomads/dijital-gocebe-vize-ve-kisa-donem-ikamet-icin-basvuru-sartlari)；[GoTürkiye英文要求](https://goturkiye.com/digitalnomads/application-requirements-for-digital-nomad-visa-and-short-term-residence)；[移民署居留类型与长期居留](https://en.goc.gov.tr/residence-permit-types)
 
 ## 纠错与更新

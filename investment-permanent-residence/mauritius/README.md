@@ -1,22 +1,25 @@
 ---
 title: "毛里求斯"
 category: "投资永居"
-status: "current"
+status: "stale"
 evidence: "B"
 region: "非洲"
 ---
 
 # 毛里求斯
 
+> **待补证事项：** Need current direct-investor statutory/guideline terms, ongoing investment, work, dependents and nationality boundaries; general OP rules cannot substitute.
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
+
 [返回“投资永居”目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本页只记录公开可核验的专项方案，不构成法律、税务、投资、房产或国籍意见。所有门槛均须在递件前向主管机关再次确认。
 
-> **待补证事项：** 直接取得二十年永久居留后的持续投资、经营、家属及工作条件仍缺完整现行依据，不能套用普通职业许可规则。
-
 ## Investor Permanent Residence Permit
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 【部分待核实】本块为外国投资者在合资格商业活动直接投资的路线，不应把另一路Occupation Permit持有人的多年经营转换条件自动套入，也不能只凭已有外国永居替代商业投资资格。所引官方资料未列完整国籍排除范围。
 - **最低门槛或收入：** 在合资格商业活动投资US$375,000
 - **资金或收入性质：** 企业投资

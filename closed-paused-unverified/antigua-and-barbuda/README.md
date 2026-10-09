@@ -17,4 +17,4 @@ status: "archived-or-unverified"
 - **关键变化：** 政府公告于2025-11-15终止
 - **为什么不能按有效项目处理：** 旧网页仍可能被搜索到；其他签证的停留和工作权限须独立核实
 - **证据等级：** A
-- **主要来源：** [官方或主要依据](https://ab.gov.ag/pdf/Discontinuation_of_the_NDR_prg.pdf)
+- **主要来源：** [官方或主要依据](https://ab.gov.ag/media/notices/2025/notices_2025_nov_10-discontinuation_of_ndr_program.pdf)

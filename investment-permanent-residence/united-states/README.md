@@ -12,7 +12,7 @@ region: "北美"
 
 > 本页只记录公开可核验的专项方案，不构成法律、税务、投资、房产或国籍意见。所有门槛均须在递件前向主管机关再次确认。
 
-> **当前可获得性提示：** EB-5继续接受申请，但可递件不等于立即有移民签证。2026年9月非预留类别对中国大陆出生申请人有排期，印度为不可用；另有2026年生效的签证签发/入境限制影响部分国籍和旅行证件持有人。
+> **当前可获得性提示：** EB-5继续接受申请，但可递件不等于立即有移民签证。2026年10月非预留类别对中国大陆及印度出生申请人仍有排期；另有2026年生效的签证签发/入境限制影响部分国籍和旅行证件持有人。
 
 > **未来变化提示：** 现行投资额将在2027-01-01首次按法定通胀机制调整，具体新金额待DHS技术修正；区域中心计划当前授权至2027-09-30。
 
@@ -28,9 +28,9 @@ region: "北美"
 - **家属：** 配偶、未婚未满21岁子女
 - **永居或入籍路径：** I-829获批后去除条件；普通归化一般要求5年LPR、连续居住、5年内实际在美至少30个月，并满足州居住、品行、语言和公民知识等条件
 - **税务提示：** 日历年内任何时间符合绿卡测试，通常即成为美国联邦税务居民并原则上申报全球所得；所得、海外账户、遗产和赠与义务应在取得身份前规划
-- **关键限制与变化：** EB-5约占职业移民年度额度7.1%，家属也占签证号；其中农村20%、高失业10%、基础设施2%为预留。2026年9月非预留最终裁定日：中国大陆2016-12-01、印度U（不可用）、其他列示地区C（当前有名额）；三类预留均为C（当前有名额）
+- **关键限制与变化：** EB-5约占职业移民年度额度7.1%，家属也占签证号；其中农村20%、高失业10%、基础设施2%为预留。2026年10月非预留最终裁定日：中国大陆2016-12-01、印度2023-12-01、其他列示地区C（当前有名额）；三类预留均为C（当前有名额）
 - **证据等级：** A
-- **主要来源：** [8 USC §1153(b)(5)](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1153)；[2026年9月Visa Bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html)；[USCIS投资移民程序](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-process)；[I-829](https://www.uscis.gov/i-829)；[USCIS收件通知延长身份证明](https://content.govdelivery.com/accounts/USDHSCIS/bulletins/3447266)；[永久居民工作权](https://www.uscis.gov/green-card/after-we-grant-your-green-card/rights-and-responsibilities-of-a-green-card-holder-permanent-resident)；[维持永久居留](https://www.uscis.gov/green-card/after-we-grant-your-green-card/maintaining-permanent-residence)；[普通归化资格](https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization/i-am-a-lawful-permanent-resident-of-5-years)；[IRS绿卡测试](https://www.irs.gov/individuals/international-taxpayers/us-tax-residency-green-card-test)；[现行9 FAM 302.5-6](https://fam.state.gov/fam/09FAM/09FAM030205.html)；[国务院PP10998说明](https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html)
+- **主要来源：** [8 USC §1153(b)(5)](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1153)；[2026年10月Visa Bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html)；[USCIS现行分类与投资要求](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/about-the-eb-5-visa-classification)；[USCIS投资审理手册](https://www.uscis.gov/policy-manual/volume-6-part-g-chapter-2)；[USCIS投资移民程序](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/eb-5-immigrant-investor-process)；[I-829](https://www.uscis.gov/i-829)；[USCIS收件通知延长身份证明](https://content.govdelivery.com/accounts/USDHSCIS/bulletins/3447266)；[永久居民工作权](https://www.uscis.gov/green-card/after-we-grant-your-green-card/rights-and-responsibilities-of-a-green-card-holder-permanent-resident)；[维持永久居留](https://www.uscis.gov/green-card/after-we-grant-your-green-card/maintaining-permanent-residence)；[普通归化资格](https://www.uscis.gov/citizenship/learn-about-citizenship/citizenship-and-naturalization/i-am-a-lawful-permanent-resident-of-5-years)；[IRS绿卡测试](https://www.irs.gov/individuals/international-taxpayers/us-tax-residency-green-card-test)；[现行9 FAM 302.5-6](https://fam.state.gov/fam/09FAM/09FAM030205.html)；[国务院PP10998说明](https://travel.state.gov/content/travel/en/News/visas-news/suspension-of-visa-issuance-to-foreign-nationals-to-protect-the-security-of-the-united-states.html)
 
 ## 政策时间线
 
@@ -56,10 +56,18 @@ region: "北美"
 - **官方依据：** [国务院移民签证审理更新](https://travel.state.gov/content/travel/en/News/visas-news/immigrant-visa-processing-updates-for-nationalities-at-high-risk-of-public-benefits-usage.html)
 - **事件证据：** A
 
+### 2026-10-01 — 新财政年度印度非预留类别恢复截止日
+
+- **公布与生效：** 2026年10月Visa Bulletin适用于2026-10-01起的月份
+- **变化摘要：** 非预留最终裁定日为中国大陆2016-12-01、印度2023-12-01，其他列示地区及三类预留仍为C；印度由上月U恢复有截止日，不能理解为无排期
+- **过渡安排：** 实际签发仍须排期已到、名额可用及满足其他资格；后续按当月公告判断
+- **官方依据：** [2026年10月Visa Bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html)
+- **事件证据：** A
+
 ### 2027-01-01 — 投资额将首次按通胀调整
 
 - **公布与生效：** 调整机制已写入现行成文法，首次调整日为2027-01-01
-- **变化摘要：** 普通最低额按2022年以来累计CPI-U调整并向下取整至最近US$50,000；TEA/基础设施额为调整后普通额的75%
+- **变化摘要：** USCIS现行说明确认最低投资额按2022年以来CPI-U变动每5年调整；新递交申请自2027-01-01进入首次调整期，具体金额仍须等待正式公布
 - **过渡安排：** 确切新金额尚待DHS在Federal Register发布技术修正，不提前估算
 - **官方依据：** [8 USC §1153(b)(5)](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title8-section1153)
 - **事件证据：** A

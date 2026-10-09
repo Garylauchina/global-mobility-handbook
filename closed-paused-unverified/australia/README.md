@@ -18,3 +18,5 @@ status: "archived-or-unverified"
 - **为什么不能按有效项目处理：** 已有188持有人仍可按条件转888；NIV不是固定投资额替代品
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://immi.homeaffairs.gov.au/visas/getting-a-visa/biip-closure-and-refunds)
+
+- **补充来源：** [维州政府188转888过渡说明](https://liveinmelbourne.vic.gov.au/news-events/news/2024/biip-closure-and-refunds-department-of-home-affairs)；[Home Affairs：NIV为邀请制杰出人才签证](https://immi.homeaffairs.gov.au/visas/working-in-australia/visas-for-innovation)

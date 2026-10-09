@@ -1,12 +1,16 @@
 ---
 title: "马来西亚"
 category: "投资居留"
-status: "current"
-evidence: "A"
+status: "stale"
+evidence: "B"
 region: "亚洲"
 ---
 
 # 马来西亚
+
+> **待补证事项：** 本轮所读均为MM2H移民规则；税务只保留通用提醒，无税务机关依据，未完成核心税务字段复证。
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
 
 [返回“投资居留”目录](../README.md) · [返回仓库首页](../../README.md)
 
@@ -14,7 +18,8 @@ region: "亚洲"
 
 ## Malaysia My Second Home (MM2H)
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 联邦MM2H限来自与马来西亚建交主权国家的合资格外国人；Silver／Gold／Platinum主申请人须25岁以上，SEZ／SFZ须21岁以上。不同类别及州级计划不能互相套用资格；外国永久居留不是此处“来自建交国家”的当然替代。见[现行官方总规则](https://www.mm2h.gov.my/apply/guidelines)。
 - **最低门槛或收入：** 主申请人至少25岁。Silver：FD US$150k+房产RM600k；Gold：US$500k+RM1m；Platinum：US$1m+RM2m；另有参与费及处理费
 - **资金或收入性质：** 定期存款+强制购房
@@ -25,7 +30,7 @@ region: "亚洲"
 - **永居或入籍路径：** 长期社交访问准证，不自动通PR或入籍
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 须获批后购房，房产10年内不得出售，但可升级至更高价值住宅；获批后FD最多可提取50%用于本地购房、医疗、教育及旅游。SEZ/SFZ另有规则，本段仅列三档普通MM2H
-- **证据等级：** A
+- **证据等级：** B
 - **主要来源：** [官方总表](https://www.mm2h.gov.my/category/overview)；[Silver](https://www.mm2h.gov.my/category/silver)；[Gold](https://www.mm2h.gov.my/category/gold)；[Platinum](https://www.mm2h.gov.my/category/platinum)；[计划身份说明](https://www.mm2h.gov.my/)；[现行官方总规则](https://www.mm2h.gov.my/apply/guidelines)
 
 ## 纠错与更新

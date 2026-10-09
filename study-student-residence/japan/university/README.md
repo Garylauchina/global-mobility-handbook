@@ -3,22 +3,27 @@ title: "日本：大学留学"
 category: "留学与学生居留"
 country: "日本"
 route: "university"
-status: "current"
-evidence: "A"
+status: "stale"
+evidence: "B"
 region: "亚洲"
 ---
 
 # 日本：大学留学
 
+> **待补证事项：** 境内由短期停留等身份转换留学的限制与特殊国籍完整适用仍待官方条文闭合；已读外务省当前国籍材料差异。；继续求职特定活动6个月及一次续期的期限依据未在当前办理正文闭合。
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
+
 [返回“日本留学”](../README.md) · [返回“留学与学生居留”](../../README.md) · [返回仓库首页](../../../README.md)
 
 > 本页只覆盖在日本大学或大学院就读学士、硕士或博士学位课程的“留学”在留资格，不覆盖日语学校、专门学校、短期访客学习、院校排名、录取概率或奖学金推荐。大学录取、在留资格认定证明书（COE）、签证、上陆许可、在留卡、资格外活动许可和毕业后身份是不同判断。
 
-> **未来变化提示：** 日本已确定自 2026-10-01 起调整在留资格变更、期间更新及永住许可费用，并自 2027-04-01 起收紧永住申请的“最长在留期间”判断；两项都不改变当前大学“留学”资格的录取或入境条件，详见下方时间线。
+> **政策变化：** 2026-10-01 的在留许可费用改革已生效，按申请受理日和获准期间区分收费。当天公布的新版永住指南另设分阶段适用安排：多数新要求自 2027-04-01 起适用，部分收入及公共负担规则另有提前适用条款，详见下方时间线。
 
 ## 在留资格“留学”（大学学位路线）
 
-- **当前状态：** 开放；“留学”在留资格覆盖在日本大学等机构受教育的活动。院校录取或 COE 不等于日本驻外馆必须签发签证，签证也不取代入境时的上陆审查。
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放；“留学”在留资格覆盖在日本大学等机构受教育的活动。院校录取或 COE 不等于日本驻外馆必须签发签证，签证也不取代入境时的上陆审查。
 - **申请者身份限制：** 【部分待核实】面向以合资格教育机构学习为主活动的外国人；日本数字游民国籍白名单不适用于“留学”在留资格。本人现有在留类别、在留资格变更及学历等条件须分别核对，学校录取不保证任何现有身份均可转换。
 - **适用对象与核心资格：** 已获日本大学或大学院学位课程录取，能证明真实学习活动、学业能力、课程所需语言能力及学费、生活费和住宿等经费支付能力，并符合入境及在留审查条件的外国学生。在日期间必须持续从事获准的学习活动并遵守个人在留条件。
 - **录取与院校要求：** 本科入学须满足文部科学省规定的大学入学资格，完成境外 12 年正规学校教育是常见途径，少于 12 年者可能须完成获指定的预备教育；IB、Abitur、Baccalauréat、GCE A Level 等资格或院校个别入学资格审查可适用其他规则。大学自行决定成绩、材料、面试、EJU、JLPT 或英语要求；英语授课学位不应自动套用日语授课项目的语言门槛。院校录取不代替入管厅根据院校在籍管理类别和个案要求的 COE 文件。
@@ -30,9 +35,9 @@ region: "亚洲"
 - **毕业后或升学路径：** 毕业后不再从事在校学习时，不能仅因在留卡尚未到期而继续以“留学”身份全职工作。就职须在开始相应工作前获批“技术・人文知识・国际业务”、“研究”或其他与实际职务和学历相符的在留资格。在毕业前已持续求职、在留状况良好并获毕业大学推荐等条件者，可申请为继续求职设立的“特定活动” 6 个月，并通常可更新一次，最长 1 年；这不是无条件的毕业后开放工签，其间有报酬活动仍须另行获准。
 - **永居或入籍边界：** “留学”、日本学位或校招都不直接产生永住许可或日本国籍。一般永住指南原则要求连续在日 10 年，其中至少 5 年须以规则所列工作资格或居住资格连续在留，因此学生时间可能进入总年限判断，但不能替代这 5 年要求；高度人才等另有例外。永住指南还要求申请人持有相应身份的最长在留期间；截至 2027-03-31，持 3 年期间通常仍视同满足，自 2027-04-01 起及过渡个案见下方时间线。普通归化的国籍法第 5 条最低住所条件仍为合法连续在日 5 年；但自 2026-04-01 起，法务省在社会融入的裁量审查中原则要求在留 10 年以上，并延长税金与社会保险缴纳记录的核查期间。两者是法定最低条件与现行审查运用的区别，不能仅据学生居住满 5 年预计获批；还须满足年龄、品行、生计、国籍与日语等要求。
 - **税务提示：** 留学生身份不自动等于日本税务居民或非居民。国税厅按在日是否有“住所”（生活本拠），或是否连续有“居所”满 1 年等事实判断；居民中的非永久居民和非居民又有不同课税范围。奖学金、助研报酬、打工工资、境外收入、汇入日本的款项和税收协定待遇须分别判断。
-- **关键限制与变化：** COE 是日本入管机关对拟从事活动及上陆条件的预审证明，不是签证或入境保证。院校是否属入管厅的适正校类别会影响申请文件，但不是院校排名或学位就业保证。资金、院校名单、语言与入学条件、签证领区文件、在留期间和资格外活动都须在申请时根据个人情况刷新；本页所列 JASSO 生活费是调查平均值，不能被写成签证“最低存款”。2026-10-01 费用改革和 2027-04-01 永住最长期间变化均为已确定的未来规则，不应提前写成当前门槛，也不应忽略其申请受理日与过渡安排。
-- **证据等级：** A
-- **主要来源：** [出入国在留管理厅“留学”在留资格](https://www.moj.go.jp/isa/applications/status/student.html)；[外务省留学签证与 COE](https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html)；[大学留学 COE 当前材料示例](https://www.moj.go.jp/isa/content/001463586.pdf)；[文部科学省大学入学资格](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/1373912.html)；[JASSO 官方本科与短大学信息](https://www.studyinjapan.go.jp/en/planning/learn-about-schools/universities/)；[JASSO 学费规划](https://www.studyinjapan.go.jp/en/planning/academic-fees/)；[JASSO 生活费调查](https://www.studyinjapan.go.jp/en/life/cost-of-living/)；[在留期间更新](https://www.moj.go.jp/isa/applications/procedures/16-3.html)；[转学与毕业后身份问答](https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html)；[留学资格的资格外活动许可](https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html)；[“家族滞在”在留资格](https://www.moj.go.jp/isa/applications/status/dependent.html)；[毕业后继续求职“特定活动”](https://www.moj.go.jp/isa/applications/status/designatedactivities14.html)；[留学生就业手续](https://www.moj.go.jp/isa/publications/materials/10_00015.html)；[在留许可费用改革](https://www.moj.go.jp/isa/01_00644.html)；[线上费用与支付方式](https://www.moj.go.jp/isa/11_00107.html)；[永住许可指南](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html)；[永住最长期间变化公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)；[法务省国籍问答](https://www.moj.go.jp/MINJI/minji78)；[归化审查运用调整公告](https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html)；[国税厅居民与非居民区分](https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm)
+- **关键限制与变化：** COE 是日本入管机关对拟从事活动及上陆条件的预审证明，不是签证或入境保证。院校是否属入管厅的适正校类别会影响申请文件，但不是院校排名或学位就业保证。资金、院校名单、语言与入学条件、签证领区文件、在留期间和资格外活动都须在申请时根据个人情况刷新；本页所列 JASSO 生活费是调查平均值，不能被写成签证“最低存款”。2026-10-01 费用改革已生效；新版永住指南的多数新要求及最长期间变化自 2027-04-01 起适用，部分条款有单独过渡安排，不能一并提前套用。
+- **证据等级：** B
+- **主要来源：** [2026-10-01 新版永住许可指南](https://www.moj.go.jp/isa/10_00279.html)；[出入国在留管理厅“留学”在留资格](https://www.moj.go.jp/isa/applications/status/student.html)；[外务省留学签证与 COE](https://www.mofa.go.jp/j_info/visit/visa/long/visa6.html)；[大学留学 COE 当前材料示例](https://www.moj.go.jp/isa/content/001463586.pdf)；[文部科学省大学入学资格](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/1373912.html)；[JASSO 官方本科与短大学信息](https://www.studyinjapan.go.jp/en/planning/learn-about-schools/universities/)；[JASSO 学费规划](https://www.studyinjapan.go.jp/en/planning/academic-fees/)；[JASSO 生活费调查](https://www.studyinjapan.go.jp/en/life/cost-of-living/)；[在留期间更新](https://www.moj.go.jp/isa/applications/procedures/16-3.html)；[转学与毕业后身份问答](https://www.moj.go.jp/isa/immigration/faq/kanri_qa.html)；[留学资格的资格外活动许可](https://www.moj.go.jp/isa/applications/procedures/nyuukokukanri07_00003.html)；[“家族滞在”在留资格](https://www.moj.go.jp/isa/applications/status/dependent.html)；[毕业后继续求职“特定活动”](https://www.moj.go.jp/isa/applications/status/designatedactivities14.html)；[留学生就业手续](https://www.moj.go.jp/isa/publications/materials/10_00015.html)；[在留许可费用改革](https://www.moj.go.jp/isa/01_00644.html)；[线上费用与支付方式](https://www.moj.go.jp/isa/11_00107.html)；[永住许可指南](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html)；[永住最长期间变化公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)；[法务省国籍问答](https://www.moj.go.jp/MINJI/minji78)；[归化审查运用调整公告](https://www.moj.go.jp/hisho/kouhou/hisho08_00706.html)；[国税厅居民与非居民区分](https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm)
 
 ## 政策时间线
 
@@ -60,6 +65,14 @@ region: "亚洲"
 - **过渡安排：** 2027-03-31 当日已持 3 年期间者，如在该期间内获处理，其首次申请仍可按满足“最长期间”处理。
 - **官方依据：** [入管厅永住许可程序公告](https://www.moj.go.jp/isa/applications/procedures/eizyuu_00001.html)
 - **事件证据：** A
+### 2026-10-01 — 新版永住指南公布分阶段适用要求
+
+- **公布与生效：** 2026-10-01 修订；一般对 2027-04-01 起提出的申请适用。收入和公共负担的指定条款，也适用于修订日前六个月起提出、且修订时仍在审理的申请，须逐项核对指南第六部分。
+- **变化摘要：** 新版补充家庭持续收入、日本语 B1 相当能力、生活规则理解及学龄子女教育等要求，并规定例外；日本义务教育累计六年等情形有语言要求例外。学生经历本身仍不直接产生永住资格。
+- **过渡安排：** 不能把所有新条款提前套用于现有学生；最长在留期间另沿用已公布的 2027-04-01 及三年期间首次申请过渡安排。
+- **官方依据：** [入管厅新版永住许可指南](https://www.moj.go.jp/isa/10_00279.html)
+- **事件证据：** A
+
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

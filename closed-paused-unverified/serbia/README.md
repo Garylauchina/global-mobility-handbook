@@ -6,11 +6,11 @@ status: "archived-or-unverified"
 
 # 塞尔维亚
 
+> **待补证事项：** 数字游民便利不等于独立DNV；专项法律、身份范围及申请条件仍缺。
+
 [返回警示目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本目录用于阻止停办、暂停、被替代或只有营销材料的项目被误列为当前可办方案。有限公开检索不能证明法律上的绝对不存在。
-
-> **待补证事项：** 不能从一般门户无项目条目推出法律上绝对不存在。
 
 ## Digital Nomad facilitation
 
@@ -20,3 +20,5 @@ status: "archived-or-unverified"
 - **为什么不能按有效项目处理：** 普通自雇不应包装为DNV
 - **证据等级：** B
 - **主要来源：** [塞尔维亚政府现行移民门户](https://welcometoserbia.gov.rs/home)
+
+- **补充来源：** [政府数字游民介绍（非专项签证实施指南）](https://welcometoserbia.gov.rs/digital-nomads-in-serbia)

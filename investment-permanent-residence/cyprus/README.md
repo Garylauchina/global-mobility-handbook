@@ -1,12 +1,16 @@
 ---
 title: "塞浦路斯"
 category: "投资永居"
-status: "current"
+status: "stale"
 evidence: "B"
 region: "欧洲"
 ---
 
 # 塞浦路斯
+
+> **待补证事项：** 403prevents current body verification of investment/income/work/family/continuity and specific nationality restrictions.
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
 
 [返回“投资永居”目录](../README.md) · [返回仓库首页](../../README.md)
 
@@ -14,7 +18,8 @@ region: "欧洲"
 
 ## Immigration Permit for Investors
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 【核心证据缺口】待核实：现行移民部门投资永居页本次返回访问阻断，尚未完整确认当前特别国籍／关联限制及现有居留适用规则。不能据€300k门槛判断任何护照均可申请，也不能套用已关闭投资入籍项目的名单。
 - **最低门槛或收入：** €300k新房（另加VAT）/其他合资格房产/当地实际运营且至少雇5人的公司股本/合资格基金；年收入€50k，配偶+€15k，每未成年子女+€10k
 - **资金或收入性质：** 投资款须来自境外且完整可追踪；新住宅路线收入须来自境外，其他投资路线允许全部或部分收入来自塞浦路斯

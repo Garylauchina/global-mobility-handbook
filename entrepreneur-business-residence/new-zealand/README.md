@@ -15,7 +15,7 @@ region: "大洋洲"
 ## Business Investor Work Visa
 
 - **当前状态：** 开放
-- **申请者身份限制：** 【部分待核实】须符合官方商业投资工作签证对年龄、商业经验、英语及品格等要求；不是纯被动投资资格。公开资格页未列国籍白名单或事先持外国永居要求，证明英语的国籍／教育替代条件不应误写成申请国籍名单。
+- **申请者身份限制：** 主申须不超过55岁，并满足经营经验、英语、健康及品格要求。在中国内地、香港或澳门递交的中国公民及指定港澳旅行证件持有人另有相应补充表格；用于证明英语的国籍／教育条件不是本签证的申请国籍名单。
 - **最低门槛或收入：** NZ$1m标准或NZ$2m快速通道，另需NZ$500k家庭储备；主申不超过55岁、至少3年合资格经营经验并满足英语要求
 - **资金或收入性质：** 购买并实际经营已营运至少5年的合资格企业；须取得至少25%所有权，投资额不含物业价值和GST
 - **首次身份与期限：** 工签最长4年；前9个月须证明已购买并开始经营，否则在12个月设立期结束时到期；符合条件可再续最多2年
@@ -26,7 +26,7 @@ region: "大洋洲"
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 不是被动投资；须保持至少5个全职等值岗位，新增的本地公民/居民岗位须维持至少12个月；企业合规、偿付能力和居住均为硬条件
 - **证据等级：** A
-- **主要来源：** [官方或主要依据](https://www.immigration.govt.nz/visas/business-investor-work-visa/)
+- **主要来源：** [官方签证条件](https://www.immigration.govt.nz/visas/business-investor-work-visa/)；[商业投资签证英语条件](https://www.immigration.govt.nz/process-to-apply/applying-for-a-visa/providing-evidence-and-documents-to-support-your-visa-application/english-language-requirements/english-language-requirements-for-business-investor-visas/)
 
 ## 纠错与更新
 

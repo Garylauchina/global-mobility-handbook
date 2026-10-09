@@ -24,11 +24,20 @@ region: "大洋洲"
 - **家属：** 普通 Visitor Visa 可同申请纳入伴侣及 19 岁或以下受养子女，或各自申请；NZeTA 路线每人须分别取得 NZeTA 并满足入境要求
 - **永居或入籍路径：** 不通PR
 - **税务提示：** 远程工作获准不等于免税。IRD 一般按任意 12 个月超过 183 天或 permanent place of abode 判断；符合全部条件的 non-resident visitor 可适用任意 18 个月不超过 275 天的居民判定特例，包括境外纳税、无当地工作/销售及无 Working for Families 等条件。是否有新西兰应税所得仍须独立判断；INZ 的 92 天或协定 183 天收入税说明不能当成对所有访客的统一免税期。
-- **关键限制与变化：** 2025-01-27 或之后申请的访客签证适用远程规则；访问仍须是真实主要目的，不构成当地工签或自动转永居。普通 Visitor Visa 已公告自 2026-10-01 起通过 enhanced Immigration Online 递件，纸质申请变化按官方过渡规则办理
+- **关键限制与变化：** 2025-01-27 或之后申请的访客签证适用远程规则；访问仍须是真实主要目的，不构成当地工签或自动转永居。普通 Visitor Visa 自 2026-10-01 起须在线递件；enhanced Immigration Online 的启用与纸质申请停止是不同程序节点
 - **证据等级：** A
 - **主要来源：** [官方或主要依据](https://www.immigration.govt.nz/visit/checking-or-changing-the-conditions-of-your-visitor-visa-or-nzeta/working-remotely-in-new-zealand-on-a-visitor-visa/)
 
 - **补充官方来源：** [INZ Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)；[INZ Visa Waiver Visitor Visa](https://www.immigration.govt.nz/visas/visa-waiver-visitor-visa/)；[IRD 税务居民与非居民访客](https://www.ird.govt.nz/topics/tax-residency/tax-residency-status)
+
+## 政策时间线
+
+### 2026-10-01 — 访客签证在线申请要求生效
+
+- **公布与生效：** INZ 签证正文列明 2026-10-01 起须在线申请；Guardian Visitor Visa 的新申请自 2026-09-24 起已转至 enhanced Immigration Online。
+- **变化摘要：** 在线递件要求已生效，不再列作未来变化；该程序调整不改变学生、监护人或普通访客各自的实质资格。
+- **官方依据：** [INZ Guardian Visitor Visa](https://www.immigration.govt.nz/visas/guardian-visitor-visa/)；[INZ Visitor Visa](https://www.immigration.govt.nz/visas/visitor-visa/)
+- **事件证据：** A
 
 ## 纠错与更新
 

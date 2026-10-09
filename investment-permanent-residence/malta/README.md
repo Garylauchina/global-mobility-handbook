@@ -1,12 +1,16 @@
 ---
 title: "马耳他"
 category: "投资永居"
-status: "current"
-evidence: "A"
+status: "stale"
+evidence: "B"
 region: "欧洲"
 ---
 
 # 马耳他
+
+> **待补证事项：** Current exhaustive MPRP sanctioned-country/close-ties scope is not established by the live overview;2024FAQ cannot establish whether later country-specific changes apply.
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
 
 [返回“投资永居”目录](../README.md) · [返回仓库首页](../../README.md)
 
@@ -14,7 +18,8 @@ region: "欧洲"
 
 ## Malta Permanent Residence Programme (MPRP)
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 【部分待核实】限非EU／EEA／瑞士的第三国国民，并排除受主管机关制裁国家范围及其他不相容计划受益人。已取得或正在申请马耳他EU长期居民身份者也须核对法规排除条款。旧FAQ中的国籍及“紧密联系”名单不能与数字游民项目共用；本次尚未取得可确认截至核查日完整有效的新版MPRP国别清单。
 - **最低门槛或收入：** 行政费€60k+政府贡献€37k+公益捐赠€2k；租房≥€14k/年或购房≥€375k；资产至少€500k（金融资产€150k）或€650k（金融资产€75k）；配偶以外成年家属另付€7,500/人
 - **资金或收入性质：** 费用不可退+房产/租赁+资产证明
@@ -25,7 +30,7 @@ region: "欧洲"
 - **永居或入籍路径：** 不提供自动归化；不是投资入籍
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 适用第三国国籍、制裁及其他计划排除规则；持续尽调和资产审查，申根旅行仍受90/180规则
-- **证据等级：** A
+- **证据等级：** B
 - **主要来源：** [Residency Malta当前要求](https://residencymalta.gov.mt/legal-framework-mprp-2/)；[S.L.217.26及2025修订](https://residencymalta.gov.mt/wp-content/uploads/2025/08/S.L.217.26-Amended-by-LN-310-of-2024_-LN-146-of-2025.pdf)；[官方FAQ：工作权及入籍边界](https://residencymalta.gov.mt/wp-content/uploads/2024/08/MPRP-FAQs-V2.6.4.pdf)
 
 ## 纠错与更新

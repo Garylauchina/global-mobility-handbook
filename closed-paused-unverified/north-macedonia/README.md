@@ -6,11 +6,11 @@ status: "archived-or-unverified"
 
 # 北马其顿
 
+> **待补证事项：** 专项法源、完整申请者身份条件与实际受理证据未取得。
+
 [返回警示目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本目录用于阻止停办、暂停、被替代或只有营销材料的项目被误列为当前可办方案。有限公开检索不能证明法律上的绝对不存在。
-
-> **待补证事项：** 欠缺专门DNV法源、收入与受理入口；原一般外国人登记来源覆盖不足。
 
 ## Digital Nomad Visa
 
@@ -20,3 +20,5 @@ status: "archived-or-unverified"
 - **为什么不能按有效项目处理：** 媒体报道不能替代官方开放证据
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://mvr.gov.mk/en-GB/prijavi-stranci)
+
+- **补充来源：** [内政部外国人办事说明](https://mvr.gov.mk/en-GB/uslugi/upatstvo-i-postapka-za-oddelni-prava-baranja-na-strancite)

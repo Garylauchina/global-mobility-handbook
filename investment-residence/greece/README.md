@@ -1,12 +1,16 @@
 ---
 title: "希腊"
 category: "投资居留"
-status: "current"
-evidence: "A"
+status: "stale"
+evidence: "B"
 region: "欧洲"
 ---
 
 # 希腊
+
+> **待补证事项：** Dual-national treatment and precise present operation of 2022 family exceptions under 2026 suspension need direct confirmation.；2026 incapacitated dependent adult child amendment source returned an anti-automation challenge; this specific family entitlement not fully verified.
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
 
 [返回“投资居留”目录](../README.md) · [返回仓库首页](../../README.md)
 
@@ -14,8 +18,9 @@ region: "欧洲"
 
 ## Real-estate Golden Visa（Migration Code Art. 100 B.5）
 
-- **当前状态：** 开放
-- **申请者身份限制：** 【部分待核实】本块仅为第100条B.5外国房地产投资者路线；须核对本人产权及合法入境条件。现有法条与通知未完整解决特别国籍、双重国籍和受制裁关联的当前受理限制，不能仅据持有合资格物业认定身份可办。
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
+- **申请者身份限制：** 【部分待核实】第100条B.5适用于符合产权、合法入境及安全审查要求的第三国申请人。2026年第1号通函重申俄罗斯、白俄罗斯公民的新投资居留申请仍暂停，境内转换用途也按新申请处理。2022年主管机关通知允许续签，并列出其他国籍投资者的俄白籍家属、既有有效或正在续签的俄白投资者家属例外；双重国籍及这些家属例外与2026年通函的具体衔接仍须书面确认。
 - **最低门槛或收入：** 阿提卡全区、塞萨洛尼基地区单位、米科诺斯、圣托里尼及人口超过3,100的岛屿为€800k；其他地区为€400k；合资格商改住或受保护建筑为€250k
 - **资金或收入性质：** 房地产购买或法定特定租赁结构；普通€800k/€400k购买路线原则上须为单一物业，已有建筑或有建造许可的物业主要空间通常不少于120㎡；两类€250k特殊路线不适用120㎡限制
 - **首次身份与期限：** 5年永久投资者居留许可，可等期续签
@@ -25,8 +30,8 @@ region: "欧洲"
 - **永居或入籍路径：** Golden Visa可在维持投资时续签，但不自动转欧盟长期居民或国籍；普通归化通常要求7年合法且实际持续居住、语言及经济社会融入，零居住持卡不足
 - **税务提示：** 居留卡不自动决定税籍；永久或主要住所、惯常居所、重大利益中心及任意12个月超过183天等因素均可能触发希腊税务居民规则
 - **关键限制与变化：** 商改住须在2024-04-05后且递件前完成用途变更；€250k特殊优惠不能在获签后转售时由下一买家重复套用，2026年第1号通知对特殊再次改造情形另作区分。新法物业禁止法定短租/短期转租，商改住不得用作企业总部或分支；旧制及过渡投资另有例外。本文限第100条B.5房地产路线
-- **证据等级：** A
-- **主要来源：** [国家行政程序登记：商改住](https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance)；[移民部第9号通知](https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf)；[2026年第1号通知：再售/置换/家庭](https://diavgeia.gov.gr/doc/%CE%A8%CE%A3%CE%99746%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A7%CE%9C)；[移民法Article95](https://api.et.gr/apiLAW/1/2023/5038/pdf)；[2026年家庭条款修法Article29](https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=CELEX:72004L0038GRC_202604740)；[普通归化Mitos程序](https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%B7%CF%83%CE%B7_%CE%91%CE%BB%CE%BB%CE%BF%CE%B3%CE%B5%CE%BD%CF%8E%CE%BD_%CE%91%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CF%8E%CE%BD)；[AADE税务居民规则](https://www.aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc)
+- **证据等级：** B
+- **主要来源：** [国家行政程序登记：商改住](https://en.mitos.gov.gr/index.php/%CE%94%CE%94%3APermanent_golden_visa_%28change_of_use%29_%E2%80%93_Initial_issuance)；[移民部第9号通知](https://migration.gov.gr/wp-content/uploads/2024/10/9%CE%95%CE%B3%CE%BA%CF%8D%CE%BA%CE%BB%CE%B9%CE%BF%CF%82-Golden-24.9.2024-FINAL.pdf)；[2026年第1号通知：再售/置换/家庭](https://diavgeia.gov.gr/doc/%CE%A8%CE%A3%CE%99746%CE%9C%CE%94%CE%A8%CE%9F-%CE%94%CE%A7%CE%9C)；[俄白申请暂停与家属例外](https://migration.gov.gr/en/arsi-anastolis-exetasis-kai-ekdosis-ekkremon-aitiseon-ananeosis-kai-ypovolis-aitiseon-ananeosis-titlon-diamonis-politon-tis-rosikis-omospondias-kai-tis-leykorosias-diatireitai-mechri-neote/)；[移民法Article95](https://api.et.gr/apiLAW/1/2023/5038/pdf)；[2026年家庭条款修法Article29](https://eur-lex.europa.eu/legal-content/EL/TXT/PDF/?uri=CELEX:72004L0038GRC_202604740)；[普通归化Mitos程序](https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%A0%CE%BF%CE%BB%CE%B9%CF%84%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%B7%CF%83%CE%B7_%CE%91%CE%BB%CE%BB%CE%BF%CE%B3%CE%B5%CE%BD%CF%8E%CE%BD_%CE%91%CE%BB%CE%BB%CE%BF%CE%B4%CE%B1%CF%80%CF%8E%CE%BD)；[AADE税务居民规则](https://www.aade.gr/en/greeks-abroad-non-residents/income-taxation/tax-residence-natural-persons-itc)
 
 ## 政策时间线
 

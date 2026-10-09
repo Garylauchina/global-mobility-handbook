@@ -3,12 +3,16 @@ title: "瑞士：中小学留学"
 category: "留学与学生居留"
 country: "瑞士"
 route: "primary-secondary"
-status: "current"
+status: "stale"
 evidence: "B"
 region: "欧洲"
 ---
 
 # 瑞士：中小学留学
+
+> **待补证事项：** FDFA入口403、AIG/VZAE动态页未取得正文；主要条款经SEM及州文件补证，但独立学生国籍签证例外、境内转类及教育后2年C计时原文仍需补齐。
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
 
 [返回“瑞士留学”](../README.md) · [返回“留学与学生居留”](../../README.md) · [返回仓库首页](../../../README.md)
 
@@ -16,7 +20,8 @@ region: "欧洲"
 
 ## 已有居留基础的公立义务教育路线（不是学习居留路线）
 
-- **当前状态：** 瑞士公立义务教育向所有在地儿童免费，EDK 明确说明即使儿童没有正规居留身份，入学义务仍适用；这项教育权利和义务不补正移民身份，也不为儿童或父母创设居留许可。
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 瑞士公立义务教育向所有在地儿童免费，EDK 明确说明即使儿童没有正规居留身份，入学义务仍适用；这项教育权利和义务不补正移民身份，也不为儿童或父母创设居留许可。
 - **申请者身份限制：** 公立基础教育面向实际居住当地的儿童，受教育权不能简单以有无合法移民身份排除；本块不授予新的学习或家庭居留。学区登记和父母移民资格须分开判断，不能把入学权解释为可凭此申请全家居留。
 - **适用对象与核心资格：** 已随父母在某州、市镇实际居住，并处于当地义务教育年龄的儿童，包括经家庭团聚或父母工作、学习等独立依据持有身份者。义务教育一般共 11 年，通常从约 4 岁开始，但实际入学年龄、学段、语言支持、班级和安置由州及市镇规则决定。
 - **录取与院校要求：** 州负责课程、教材和课时，市镇通常组织学校并按居住地安排入学；新到家庭应向居住市镇或当地学校登记。公立义务教育免费不代表家长可以任意选择学校，也不等于国际学校、私校、寄宿、课后照护、餐食、交通或高中阶段全部免费。儿童既往学历、年龄、当地语言和学业能力可影响具体年级与支持安排。
@@ -30,12 +35,13 @@ region: "欧洲"
 - **税务提示：** 儿童入学和移民许可标签都不单独决定家庭税务居民身份。联邦税务口径同时看税务住所及在瑞士停留时间；停留并就业至少 30 天，或不就业至少 90 天，可能形成基于个人联系的纳税义务，仍须结合税收协定。但 DBG 第 3(4) 条对保留国外住所、仅为就读教育机构而停留者设有税务住所/居所例外；随父母在地生活的儿童和父母仍应依各自事实判断，不能把该例外自动扩展至全家。未成年人的劳动所得通常由其本人纳税，其他收入一般并入行使亲权者，具体申报、扣缴和家庭计税由居住州执行。
 - **关键限制与变化：** “所有在地儿童可免费接受公立义务教育”只回答教育准入，不回答儿童能否入境、留下或让父母陪同。州决定学龄、安置、教学语言、转学和非义务教育费用，市镇或学校负责大量操作；本页不能把苏黎世或其他一州流程泛化为全国标准。
 - **证据等级：** B
-- **主要来源：** [EDK：瑞士义务教育](https://edk.ch/en/education-system-ch/compulsory?set_language=en)；[苏黎世州：新到儿童入学](https://www.zh.ch/de/bildung/informationen-fuer-schulen/informationen-volksschule/schulinfo-schule-migration/schulinfo-einschulung-neuzugezogene.html)；[ch.ch：家庭团聚与子女义务教育](https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/)；[ch.ch：居留许可](https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/)；[联邦公共卫生局：居民医保义务](https://www.bag.admin.ch/en/health-insurance-requirement-to-obtain-insurance-for-persons-resident-in-switzerland)；[SECO：青年劳动保护](https://www.seco.admin.ch/de/jugendarbeitsschutz)；[SECO：青年劳动保护问答](https://www.seco.admin.ch/de/faq-jugendarbeitsschutz)；[《外国人与融合法》AIG/FNIA](https://www.fedlex.admin.ch/eli/cc/2007/758/de)；[苏黎世州：C 许可与临时学习年限](https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html)；[SEM：入籍年限与申请路径](https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html)；[SEM：普通入籍](https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html)；[联邦直接税法 DBG：税务住所与就读例外](https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_3)；[联邦税务局：瑞士税制](https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf)
+- **主要来源：** [DBG现行整编PDF（第3及9条）](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260902/de/pdf-a/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20260902-de-pdf-a.pdf)； [EDK：瑞士义务教育](https://edk.ch/en/education-system-ch/compulsory?set_language=en)；[苏黎世州：新到儿童入学](https://www.zh.ch/de/bildung/informationen-fuer-schulen/informationen-volksschule/schulinfo-schule-migration/schulinfo-einschulung-neuzugezogene.html)；[ch.ch：家庭团聚与子女义务教育](https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/family-reunification/)；[ch.ch：居留许可](https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/permits-for-living-in-switzerland/)；[联邦公共卫生局：居民医保义务](https://www.bag.admin.ch/en/health-insurance-requirement-to-obtain-insurance-for-persons-resident-in-switzerland)；[SECO：青年劳动保护](https://www.seco.admin.ch/de/jugendarbeitsschutz)；[SECO：青年劳动保护问答](https://www.seco.admin.ch/de/faq-jugendarbeitsschutz)；[《外国人与融合法》AIG/FNIA](https://www.fedlex.admin.ch/eli/cc/2007/758/de)；[苏黎世州：C 许可与临时学习年限](https://www.zh.ch/de/migration-integration/niederlassungsbewilligung.html)；[SEM：入籍年限与申请路径](https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden.html)；[SEM：普通入籍](https://www.sem.admin.ch/sem/en/home/integration-einbuergerung/schweizer-werden/ordentlich.html)；[联邦直接税法 DBG：税务住所与就读例外](https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/de#art_3)；[联邦税务局：瑞士税制](https://www.estv.admin.ch/dam/en/sd-web/i8eiHb5Gk0xl/ch-steuersystem.pdf)
 
 ## 以私立或寄宿学校为主的独立学生居留路线
 
-- **当前状态：** 可申请，但不是全国统一的“未成年人留学签证”，也不是凭私校或寄宿录取当然获批。EU/EFTA 学生主要适用人员自由流动的非就业学习规则；第三国未成年人须按学习目的取得拟居住州许可。许多独立国际学生实际由私立或寄宿学校提供课程与照护，但公校、交换项目或其他学校能否被州接受并无全国统一操作口径。
-- **申请者身份限制：** 独立学习居留须区分EU／EFTA与第三国申请人，并按州审核学校、住宿和未成年人照管安排；单纯获私校／寄宿学校录取不免除国籍对应的入境与居留程序，也不当然给父母陪读权。
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 可申请，但不是全国统一的“未成年人留学签证”，也不是凭私校或寄宿录取当然获批。EU/EFTA 学生主要适用人员自由流动的非就业学习规则；第三国未成年人须按学习目的取得拟居住州许可。许多独立国际学生实际由私立或寄宿学校提供课程与照护，但公校、交换项目或其他学校能否被州接受并无全国统一操作口径。
+- **申请者身份限制：** 独立学习居留须区分EU／EFTA与第三国申请人，并按州审核学校、住宿和未成年人照管安排；英国国民须区分2021年前受既得权协议保护者和其后按第三国规则申请者。单纯获私校／寄宿学校录取不免除国籍对应的入境与居留程序，也不当然给父母陪读权。
 - **适用对象与核心资格：** 以在瑞士接受全日制中小学教育为主要迁移目的、并已有学校接收的外国未成年人。EU/EFTA 学生须证明获认可教育机构录取、资金足够且有全面医保；第三国学生须满足《外国人与融合法》第 27 条的学习条件，包括学校确认、固定且适当的课程、合适住宿、必要资金、相应语言和教育能力、可靠照护安排及学习结束后离境的可信性。SEM 指令把第 27 条路线限于每周至少 20 课时的全日制学校；获校方录取仍不消除州机关的裁量。
 - **录取与院校要求：** 学校须能保证适当教学和执行既定课程，说明课程内容与期限，并确认学生具有所需语言和教育基础；移民机关可把许可限于认可或其接受的学校，并可要求语言测试。学校依据州教育法获准办学、移民机关接受其作为学习地点、以及其毕业证受何种承认，是三个不同问题。寄宿只是一种住宿和照护安排，不是独立的移民资格，也不免除学校、家长与州提交录取和课程材料。
 - **资金证明：** 联邦没有为所有未成年学生规定统一年度 CHF 门槛。第三国申请可按条例通过在瑞士居住且有偿付能力的担保人及其收入资产（外籍担保人须持 B 或 C 许可）、瑞士获准银行的资产证明，或有约束力的奖学金、教育贷款等证明学费、寄宿或租住、照护、保险、生活和返程资金；EU/EFTA 学生则须避免依赖社会救助。州和使领馆可要求不同担保格式、预付学费或具体账户材料，寄宿费已经支付也不当然覆盖全部资金条件。

@@ -17,7 +17,7 @@ region: "大洋洲"
 ## Active Investor Plus Visa
 
 - **当前状态：** 开放
-- **申请者身份限制：** 【部分待核实】须以合资格投资申请人身份满足品格、健康和合法资金要求；本页所引AIP资格未列国籍白名单，也未要求先持其他国家永久居留。资金能否合法汇入与本人国籍、居留资格是独立问题，不能据有资金即判可办。
+- **申请者身份限制：** 按操作手册BN3，主申须满足适当投资者（fit and proper person）、本人及随行家属的健康与品格要求，并证明本人拥有、合法取得及可追踪转移合资格资金。资金能否合法汇入与本人国籍、居留资格是独立问题，不能据有资金即判可办。
 - **最低门槛或收入：** Growth NZ$5m/3年；Balanced NZ$10m/5年
 - **资金或收入性质：** Growth可用直接投资、合资格管理基金及不超过总额20%的慈善投资；Balanced还可使用上市股票、债券和合资格房地产开发。资金须合法取得并经可追踪银行渠道转移，借款和赠与另有来源及司法辖区条件
 - **首次身份与期限：** 先获附《移民法》第49条投资/停留条件的Resident Visa，可无限期居住、工作和学习；旅行条件通常自首次入境起Growth为4年、Balanced为6年，不等于一开始就是无条件Permanent Resident Visa
@@ -28,7 +28,7 @@ region: "大洋洲"
 - **税务提示：** 移民身份与税籍分开；任意12个月超过183天或在新西兰形成永久住所均可能成为税务居民。合资格新移民的约4年境外收入临时豁免须另行满足条件
 - **关键限制与变化：** 原则批准后通常有6个月转资，可在合理情况下再延6个月；2026-08-12起已细化赠与、借款、基金协议、银行路径和后出生/新增子女规则
 - **证据等级：** A
-- **主要来源：** [INZ签证页](https://www.immigration.govt.nz/visas/active-investor-plus-visa/)；[操作手册BN7.1](https://www.immigration.govt.nz/opsmanual/78345.htm)；[2026-08改革公告](https://www.immigration.govt.nz/about-us/news-centre/active-investor-plus-improvements-provide-greater-certainty-for-investors/)；[一般入籍居住要求](https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/)；[IRD税籍规则](https://www.ird.govt.nz/international-tax/individuals/tax-residency-status-for-individuals)；[IRD新税务居民豁免](https://www.ird.govt.nz/roles/nz-tax-residents)
+- **主要来源：** [INZ签证页](https://www.immigration.govt.nz/visas/active-investor-plus-visa/)；[操作手册BN3资格](https://www.immigration.govt.nz/opsmanual/78330.htm)；[操作手册BN7.1](https://www.immigration.govt.nz/opsmanual/78345.htm)；[2026-08改革公告](https://www.immigration.govt.nz/about-us/news-centre/active-investor-plus-improvements-provide-greater-certainty-for-investors/)；[一般入籍居住要求](https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/requirements-for-nz-citizenship/presence-requirements/)；[IRD税籍规则](https://www.ird.govt.nz/international-tax/individuals/tax-residency-status-for-individuals)；[IRD新税务居民豁免](https://www.ird.govt.nz/roles/nz-tax-residents)
 
 ## 政策时间线
 

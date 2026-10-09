@@ -1,22 +1,25 @@
 ---
 title: "毛里求斯"
 category: "投资居留"
-status: "current"
+status: "stale"
 evidence: "B"
 region: "非洲"
 ---
 
 # 毛里求斯
 
+> **待补证事项：** No current primary body accessible for all four property schemes; Smart City work and dependent eligibility and exact375000 boundary remain unresolved.
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
+
 [返回“投资居留”目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本页只记录公开可核验的专项方案，不构成法律、税务、投资、房产或国籍意见。所有门槛均须在递件前向主管机关再次确认。
 
-> **待补证事项：** Smart City房产居留持有人的工作豁免范围未找到直接现行条文；375k正好临界值与部分介绍页exceed措辞须主管机关确认
-
 ## Approved Property Scheme Residence
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 【部分待核实】面向按获批房地产计划购房的非公民；持有房产及合资格投资主体的要求须按所用计划核对。所引条件未把事先持有第三国永居列为门槛，也未提供完整国籍排除名单。
 - **最低门槛或收入：** IRS/RES/PDS及Smart City获批项目房产门槛US$375,000；Smart City指南§8.4为不少于该金额，部分计划介绍使用超过该金额，临界金额递件前应确认
 - **资金或收入性质：** 获批房产

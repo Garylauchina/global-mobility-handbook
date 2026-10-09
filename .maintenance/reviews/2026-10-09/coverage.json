@@ -1,0 +1,922 @@
+{
+  "review_date": "2026-10-09",
+  "expected_pages": 173,
+  "reviewed_pages": 173,
+  "fully_verified": 45,
+  "evidence_incomplete": 128,
+  "last_full_review": "2026-09-02",
+  "categories": {
+    "citizenship-by-investment": {
+      "reviewed": 12,
+      "fully_verified": 2,
+      "evidence_incomplete": 10
+    },
+    "closed-paused-unverified": {
+      "reviewed": 29,
+      "fully_verified": 16,
+      "evidence_incomplete": 13
+    },
+    "passive-income-retirement": {
+      "reviewed": 22,
+      "fully_verified": 7,
+      "evidence_incomplete": 15
+    },
+    "digital-nomad-remote-work": {
+      "reviewed": 48,
+      "fully_verified": 5,
+      "evidence_incomplete": 43
+    },
+    "entrepreneur-business-residence": {
+      "reviewed": 4,
+      "fully_verified": 2,
+      "evidence_incomplete": 2
+    },
+    "investment-permanent-residence": {
+      "reviewed": 12,
+      "fully_verified": 2,
+      "evidence_incomplete": 10
+    },
+    "investment-residence": {
+      "reviewed": 23,
+      "fully_verified": 4,
+      "evidence_incomplete": 19
+    },
+    "study-student-residence": {
+      "reviewed": 20,
+      "fully_verified": 5,
+      "evidence_incomplete": 15
+    },
+    "visitor-financial-remote": {
+      "reviewed": 3,
+      "fully_verified": 2,
+      "evidence_incomplete": 1
+    }
+  },
+  "pages": [
+    {
+      "path": "citizenship-by-investment/antigua-and-barbuda/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/cambodia/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/dominica/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/egypt/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/grenada/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/jordan/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/nauru/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/saint-kitts-and-nevis/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/saint-lucia/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/sao-tome-and-principe/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/turkey/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "citizenship-by-investment/vanuatu/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/antigua-and-barbuda/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/argentina/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/australia/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/austria/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/bahamas/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/bahrain/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/cabo-verde/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/canada/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/cyprus/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/georgia/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/grenada/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/hungary/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/iceland/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/ireland/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/malta/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/montenegro/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/namibia/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/netherlands/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/nigeria/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/north-macedonia/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/oman/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/philippines/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/portugal/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/rwanda/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/serbia/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/seychelles/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/sierra-leone/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/spain/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "closed-paused-unverified/united-kingdom/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/albania/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/andorra/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/argentina/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/barbados/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/belize/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/brazil/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/bulgaria/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/cabo-verde/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/colombia/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/costa-rica/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/croatia/README.md",
+      "fully_verified": true,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/curacao/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/cyprus/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/czech-republic/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/dominica/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/ecuador/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/estonia/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/greece/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/guatemala/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/hungary/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/indonesia/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/italy/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/japan/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/kazakhstan/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/kenya/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/kyrgyzstan/README.md",
+      "fully_verified": true,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/latvia/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/malaysia/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/malta/README.md",
+      "fully_verified": true,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/mauritius/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/moldova/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/montenegro/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/montserrat/README.md",
+      "fully_verified": true,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/namibia/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/panama/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/portugal/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/romania/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/seychelles/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/slovenia/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/south-africa/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/south-korea/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/spain/README.md",
+      "fully_verified": true,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/sri-lanka/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/taiwan/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/thailand/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/turkey/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/united-arab-emirates/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "digital-nomad-remote-work/uruguay/README.md",
+      "fully_verified": false,
+      "record": "digital-nomad.json"
+    },
+    {
+      "path": "entrepreneur-business-residence/fiji/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "entrepreneur-business-residence/france/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "entrepreneur-business-residence/japan/README.md",
+      "fully_verified": true,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "entrepreneur-business-residence/new-zealand/README.md",
+      "fully_verified": true,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/bahrain/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/canada-quebec/README.md",
+      "fully_verified": true,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/cyprus/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/malta/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/mauritius/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/panama/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/saudi-arabia/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/seychelles/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/singapore/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/south-africa/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/south-korea/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-permanent-residence/united-states/README.md",
+      "fully_verified": true,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/andorra/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/brazil/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/colombia/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/georgia/README.md",
+      "fully_verified": true,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/greece/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/hong-kong/README.md",
+      "fully_verified": true,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/hungary/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/indonesia/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/italy/README.md",
+      "fully_verified": true,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/jordan/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/latvia/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/luxembourg/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/malaysia/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/mauritius/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/new-zealand/README.md",
+      "fully_verified": true,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/oman/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/philippines/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/portugal/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/qatar/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/saudi-arabia/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/sri-lanka/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/thailand/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "investment-residence/united-arab-emirates/README.md",
+      "fully_verified": false,
+      "record": "investment-business.json"
+    },
+    {
+      "path": "passive-income-retirement/albania/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/austria/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/bahrain/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/belize/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/brazil/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/colombia/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/costa-rica/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/fiji/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/france/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/greece/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/ireland/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/italy/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/kenya/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/mauritius/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/panama/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/philippines/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/portugal/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/rwanda/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/south-africa/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/spain/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/thailand/README.md",
+      "fully_verified": true,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "passive-income-retirement/united-arab-emirates/README.md",
+      "fully_verified": false,
+      "record": "citizenship-retirement-archive.json"
+    },
+    {
+      "path": "study-student-residence/australia/primary-secondary/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/australia/university/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/canada/primary-secondary/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/canada/university/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/france/primary-secondary/README.md",
+      "fully_verified": true,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/france/university/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/germany/primary-secondary/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/germany/university/README.md",
+      "fully_verified": true,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/japan/primary-secondary/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/japan/university/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/new-zealand/primary-secondary/README.md",
+      "fully_verified": true,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/new-zealand/university/README.md",
+      "fully_verified": true,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/singapore/primary-secondary/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/singapore/university/README.md",
+      "fully_verified": true,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/switzerland/primary-secondary/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/switzerland/university/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/united-kingdom/primary-secondary/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/united-kingdom/university/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/united-states/primary-secondary/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "study-student-residence/united-states/university/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "visitor-financial-remote/canada/README.md",
+      "fully_verified": true,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "visitor-financial-remote/mexico/README.md",
+      "fully_verified": false,
+      "record": "study-visitors.json"
+    },
+    {
+      "path": "visitor-financial-remote/new-zealand/README.md",
+      "fully_verified": true,
+      "record": "study-visitors.json"
+    }
+  ]
+}

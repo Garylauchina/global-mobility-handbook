@@ -1,22 +1,25 @@
 ---
 title: "哥伦比亚"
 category: "投资居留"
-status: "current"
+status: "stale"
 evidence: "B"
 region: "南美"
 ---
 
 # 哥伦比亚
 
+> **待补证事项：** M-investor work endorsement and complete special-nationality restrictions remain unconfirmed; generic M permission is not sufficient.
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
+
 [返回“投资居留”目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本页只记录公开可核验的专项方案，不构成法律、税务、投资、房产或国籍意见。所有门槛均须在递件前向主管机关再次确认。
 
-> **待补证事项：** M投资者签证的具体受雇/经商许可范围在已打开官方项目及现行Article79中未明列，仍需签证附注或主管机关正式解释
-
 ## Migrant Visa — Investor
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 【部分待核实】须为符合M类投资者要求的外国申请人并证明本人投资登记；该类别不能直接套用V类数字游民的免签护照白名单。所引M类页面未列完整国籍排除清单，普通签证拒签事由仍独立适用。
 - **最低门槛或收入：** 本人名下房地产≥350 SMLMV；本人名下已登记外国直接投资须>650 SMLMV（均按申请时法定最低月工资计算）
 - **资金或收入性质：** 房地产或经登记的外国直接投资

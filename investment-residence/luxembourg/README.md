@@ -1,12 +1,16 @@
 ---
 title: "卢森堡"
 category: "投资居留"
-status: "current"
-evidence: "A"
+status: "stale"
+evidence: "B"
 region: "欧洲"
 ---
 
 # 卢森堡
+
+> **待补证事项：** Cannot reread current investor thresholds, term, renewal, family and identity exceptions from moved Guichet entries; requires current procedural replacements.
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
 
 [返回“投资居留”目录](../README.md) · [返回仓库首页](../../README.md)
 
@@ -14,7 +18,8 @@ region: "欧洲"
 
 ## Residence permit for third-country investors
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 针对第三国投资者。通常须在入境前申请并取得临时停留批准，已持卢森堡居留等例外另论；其他EU成员国有效居留可能免去D签证，但不能免去卢森堡的临时停留批准。外国永久居民身份与投资者居留本身不能互相替代。
 - **最低门槛或收入：** €500k投现有公司并维持投资及就业5年（法定困难企业重组例外另计）；€500k新公司并在设立后3年通过ADEM合作招聘创5岗；€3m有实际运营实质的管理及投资机构；或€20m当地金融机构存款至少5年
 - **资金或收入性质：** 企业路线限商业、手工业或工业活动；管理机构须保持实质；直接/间接购置或租赁房地产均不计入合资格投资，资产实际受益人须为投资人本人或其配偶/登记伴侣
@@ -25,7 +30,7 @@ region: "欧洲"
 - **永居或入籍路径：** 至少5年合法且连续实际居住后可申请长期居民，非自动；普通归化须至少5年合法居住且最后1年连续，卢森堡语测试、Vivre ensemble课程或考试及品行条件
 - **税务提示：** 税务机关明确：取得居留证不自动形成税籍；按税务住所或惯常居所及境外重大利益中心、适用税收协定分别判断。
 - **关键限制与变化：** 先获得经济或财政部长投资批准，再在入境前申请临时居留批准；抵达后3天内申报、3个月内申领卡。房地产无论直接还是间接投资均不合格
-- **证据等级：** A
+- **证据等级：** B
 - **主要来源：** [官方投资人居留规则](https://guichet.public.lu/en/entreprises/creation-developpement/projet-entreprise/definition/investisseur-pays-tiers.html)；[家庭团聚](https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/ressortissant-tiers/membre-famille/regroupement-familial.html)；[归化条件](https://guichet.public.lu/en/citoyens/immigration/plus-3-mois/citoyen-UE/sejour-5-ans/naturalisation.html)；[税务机关税籍说明](https://impotsdirects.public.lu/fr/az/r/resid_nonresid.html)
 
 ## 纠错与更新

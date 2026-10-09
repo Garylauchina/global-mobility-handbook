@@ -6,11 +6,11 @@ status: "archived-or-unverified"
 
 # 尼日利亚
 
+> **待补证事项：** 独立DNV法源、收入、期限、身份限制和申请入口均未获得直接证据。
+
 [返回警示目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本目录用于阻止停办、暂停、被替代或只有营销材料的项目被误列为当前可办方案。有限公开检索不能证明法律上的绝对不存在。
-
-> **待补证事项：** 缺独立DNV主管机关正面开放/资格证据。
 
 ## Digital Nomad Visa
 
@@ -20,3 +20,5 @@ status: "archived-or-unverified"
 - **为什么不能按有效项目处理：** 不按媒体二手表格列为开放
 - **证据等级：** C
 - **主要来源：** [官方或主要依据](https://immigration.gov.ng/)
+
+- **补充来源：** [移民局签证类别及FAQ](https://immigration.gov.ng/info-center/)

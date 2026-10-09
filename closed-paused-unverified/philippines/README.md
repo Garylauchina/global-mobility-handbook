@@ -6,11 +6,11 @@ status: "archived-or-unverified"
 
 # 菲律宾
 
+> **待补证事项：** 现行DFA实施指南、金额、费用、互惠国家执行名单和实际DNV受理仍缺。
+
 [返回警示目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本目录用于阻止停办、暂停、被替代或只有营销材料的项目被误列为当前可办方案。有限公开检索不能证明法律上的绝对不存在。
-
-> **待补证事项：** 现行DFA实施指南、完整收件入口及数额仍缺直接材料。
 
 ## Digital Nomad Visa
 
@@ -20,3 +20,5 @@ status: "archived-or-unverified"
 - **为什么不能按有效项目处理：** 不宜当作已可递交；当前可核验的是SRRV/SIRV
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/5/98965)
+
+- **补充来源：** [DFA现行签证政策入口](https://evisa.gov.ph/page/policy)

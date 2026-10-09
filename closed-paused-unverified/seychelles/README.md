@@ -6,11 +6,11 @@ status: "archived-or-unverified"
 
 # 塞舌尔
 
+> **待补证事项：** 专项收件、收入、期限续期、身份限制与长期衔接仍缺现行直接依据。
+
 [返回警示目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本目录用于阻止停办、暂停、被替代或只有营销材料的项目被误列为当前可办方案。有限公开检索不能证明法律上的绝对不存在。
-
-> **待补证事项：** 专项Workcation收件、资格、续期和身份衔接未重建。
 
 ## Workcation公开细节
 
@@ -20,3 +20,5 @@ status: "archived-or-unverified"
 - **为什么不能按有效项目处理：** 主表标为需书面确认，不能自行补第三方数字
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://seychelles.govtas.com/en/workcation)
+
+- **补充来源：** [移民局普通访客及工作许可说明](https://ics.gov.sc/visa-and-travel/visiting-seychelles)

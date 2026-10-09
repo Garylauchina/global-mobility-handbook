@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-09
+
+- Audited all 173 policy pages, including current, stale, candidate and archived routes. Completed all core fields for 45 pages; 128 retain specific evidence gaps or official-source conflicts. The review also covers applicant nationality, existing status and consular jurisdiction. Counts from the previous audit are not carried forward without current evidence.
+- Advanced only completed page records; kept the historical full-review baseline at 2026-09-02. Marked overdue incomplete current pages stale, preserved their original status details, and synchronized public evidence warnings with the [page-level audit records](https://github.com/Garylauchina/global-mobility-handbook/blob/main/.maintenance/reviews/2026-10-09/README.md).
+- Corrected US student duration rules after the September 14 court stay, Australia's October 2 transfer restrictions, Japan's effective residence fees and staged permanent-residence guidance, Latvia's investment-route amendment, and Panama's Decree 17 investment requirements.
+- Updated Malaysia's remote-work FAQ, Thailand DTV consular eligibility, Spain's remote-work and non-lucrative family boundaries, and UAE ICP property-residence guidance. Retained unresolved conflicts between official pages rather than selecting a more favorable rule.
+- Recorded Argentina's October 2 citizenship-investment announcement while keeping the route in the warning archive pending confirmed intake and complete implementation rules. Corrected France's minor-employment exceptions and removed resolved older evidence gaps.
+- Kept audit dates on the bilingual project homepage and preserved the existing single 30-day maintenance cycle and repository Skill routing.
+
 ## 2026-09-09
 
 - Made unresolved identity evidence visible on each affected program: 80 partial-evidence labels and 7 core-evidence-gap labels across 84 policy pages, with the specific missing evidence retained. Defined the labels in the methodology and synchronized the identity ledger; this editorial change does not alter policy status, evidence grades or review dates.

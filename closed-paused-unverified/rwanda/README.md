@@ -6,11 +6,11 @@ status: "archived-or-unverified"
 
 # 卢旺达
 
+> **待补证事项：** 专门DNV法律和正面状态/资格/受理证据未取得。
+
 [返回警示目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本目录用于阻止停办、暂停、被替代或只有营销材料的项目被误列为当前可办方案。有限公开检索不能证明法律上的绝对不存在。
-
-> **待补证事项：** 专门DNV开放或未开放的主管机关说明未取得；维持未确认边界。
 
 ## Digital Nomad Visa
 
@@ -20,3 +20,5 @@ status: "archived-or-unverified"
 - **为什么不能按有效项目处理：** 可核验的是Class K assured-income，不是DNV
 - **证据等级：** B
 - **主要来源：** [官方或主要依据](https://www.migration.gov.rw/visa/visitors-visa)
+
+- **补充来源：** [Class K等其他许可（非DNV）](https://www.migration.gov.rw/our-services/permit/other-permits)

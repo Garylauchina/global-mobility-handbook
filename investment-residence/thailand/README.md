@@ -1,12 +1,16 @@
 ---
 title: "泰国"
 category: "投资居留"
-status: "current"
-evidence: "A"
+status: "stale"
+evidence: "B"
 region: "亚洲"
 ---
 
 # 泰国
+
+> **待补证事项：** Full current prohibited-identity treatment and Ministry of Interior implementation resolving portal-versus-BOI dependent scope remain unconfirmed.
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
 
 [返回“投资居留”目录](../README.md) · [返回仓库首页](../../README.md)
 
@@ -14,7 +18,8 @@ region: "亚洲"
 
 ## LTR — Wealthy Global Citizen
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 【部分待核实】本页为LTR Wealthy Global Citizen分支，申请人须证明本人资产及合资格泰国投资；不能把Wealthy Pensioner的50岁年龄条件套用于这一分支。所引BOI条件未列国籍白名单或事先取得第三国永居要求。
 - **最低门槛或收入：** 申请人名下境内外总资产至少US$1m（可含泰国投资）；递件前已持有泰国政府债、合资格企业直接投资／投资载体或房产至少US$500k。2025-02-04起财富类不再要求最低个人年收入
 - **资金或收入性质：** 泰国合资格投资及全球资产；政府债申请时剩余期限至少5年，具体投资载体须符合BOI公告
@@ -25,7 +30,7 @@ region: "亚洲"
 - **永居或入籍路径：** 不是PR或入籍捷径
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 医疗保险须覆盖泰国至少US$50k且资格认可时剩余至少10个月，或有覆盖泰国医疗的社保；也可用维持12个月的US$100k存款替代，家属替代存款每人US$25k。不是单一500k投资即可申请
-- **证据等级：** A
+- **证据等级：** B
 - **主要来源：** [BOI LTR门户](https://ltr.boi.go.th/)；[2025-02-04第Por3/2568号公告（官方英文译本）](https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_(EN).pdf)；[2025新版官方手册](https://ltr.boi.go.th/documents/BOI-brochure%202025-LTR.pdf)；[2025-01-15改革公告](https://osos.boi.go.th/EN/news/2158/Thailand-Approves-Update-of-Long-Term-Resident-LTR-Visa%E2%80%99s/)
 
 ## 政策时间线

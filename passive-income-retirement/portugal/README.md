@@ -15,20 +15,20 @@ region: "欧洲"
 ## Retirement / own-income residence visa（常称D7）
 
 - **当前状态：** 开放
-- **申请者身份限制：** 【部分待核实】政府所列对象包括退休人士、宗教人士及依靠本人收入生活的外国人，不能把所有D7申请人都限定为已经退休。EU／EEA／瑞士人士与第三国签证申请分属不同规则；所引D7条件未列完整特别国籍排除名单。
+- **申请者身份限制：** 政府服务页明确面向EU／EEA／瑞士以外的外国公民，包括退休人士、宗教人士及依靠本人收入生活者；不能把所有D7申请人限定为已经退休。居留签证与既有境内居留转换的条件应分别处理，并须通过SIS、刑事及公共安全等审查；受到欧盟限制措施也可能导致许可取消。
 - **最低门槛或收入：** 法定公式以RMMG为参照，文字要求扣除社保缴款后按第一成人100%、其后成人50%、未成年及受养成年子女30%计算，并覆盖至少12个月；以下按2026年葡萄牙大陆RMMG名义额€920作参考折算，月基准为€920/€460/€276，年基准为€11,040/€5,520/€3,312
 - **资金或收入性质：** 稳定、经常并可在葡萄牙使用的养老金，或来自动产、不动产、知识产权、金融投资等自有收入；折算金额是法定公式参考，不保证个案领馆接受所有资产或收入形式
 - **首次身份与期限：** 先取得通常允许两次入境、在葡停留4个月的居留签证，用于入境后申请居留许可；临时居留卡一般初发2年，后续每次续3年
 - **居住与续签：** 无正当理由连续离境6个月，或在整张许可有效期内累计离境8个月，可能导致许可被取消；获准的职业、商业或其他例外须留存证明
 - **当地工作：** 取得有效居留许可后原则上可受雇或自雇，无须另办普通外国人工作许可；首个4个月入境签证阶段不应与完整居留卡权利混同
 - **家属：** 获卡后的家庭团聚一般要求主申请人持有效居留许可至少2年；若配偶/伴侣在主申请人入境前已连续共同生活至少18个月，可降为15个月。未成年或无行为能力受养人及其共同父母等法定类别与特殊个案另有豁免或缩短。初始居留签证的家属随行申请另见第58(5)条，可同时提出；具体受理须向递交领馆确认，不能与后续团聚等待期直接混用
-- **永居或入籍路径：** 持临时居留满5年后可申请永久居留，仍须满足收入、住所、葡语、税务社保和刑事条件；2026-05-19起普通归化基准为EU/CPLP国民7年、其他国民10年，并非5年永居后自动入籍
+- **永居或入籍路径：** 持临时居留满5年后可申请永久居留，仍须满足收入、住所、基础葡语和刑事条件；2026-05-19起普通归化基准为EU/CPLP国民7年、其他国民10年，并非5年永居后自动入籍
 - **税务提示：** 任意12个月超过183天，或较短停留但拥有显示作为惯常住所意图的住房，均可能成为葡萄牙税务居民并原则上申报全球所得；旧NHR自2024年起废止，IFICI只适用于法定科研创新或高资质活动，不是D7自动福利
 - **关键限制与变化：** 最低工资金额每年联动；2025年家庭团聚等待期和2026年国籍法均已生效，必须把入境签证、居留卡、永居和入籍四个阶段分开计算
 - **证据等级：** A
 - **主要来源：** [gov.pt官方服务页](https://www.gov.pt/servicos/pedir-um-visto-de-residencia-para-fixacao-de-residencia-de-reformados-religiosos-e-pessoas-que-vivem-de-rendimentos-proprios)；[AIMA临时居留](https://aima.gov.pt/pt/viver/autorizacao-de-residencia-regime-e-requisitos-gerais-art-o-77-o-n-o-1)；[AIMA永久居留](https://aima.gov.pt/pt/viver/autorizacao-de-residencia-permanente-art-80-o)
 
-- **补充来源：** [现行外国人法第58、83、85及98条](https://www.pgdlisboa.pt/leis/lei_print_articulado.php?nid=920&tabela=leis)、[CIRS第16条税务居所及NHR过渡](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx)、[IFICI适用活动](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx)
+- **补充来源：** [现行外国人法第75、80、83、85及98条](https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=&ficha=101&nid=920&nversao=&pagina=2&so_miolo=&tabela=leis)、[CIRS第16条税务居所及NHR过渡](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx)、[IFICI适用活动](https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx)
 
 ## 政策时间线
 
@@ -55,6 +55,16 @@ region: "欧洲"
 - **过渡安排：** 生效日仍在途的行政申请继续适用旧法；新申请适用新规则
 - **官方依据：** [第1/2026号组织法](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2026-1123539996)；[司法部生效说明](https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio)
 - **事件证据：** A
+- **补充来源：** [外国人法第58条初始签证与家属同申](https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis)
+
+### 2026-09-11 — 居留审理程序修订生效
+
+- **公布与生效：** 第62/2026号法律于2026-09-10公布，次日生效
+- **变化摘要：** 第82条明确AIMA查询VIS及文件、生物识别互通；一般初次居留决定期限为90天，特殊复杂案件可有理由延长30天，续签决定一般为60天。这些是法定程序期限，不保证实际办理时间
+- **过渡安排：** 该法第10条专门规定的是庇护法在途程序，不应推广为所有D7申请一律适用旧法
+- **官方依据：** [第62/2026号法律第4、10、11条](https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&nid=4056&pagina=1&so_miolo=&tabela=leis)
+- **事件证据：** A
+
 ## 纠错与更新
 
 如果官方规则已变化，请[提交项目更新 Issue](https://github.com/Garylauchina/global-mobility-handbook/issues/new?template=program-update.yml)，并附主管机关或法律文本链接。禁止提交中介营销页或推广链接作为唯一证据。

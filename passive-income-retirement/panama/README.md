@@ -1,12 +1,16 @@
 ---
 title: "巴拿马"
 category: "被动收入与退休居留"
-status: "current"
-evidence: "A"
+status: "stale"
+evidence: "B"
 region: "中美洲"
 ---
 
 # 巴拿马
+
+> **待补证事项：** 每家属250、子女25岁及残疾例外、无须续签具体条文、工作和完整身份转换尚缺完整现行文本。
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
 
 [返回“被动收入与退休居留”目录](../README.md) · [返回仓库首页](../../README.md)
 
@@ -14,7 +18,8 @@ region: "中美洲"
 
 ## Pensionado
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 【部分待核实】须有政府、国际组织或合资格私人机构支付的终身养老金；一般租金／投资收益不能自动替代养老金身份。现有官方法令本次未完整复取，特别国籍及其他现有居留转换限制仍待核实。
 - **最低门槛或收入：** 终身养老金B/.1,000/月；每家属+B/.250；持> B/.100k房产时主门槛可降至B/.750
 - **资金或收入性质：** 终身养老金
@@ -25,8 +30,8 @@ region: "中美洲"
 - **永居或入籍路径：** 主申请人无限期居留不等于全家自动PR；普通归化另按国籍法评估
 - **税务提示：** 身份本身不等于税务居民；通常还要按实际天数、住所/利益中心、税收协定及收入来源单独判断。
 - **关键限制与变化：** 必须是真实终身养老金，不是一般投资收益
-- **证据等级：** A
-- **主要来源：** [官方或主要依据](https://www.migracion.gob.pa/wp-content/uploads/02-JUBILADO-PENSIONADO-1.pdf)
+- **证据等级：** B
+- **主要来源：** [原移民局清单](https://www.migracion.gob.pa/wp-content/uploads/02-JUBILADO-PENSIONADO-1.pdf)；[Panamá Digital现行办理说明](https://www.panamadigital.gob.pa/InformacionTramite/solicitud-de-permiso-de-residente-permanente-como-jubilado-y-pensionado)
 
 ## 纠错与更新
 

@@ -1,12 +1,16 @@
 ---
 title: "法国"
 category: "创业与经营居留"
-status: "current"
-evidence: "A"
+status: "stale"
+evidence: "B"
 region: "欧洲"
 ---
 
 # 法国
+
+> **待补证事项：** Project-specific treatment under special bilateral nationality regimes, particularly Algerian nationals, remains unverified; generic foreign-investor eligibility is insufficient.
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
 
 [返回“创业与经营居留”目录](../README.md) · [返回仓库首页](../../README.md)
 
@@ -14,7 +18,8 @@ region: "欧洲"
 
 ## Talent-porteur de projet — investissement économique
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 【部分待核实】须由外国申请人直接投资，或通过本人管理／持股达到规定比例的公司投资并满足就业承诺；不是任意被动持有人均适用。EU自由迁徙对象、其他法国居留及特别双边制度应另判；所引条款未确认完整特别国籍限制。
 - **最低门槛或收入：** 本人直接投资，或通过本人管理/持股至少30%的公司，在法国投入至少€300k有形或无形固定资产，并创造、保留或承诺在投资后4年内创造或保留就业岗位
 - **资金或收入性质：** 已投入或有约束力承诺的直接经济投资；须提交商业计划、年度就业安排和资金证明
@@ -25,7 +30,7 @@ region: "欧洲"
 - **永居或入籍路径：** 欧盟长期居民一般要求5年合法连续居住、稳定资源、医保、语言和融入，离境受限；普通归化一般以5年惯常居住为基准并接受其他条件和裁量审查
 - **税务提示：** 家庭住所/主要停留地、主要职业活动或经济利益中心任一因素均可能形成法国税务住所；税务居民原则上申报全球所得，双重居民按税收协定处理
 - **关键限制与变化：** 不是零居住黄金签证；续签和长期身份均取决于项目落地、就业证明、实际居住和整体合规，不保证因投入€300k自动续签或归化
-- **证据等级：** A
+- **证据等级：** B
 - **主要来源：** [Service-Public项目页](https://www.service-public.gouv.fr/particuliers/vosdroits/F16922)；[CESEDA L421-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049052499/)；[CESEDA R421-35至R421-36](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801016/)；[Talent-famille工作及家属条件](https://www.service-public.gouv.fr/particuliers/vosdroits/F35792)；[欧盟长期居民](https://www.service-public.gouv.fr/particuliers/vosdroits/F17359?lang=fr)；[普通归化](https://www.service-public.gouv.fr/particuliers/vosdroits/F2213)；[法国税务住所](https://www.impots.gouv.fr/resident-de-france)
 
 ## 纠错与更新

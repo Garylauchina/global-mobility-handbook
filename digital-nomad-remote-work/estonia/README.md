@@ -1,23 +1,26 @@
 ---
 title: "爱沙尼亚"
 category: "数字游民与远程工作"
-status: "current"
+status: "stale"
 evidence: "B"
 region: "欧洲"
 ---
 
 # 爱沙尼亚
 
+> **待补证事项：** 外交部3960欧/月、3个月证明与政府e-Residency4500欧/月、6个月证明仍冲突，无法宣称金额完整闭合。
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
+
 [返回“数字游民与远程工作”目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本页只记录公开可核验的专项方案，不构成法律、税务、投资、房产或国籍意见。所有门槛均须在递件前向主管机关再次确认。
 
-> **待补证事项：** 外交部与政府 e-Residency 页所列收入金额和证明期间存在冲突，需主管机关确认适用标准。
-
 ## Teleworking / Digital Nomad D visa
 
-- **当前状态：** 开放
-- **申请者身份限制：** 【部分待核实】须以外国公司雇员、外国公司经营者或主要向境外客户提供服务的自由职业者身份申请；e-Residency电子居民不是国籍、实体居留或签证。外交部D签页另设俄白申请限制入口，须按本人国籍和例外核对，不能把电子居民身份当作解除限制的依据。
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
+- **申请者身份限制：** 须为外国公司雇员、外国公司经营者或主要向境外客户提供服务的自由职业者。俄罗斯公民原则上受所有目的签证受理限制，只有官方列明的特定亲属、外交、运输、欧盟公民家属及人道例外；白俄罗斯公民不得以远程工作事由获签。e-Residency电子居民不是国籍、实体居留或签证，不能解除限制；特殊亲属或人道情形须逐项核对[外交部限制及例外](https://vm.ee/en/consular-visa-and-travel-information/visa-information/restrictions-accepting-visa-applications)。
 - **最低门槛或收入：** 外交部D签申请表列€132/日（€3,960/月）并要求过去3个月收入；政府e-Residency的2026年FAQ仍列€150/日（€4,500/月）与过去6个月，须由递件馆确认适用门槛及证明期间
 - **资金或收入性质：** 境外雇主、境外持股公司经营，或主要服务境外客户的自由职业；不能一概要求全部客户在境外
 - **首次身份与期限：** D签最多365日/12个月
@@ -28,7 +31,7 @@ region: "欧洲"
 - **税务提示：** 税务局规定：在爱沙尼亚有住所，或连续12个日历月内累计至少183天，可为税务居民；全球收入及税收协定另审
 - **关键限制与变化：** 官方站点间金额及收入证明期间不一致，不能把较低数字作为唯一已确认标准；俄罗斯与白俄罗斯申请另有受理限制
 - **证据等级：** B
-- **主要来源：** [外交部D签申请](https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa)；[政府e-Residency专项FAQ](https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/)；[税务局税籍定义](https://www.emta.ee/en/private-client/foreigner-non-resident/tax-residency)
+- **主要来源：** [外交部D签申请](https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-long-stay-d-visa)；[政府e-Residency专项FAQ](https://www.e-resident.gov.ee/blog/posts/faqs-about-estonias-digital-nomad-visa/)；[税务局税籍定义](https://www.emta.ee/en/private-client/foreigner-non-resident/tax-residency)；[外交部签证受理限制与例外](https://vm.ee/en/consular-visa-and-travel-information/visa-information/restrictions-accepting-visa-applications)
 
 ## 纠错与更新
 

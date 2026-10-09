@@ -1,22 +1,25 @@
 ---
 title: "菲律宾"
 category: "投资居留"
-status: "current"
+status: "stale"
 evidence: "B"
 region: "亚洲"
 ---
 
 # 菲律宾
 
+> **待补证事项：** No operativebodyrecoverable; allcurrentinvestment/term/work/familyrulesandDFAexcludednationalitylistremainunverifiedthisround.
+
+> **复核警示：** 本页尚未完成本轮定期复核；在完成主管机关复核前，不应视为当前开放规则。
+
 [返回“投资居留”目录](../README.md) · [返回仓库首页](../../README.md)
 
 > 本页只记录公开可核验的专项方案，不构成法律、税务、投资、房产或国籍意见。所有门槛均须在递件前向主管机关再次确认。
 
-> **待补证事项：** 2026 BOI办理文件与现行DOLE完整工作例外条文访问未成功；不据2000/2014规则独立断言全部现行实施细则已核实
-
 ## Special Investor’s Resident Visa (SIRV)
 
-- **当前状态：** 开放
+- **当前状态：** 待复核（原记录：开放）
+- **状态说明：** 开放
 - **申请者身份限制：** 【部分待核实】SIRV实施规则允许年满21岁的外国人申请，但明确排除外交部认定不得获发签证国家的国民，并有犯罪、健康等准入条件。本次未取得外交部完整现行排除名单，不能简写成“任何国籍均可申请”。
 - **最低门槛或收入：** US$75,000投入合资格企业
 - **资金或收入性质：** 企业股权投资
